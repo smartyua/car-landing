@@ -1,0 +1,31 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.fieldWrapper {
+  display: block;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.content {
+  textarea {
+    width: 100% !important;
+    min-height: 120px;
+    padding: 13px 16px;
+    margin: 15px 0;
+    color: $text-primary-color;
+    background: white;
+    border-radius: 5px;
+    resize: vertical;
+    font-size: 1.1em;
+    line-height: 1.6;
+
+    &::placeholder {
+      color: $input-placeholder-color;
+    }
+
+    &.hasError {
+      background: $input-error-bg-color;
+    }
+  }
+}

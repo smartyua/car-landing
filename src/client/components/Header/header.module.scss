@@ -1,0 +1,278 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.headroom {
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  position: fixed;
+
+  &.headroom--unfixed {
+    position: relative;
+    transform: translateY(0);
+  }
+
+  &.headroom--scrolled {
+    transition: transform 200ms ease-in-out;
+  }
+
+  &.headroom--unpinned {
+    position: fixed;
+    transform: translateY(-100%);
+  }
+
+  &.headroom--pinned {
+    position: fixed;
+    transform: translateY(0%);
+  }
+}
+
+.topBar {
+  z-index: 2;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+  width: 10%;
+  max-width: 100px;
+  height: calc(100vh - $headerHeight);
+  opacity: 0.2;
+  display: block;
+  cursor: pointer;
+  margin-top: -$headerHeight;
+
+  .arrow {
+    position: fixed;
+    bottom: 15px;
+    width: 10%;
+    height: 80px;
+    max-width: 100px;
+    background-image: url('/src/client/assets/svg/arrow-up.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60px;
+  }
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.headerContainer {
+  z-index: 100;
+  position: relative;
+  background: #f1f5f7;
+  padding: 5px 15px 12px 10px;
+  height: $headerHeight;
+  color: white;
+  box-shadow: #ccc 0 0 15px 0;
+
+  .header {
+    max-width: $max-width-section;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    top: 5px;
+
+    .languageBlock {
+      display: inline-block;
+      cursor: pointer;
+      color: black;
+      vertical-align: top;
+
+      span {
+        padding: 15px;
+        display: block;
+        border-radius: 10px;
+        padding: 8px 15px !important;
+        font-size: 1.2em;
+        background-color: #576A8F;
+        color: white;
+        margin-left: 10px;
+        margin-top: 8px;
+        letter-spacing: -2px;
+        font-weight: bold;
+      }
+
+      &:hover {
+        ul {
+          display: block;
+          position: absolute;
+          margin-top: -5px;
+        }
+      }
+
+      ul {
+        display: none;
+        padding: 10px 20px;
+        background-color: white;
+        box-shadow: #505050 0 0 15px 0;
+        border-radius: 5px;
+
+        li {
+          cursor: pointer;
+          display: block;
+          padding: 5px 10px;
+
+          &.active {
+            color: #576A8F;
+            letter-spacing: -2px;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+
+    .menuIcon {
+      width: 0;
+      height: 35px;
+    }
+
+    .logo {
+
+      .logoIcon {
+        width: auto;
+        margin-top: 5px;
+      }
+    }
+
+    .contactButton {
+      float: right;
+      margin-top: -5px;
+
+      button {
+        font-weight: normal;
+        padding: 12px 35px !important;
+      }
+    }
+
+    .toggleSidebar {
+      vertical-align: top;
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      margin-top: 5px;
+      cursor: pointer;
+    }
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .topBar {
+    width: 60px;
+    height: 40px;
+    bottom: 0;
+    right: 10px;
+
+    .arrow {
+      width: 60px;
+
+      svg {
+        width: 60px;
+      }
+    }
+  }
+
+  .headerContainer {
+    .header {
+      .languageBlock {
+        span {
+          padding: 10px;
+          border-radius: 10px;
+          padding: 8px 10px !important;
+          font-size: 1em;
+          margin-left: 10px;
+          margin-top: 8px;
+          letter-spacing: -2px;
+        }
+
+        &:hover {
+          ul {
+            display: block;
+            position: absolute;
+            margin-top: -5px;
+          }
+        }
+
+      }
+
+      .logo {
+        img {
+          width: 150px !important;
+        }
+      }
+
+      .contactButton {
+        button {
+          margin: 10px 0 0 0 !important;
+          padding: 11px 10px !important;
+          font-size: 0.85em !important;
+        }
+      }
+    }
+
+    .menuItems {
+      display: none !important;
+    }
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 800px) {
+  .topBar {
+    width: 60px;
+    height: 40px;
+    bottom: 0;
+    right: 10px;
+
+    .arrow {
+      width: 60px;
+
+      svg {
+        width: 60px;
+      }
+    }
+  }
+
+  .headerContainer {
+    .header {
+      .languageBlock {
+        span {
+          padding: 10px;
+          border-radius: 10px;
+          padding: 8px 10px !important;
+          font-size: 1em;
+          margin-left: 10px;
+          margin-top: 8px;
+          letter-spacing: -2px;
+        }
+
+        &:hover {
+          ul {
+            display: block;
+            position: absolute;
+            margin-top: -5px;
+          }
+        }
+
+      }
+
+      .logo {
+        img {
+          width: 170px !important;
+        }
+      }
+
+      .contactButton {
+        button {
+          margin: 10px 0 0 0 !important;
+          padding: 11px 10px !important;
+          font-size: 0.85em;
+        }
+      }
+    }
+
+    .menuItems {
+      display: none !important;
+    }
+  }
+}

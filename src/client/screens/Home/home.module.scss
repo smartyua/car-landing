@@ -1,0 +1,240 @@
+hr.break {
+  clear: both;
+  height: 0;
+  border: none !important;
+  background-color: none !important;
+}
+
+.content {
+  padding: 100px 2% 2% 2%;
+
+  .text {
+    margin: 15px 0;
+    padding: 5px 0;
+  }
+
+  div.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    justify-content: center;
+
+    background-image: url('/src/client/assets/img/6123757242.jpg');
+    background-position: right top;
+    background-size: 70%;
+    background-repeat: no-repeat;
+
+    .text {
+      margin-top: 40px;
+      margin-bottom: 20px;
+      width: 70%;
+    }
+
+    h1 {
+      font-size: 3.5em;
+      line-height: 0.8;
+      font-family: Inter, 'Helvetica', sans-serif;
+
+    }
+  
+    h2 {
+      font-size: 5em;
+      line-height: 0.6;
+      font-family: Geometria, 'Helvetica', sans-serif;
+      color: orange;
+    }
+  
+    h3 {
+      line-height: 0.5;
+      font-size: 3em;
+    }
+
+    div {
+      .image {
+        position: relative;
+        width: 100%;
+      }
+    }
+  }
+}
+
+.promo {
+  position: relative;
+  margin-bottom: 250px;
+
+  h1 {
+    span {
+      display: inline-block;
+      font-size: 0.7em;
+      color: gray;
+      padding-left: 10px;
+      font-family: InterRegular;
+    }
+  }
+  .center {
+    position: relative;
+    $minHeight: 260px;
+
+    .red {
+      position: absolute;
+      background-color: rgba(242, 141, 70, 0.5);
+      width: 50%;
+      min-height: $minHeight;
+      z-index: 1 !important;
+    }
+
+    .gray {
+      position: absolute;
+      background-color: rgba(237, 235, 235, 0.75);
+      width: 50%;
+      right: 0;
+      min-height: $minHeight;
+      z-index: 1 !important;
+    }
+
+    .price {
+      position: absolute;
+      font-family: InterBlack;
+      font-size: 4em;
+      font-weight: bold;
+      line-height: 0.9;
+      margin-left: 43%;
+      margin-top: 220px;
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+      background-color: orange;
+      color: white;
+      transform: rotate(-5deg);
+      border-radius: 15px;
+      padding: 15px 30px;
+      z-index: 3 !important;
+    }
+
+
+    .main {
+      position: absolute;
+      z-index: 2 !important;
+      transition: ease 2s all;
+
+      h3 {
+        font-family: InterBlack;
+        font-size: 2em;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 20px;
+        justify-content: right;
+
+        .textBlock {
+          padding-top: 15px;
+          margin-left: 10%;
+          width: 70%;
+          text-align: right;
+        }
+
+        .centerImage {
+          transition: all 1s ease-in-out 1s;
+          max-width: 600px;
+        }
+      }
+    }
+  }
+}
+
+/* Example Media Queries */
+@media screen and (max-width: 65.375em) {
+  .content {
+
+  }
+}
+
+@media screen and (max-width: 47.2em) {
+  .content {
+
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 900px) {
+  .modalStyle {
+    width: 100%;
+    max-width: 100%;
+    height: 95vh;
+  }
+
+  .content {
+    padding: 80px 15px 15px 15px;
+    text-align: center;
+
+    div.grid {
+      display: grid;
+      padding-top: 200px;
+      grid-template-columns: 95%;
+      background-position: center-top;
+      background-size: contain;
+
+      .text {
+        width: 100%;
+      }
+
+      h1, h2, h3 {
+        text-align: center;
+      }
+
+      h2 {
+        font-size: 4em;
+      }
+
+      h3 {
+        font-size: 2.7em;
+        line-height: 0.9;
+      }
+    }
+  }
+
+  .promo {
+    .center {
+      $minHeight: 160px;
+
+      .red {
+        width: 100%;
+        min-height: $minHeight;
+        left: 0;
+      }
+
+      .gray {
+        display: none;
+      }
+
+      .price {
+        margin-top: 180px;
+        margin-left: 25%;
+        font-size: 3em;
+      }
+
+      .main {
+        .grid {
+          position: relative;
+          grid-template-columns: 100% !important;
+          margin-bottom: 20px;
+
+          .centerImage {
+            margin-left: 5%;
+            max-width: 90%;
+          }
+
+          .textBlock {
+            width: 100%;
+            padding-top: 50px;
+            margin-left: 0;
+            text-align: center;
+
+            p {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+@import '../../assets/scss/variables';
+
+.footer {
+  margin: 0;
+  width: 100%;
+  grid-column: span 1;
+  // background-color: #daf3fe;
+  position: relative;
+  background-image: url('/src/client/assets/svg/react-app-footer.svg');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size:contain;
+  padding-bottom: 10px;
+  padding-top: 100px;
+
+  .emojii {
+    margin-left: 5px;
+  }
+
+  .content {
+    bottom: 0;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+
+    .title {
+      padding-top: 50px;
+    }
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  .footer {
+    background-size: 300%;
+
+    .content {
+      bottom: 0;
+      padding: 40px;
+      text-align: center;
+    }
+  }
+}

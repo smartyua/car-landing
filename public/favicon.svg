@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.5mm" height="16.5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 201.75 201.75"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="704" font-variant="normal" style="fill-rule:nonzero" font-weight="800">
+	<font-face 
+		font-family="Kinetika Ultra">
+		<font-face-src>
+			<font-face-name name="Kinetika Ultra"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="." horiz-adv-x="306" d="M154.001 -1.29969e+001c71.9966,0 127,55.9974 127,127 0,70.9959 -5.50033e+001,127 -1.27e+002,127 -7.20033e+001,0 -1.28001e+002,-5.60041e+001 -1.28001e+002,-1.27e+002 0,-7.10025e+001 55.9974,-1.27e+002 128.001,-1.27e+002z"/>
+   <glyph unicode="K" horiz-adv-x="699" d="M435 669.003l-1.54e+002 -2.58002e+002 0 258.002 -2.31003e+002 0 0 -6.69003e+002 231.003 0 0 227.001 139 -2.27001e+002 281 0 -2.16003e+002 321.001 218.001 348.001 -2.67998e+002 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Kinetika Ultra";font-variant:normal;font-weight:800;src:url("#FontID0") format(svg)}
+    .fil1 {fill:white}
+    .fil2 {fill:#7791C9}
+    .fil0 {fill:url(#id0)}
+    .fnt1 {font-weight:800;font-size:183.26px;font-family:'Kinetika Ultra'}
+    .fnt0 {font-weight:800;font-size:212.35px;font-family:'Kinetika Ultra'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="68.59" y1="144.05" x2="128.07" y2="50.41">
+   <stop offset="0" style="stop-opacity:1; stop-color:#576A8F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7791C9"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M157.95 0l-114.15 0c-24.09,0 -43.8,19.71 -43.8,43.8l0 114.15c0,24.09 19.71,43.8 43.8,43.8l114.15 0c24.09,0 43.8,-19.71 43.8,-43.8l0 -114.15c0,-24.09 -19.71,-43.8 -43.8,-43.8z"/>
+  <text x="24.99" y="171.27"  class="fil1 fnt0">K</text>
+  <text x="132.87" y="182.98"  class="fil2 fnt1">.</text>
+ </g>
+</svg>

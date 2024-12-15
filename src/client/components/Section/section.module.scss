@@ -1,0 +1,15 @@
+@import '../../assets/scss/variables';
+
+.marginTop {
+  margin-top: $headerHeight !important;
+}
+
+.section {
+  width: 100%;
+
+  .container {
+    max-width: $max-width-section;
+    width: 100%;
+    margin: 0 auto;
+  }
+}

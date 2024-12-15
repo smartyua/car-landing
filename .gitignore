@@ -1,0 +1,14 @@
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+\#mail
+\#nginx
+coverage
+build-production/
+node_modules
+build
+cache
+public/static
+.env.*.local

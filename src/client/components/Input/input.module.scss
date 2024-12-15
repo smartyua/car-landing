@@ -1,0 +1,55 @@
+@import '../../assets/scss/variables';
+
+.inputTip {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: gray;
+  font-size: 1.2em;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.inputGroup {
+  margin: 0;
+  position: relative;
+
+  input {
+    padding: 8px 16px;
+    margin: 0;
+    color: $input-text-primary-color;
+    font-size: 17px;
+    line-height: 1.5;
+    background: white;
+    border-radius: 100px !important;
+    position: relative;
+    box-shadow: none;
+    border-color: #ccc;
+
+    &:focus {
+      box-shadow: $background-input-shadow;
+      border: 1px solid $very-light-gray;
+    }
+
+    &::placeholder {
+      color: $input-placeholder-color;
+    }
+
+    &.hasError {
+      border: 1px solid $input-error-border-color;
+      background: $input-error-bg-color;
+
+      &::placeholder {
+        color: red;
+      }
+    }
+  }
+}
+
+.search {
+  background: url('/src/client/assets/svg/search.svg') no-repeat right middle;
+}
