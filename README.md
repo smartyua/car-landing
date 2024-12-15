@@ -1,4 +1,4 @@
-# Kylypko Personal project
+# Car (lease/sale) landing SSR project
 
 ## How to use
 
