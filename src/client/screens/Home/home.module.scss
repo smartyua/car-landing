@@ -83,6 +83,14 @@ hr.break {
       z-index: 1 !important;
     }
 
+    .visible {
+      display: block;
+    }
+
+    .notVisible {
+      display: none;
+    }
+
     .gray {
       position: absolute;
       background-color: rgba(237, 235, 235, 0.75);
@@ -179,6 +187,10 @@ hr.break {
 
       h1, h2, h3 {
         text-align: center;
+      }
+
+      h1 {
+        font-size: 3em;
       }
 
       h2 {

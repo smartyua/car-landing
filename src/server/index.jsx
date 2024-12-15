@@ -169,7 +169,6 @@ export const renderApp = async req => {
     })
     .join(`\n${' '.repeat(4)}`);
 
-  console.log(metaTags);
   const { defaultTitle } = metaValues;
   const isServer = typeof window === 'undefined';
 

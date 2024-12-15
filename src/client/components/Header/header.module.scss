@@ -79,12 +79,13 @@
       cursor: pointer;
       color: black;
       vertical-align: top;
+      margin-top: 8px;
 
       span {
         padding: 15px;
         display: block;
         border-radius: 10px;
-        padding: 8px 15px !important;
+        padding: 5px 15px !important;
         font-size: 1.2em;
         background-color: #576A8F;
         color: white;
@@ -128,10 +129,33 @@
       height: 35px;
     }
 
-    .logo {
+    .menuItems {
+      display: inline-block;
+      list-style: none;
 
+      li {
+        display: inline-block;
+        padding: 5px 15px;
+        font-size: 1.1em;
+        font-family: Arial;
+
+        &.active {
+          a {
+            font-weight: bold;
+            color: black !important;
+          }
+        }
+
+        a {
+          color: black;
+          text-decoration: none;
+        }
+      }
+    }
+
+    .logo {
       .logoIcon {
-        width: auto;
+        width: 200px;
         margin-top: 5px;
       }
     }

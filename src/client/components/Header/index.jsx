@@ -42,22 +42,33 @@ const handleUrlChange = (lng: string) => {
 
 const Header = (props: any): any => {
   const dispatch = useDispatch();
-
   const { location } = props;
-  const pathname = _.get(location, 'pathname');
+  const pathname =
+    _.get(location, 'pathname') || _.get(window, 'location.pathname');
   // let defaultStyle;
   // let errorHeader;
 
   const { language } = useSelector(({ common: comm }: any) => comm);
-
   const currLanguage = languages.filter(lng => language === lng)[0] || 'en';
 
-  // const menuItems = [
-  //   {
-  //     title: translation('_HOME_LINK1', language),
-  //     link: 'expertise'
-  //   }
-  // ];
+  const menuItems = [
+    {
+      title: 'DODGE',
+      link: 'dodge'
+    },
+    {
+      title: 'MUSTANG',
+      link: 'mustang'
+    },
+    {
+      title: 'CAMARO',
+      link: 'camaro'
+    },
+    {
+      title: 'CORVETTE',
+      link: 'corvette'
+    }
+  ];
 
   if (pathname === '/404page') {
     // defaultStyle = styles.mainBodyError;
@@ -137,22 +148,27 @@ const Header = (props: any): any => {
                   ))}
                 </ul>
               </div>
-              {/*
               <ul className={styles.menuItems}>
-                {menuItems.map(({ link, title }) => (
-                  <li key={title}>
-                    <Link
-                      to={`${language}/${link}`}
-                      onClick={() =>
-                        Scroll.animateScroll.scrollToTop({ duration: 100 })
-                      }
-                    >
-                      {title}
-                    </Link>
-                  </li>
-                ))}
+                {menuItems.map(({ link, title }) => {
+                  const isActive =
+                    (pathname || '').indexOf(`/${link}`) > 0
+                      ? styles.active
+                      : '';
+
+                  return (
+                    <li key={title} className={isActive}>
+                      <Link
+                        to={`${language}/${link}`}
+                        onClick={() =>
+                          Scroll.animateScroll.scrollToTop({ duration: 100 })
+                        }
+                      >
+                        {title}
+                      </Link>
+                    </li>
+                  );
+                })}
               </ul>
-              */}
             </header>
           </div>
         </div>

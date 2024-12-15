@@ -38,28 +38,32 @@ const items = [
   }
 ];
 
-const renderPromos = (item: any) => {
-  const { price, title, image, text } = item;
-
-  return (
-    <Section className={styles.center} fullwidth>
-      <Section className={styles.red} />
-      <Section className={styles.gray} />
-      <div className={styles.price}>{price}</div>
-      <Section className={styles.main}>
-        <div className={styles.grid}>
-          <div>
-            <img src={image} className={styles.centerImage} alt={title} />
-          </div>
-          <div className={styles.textBlock}>
-            <h3>{title}</h3>
-            <p>{text}</p>
-          </div>
+const renderPromos = (itemId: number) => (
+  <Section className={styles.center} fullwidth>
+    <Section className={styles.red} />
+    <Section className={styles.gray} />
+    {items.map((item, index) => {
+      const { price, title, image, text } = item;
+      const itemStyle = itemId === index ? styles.visible : styles.notVisible;
+      return (
+        <div key={index} className={itemStyle}>
+          <div className={styles.price}>{price}</div>
+          <Section className={styles.main}>
+            <div className={styles.grid}>
+              <div>
+                <img src={image} className={styles.centerImage} alt={title} />
+              </div>
+              <div className={styles.textBlock}>
+                <h3>{title}</h3>
+                <p>{text}</p>
+              </div>
+            </div>
+          </Section>
         </div>
-      </Section>
-    </Section>
-  );
-};
+      );
+    })}
+  </Section>
+);
 
 // const scroll = Scroll.animateScroll;
 
@@ -131,7 +135,7 @@ const HomeScreen = (): any => {
             </h1>
           </center>
         </Section>
-        {renderPromos(items[promoIndex])}
+        {renderPromos(promoIndex)}
       </div>
 
       <hr className={styles.break} />
