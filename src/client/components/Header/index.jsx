@@ -43,8 +43,9 @@ const handleUrlChange = (lng: string) => {
 const Header = (props: any): any => {
   const dispatch = useDispatch();
   const { location } = props;
+  const wnd = isServer ? {} : window;
   const pathname =
-    _.get(location, 'pathname') || _.get(window, 'location.pathname');
+    _.get(location, 'pathname') || _.get(wnd, 'location.pathname');
   // let defaultStyle;
   // let errorHeader;
 
