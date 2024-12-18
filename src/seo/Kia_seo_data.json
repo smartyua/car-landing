@@ -1,0 +1,377 @@
+{
+    "title": "Kia",
+    "models": [
+        {
+            "title": "Optima",
+            "description": "Kia Optima is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Kia",
+                "Optima",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Kia Optima",
+                    "description": "Kia Optima — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Kia",
+                        "Optima",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Kia cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Kia cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Kia samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Kia cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Kia Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Kia cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Kia аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Kia cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Sorento",
+            "description": "Kia Sorento is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Kia",
+                "Sorento",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Kia Sorento",
+                    "description": "Kia Sorento — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Kia",
+                        "Sorento",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Kia cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Kia cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Kia samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Kia cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Kia Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Kia cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Kia аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Kia cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Sportage",
+            "description": "Kia Sportage is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Kia",
+                "Sportage",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Kia Sportage",
+                    "description": "Kia Sportage — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Kia",
+                        "Sportage",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Kia cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Kia cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Kia samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Kia cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Kia Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Kia cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Kia аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Kia cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Forte",
+            "description": "Kia Forte is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Kia",
+                "Forte",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Kia Forte",
+                    "description": "Kia Forte — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Kia",
+                        "Forte",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Kia vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Kia cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Kia cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Kia автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Kia cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Kia samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Kia cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Kia Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Kia cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Kia аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Kia cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Kia offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "title": "Ford",
+    "models": [
+        {
+            "title": "F-150",
+            "description": "Ford F-150 is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Ford",
+                "F-150",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Ford F-150",
+                    "description": "Ford F-150 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Ford",
+                        "F-150",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Ford cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Ford cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Ford samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Ford cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Ford Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Ford cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Ford аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Ford cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Explorer",
+            "description": "Ford Explorer is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Ford",
+                "Explorer",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Ford Explorer",
+                    "description": "Ford Explorer — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Ford",
+                        "Explorer",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Ford cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Ford cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Ford samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Ford cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Ford Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Ford cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Ford аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Ford cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Escape",
+            "description": "Ford Escape is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Ford",
+                "Escape",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Ford Escape",
+                    "description": "Ford Escape — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Ford",
+                        "Escape",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Ford cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Ford cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Ford samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Ford cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Ford Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Ford cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Ford аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Ford cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Mustang",
+            "description": "Ford Mustang is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Ford",
+                "Mustang",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Ford Mustang",
+                    "description": "Ford Mustang — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Ford",
+                        "Mustang",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Ford vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Ford cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Ford cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Ford автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Ford cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Ford samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Ford cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Ford Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Ford cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Ford аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Ford cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Ford offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        }
+    ]
+}

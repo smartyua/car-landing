@@ -1,6 +1,7 @@
 import Home from '../screens/Home';
-import Dodge from '../screens/Dodge';
-import Mustang from '../screens/Mustang';
+import Brands from '../screens/Brands';
+import Dodge from '../screens/_Dodge';
+import Mustang from '../screens/_Mustang';
 import Page404 from '../screens/Page404';
 
 // ADMIN AREA
@@ -9,6 +10,11 @@ const Routes = [
   {
     path: '/:language?',
     element: Home,
+    exact: true
+  },
+  {
+    path: '/:language?/:brand',
+    element: Brands,
     exact: true
   },
   {

@@ -48,16 +48,16 @@ const matchWithParams = (url, path) => {
 
   if (a && a.length) {
     a.forEach(item => {
-      result = result.replace(item, '(:([a-z]+))?');
+      result = result.replace(item, '(:([a-z]+))');
     });
 
-    // console.log('========');
-    // console.log(a);
-    // console.log(result);
-    // console.log(`url - ${url}`);
-    // console.log(`path - ${path}`);
-    // console.log(url.match(result));
-    // console.log('========');
+    console.log('========');
+    console.log(a);
+    console.log(result);
+    console.log(`url - ${url}`);
+    console.log(`path - ${path}`);
+    console.log(url.match(result));
+    console.log('========');
 
     if (url.match(result)) {
       return true;
@@ -116,6 +116,8 @@ export const renderApp = async req => {
 
     return false;
   });
+
+  console.log(branch);
 
   if (branch) {
     const { element } = branch;

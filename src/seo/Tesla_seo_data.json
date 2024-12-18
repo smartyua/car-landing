@@ -1,0 +1,377 @@
+{
+    "title": "Tesla",
+    "models": [
+        {
+            "title": "Model 3",
+            "description": "Tesla Model 3 is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Tesla",
+                "Model 3",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Tesla Model 3",
+                    "description": "Tesla Model 3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Tesla cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Tesla cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Tesla samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Tesla cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Tesla Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Tesla cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Tesla аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Tesla cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Model S",
+            "description": "Tesla Model S is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Tesla",
+                "Model S",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Tesla Model S",
+                    "description": "Tesla Model S — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Tesla",
+                        "Model S",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Tesla cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Tesla cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Tesla samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Tesla cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Tesla Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Tesla cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Tesla аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Tesla cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Model X",
+            "description": "Tesla Model X is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Tesla",
+                "Model X",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Tesla Model X",
+                    "description": "Tesla Model X — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Tesla",
+                        "Model X",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Tesla cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Tesla cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Tesla samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Tesla cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Tesla Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Tesla cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Tesla аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Tesla cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Model Y",
+            "description": "Tesla Model Y is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Tesla",
+                "Model Y",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Tesla Model Y",
+                    "description": "Tesla Model Y — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Tesla",
+                        "Model Y",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Tesla vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Tesla cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Tesla cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Tesla автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Tesla cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Tesla samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Tesla cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Tesla Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Tesla cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Tesla аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Tesla cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Tesla offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        }
+    ]
+}

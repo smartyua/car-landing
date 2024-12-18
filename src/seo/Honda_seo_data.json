@@ -1,0 +1,377 @@
+{
+    "title": "Honda",
+    "models": [
+        {
+            "title": "Civic",
+            "description": "Honda Civic is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Honda",
+                "Civic",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Honda Civic",
+                    "description": "Honda Civic — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Honda",
+                        "Civic",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Honda cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Honda cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Honda samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Honda cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Honda Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Honda cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Honda аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Honda cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Accord",
+            "description": "Honda Accord is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Honda",
+                "Accord",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Honda Accord",
+                    "description": "Honda Accord — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Honda",
+                        "Accord",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Honda cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Honda cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Honda samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Honda cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Honda Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Honda cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Honda аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Honda cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "CR-V",
+            "description": "Honda CR-V is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Honda",
+                "CR-V",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Honda CR-V",
+                    "description": "Honda CR-V — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Honda",
+                        "CR-V",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Honda cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Honda cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Honda samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Honda cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Honda Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Honda cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Honda аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Honda cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        },
+        {
+            "title": "Pilot",
+            "description": "Honda Pilot is a top-rated car model offering great performance and luxury.",
+            "keywords": [
+                "Honda",
+                "Pilot",
+                "car",
+                "luxury"
+            ],
+            "translations": {
+                "en": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot is a top-rated car model offering great performance and luxury.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "car",
+                        "luxury"
+                    ]
+                },
+                "ru": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "автомобиль",
+                        "роскошь"
+                    ]
+                },
+                "uk": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "автомобіль",
+                        "розкіш"
+                    ]
+                },
+                "pl": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "samochód",
+                        "luksus"
+                    ]
+                },
+                "de": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "Auto",
+                        "Luxus"
+                    ]
+                },
+                "be": {
+                    "title": "Honda Pilot",
+                    "description": "Honda Pilot — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                    "keywords": [
+                        "Honda",
+                        "Pilot",
+                        "аўтамабіль",
+                        "раскоша"
+                    ]
+                }
+            },
+            "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs.",
+            "translations_full": {
+                "en": {
+                    "description_full": "When considering used cars at US auctions, Honda vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Honda cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "ru": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Honda cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "uk": {
+                    "description_full": "When considering used cars at US auctions, Honda автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Honda cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "pl": {
+                    "description_full": "When considering used cars at US auctions, Honda samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Honda cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "de": {
+                    "description_full": "When considering used cars at US auctions, Honda Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Honda cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                },
+                "be": {
+                    "description_full": "When considering used cars at US auctions, Honda аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Honda cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Honda offers a diverse range of models that are sure to meet your needs."
+                }
+            }
+        }
+    ]
+}
