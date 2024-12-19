@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "bmw-3-series",
             "en": {
                 "title": "BMW 3 Series",
                 "description": "BMW 3 Series is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "bmw-5-series",
             "en": {
                 "title": "BMW 5 Series",
                 "description": "BMW 5 Series is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "bmw-x5",
             "en": {
                 "title": "BMW X5",
                 "description": "BMW X5 is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "bmw-x3",
             "en": {
                 "title": "BMW X3",
                 "description": "BMW X3 is a top-rated car model offering great performance and luxury.",

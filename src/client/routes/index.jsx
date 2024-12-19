@@ -1,5 +1,6 @@
 import Home from '../screens/Home';
 import Brands from '../screens/Brands';
+import CarPage from '../screens/CarPage';
 import Dodge from '../screens/_Dodge';
 import Mustang from '../screens/_Mustang';
 import Page404 from '../screens/Page404';
@@ -20,6 +21,11 @@ const Routes = [
   {
     path: '/:language/:brand',
     element: Brands,
+    exact: true
+  },
+  {
+    path: '/:language/:brand/:slug',
+    element: CarPage,
     exact: true
   },
   {

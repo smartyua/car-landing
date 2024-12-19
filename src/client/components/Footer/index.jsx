@@ -39,8 +39,6 @@ const Footer = (): any => {
     }
   }
 
-  console.log(matrix);
-
   return (
     <div className={styles.footer}>
       <div className={styles.content}>

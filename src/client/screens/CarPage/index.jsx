@@ -11,9 +11,7 @@ import { animateScroll as scroll } from 'react-scroll';
 
 // import Button from '../../components/Button';
 import Section from '../../components/Section';
-import styles from './brand.module.scss';
-
-// $FlowFixMe
+import styles from './car.module.scss';
 import metaValues from '../../../config';
 
 const scrollOption = {
@@ -22,9 +20,11 @@ const scrollOption = {
   smooth: true
 };
 
+// $FlowFixMe
+
 const handleScrollClick = () => scroll.scrollToTop(scrollOption);
 
-const BrandScreen = (): any => {
+const CarScreen = (): any => {
   const params = useParams();
   const { brand = 'default' } = params;
   const { defaultTitle, globalSEO } = metaValues;
@@ -40,13 +40,16 @@ const BrandScreen = (): any => {
     }, [])
     .flat();
 
+  const modelInfo = models.find(x => x.slug === params.slug);
+  const model = modelInfo[language];
+  const parameters = JSON.stringify(params, null, 2);
   const keywordsText = Array.from(new Set([...kwText]));
 
   return (
     <section>
       <Helmet>
         <title>
-          {title} - {headTitle} - {defaultTitle}
+          {title} - {model.title} - {headTitle} - {defaultTitle}
         </title>
         <meta name="description" content={descriptionText} />
         <meta property="keywords" content={keywordsText} />
@@ -64,33 +67,10 @@ const BrandScreen = (): any => {
       </Section>
 
       <Section>
-        <div className={styles.content}>
-          <div className={styles.text}>{descriptionText}</div>
-          {models.length > 0 && (
-            <div className={styles.models}>
-              {models.map((model, i) => {
-                const { slug } = model;
-                const link = `/${language}/${String(brand)}/${slug}`;
-
-                return (
-                  <div key={i} className={styles.model}>
-                    <h3>
-                      <Link to={link} onClick={handleScrollClick}>
-                        {model[language].title}
-                      </Link>
-                    </h3>
-                    <div className={styles.text}>
-                      {model[language].description}
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-          )}
-        </div>
+        <div className={styles.content}>{parameters}</div>
       </Section>
     </section>
   );
 };
 
-export default BrandScreen;
+export default CarScreen;

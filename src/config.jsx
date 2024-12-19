@@ -1,7 +1,44 @@
+import audiSeo from './seo/Audi_seo_data.json';
+import bmwSeo from './seo/BMW_seo_data.json';
+import chevroletSeo from './seo/Chevrolet_seo_data.json';
+import dodgeSeo from './seo/Dodge_seo_data.json';
+import fordSeo from './seo/Ford_seo_data.json';
+import hondaSeo from './seo/Honda_seo_data.json';
+import hyundaiSeo from './seo/Hyundai_seo_data.json';
+import jeepSeo from './seo/Jeep_seo_data.json';
+import kiaSeo from './seo/Kia_seo_data.json';
+import lexusSeo from './seo/Lexus_seo_data.json';
+import mercedesSeo from './seo/MercedesBenz_seo_data.json';
+import nissanSeo from './seo/Nissan_seo_data.json';
+import subaruSeo from './seo/Subaru_seo_data.json';
+import teslaSeo from './seo/Tesla_seo_data.json';
+import toyotaSeo from './seo/Toyota_seo_data.json';
+import volkswagenSeo from './seo/Volkswagen_seo_data.json';
+
+const globalSEO = {
+  default: bmwSeo,
+  audi: audiSeo,
+  bmw: bmwSeo,
+  chevrolet: chevroletSeo,
+  dodge: dodgeSeo,
+  ford: fordSeo,
+  honda: hondaSeo,
+  hyundai: hyundaiSeo,
+  kia: kiaSeo,
+  jeep: jeepSeo,
+  lexus: lexusSeo,
+  mercedesbenz: mercedesSeo,
+  nissan: nissanSeo,
+  subaru: subaruSeo,
+  tesla: teslaSeo,
+  toyota: toyotaSeo,
+  volkswagen: volkswagenSeo
+};
+
 const values = {
   domain: 'https://www.kylypko.com',
   defaultTitle: 'DASAUTO.COM',
-  // defaultDescription: 'Personal website of Grygorii Kylypko',
+  globalSEO,
 
   defaultKeywords: {
     ru: 'авто из США, доставка авто из США, покупка авто из Америки, машины из США под ключ, дешевые авто из США, американские авто в Польшу, таможня авто из США, авто из США в Варшаву, купить автомобиль с аукциона США, автомобиль из США доставка',
