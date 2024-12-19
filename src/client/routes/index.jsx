@@ -8,22 +8,27 @@ import Page404 from '../screens/Page404';
 
 const Routes = [
   {
-    path: '/:language?',
+    path: '/',
     element: Home,
     exact: true
   },
   {
-    path: '/:language?/:brand',
+    path: '/:language',
+    element: Home,
+    exact: true
+  },
+  {
+    path: '/:language/:brand',
     element: Brands,
     exact: true
   },
   {
-    path: '/:language?/mustang',
+    path: '/:language/mustang',
     element: Mustang,
     exact: true
   },
   {
-    path: '/:language?/dodge',
+    path: '/:language/dodge',
     element: Dodge,
     exact: true
   },

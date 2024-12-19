@@ -1,9 +1,10 @@
 // @flow
 
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 // import * as Scroll from 'react-scroll';
 import { Helmet } from 'react-helmet';
+import _ from 'lodash';
 import { useSelector } from 'react-redux';
 
 // import Button from '../../components/Button';
@@ -12,25 +13,40 @@ import styles from './brand.module.scss';
 
 // $FlowFixMe
 import metaValues from '../../../config';
-import translation from '../../translate';
+import bmwSeo from './../../../seo/BMW_seo_data.json';
 
-const BrandScreen = (params: any): any => {
-  const { defaultTitle, defaultKeywords } = metaValues;
+const globelSEO = {
+  bmw: bmwSeo,
+  default: bmwSeo,
+  hyundai: bmwSeo
+};
+
+const BrandScreen = (): any => {
+  const params = useParams();
+  const { brand = 'default' } = params;
+  const { defaultTitle } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
-  const title = `${translation('_SEO_TITLE', language)} - ${defaultTitle}`;
-  const keywords = defaultKeywords[language];
+  const { title, description, models } =
+    _.get(globelSEO, brand) || _.get(globelSEO, 'default');
 
-  console.log(params);
+  const descriptionText = description[language];
+  const kwText = models
+    .reduce((acc, item) => {
+      const { keywords } = item[language];
+      return [].concat(acc, keywords);
+    }, [])
+    .flat();
+
+  const keywordsText = Array.from(new Set([...kwText]));
 
   return (
     <section>
       <Helmet>
-        <title>{title}</title>
-        <meta
-          name="description"
-          content={translation('_SEO_DESCRIPTION', language)}
-        />
-        <meta property="keywords" content={keywords} />
+        <title>
+          {title} - {defaultTitle}
+        </title>
+        <meta name="description" content={descriptionText} />
+        <meta property="keywords" content={keywordsText} />
         <meta property="og:title" content={title} />
         <meta
           property="og:image"
@@ -40,13 +56,12 @@ const BrandScreen = (params: any): any => {
 
       <Section fullwidth={true} className={styles.head}>
         <div className={styles.headImage}>
-          <h1>Dodge</h1>
-          <h2>Exclusive muscle cars</h2>
+          <h1>{title}</h1>
         </div>
       </Section>
 
       <Section>
-        <div className={styles.content}>Some text about Dodge cars</div>
+        <div className={styles.content}>{descriptionText}</div>
       </Section>
     </section>
   );

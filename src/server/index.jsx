@@ -17,6 +17,8 @@ import AppRoutes from '../client/routes';
 
 import configureStore from '../client/store/configureStore';
 
+const { match } = require('node-match-path');
+
 dotenv.config();
 
 // eslint-disable-next-line security/detect-non-literal-require, import/no-dynamic-require
@@ -30,62 +32,6 @@ const jsScriptTagsFromAssets = (assetsItems, entrypoint, extra = '') => {
     : '';
 
   return assetsItems[entrypoint] ? assetCondition : '';
-};
-
-const matchWithParams = (url, path) => {
-  if (!path) {
-    return false;
-  }
-
-  if (path === '*') {
-    return false;
-  }
-
-  const reg = /(:([a-z]+))?/g;
-  const a = path.match(reg).filter(x => !!x);
-
-  let result = path;
-
-  if (a && a.length) {
-    a.forEach(item => {
-      result = result.replace(item, '(:([a-z]+))');
-    });
-
-    console.log('========');
-    console.log(a);
-    console.log(result);
-    console.log(`url - ${url}`);
-    console.log(`path - ${path}`);
-    console.log(url.match(result));
-    console.log('========');
-
-    if (url.match(result)) {
-      return true;
-    }
-
-    return result;
-  }
-
-  return false;
-};
-
-const matchPath = (url, routeObject) => {
-  const { path } = routeObject;
-
-  if (path === url) {
-    return true;
-  }
-
-  if (matchWithParams(url, path)) {
-    return true;
-  }
-
-  if (path !== '*') {
-    const found = url.match(path);
-    return found;
-  }
-
-  return false;
 };
 
 export const renderApp = async req => {
@@ -107,7 +53,8 @@ export const renderApp = async req => {
   let branch;
 
   AppRoutes.forEach(item => {
-    const matchResult = matchPath(req.url, item);
+    const { path } = item;
+    const matchResult = match(path, req.url);
 
     if (matchResult) {
       branch = item;
@@ -116,8 +63,6 @@ export const renderApp = async req => {
 
     return false;
   });
-
-  console.log(branch);
 
   if (branch) {
     const { element } = branch;
@@ -155,7 +100,7 @@ export const renderApp = async req => {
   const metaTags = meta
     .toComponent()
     .map(({ props }) => {
-      let { content } = props;
+      let { content = '' } = props;
       const name = props.name || props.property;
       if (name === 'description' || name === 'og:description') {
         content = content.replace(/\n/g, ' ');

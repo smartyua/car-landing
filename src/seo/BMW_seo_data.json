@@ -1,5 +1,6 @@
 {
     "title": "BMW",
+    "headTitle": "BMW Used Cars at US Auctions",
     "description": {
         "en": "When considering used cars at US auctions, BMW vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, BMW cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, BMW offers a diverse range of models that are sure to meet your needs.",
         "ru": "При рассмотрении подержанных автомобилей на аукционах США, автомобили BMW выделяются как одни из лучших доступных вариантов. Известные своей надежностью, долговечностью и общей ценностью, автомобили BMW сохраняют свою стоимость с течением времени, что делает их отличным выбором для тех, кто ищет долгосрочный автомобиль. Эти автомобили пользуются большим спросом на рынке подержанных автомобилей благодаря прочной конструкции и низким расходам на обслуживание по сравнению с другими марками. Независимо от того, ищете ли вы семейный автомобиль, рабочую лошадку или роскошный автомобиль, BMW предлагает разнообразие моделей, которые наверняка удовлетворят ваши потребности.",
@@ -10,291 +11,251 @@
     },
     "models": [
         {
-            "title": "3 Series",
-            "description": "BMW 3 Series is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "BMW",
-                "3 Series",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "BMW 3 Series",
-                    "description": "BMW 3 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "BMW",
-                        "3 Series",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "car",
+                    "luxury"
+                ]
+            },
+            "ru": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "5 Series",
-            "description": "BMW 5 Series is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "BMW",
-                "5 Series",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "BMW 5 Series",
-                    "description": "BMW 5 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "BMW",
-                        "5 Series",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "car",
+                    "luxury"
+                ]
+            },
+            "ru": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "X5",
-            "description": "BMW X5 is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "BMW",
-                "X5",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "BMW X5",
-                    "description": "BMW X5 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "BMW",
-                        "X5",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "BMW X5",
+                "description": "BMW X5 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "car",
+                    "luxury"
+                ]
+            },
+            "ru": {
+                "title": "BMW X5",
+                "description": "BMW X5 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "BMW X5",
+                "description": "BMW X5 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "BMW X5",
+                "description": "BMW X5 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "BMW X5",
+                "description": "BMW X5 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "BMW X5",
+                "description": "BMW X5 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "X3",
-            "description": "BMW X3 is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "BMW",
-                "X3",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "BMW X3",
-                    "description": "BMW X3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "BMW",
-                        "X3",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "BMW X3",
+                "description": "BMW X3 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "car",
+                    "luxury"
+                ]
+            },
+            "ru": {
+                "title": "BMW X3",
+                "description": "BMW X3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "BMW X3",
+                "description": "BMW X3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "BMW X3",
+                "description": "BMW X3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "BMW X3",
+                "description": "BMW X3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "BMW X3",
+                "description": "BMW X3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]
