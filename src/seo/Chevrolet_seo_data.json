@@ -1,376 +1,262 @@
 {
     "title": "Chevrolet",
+    "headTitle": "Chevrolet used cars from US Auctions",
+    "description": {
+        "en": "Chevrolet vehicles are a standout choice when shopping for used cars at US auctions. Known for their durability, affordability, and diverse model lineup, Chevrolet provides options that cater to a wide range of needs, from reliable family vehicles to powerful trucks and SUVs. With a reputation for solid engineering and lower long-term maintenance costs, these cars hold their value and deliver exceptional performance over time. Choosing Chevrolet means investing in a trusted brand that combines practicality with innovation.",
+        "ru": "Автомобили Chevrolet являются отличным выбором при покупке подержанных машин на аукционах США. Известные своей долговечностью, доступностью и разнообразием моделей, Chevrolet предлагает варианты для самых разных нужд, от надежных семейных автомобилей до мощных грузовиков и внедорожников. Благодаря репутации надежной инженерии и низким эксплуатационным расходам, эти автомобили сохраняют свою ценность и обеспечивают отличную производительность с течением времени. Выбирая Chevrolet, вы инвестируете в проверенный бренд, который сочетает практичность с инновациями.",
+        "ua": "Автомобілі Chevrolet є чудовим вибором при купівлі вживаних машин на аукціонах США. Відомі своєю довговічністю, доступністю та різноманітністю моделей, Chevrolet пропонує варіанти для різноманітних потреб, від надійних сімейних автомобілів до потужних вантажівок і позашляховиків. Завдяки репутації надійної інженерії та низьким експлуатаційним витратам, ці автомобілі зберігають свою вартість і забезпечують чудову продуктивність з часом. Обираючи Chevrolet, ви інвестуєте в перевірений бренд, що поєднує практичність з інноваціями.",
+        "pl": "Samochody Chevrolet to doskonały wybór przy zakupie używanych aut na aukcjach w USA. Znane z trwałości, przystępnej ceny i różnorodności modeli, Chevrolet oferuje opcje dopasowane do różnych potrzeb – od niezawodnych samochodów rodzinnych po potężne ciężarówki i SUV-y. Dzięki reputacji solidnej inżynierii i niskim kosztom utrzymania, te samochody zachowują swoją wartość i zapewniają doskonałą wydajność przez długi czas. Wybierając Chevrolet, inwestujesz w sprawdzoną markę łączącą praktyczność z innowacją.",
+        "de": "Chevrolet-Fahrzeuge sind eine ausgezeichnete Wahl beim Kauf von Gebrauchtwagen bei US-Auktionen. Bekannt für ihre Langlebigkeit, Erschwinglichkeit und vielfältige Modellpalette bietet Chevrolet Optionen, die eine breite Palette von Bedürfnissen abdecken, von zuverlässigen Familienfahrzeugen bis hin zu leistungsstarken Lastwagen und SUVs. Dank ihres Rufs für solide Technik und niedrige Wartungskosten behalten diese Fahrzeuge ihren Wert und bieten langfristig eine hervorragende Leistung. Mit Chevrolet investieren Sie in eine vertrauenswürdige Marke, die Praktikabilität mit Innovation verbindet.",
+        "be": "Аўтамабілі Chevrolet з’яўляюцца выдатным выбарам пры куплі падтрыманых машын на аўкцыёнах у ЗША. Вядомыя сваёй даўгавечнасцю, даступнасцю і разнастайнасцю мадэляў, Chevrolet прапануе варыянты для розных патрэбаў: ад надзейных сямейных аўтамабіляў да магутных грузавікоў і пазадарожнікаў. Дзякуючы рэпутацыі надзейнай інжынерыі і нізкім эксплуатацыйным выдаткам, гэтыя аўтамабілі захоўваюць сваю каштоўнасць і забяспечваюць выдатную прадукцыйнасць з часам. Абіраючы Chevrolet, вы інвестуеце ў правераны брэнд, які спалучае практычнасць з інавацыямі."
+    },
     "models": [
         {
-            "title": "Silverado",
-            "description": "Chevrolet Silverado is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Chevrolet",
-                "Silverado",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Chevrolet Silverado",
-                    "description": "Chevrolet Silverado — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Silverado",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Chevrolet cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Chevrolet cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Chevrolet cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Chevrolet cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Chevrolet cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Silverado",
+                "description": "Chevrolet Silverado — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Malibu",
-            "description": "Chevrolet Malibu is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Chevrolet",
-                "Malibu",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Chevrolet Malibu",
-                    "description": "Chevrolet Malibu — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Malibu",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Chevrolet cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Chevrolet cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Chevrolet cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Chevrolet cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Chevrolet cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Malibu",
+                "description": "Chevrolet Malibu — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Chevrolet",
+                    "Malibu",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Equinox",
-            "description": "Chevrolet Equinox is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Chevrolet",
-                "Equinox",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Chevrolet Equinox",
-                    "description": "Chevrolet Equinox — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Equinox",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Chevrolet cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Chevrolet cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Chevrolet cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Chevrolet cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Chevrolet cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Equinox",
+                "description": "Chevrolet Equinox — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Chevrolet",
+                    "Equinox",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Tahoe",
-            "description": "Chevrolet Tahoe is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Chevrolet",
-                "Tahoe",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Chevrolet Tahoe",
-                    "description": "Chevrolet Tahoe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Chevrolet",
-                        "Tahoe",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+
+            "en": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Chevrolet cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Chevrolet cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Chevrolet cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Chevrolet cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Chevrolet cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Chevrolet аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Chevrolet cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Chevrolet offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

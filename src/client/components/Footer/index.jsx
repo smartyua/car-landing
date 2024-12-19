@@ -33,11 +33,13 @@ const Footer = (): any => {
   for (let col = 0; col < cols; col++) {
     for (let row = 0; row < rows; row++) {
       if (index < popularCarBrands.length) {
-        matrix[row][col] = popularCarBrands[index];
+        matrix[row][col] = popularCarBrands[index] || null;
         index++;
       }
     }
   }
+
+  console.log(matrix);
 
   return (
     <div className={styles.footer}>
@@ -45,25 +47,31 @@ const Footer = (): any => {
         <div className={styles.brands}>
           <h2>Popular car brands:</h2>
           <div className={styles.list}>
-            {matrix.map((row, i) => (
-              <div key={i} className={styles.row}>
-                {row.map((brand, j) => {
-                  const link = `/${language}/${brand.title.toLowerCase()}`;
-                  return (
-                    <div key={j} className={styles.brand}>
-                      <div className={styles.brandTitle}>
-                        <Link to={link} onClick={handleScrollClick}>
-                          {brand.title}
-                        </Link>
+            {matrix
+              .filter(x => !!x)
+              .map((row, i) => (
+                <div key={i} className={styles.row}>
+                  {row.map((brand, j) => {
+                    if (!brand) {
+                      return null;
+                    }
+
+                    const link = `/${language}/${brand.title.toLowerCase()}`;
+                    return (
+                      <div key={j} className={styles.brand}>
+                        <div className={styles.brandTitle}>
+                          <Link to={link} onClick={handleScrollClick}>
+                            {brand.title}
+                          </Link>
+                        </div>
+                        <div className={styles.models}>
+                          {brand.models.join(', ')}
+                        </div>
                       </div>
-                      <div className={styles.models}>
-                        {brand.models.join(', ')}
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            ))}
+                    );
+                  })}
+                </div>
+              ))}
           </div>
         </div>
 

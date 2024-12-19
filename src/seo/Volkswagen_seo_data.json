@@ -1,283 +1,199 @@
 {
     "title": "Volkswagen",
+    "headTitle": "Volkswagen used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Volkswagen cars are known for their solid build quality, safety features, and efficient performance. Popular models like the Jetta, Passat, and Tiguan are excellent options for those looking for affordable and reliable used vehicles at US auctions. With a reputation for longevity and low maintenance costs, Volkswagen vehicles offer great value for anyone in the market for a dependable used car.",
+        "ru": "Автомобили Volkswagen известны своей прочной конструкцией, безопасностью и эффективностью. Популярные модели, такие как Jetta, Passat и Tiguan, являются отличным выбором для тех, кто ищет доступные и надежные подержанные автомобили на аукционах в США.",
+        "ua": "Автомобілі Volkswagen відомі своєю міцною конструкцією, безпекою та ефективністю. Популярні моделі, такі як Jetta, Passat і Tiguan, є чудовим вибором для тих, хто шукає доступні та надійні вживані авто на аукціонах в США.",
+        "pl": "Samochody Volkswagen są znane z solidnej jakości wykonania, funkcji bezpieczeństwa i wydajności. Popularne modele, takie jak Jetta, Passat i Tiguan, to doskonały wybór dla osób szukających przystępnych i niezawodnych samochodów używanych na amerykańskich aukcjach.",
+        "de": "Volkswagen-Fahrzeuge sind bekannt für ihre solide Bauqualität, Sicherheitsmerkmale und effiziente Leistung. Beliebte Modelle wie Jetta, Passat und Tiguan sind ausgezeichnete Optionen für diejenigen, die nach erschwinglichen und zuverlässigen Gebrauchtwagen auf US-Auktionen suchen.",
+        "be": "Аўтамабілі Volkswagen вядомыя сваёй трывалай канструкцыяй, бяспекай і эфектыўнасцю. Папулярныя мадэлі, такія як Jetta, Passat і Tiguan, з'яўляюцца выдатным выбарам для тых, хто шукае даступныя і надзейныя б/у аўтамабілі на аўкцыёнах у ЗША."
+    },
     "models": [
         {
-            "title": "Jetta",
-            "description": "Volkswagen Jetta is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Volkswagen",
-                "Jetta",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Volkswagen Jetta",
-                    "description": "Volkswagen Jetta — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Jetta",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Volkswagen cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Volkswagen cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Volkswagen cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Volkswagen cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Volkswagen cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Passat",
-            "description": "Volkswagen Passat is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Volkswagen",
-                "Passat",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Volkswagen Passat",
-                    "description": "Volkswagen Passat — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Passat",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Volkswagen cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Volkswagen cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Volkswagen cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Volkswagen cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Volkswagen cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Tiguan",
-            "description": "Volkswagen Tiguan is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Volkswagen",
-                "Tiguan",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Volkswagen Tiguan",
-                    "description": "Volkswagen Tiguan — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Volkswagen",
-                        "Tiguan",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Volkswagen cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Volkswagen cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Volkswagen cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Volkswagen cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Volkswagen cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Volkswagen аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Volkswagen cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Volkswagen offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

@@ -1,283 +1,199 @@
 {
     "title": "Dodge",
+    "headTitle": "Dodge used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Dodge vehicles are a fantastic option for those exploring used car auctions in the US. Renowned for their powerful performance, bold designs, and versatility, Dodge offers a range of cars and SUVs that cater to drivers seeking excitement and reliability. From the iconic Dodge Charger to the spacious Durango SUV, these vehicles are built to last and deliver outstanding value for money. With a strong presence in the used car market, Dodge cars are a dependable choice for drivers looking for something extraordinary.",
+        "ru": "Автомобили Dodge являются отличным вариантом для тех, кто ищет подержанные автомобили на аукционах в США. Известные своей мощной производительностью, смелым дизайном и универсальностью, Dodge предлагает автомобили и внедорожники, которые подходят для водителей, стремящихся к эмоциям и надежности. От культового Dodge Charger до просторного внедорожника Durango — эти автомобили созданы, чтобы служить долго и предоставлять отличное соотношение цены и качества. Dodge — это надежный выбор для тех, кто ищет нечто особенное.",
+        "ua": "Автомобілі Dodge є чудовим варіантом для тих, хто шукає вживані автомобілі на аукціонах у США. Відомі своєю потужною продуктивністю, сміливим дизайном і універсальністю, Dodge пропонує автомобілі та позашляховики, які підходять водіям, що шукають емоції та надійність. Від культового Dodge Charger до просторого позашляховика Durango — ці автомобілі створені для довговічності та забезпечують відмінне співвідношення ціни та якості. Dodge — це надійний вибір для тих, хто шукає щось особливе.",
+        "pl": "Samochody Dodge to świetna opcja dla osób poszukujących używanych aut na aukcjach w USA. Znane z potężnych osiągów, odważnego designu i wszechstronności, Dodge oferuje gamę samochodów i SUV-ów, które zadowolą kierowców szukających emocji i niezawodności. Od kultowego Dodge Chargera po przestronnego SUV-a Durango, te pojazdy są trwałe i zapewniają doskonały stosunek jakości do ceny. Dodge to niezawodny wybór dla tych, którzy szukają czegoś niezwykłego.",
+        "de": "Dodge-Fahrzeuge sind eine hervorragende Option für diejenigen, die Gebrauchtwagenauktionen in den USA erkunden. Bekannt für ihre kraftvolle Leistung, mutige Designs und Vielseitigkeit bietet Dodge eine Reihe von Autos und SUVs, die Fahrern gerecht werden, die Aufregung und Zuverlässigkeit suchen. Vom kultigen Dodge Charger bis zum geräumigen Durango SUV sind diese Fahrzeuge langlebig und bieten ein ausgezeichnetes Preis-Leistungs-Verhältnis. Dodge ist eine zuverlässige Wahl für Fahrer, die etwas Besonderes suchen.",
+        "be": "Аўтамабілі Dodge з'яўляюцца выдатным выбарам для тых, хто шукае б/у аўтамабілі на аўкцыёнах у ЗША. Вядомыя сваёй магутнай прадукцыйнасцю, смелым дызайнам і універсальнасцю, Dodge прапануе аўтамабілі і пазадарожнікі, якія падыходзяць кіроўцам, якія шукаюць эмоцыі і надзейнасць. Ад культавага Dodge Charger да прасторнага пазадарожніка Durango — гэтыя аўтамабілі створаны для даўгавечнасці і забяспечваюць выдатнае суадносіны кошту і якасці. Dodge — гэта надзейны выбар для тых, хто шукае нешта незвычайнае."
+    },
     "models": [
         {
-            "title": "Charger",
-            "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Dodge",
-                "Charger",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Dodge Charger",
-                    "description": "Dodge Charger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Dodge",
-                        "Charger",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Dodge cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Dodge cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Dodge samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Dodge cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Dodge Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Dodge cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Dodge аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Dodge cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Challenger",
-            "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Dodge",
-                "Challenger",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Dodge Challenger",
-                    "description": "Dodge Challenger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Dodge",
-                        "Challenger",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Dodge cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Dodge cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Dodge samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Dodge cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Dodge Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Dodge cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Dodge аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Dodge cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Durango",
-            "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Dodge",
-                "Durango",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Dodge Durango",
-                    "description": "Dodge Durango — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Dodge",
-                        "Durango",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Dodge vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Dodge cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Dodge cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Dodge автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Dodge cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Dodge samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Dodge cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Dodge Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Dodge cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Dodge аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Dodge cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Dodge offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

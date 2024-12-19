@@ -1,469 +1,323 @@
 {
     "title": "Toyota",
+    "headTitle": "Toyota used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Toyota is one of the most trusted brands when it comes to used cars at US auctions. Known for their reliability, fuel efficiency, and long-lasting performance, Toyota vehicles like the Camry, Corolla, and RAV4 are among the top picks for used car buyers. These models maintain their value over time, offer a smooth ride, and are less likely to encounter expensive repairs, making them an ideal choice for buyers looking for dependable used cars.",
+        "ru": "Toyota — один из самых надежных брендов на аукционах подержанных автомобилей в США. Известные своей надежностью, топливной экономичностью и долговечностью, такие автомобили, как Camry, Corolla и RAV4, являются одними из лучших вариантов для покупателей подержанных автомобилей.",
+        "ua": "Toyota — один з найнадійніших брендів на аукціонах вживаних авто в США. Відомі своєю надійністю, паливною економічністю і довговічністю, такі автомобілі, як Camry, Corolla і RAV4, є одними з найкращих варіантів для покупців вживаних авто.",
+        "pl": "Toyota to jedna z najbardziej zaufanych marek, jeśli chodzi o samochody używane na amerykańskich aukcjach. Znane ze swojej niezawodności, oszczędności paliwa i długotrwałej wydajności, samochody takie jak Camry, Corolla i RAV4 należą do najlepszych wyborów dla kupujących samochody używane.",
+        "de": "Toyota ist eine der vertrauenswürdigsten Marken, wenn es um Gebrauchtwagen bei US-Auktionen geht. Bekannt für ihre Zuverlässigkeit, Kraftstoffeffizienz und langlebige Leistung, sind Fahrzeuge wie Camry, Corolla und RAV4 unter den beliebtesten Optionen für Gebrauchtwagenkäufer.",
+        "be": "Toyota - адзін з самых надзейных брэндаў на аўкцыёнах аўтамабіляў у ЗША. Вядомыя сваёй надзейнасцю, эканоміяй паліва і доўгавечнасцю, такія аўтамабілі, як Camry, Corolla і RAV4, з'яўляюцца аднымі з лепшых варыянтаў для пакупнікоў б/у аўтамабіляў."
+    },
     "models": [
         {
-            "title": "Camry",
-            "description": "Toyota Camry is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Toyota",
-                "Camry",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Toyota Camry",
-                    "description": "Toyota Camry — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Toyota",
-                        "Camry",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Toyota cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Toyota cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Toyota samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Toyota cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Toyota Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Toyota cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Toyota аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Toyota cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Corolla",
-            "description": "Toyota Corolla is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Toyota",
-                "Corolla",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Toyota Corolla",
-                    "description": "Toyota Corolla — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Toyota",
-                        "Corolla",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Toyota cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Toyota cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Toyota samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Toyota cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Toyota Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Toyota cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Toyota аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Toyota cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "RAV4",
-            "description": "Toyota RAV4 is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Toyota",
-                "RAV4",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Toyota RAV4",
-                    "description": "Toyota RAV4 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Toyota",
-                        "RAV4",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Toyota cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Toyota cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Toyota samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Toyota cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Toyota Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Toyota cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Toyota аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Toyota cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Tacoma",
-            "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Toyota",
-                "Tacoma",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Toyota Tacoma",
-                    "description": "Toyota Tacoma — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Toyota",
-                        "Tacoma",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Toyota cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Toyota cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Toyota samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Toyota cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Toyota Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Toyota cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Toyota аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Toyota cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Highlander",
-            "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Toyota",
-                "Highlander",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Toyota Highlander",
-                    "description": "Toyota Highlander — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Toyota",
-                        "Highlander",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Toyota vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Toyota cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Toyota cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Toyota автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Toyota cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Toyota samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Toyota cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Toyota Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Toyota cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Toyota аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Toyota cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Toyota offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

@@ -1,376 +1,261 @@
 {
     "title": "Lexus",
+    "headTitle": "Lexus used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Lexus vehicles are renowned for their luxury, performance, and reliability, making them a top choice at US used car auctions. With elegant design and advanced technology, Lexus models like the RX, ES, and NX offer a premium driving experience. These cars are built to last, providing excellent value with low maintenance costs and outstanding durability, making them perfect for those who demand both comfort and quality.",
+        "ru": "Автомобили Lexus известны своим люксом, производительностью и надежностью, что делает их одним из лучших выборов на аукционах подержанных автомобилей в США. Благодаря элегантному дизайну и передовым технологиям, модели Lexus, такие как RX, ES и NX, обеспечивают премиальный опыт вождения. Эти автомобили создаются на долгие годы, предоставляя отличное соотношение цены и качества.",
+        "ua": "Автомобілі Lexus відомі своєю розкішшю, продуктивністю та надійністю, що робить їх одним з найкращих варіантів на аукціонах вживаних авто в США. Завдяки елегантному дизайну та передовим технологіям, моделі Lexus, такі як RX, ES і NX, забезпечують преміальний досвід водіння. Ці автомобілі створені на довгі роки, пропонуючи чудове співвідношення ціни та якості.",
+        "pl": "Samochody Lexus są znane z luksusu, wydajności i niezawodności, co czyni je jednym z najlepszych wyborów na amerykańskich aukcjach samochodów używanych. Dzięki eleganckiemu designowi i zaawansowanej technologii modele Lexus, takie jak RX, ES i NX, oferują doskonałe wrażenia z jazdy. Te samochody są budowane na lata, zapewniając świetną wartość przy niskich kosztach utrzymania.",
+        "de": "Lexus-Fahrzeuge sind bekannt für ihren Luxus, ihre Leistung und Zuverlässigkeit und gehören zu den besten Optionen bei US-Gebrauchtwagenauktionen. Mit elegantem Design und fortschrittlicher Technologie bieten Lexus-Modelle wie der RX, ES und NX ein erstklassiges Fahrerlebnis. Diese Fahrzeuge sind langlebig und bieten ein hervorragendes Preis-Leistungs-Verhältnis.",
+        "be": "Аўтамабілі Lexus славяцца раскошай, прадукцыйнасцю і надзейнасцю, што робіць іх адным з лепшых варыянтаў на аўкцыёнах ЗША. З элегантным дызайнам і перадавымі тэхналогіямі мадэлі RX, ES і NX забяспечваюць прэміум-клас досведу кіравання."
+    },
     "models": [
         {
-            "title": "RX",
-            "description": "Lexus RX is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Lexus",
-                "RX",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Lexus RX",
-                    "description": "Lexus RX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Lexus",
-                        "RX",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Lexus RX",
+                "description": "Lexus RX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Lexus cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Lexus cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Lexus samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Lexus cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Lexus Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Lexus cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Lexus аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Lexus cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Lexus RX",
+                "description": "Lexus RX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Lexus RX",
+                "description": "Lexus RX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "ES",
-            "description": "Lexus ES is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Lexus",
-                "ES",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Lexus ES",
-                    "description": "Lexus ES — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Lexus",
-                        "ES",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Lexus ES",
+                "description": "Lexus ES is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Lexus cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Lexus cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Lexus samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Lexus cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Lexus Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Lexus cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Lexus аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Lexus cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Lexus ES",
+                "description": "Lexus ES to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Lexus ES",
+                "description": "Lexus ES ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "NX",
-            "description": "Lexus NX is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Lexus",
-                "NX",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Lexus NX",
-                    "description": "Lexus NX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Lexus",
-                        "NX",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Lexus NX",
+                "description": "Lexus NX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Lexus cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Lexus cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Lexus samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Lexus cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Lexus Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Lexus cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Lexus аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Lexus cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Lexus NX",
+                "description": "Lexus NX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Lexus NX",
+                "description": "Lexus NX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "GX",
-            "description": "Lexus GX is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Lexus",
-                "GX",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Lexus GX",
-                    "description": "Lexus GX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Lexus",
-                        "GX",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Lexus GX",
+                "description": "Lexus GX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Lexus vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Lexus cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Lexus cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Lexus автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Lexus cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Lexus samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Lexus cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Lexus Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Lexus cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Lexus аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Lexus cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Lexus offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Lexus GX",
+                "description": "Lexus GX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Lexus GX",
+                "description": "Lexus GX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

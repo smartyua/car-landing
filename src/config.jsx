@@ -13,6 +13,7 @@ const values = {
   },
 
   popularCarBrands: [
+    { title: 'Audi', models: ['A4', 'A6', 'Q5', 'Q7', 'A3', 'A5', 'Q3', 'Q8'] },
     { title: 'BMW', models: ['3 Series', '5 Series', 'X5', 'X3'] },
     { title: 'Chevrolet', models: ['Silverado', 'Malibu', 'Equinox', 'Tahoe'] },
     { title: 'Dodge', models: ['Charger', 'Challenger', 'Durango'] },

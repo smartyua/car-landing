@@ -13,12 +13,41 @@ import styles from './brand.module.scss';
 
 // $FlowFixMe
 import metaValues from '../../../config';
+import audiSeo from './../../../seo/Audi_seo_data.json';
 import bmwSeo from './../../../seo/BMW_seo_data.json';
+import chevroletSeo from './../../../seo/Chevrolet_seo_data.json';
+import dodgeSeo from './../../../seo/Dodge_seo_data.json';
+import fordSeo from './../../../seo/Ford_seo_data.json';
+import hondaSeo from './../../../seo/Honda_seo_data.json';
+import hyundaiSeo from './../../../seo/Hyundai_seo_data.json';
+import jeepSeo from './../../../seo/Jeep_seo_data.json';
+import kiaSeo from './../../../seo/Kia_seo_data.json';
+import lexusSeo from './../../../seo/Lexus_seo_data.json';
+import mercedesSeo from './../../../seo/MercedesBenz_seo_data.json';
+import nissanSeo from './../../../seo/Nissan_seo_data.json';
+import subaruSeo from './../../../seo/Subaru_seo_data.json';
+import teslaSeo from './../../../seo/Tesla_seo_data.json';
+import toyotaSeo from './../../../seo/Toyota_seo_data.json';
+import volkswagenSeo from './../../../seo/Volkswagen_seo_data.json';
 
 const globelSEO = {
-  bmw: bmwSeo,
   default: bmwSeo,
-  hyundai: bmwSeo
+  audi: audiSeo,
+  bmw: bmwSeo,
+  chevrolet: chevroletSeo,
+  dodge: dodgeSeo,
+  ford: fordSeo,
+  honda: hondaSeo,
+  hyundai: hyundaiSeo,
+  kia: kiaSeo,
+  jeep: jeepSeo,
+  lexus: lexusSeo,
+  mercedesbenz: mercedesSeo,
+  nissan: nissanSeo,
+  subaru: subaruSeo,
+  tesla: teslaSeo,
+  toyota: toyotaSeo,
+  volkswagen: volkswagenSeo
 };
 
 const BrandScreen = (): any => {
@@ -26,7 +55,7 @@ const BrandScreen = (): any => {
   const { brand = 'default' } = params;
   const { defaultTitle } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
-  const { title, description, models } =
+  const { title, headTitle, description, models } =
     _.get(globelSEO, brand) || _.get(globelSEO, 'default');
 
   const descriptionText = description[language];
@@ -43,7 +72,7 @@ const BrandScreen = (): any => {
     <section>
       <Helmet>
         <title>
-          {title} - {defaultTitle}
+          {title} - {headTitle} - {defaultTitle}
         </title>
         <meta name="description" content={descriptionText} />
         <meta property="keywords" content={keywordsText} />

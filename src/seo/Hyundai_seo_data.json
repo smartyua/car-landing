@@ -1,376 +1,261 @@
 {
     "title": "Hyundai",
+    "headTitle": "Hyundai used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Hyundai has earned its reputation as a manufacturer of high-quality, affordable vehicles that are perfect for the used car market. Known for their advanced technology, fuel efficiency, and modern design, Hyundai models consistently rank among the top choices at US auctions. Whether you're considering the compact Elantra, the versatile Tucson, or the family-friendly Santa Fe, Hyundai vehicles deliver excellent value and reliability. These cars are built to offer a comfortable driving experience while keeping maintenance costs low, making them a fantastic choice for budget-conscious buyers.",
+        "ru": "Hyundai заслужил репутацию производителя высококачественных и доступных автомобилей, которые идеально подходят для рынка подержанных машин. Известные своими передовыми технологиями, топливной экономичностью и современным дизайном, модели Hyundai стабильно входят в число лучших на аукционах в США. Будь то компактный Elantra, универсальный Tucson или семейный Santa Fe, автомобили Hyundai предлагают отличное соотношение цены и надежности. Эти машины созданы для комфортного вождения при низких затратах на обслуживание, что делает их отличным выбором для экономных покупателей.",
+        "ua": "Hyundai заслужив репутацію виробника високоякісних і доступних автомобілів, які ідеально підходять для ринку вживаних авто. Відомі своїми передовими технологіями, паливною економічністю та сучасним дизайном, моделі Hyundai стабільно входять до списку найкращих на аукціонах у США. Чи то компактний Elantra, універсальний Tucson або сімейний Santa Fe, автомобілі Hyundai пропонують відмінне співвідношення ціни та надійності.",
+        "pl": "Hyundai zyskał reputację producenta wysokiej jakości, przystępnych cenowo pojazdów, które doskonale sprawdzają się na rynku samochodów używanych. Znane ze swojej zaawansowanej technologii, oszczędności paliwa i nowoczesnego designu, modele Hyundai konsekwentnie należą do najlepszych wyborów na aukcjach w USA. Niezależnie od tego, czy chodzi o kompaktowy Elantra, wszechstronny Tucson, czy przyjazny rodzinie Santa Fe, pojazdy Hyundai oferują doskonałą wartość i niezawodność.",
+        "de": "Hyundai hat sich einen Ruf als Hersteller hochwertiger, erschwinglicher Fahrzeuge erworben, die perfekt für den Gebrauchtwagenmarkt geeignet sind. Bekannt für ihre fortschrittliche Technologie, Kraftstoffeffizienz und modernes Design gehören Hyundai-Modelle durchweg zu den besten Optionen bei US-Auktionen. Ob kompakter Elantra, vielseitiger Tucson oder familienfreundlicher Santa Fe – Hyundai-Fahrzeuge bieten hervorragenden Wert und Zuverlässigkeit.",
+        "be": "Hyundai заваяваў рэпутацыю вытворцы якасных і даступных аўтамабіляў, якія ідэальна падыходзяць для рынку б/у аўто. Вядомыя сваімі перадавымі тэхналогіямі, паліўнай эканамічнасцю і сучасным дызайнам, мадэлі Hyundai стабільна ўваходзяць у спіс лепшых на аўкцыёнах у ЗША. Hyundai прапануе выдатны варыянт для пакупнікоў, якія шукаюць баланс паміж якасцю і коштам."
+    },
     "models": [
         {
-            "title": "Elantra",
-            "description": "Hyundai Elantra is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Hyundai",
-                "Elantra",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Hyundai Elantra",
-                    "description": "Hyundai Elantra — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Hyundai",
-                        "Elantra",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Hyundai cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Hyundai cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Hyundai samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Hyundai cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Hyundai Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Hyundai cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Hyundai аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Hyundai cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Hyundai Elantra",
+                "description": "Hyundai Elantra — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Hyundai",
+                    "Elantra",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Sonata",
-            "description": "Hyundai Sonata is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Hyundai",
-                "Sonata",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Hyundai Sonata",
-                    "description": "Hyundai Sonata — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Hyundai",
-                        "Sonata",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Hyundai cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Hyundai cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Hyundai samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Hyundai cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Hyundai Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Hyundai cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Hyundai аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Hyundai cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Hyundai Sonata",
+                "description": "Hyundai Sonata — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Hyundai",
+                    "Sonata",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Tucson",
-            "description": "Hyundai Tucson is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Hyundai",
-                "Tucson",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Hyundai Tucson",
-                    "description": "Hyundai Tucson — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Hyundai",
-                        "Tucson",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Hyundai cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Hyundai cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Hyundai samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Hyundai cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Hyundai Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Hyundai cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Hyundai аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Hyundai cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Hyundai Tucson",
+                "description": "Hyundai Tucson — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Hyundai",
+                    "Tucson",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Santa Fe",
-            "description": "Hyundai Santa Fe is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Hyundai",
-                "Santa Fe",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Hyundai Santa Fe",
-                    "description": "Hyundai Santa Fe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Hyundai",
-                        "Santa Fe",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Hyundai vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Hyundai cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Hyundai cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Hyundai автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Hyundai cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Hyundai samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Hyundai cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Hyundai Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Hyundai cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Hyundai аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Hyundai cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Hyundai offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

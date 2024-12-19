@@ -1,376 +1,261 @@
 {
     "title": "MercedesBenz",
+    "headTitle": "MercedesBenz used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Mercedes-Benz represents the pinnacle of luxury and engineering excellence, making it a sought-after brand at US used car auctions. Known for their timeless design and cutting-edge features, models like the C-Class, E-Class, and GLE offer unmatched sophistication and comfort. These vehicles are designed to deliver exceptional performance while ensuring reliability and safety, making them an excellent choice for drivers who want the best in automotive innovation.",
+        "ru": "Mercedes-Benz олицетворяет вершину роскоши и инженерного мастерства, что делает его востребованным брендом на аукционах подержанных автомобилей в США. Известные своим вневременным дизайном и передовыми функциями, такие модели, как C-Class, E-Class и GLE, предлагают непревзойденную утонченность и комфорт.",
+        "ua": "Mercedes-Benz уособлює вершину розкоші та інженерної досконалості, що робить його популярним брендом на аукціонах вживаних авто в США. Відомі своїм позачасовим дизайном і передовими функціями, моделі, такі як C-Class, E-Class і GLE, пропонують неперевершену витонченість і комфорт.",
+        "pl": "Mercedes-Benz to szczyt luksusu i doskonałości inżynieryjnej, co czyni go poszukiwanym wyborem na amerykańskich aukcjach samochodów używanych. Znane z ponadczasowego designu i zaawansowanych funkcji, modele takie jak C-Class, E-Class i GLE oferują niezrównaną elegancję i komfort.",
+        "de": "Mercedes-Benz steht für Luxus und Ingenieurskunst und ist eine begehrte Marke bei US-Gebrauchtwagenauktionen. Bekannt für zeitloses Design und fortschrittliche Funktionen bieten Modelle wie die C-Klasse, E-Klasse und GLE unvergleichliche Eleganz und Komfort.",
+        "be": "Mercedes-Benz — гэта сімвал раскошы і інжынернага майстэрства, які высока цэніцца на аўкцыёнах ЗША. Мадэлі, такія як C-Class, E-Class і GLE, адрозніваюцца вытанчаным дызайнам і інавацыйнымі тэхналогіямі."
+    },
     "models": [
         {
-            "title": "C-Class",
-            "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "MercedesBenz",
-                "C-Class",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "MercedesBenz C-Class",
-                    "description": "MercedesBenz C-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "C-Class",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, MercedesBenz cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, MercedesBenz cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, MercedesBenz cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, MercedesBenz cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, MercedesBenz cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "E-Class",
-            "description": "MercedesBenz E-Class is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "MercedesBenz",
-                "E-Class",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "MercedesBenz E-Class",
-                    "description": "MercedesBenz E-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "E-Class",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, MercedesBenz cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, MercedesBenz cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, MercedesBenz cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, MercedesBenz cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, MercedesBenz cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "GLE",
-            "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "MercedesBenz",
-                "GLE",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "MercedesBenz GLE",
-                    "description": "MercedesBenz GLE — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLE",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, MercedesBenz cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, MercedesBenz cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, MercedesBenz cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, MercedesBenz cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, MercedesBenz cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "GLS",
-            "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "MercedesBenz",
-                "GLS",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "MercedesBenz GLS",
-                    "description": "MercedesBenz GLS — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "MercedesBenz",
-                        "GLS",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, MercedesBenz cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, MercedesBenz cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, MercedesBenz cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, MercedesBenz cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, MercedesBenz cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, MercedesBenz аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, MercedesBenz cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, MercedesBenz offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

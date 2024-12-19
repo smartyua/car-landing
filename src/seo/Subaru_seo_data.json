@@ -1,376 +1,261 @@
 {
     "title": "Subaru",
+    "headTitle": "Subaru used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Subaru cars are celebrated for their all-wheel drive capability, safety, and reliability, making them a top pick at US used car auctions. Models like the Outback, Forester, and Crosstrek are ideal for families and outdoor enthusiasts alike. With exceptional resale value and a reputation for durability, Subaru vehicles are built to handle diverse terrains and weather conditions.",
+        "ru": "Автомобили Subaru славятся своими полным приводом, безопасностью и надежностью, что делает их популярным выбором на аукционах подержанных автомобилей в США. Такие модели, как Outback, Forester и Crosstrek, идеально подходят как для семей, так и для любителей активного отдыха.",
+        "ua": "Автомобілі Subaru відомі своїм повним приводом, безпекою та надійністю, що робить їх популярним вибором на аукціонах вживаних авто в США. Такі моделі, як Outback, Forester і Crosstrek, ідеально підходять як для сімей, так і для любителів активного відпочинку.",
+        "pl": "Samochody Subaru są cenione za napęd na wszystkie koła, bezpieczeństwo i niezawodność, co czyni je jednym z najlepszych wyborów na amerykańskich aukcjach samochodów używanych. Modele takie jak Outback, Forester i Crosstrek są idealne dla rodzin i entuzjastów aktywnego wypoczynku.",
+        "de": "Subaru-Fahrzeuge sind bekannt für ihren Allradantrieb, ihre Sicherheit und Zuverlässigkeit und gehören zu den besten Optionen bei US-Gebrauchtwagenauktionen. Modelle wie Outback, Forester und Crosstrek sind ideal für Familien und Outdoor-Enthusiasten.",
+        "be": "Аўтамабілі Subaru цэняцца за поўны прывад, бяспеку і надзейнасць, што робіць іх адным з лепшых варыянтаў на аўкцыёнах ЗША. Такія мадэлі, як Outback, Forester і Crosstrek, ідэальныя для сем’яў і аматараў актыўнага адпачынку."
+    },
     "models": [
         {
-            "title": "Outback",
-            "description": "Subaru Outback is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Subaru",
-                "Outback",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Subaru Outback",
-                    "description": "Subaru Outback — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Subaru",
-                        "Outback",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Subaru cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Subaru cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Subaru samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Subaru cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Subaru Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Subaru cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Subaru аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Subaru cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Forester",
-            "description": "Subaru Forester is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Subaru",
-                "Forester",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Subaru Forester",
-                    "description": "Subaru Forester — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Subaru",
-                        "Forester",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Subaru cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Subaru cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Subaru samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Subaru cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Subaru Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Subaru cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Subaru аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Subaru cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Impreza",
-            "description": "Subaru Impreza is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Subaru",
-                "Impreza",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Subaru Impreza",
-                    "description": "Subaru Impreza — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Subaru",
-                        "Impreza",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Subaru cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Subaru cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Subaru samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Subaru cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Subaru Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Subaru cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Subaru аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Subaru cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Crosstrek",
-            "description": "Subaru Crosstrek is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Subaru",
-                "Crosstrek",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Subaru Crosstrek",
-                    "description": "Subaru Crosstrek — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Subaru",
-                        "Crosstrek",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Subaru vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Subaru cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Subaru cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Subaru автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Subaru cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Subaru samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Subaru cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Subaru Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Subaru cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Subaru аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Subaru cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Subaru offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]

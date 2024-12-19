@@ -1,376 +1,261 @@
 {
     "title": "Nissan",
+    "headTitle": "Nissan used cars from US Auctions with delivery to your country",
+    "description": {
+        "en": "Nissan vehicles are known for their affordability, efficiency, and versatility, making them a great choice at US used car auctions. Models like the Altima, Rogue, and Pathfinder are popular for their modern features, fuel efficiency, and dependable performance. With a reputation for innovation and value, Nissan offers options that suit a wide range of lifestyles and budgets.",
+        "ru": "Автомобили Nissan известны своей доступностью, экономичностью и универсальностью, что делает их отличным выбором на аукционах подержанных автомобилей в США. Такие модели, как Altima, Rogue и Pathfinder, популярны благодаря современным функциям, топливной эффективности и надежной производительности.",
+        "ua": "Автомобілі Nissan відомі своєю доступністю, економічністю та універсальністю, що робить їх чудовим вибором на аукціонах вживаних авто в США. Такі моделі, як Altima, Rogue і Pathfinder, популярні завдяки сучасним функціям, паливній ефективності та надійній продуктивності.",
+        "pl": "Samochody Nissan są znane z przystępnej ceny, wydajności i wszechstronności, co czyni je świetnym wyborem na amerykańskich aukcjach samochodów używanych. Modele takie jak Altima, Rogue i Pathfinder cieszą się popularnością dzięki nowoczesnym funkcjom, oszczędności paliwa i niezawodnej wydajności.",
+        "de": "Nissan-Fahrzeuge sind bekannt für ihre Erschwinglichkeit, Effizienz und Vielseitigkeit, was sie zu einer großartigen Wahl bei US-Gebrauchtwagenauktionen macht. Modelle wie Altima, Rogue und Pathfinder sind beliebt für ihre modernen Funktionen, Kraftstoffeffizienz und zuverlässige Leistung.",
+        "be": "Аўтамабілі Nissan вядомыя сваёй даступнасцю, эфектыўнасцю і ўніверсальнасцю, што робіць іх выдатным выбарам на аўкцыёнах ЗША. Мадэлі, такія як Altima, Rogue і Pathfinder, карыстаюцца папулярнасцю дзякуючы сучасным функцыям і надзейнай прадукцыйнасці."
+    },
     "models": [
         {
-            "title": "Altima",
-            "description": "Nissan Altima is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Nissan",
-                "Altima",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Nissan Altima",
-                    "description": "Nissan Altima — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Nissan",
-                        "Altima",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Nissan cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Nissan cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Nissan samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Nissan cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Nissan Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Nissan cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Nissan аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Nissan cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Rogue",
-            "description": "Nissan Rogue is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Nissan",
-                "Rogue",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Nissan Rogue",
-                    "description": "Nissan Rogue — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Nissan",
-                        "Rogue",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Nissan cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Nissan cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Nissan samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Nissan cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Nissan Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Nissan cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Nissan аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Nissan cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Sentra",
-            "description": "Nissan Sentra is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Nissan",
-                "Sentra",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Nissan Sentra",
-                    "description": "Nissan Sentra — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Nissan",
-                        "Sentra",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Nissan cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Nissan cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Nissan samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Nissan cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Nissan Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Nissan cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Nissan аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Nissan cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         },
         {
-            "title": "Pathfinder",
-            "description": "Nissan Pathfinder is a top-rated car model offering great performance and luxury.",
-            "keywords": [
-                "Nissan",
-                "Pathfinder",
-                "car",
-                "luxury"
-            ],
-            "translations": {
-                "en": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder is a top-rated car model offering great performance and luxury.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "car",
-                        "luxury"
-                    ]
-                },
-                "ru": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "автомобиль",
-                        "роскошь"
-                    ]
-                },
-                "uk": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "автомобіль",
-                        "розкіш"
-                    ]
-                },
-                "pl": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "samochód",
-                        "luksus"
-                    ]
-                },
-                "de": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "Auto",
-                        "Luxus"
-                    ]
-                },
-                "be": {
-                    "title": "Nissan Pathfinder",
-                    "description": "Nissan Pathfinder — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                    "keywords": [
-                        "Nissan",
-                        "Pathfinder",
-                        "аўтамабіль",
-                        "раскоша"
-                    ]
-                }
+            "en": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "car",
+                    "luxury"
+                ]
             },
-            "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs.",
-            "translations_full": {
-                "en": {
-                    "description_full": "When considering used cars at US auctions, Nissan vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, Nissan cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "ru": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобили stand out as some of the best options available. Known for their reliability, durability, and overall ценность, Nissan cars hold their ценность over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "uk": {
-                    "description_full": "When considering used cars at US auctions, Nissan автомобілі stand out as some of the best options available. Known for their reliability, durability, and overall вартість, Nissan cars hold their вартість over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "pl": {
-                    "description_full": "When considering used cars at US auctions, Nissan samochody stand out as some of the best options available. Known for their reliability, durability, and overall wartość, Nissan cars hold their wartość over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "de": {
-                    "description_full": "When considering used cars at US auctions, Nissan Fahrzeuge stand out as some of the best options available. Known for their reliability, durability, and overall Wert, Nissan cars hold their Wert over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                },
-                "be": {
-                    "description_full": "When considering used cars at US auctions, Nissan аўтамабілі stand out as some of the best options available. Known for their reliability, durability, and overall каштоўнасць, Nissan cars hold their каштоўнасць over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, Nissan offers a diverse range of models that are sure to meet your needs."
-                }
+            "ru": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "автомобиль",
+                    "роскошь"
+                ]
+            },
+            "ua": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "автомобіль",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "samochód",
+                    "luksus"
+                ]
+            },
+            "de": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "Auto",
+                    "Luxus"
+                ]
+            },
+            "be": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "аўтамабіль",
+                    "раскоша"
+                ]
             }
         }
     ]
