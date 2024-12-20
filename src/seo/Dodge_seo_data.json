@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "charger",
             "en": {
                 "title": "Dodge Charger",
                 "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "challenger",
             "en": {
                 "title": "Dodge Challenger",
                 "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "durango",
             "en": {
                 "title": "Dodge Durango",
                 "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",

@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "civic",
             "en": {
                 "title": "Honda Civic",
                 "description": "Honda Civic is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "accord",
             "en": {
                 "title": "Honda Accord",
                 "description": "Honda Accord is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "cr-v",
             "en": {
                 "title": "Honda CR-V",
                 "description": "Honda CR-V is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "pilot",
             "en": {
                 "title": "Honda Pilot",
                 "description": "Honda Pilot is a top-rated car model offering great performance and luxury.",

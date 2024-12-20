@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "camry",
             "en": {
                 "title": "Toyota Camry",
                 "description": "Toyota Camry is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "corolla",
             "en": {
                 "title": "Toyota Corolla",
                 "description": "Toyota Corolla is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "rav4",
             "en": {
                 "title": "Toyota RAV4",
                 "description": "Toyota RAV4 is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "tacoma",
             "en": {
                 "title": "Toyota Tacoma",
                 "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
@@ -259,6 +263,7 @@
             }
         },
         {
+            "slug": "highlander",
             "en": {
                 "title": "Toyota Highlander",
                 "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",

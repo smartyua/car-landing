@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "outback",
             "en": {
                 "title": "Subaru Outback",
                 "description": "Subaru Outback is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "forester",
             "en": {
                 "title": "Subaru Forester",
                 "description": "Subaru Forester is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "impreza",
             "en": {
                 "title": "Subaru Impreza",
                 "description": "Subaru Impreza is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "crosstek",
             "en": {
                 "title": "Subaru Crosstrek",
                 "description": "Subaru Crosstrek is a top-rated car model offering great performance and luxury.",

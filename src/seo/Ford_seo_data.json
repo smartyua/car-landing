@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "f-150",
             "en": {
                 "title": "Ford F-150",
                 "description": "Ford F-150 is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "explorer",
             "en": {
                 "title": "Ford Explorer",
                 "description": "Ford Explorer is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "escape",
             "en": {
                 "title": "Ford Escape",
                 "description": "Ford Escape is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "mustang",
             "en": {
                 "title": "Ford Mustang",
                 "description": "Ford Mustang is a top-rated car model offering great performance and luxury.",

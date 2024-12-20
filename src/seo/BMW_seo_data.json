@@ -11,6 +11,64 @@
     },
     "models": [
         {
+            "slug": "bmw-i3",
+            "en": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting.",
+                "keywords": [
+                    "BMW",
+                    "i3",
+                    "eco-friendly",
+                    "urban EV",
+                    "stylish"
+                ]
+            },
+            "ua": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (ua)",
+                "keywords": [
+                    "BMW (ua)",
+                    "i3 (ua)",
+                    "eco-friendly (ua)",
+                    "urban EV (ua)",
+                    "stylish (ua)"
+                ]
+            },
+            "pl": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (pl)",
+                "keywords": [
+                    "BMW (pl)",
+                    "i3 (pl)",
+                    "eco-friendly (pl)",
+                    "urban EV (pl)",
+                    "stylish (pl)"
+                ]
+            },
+            "de": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (de)",
+                "keywords": [
+                    "BMW (de)",
+                    "i3 (de)",
+                    "eco-friendly (de)",
+                    "urban EV (de)",
+                    "stylish (de)"
+                ]
+            },
+            "be": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (be)",
+                "keywords": [
+                    "BMW (be)",
+                    "i3 (be)",
+                    "eco-friendly (be)",
+                    "urban EV (be)",
+                    "stylish (be)"
+                ]
+            }
+        },
+        {
             "slug": "bmw-3-series",
             "en": {
                 "title": "BMW 3 Series",

@@ -11,6 +11,65 @@
     },
     "models": [
         {
+            "slug": "nissan-leaf",
+            "en": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability.",
+                "keywords": [
+                    "Nissan",
+                    "Leaf",
+                    "compact EV",
+                    "affordable",
+                    "reliable"
+                ]
+            },
+            "ua": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (ua)",
+                "keywords": [
+                    "Nissan (ua)",
+                    "Leaf (ua)",
+                    "compact EV (ua)",
+                    "affordable (ua)",
+                    "reliable (ua)"
+                ]
+            },
+            "pl": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (pl)",
+                "keywords": [
+                    "Nissan (pl)",
+                    "Leaf (pl)",
+                    "compact EV (pl)",
+                    "affordable (pl)",
+                    "reliable (pl)"
+                ]
+            },
+            "de": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (de)",
+                "keywords": [
+                    "Nissan (de)",
+                    "Leaf (de)",
+                    "compact EV (de)",
+                    "affordable (de)",
+                    "reliable (de)"
+                ]
+            },
+            "be": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (be)",
+                "keywords": [
+                    "Nissan (be)",
+                    "Leaf (be)",
+                    "compact EV (be)",
+                    "affordable (be)",
+                    "reliable (be)"
+                ]
+            }
+        },
+        {
+            "slug": "altima",
             "en": {
                 "title": "Nissan Altima",
                 "description": "Nissan Altima is a top-rated car model offering great performance and luxury.",
@@ -73,6 +132,7 @@
             }
         },
         {
+            "slug": "rogue",
             "en": {
                 "title": "Nissan Rogue",
                 "description": "Nissan Rogue is a top-rated car model offering great performance and luxury.",
@@ -135,6 +195,7 @@
             }
         },
         {
+            "slug": "sentra",
             "en": {
                 "title": "Nissan Sentra",
                 "description": "Nissan Sentra is a top-rated car model offering great performance and luxury.",
@@ -197,6 +258,7 @@
             }
         },
         {
+            "slug": "pathfinder",
             "en": {
                 "title": "Nissan Pathfinder",
                 "description": "Nissan Pathfinder is a top-rated car model offering great performance and luxury.",

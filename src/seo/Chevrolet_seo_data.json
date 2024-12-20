@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "silverado",
             "en": {
                 "title": "Chevrolet Silverado",
                 "description": "Chevrolet Silverado is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "malibu",
             "en": {
                 "title": "Chevrolet Malibu",
                 "description": "Chevrolet Malibu is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "equinox",
             "en": {
                 "title": "Chevrolet Equinox",
                 "description": "Chevrolet Equinox is a top-rated car model offering great performance and luxury.",

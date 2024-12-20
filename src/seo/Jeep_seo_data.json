@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "cherokee",
             "en": {
                 "title": "Jeep Grand Cherokee",
                 "description": "Jeep Grand Cherokee is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "wrangler",
             "en": {
                 "title": "Jeep Wrangler",
                 "description": "Jeep Wrangler is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "cherokee",
             "en": {
                 "title": "Jeep Cherokee",
                 "description": "Jeep Cherokee is a top-rated car model offering great performance and luxury.",

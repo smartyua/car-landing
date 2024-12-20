@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "optima",
             "en": {
                 "title": "Kia Optima",
                 "description": "Kia Optima is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "sorento",
             "en": {
                 "title": "Kia Sorento",
                 "description": "Kia Sorento is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "sportage",
             "en": {
                 "title": "Kia Sportage",
                 "description": "Kia Sportage is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "forte",
             "en": {
                 "title": "Kia Forte",
                 "description": "Kia Forte is a top-rated car model offering great performance and luxury.",

@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "rx",
             "en": {
                 "title": "Lexus RX",
                 "description": "Lexus RX is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "es",
             "en": {
                 "title": "Lexus ES",
                 "description": "Lexus ES is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "nx",
             "en": {
                 "title": "Lexus NX",
                 "description": "Lexus NX is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "gx",
             "en": {
                 "title": "Lexus GX",
                 "description": "Lexus GX is a top-rated car model offering great performance and luxury.",

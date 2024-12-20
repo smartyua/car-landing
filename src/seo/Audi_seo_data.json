@@ -1,14 +1,348 @@
 {
-    "title": "Volkswagen",
-    "headTitle": "Volkswagen used cars from US Auctions with delivery to your country",
+    "title": "Audi",
+    "headTitle": "Audi used cars from US Auctions with delivery to your country",
     "description": {
-        "en": "Audi is a premium brand that combines luxury, performance, and advanced technology, making it a great option for those looking for high-end used cars at US auctions. Models like the A4, A6, and Q5 offer impressive comfort, excellent driving dynamics, and sophisticated features. Audi vehicles maintain their value well, making them an excellent long-term investment for anyone seeking a luxury used car.",
-        "ru": "Audi - это премиальный бренд, который сочетает в себе роскошь, производительность и передовые технологии, что делает его отличным выбором для тех, кто ищет автомобили высокого класса на аукционах подержанных автомобилей в США. Модели, такие как A4, A6 и Q5, предлагают отличное удобство, динамичные характеристики вождения и современные функции.",
-        "ua": "Audi — це преміум-бренд, який поєднує розкіш, продуктивність і передові технології, що робить його чудовим вибором для тих, хто шукає автомобілі класу люкс на аукціонах вживаних авто в США. Моделі, такі як A4, A6 і Q5, пропонують вражаючий комфорт, відмінну динаміку водіння та сучасні функції.",
-        "pl": "Audi to marka premium, która łączy luksus, wydajność i nowoczesne technologie, co czyni ją doskonałym wyborem dla osób szukających samochodów wysokiej klasy na amerykańskich aukcjach samochodów używanych. Modele takie jak A4, A6 i Q5 oferują imponujący komfort, doskonałą dynamikę jazdy i zaawansowane funkcje.",
-        "de": "Audi ist eine Premium-Marke, die Luxus, Leistung und fortschrittliche Technologie kombiniert, was sie zu einer großartigen Wahl für diejenigen macht, die auf US-Gebrauchtwagenauktionen nach hochwertigen Gebrauchtwagen suchen. Modelle wie A4, A6 und Q5 bieten beeindruckenden Komfort, hervorragende Fahrdynamik und raffinierte Funktionen.",
-        "be": "Audi - гэта прэміум брэнд, які спалучае раскошу, прадукцыйнасць і перадавыя тэхналогіі, што робіць яго выдатным выбарам для тых, хто шукае высокакласныя б/у аўтамабілі на аўкцыёнах у ЗША. Мадэлі, такія як A4, A6 і Q5, прапануюць імпрэсіянаваны камфорт, выдатную дынаміку ваджэння і сучасныя функцыі."
+        "en": "Audi represents sophistication and high performance, making it a sought-after brand in US used car auctions. With advanced technology, models like the Audi A3, A4, Q5, and Q7 offer luxury, innovation, and reliability. Audi cars cater to enthusiasts who value style, comfort, and cutting-edge features.",
+        "ru": "Audi символизирует утонченность и высокую производительность, что делает её востребованным брендом на аукционах подержанных автомобилей в США. Благодаря передовым технологиям такие модели, как Audi A3, A4, Q5 и Q7, предлагают роскошь, инновации и надежность.",
+        "ua": "Audi представляє витонченість і високу продуктивність, що робить її популярним брендом на аукціонах вживаних авто в США. Завдяки передовим технологіям такі моделі, як Audi A3, A4, Q5 і Q7, пропонують розкіш, інновації та надійність.",
+        "pl": "Audi oznacza wyrafinowanie i wysoką wydajność, co czyni ją pożądaną marką na amerykańskich aukcjach samochodów używanych. Dzięki zaawansowanej technologii modele takie jak Audi A3, A4, Q5 i Q7 oferują luksus, innowacyjność i niezawodność.",
+        "de": "Audi steht für Eleganz und hohe Leistung und ist damit eine gefragte Marke bei US-Gebrauchtwagenauktionen. Mit fortschrittlicher Technologie bieten Modelle wie Audi A3, A4, Q5 und Q7 Luxus, Innovation und Zuverlässigkeit.",
+        "be": "Audi сімвалізуе вытанчанасць і высокую прадукцыйнасць, што робіць яе папулярным брэндам на аўкцыёнах ЗША. Дзякуючы перадавым тэхналогіям, мадэлі, такія як Audi A3, A4, Q5 і Q7, прапануюць раскошу, інавацыі і надзейнасць."
     },
     "models": [
+        {
+            "slug": "audi-e-tron",
+            "en": {
+                "title": "Audi e-tron",
+                "description": "A luxury electric SUV offering comfort, performance, and advanced technology.",
+                "keywords": [
+                    "Audi",
+                    "e-tron",
+                    "luxury EV",
+                    "SUV",
+                    "advanced tech"
+                ]
+            },
+            "ua": {
+                "title": "Audi e-tron",
+                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (ua)",
+                "keywords": [
+                    "Audi (ua)",
+                    "e-tron (ua)",
+                    "luxury EV (ua)",
+                    "SUV (ua)",
+                    "advanced tech (ua)"
+                ]
+            },
+            "pl": {
+                "title": "Audi e-tron",
+                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (pl)",
+                "keywords": [
+                    "Audi (pl)",
+                    "e-tron (pl)",
+                    "luxury EV (pl)",
+                    "SUV (pl)",
+                    "advanced tech (pl)"
+                ]
+            },
+            "de": {
+                "title": "Audi e-tron",
+                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (de)",
+                "keywords": [
+                    "Audi (de)",
+                    "e-tron (de)",
+                    "luxury EV (de)",
+                    "SUV (de)",
+                    "advanced tech (de)"
+                ]
+            },
+            "be": {
+                "title": "Audi e-tron",
+                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (be)",
+                "keywords": [
+                    "Audi (be)",
+                    "e-tron (be)",
+                    "luxury EV (be)",
+                    "SUV (be)",
+                    "advanced tech (be)"
+                ]
+            }
+        },
+        {
+            "slug": "audi-a3",
+            "en": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology"
+                ]
+            },
+            "ru": {
+                "title": "Audi A3",
+                "description": "Audi A3 сочетает компактную роскошь с динамичной производительностью и современными технологиями.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "компактная роскошь",
+                    "производительность",
+                    "технологии"
+                ]
+            },
+            "ua": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology"
+                ]
+            },
+            "pl": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology"
+                ]
+            },
+            "de": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology"
+                ]
+            },
+            "be": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology"
+                ]
+            }
+        },
+        {
+            "slug": "audi-a4",
+            "en": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features"
+                ]
+            },
+            "ru": {
+                "title": "Audi A4",
+                "description": "Audi A4 является символом премиального качества, предлагая плавную езду и передовые функции.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "премиальное качество",
+                    "плавная езда",
+                    "современные функции"
+                ]
+            },
+            "ua": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features"
+                ]
+            },
+            "pl": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features"
+                ]
+            },
+            "de": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features"
+                ]
+            },
+            "be": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features"
+                ]
+            }
+        },
+        {
+            "slug": "audi-q5",
+            "en": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility"
+                ]
+            },
+            "ru": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 предлагает идеальное сочетание роскоши, производительности и универсальности в сегменте SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "роскошный SUV",
+                    "производительность",
+                    "универсальность"
+                ]
+            },
+            "ua": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility"
+                ]
+            },
+            "pl": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility"
+                ]
+            },
+            "de": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility"
+                ]
+            },
+            "be": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility"
+                ]
+            }
+        },
+        {
+            "slug": "audi-q7",
+            "en": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology"
+                ]
+            },
+            "ru": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 — это полноразмерный роскошный SUV, известный своим просторным салоном и передовыми технологиями.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "роскошный SUV",
+                    "просторный салон",
+                    "технологии"
+                ]
+            },
+            "ua": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology"
+                ]
+            },
+            "pl": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology"
+                ]
+            },
+            "de": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology"
+                ]
+            },
+            "be": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology"
+                ]
+            }
+        }
     ]
 }

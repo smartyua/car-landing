@@ -11,6 +11,7 @@
     },
     "models": [
         {
+            "slug": "c-class",
             "en": {
                 "title": "MercedesBenz C-Class",
                 "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
@@ -73,6 +74,7 @@
             }
         },
         {
+            "slug": "e-class",
             "en": {
                 "title": "MercedesBenz E-Class",
                 "description": "MercedesBenz E-Class is a top-rated car model offering great performance and luxury.",
@@ -135,6 +137,7 @@
             }
         },
         {
+            "slug": "gle",
             "en": {
                 "title": "MercedesBenz GLE",
                 "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
@@ -197,6 +200,7 @@
             }
         },
         {
+            "slug": "gls",
             "en": {
                 "title": "MercedesBenz GLS",
                 "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
