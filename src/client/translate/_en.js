@@ -1,5 +1,6 @@
 const translate = {
   _HOME_CONTACT: `Contact`,
+  _BACK: `Back to `,
   _SEO_TITLE:
     'CARS DIRECTLY FROM THE USA - We help you buy your dream car and save up to 50% on its final cost!',
   _SEO_DESCRIPTION:

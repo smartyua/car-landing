@@ -1,5 +1,6 @@
 const translate = {
   _HOME_CONTACT: `Kontakt`,
+  _BACK: `Zurück zu `,
   _SEO_TITLE:
     'AUTOS DIREKT AUS DEN USA - Wir helfen Ihnen, Ihr Traumauto zu kaufen und bis zu 50% der Endkosten zu sparen!',
   _SEO_DESCRIPTION:

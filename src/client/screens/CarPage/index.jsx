@@ -13,6 +13,7 @@ import { animateScroll as scroll } from 'react-scroll';
 import Section from '../../components/Section';
 import styles from './car.module.scss';
 import metaValues from '../../../config';
+import translation from '../../translate';
 
 const scrollOption = {
   duration: 50,
@@ -66,7 +67,11 @@ const CarScreen = (): any => {
         </div>
       </Section>
 
-      <Section>
+      <Section className={styles.content}>
+        <Link to={`/${language}/${String(brand)}`} onClick={handleScrollClick}>
+          {translation('_BACK', language)} {title}
+        </Link>
+        &nbsp;→&nbsp;{model.title}
         <div className={styles.content}>{parameters}</div>
       </Section>
     </section>

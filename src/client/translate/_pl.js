@@ -1,5 +1,6 @@
 const translate = {
   _HOME_CONTACT: `Kontakt`,
+  _BACK: `Wróć do `,
   _SEO_TITLE:
     'SAMOCHODY PROSTO Z USA - Pomożemy Ci kupić samochód marzeń i zaoszczędzić nawet do 50% na jego końcowej cenie!',
   _SEO_DESCRIPTION:
