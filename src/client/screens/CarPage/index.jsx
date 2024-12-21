@@ -28,7 +28,7 @@ const handleScrollClick = () => scroll.scrollToTop(scrollOption);
 const CarScreen = (): any => {
   const params = useParams();
   const { brand = 'default' } = params;
-  const { defaultTitle, globalSEO } = metaValues;
+  const { defaultTitle, globalSEO, popularCarBrands } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
   const { title, headTitle, description, models } =
     _.get(globalSEO, brand) || _.get(globalSEO, 'default');
@@ -36,15 +36,20 @@ const CarScreen = (): any => {
   const descriptionText = description[language];
   const kwText = models
     .reduce((acc, item) => {
-      const { keywords } = item[language];
+      const { keywords } =
+        item && item[language] ? item[language] : { keywords: [] };
       return [].concat(acc, keywords);
     }, [])
-    .flat();
+    .flat()
+    .filter(x => !!x);
 
   const modelInfo = models.find(x => x.slug === params.slug);
   const model = modelInfo[language];
   const parameters = JSON.stringify(params, null, 2);
   const keywordsText = Array.from(new Set([...kwText]));
+  const brandInfo = popularCarBrands.find(x => x.slug === brand);
+  const imageStyle =
+    brandInfo && brandInfo.image ? styles[brandInfo.image] : '';
 
   return (
     <section>
@@ -61,18 +66,22 @@ const CarScreen = (): any => {
         />
       </Helmet>
 
-      <Section fullwidth={true} className={styles.head}>
-        <div className={styles.headImage}>
-          <h1>{title}</h1>
-        </div>
-      </Section>
+      {brandInfo && brandInfo.image && (
+        <Section fullwidth={true} className={styles.head}>
+          <div className={imageStyle}>
+            <h1>{title}</h1>
+          </div>
+        </Section>
+      )}
 
       <Section className={styles.content}>
         <Link to={`/${language}/${String(brand)}`} onClick={handleScrollClick}>
           {translation('_BACK', language)} {title}
         </Link>
         &nbsp;→&nbsp;{model.title}
-        <div className={styles.content}>{parameters}</div>
+        <div>{parameters}</div>
+        <h1>{model.title}</h1>
+        <div>{model.description}</div>
       </Section>
     </section>
   );

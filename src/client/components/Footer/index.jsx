@@ -24,7 +24,7 @@ const Footer = (): any => {
     </span>
   );
 
-  const { popularCarBrands } = configValues;
+  const { popularCarBrands, globalSEO } = configValues;
   const cols = 3;
   const rows = Math.ceil(popularCarBrands.length / cols);
   const matrix = Array.from({ length: rows }, () => Array(cols).fill(null));
@@ -54,6 +54,9 @@ const Footer = (): any => {
                       return null;
                     }
 
+                    const { models } = globalSEO[brand.slug];
+                    const modelsText = models.map(x => x[language].title);
+
                     const link = `/${language}/${brand.title.toLowerCase()}`;
                     return (
                       <div key={j} className={styles.brand}>
@@ -63,7 +66,7 @@ const Footer = (): any => {
                           </Link>
                         </div>
                         <div className={styles.models}>
-                          {brand.models.join(', ')}
+                          {modelsText.join(', ')}
                         </div>
                       </div>
                     );

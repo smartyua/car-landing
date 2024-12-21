@@ -11,6 +11,72 @@
     },
     "models": [
         {
+            "slug": "kia-ev6",
+            "en": {
+                "title": "Kia EV6",
+                "description": "A futuristic electric crossover with exceptional range and innovative features.",
+                "keywords": ["Kia", "EV6", "electric crossover", "long range", "innovative"]
+            },
+            "ru": {
+                "title": "Kia EV6",
+                "description": "Футуристический электрический кроссовер с выдающимся запасом хода и инновационными функциями.",
+                "keywords": ["Kia", "EV6", "электрический кроссовер", "дальний пробег", "инновации"]
+            },
+            "ua": {
+                "title": "Kia EV6",
+                "description": "Футуристичний електричний кросовер із винятковим запасом ходу та інноваційними функціями.",
+                "keywords": ["Kia", "EV6", "електричний кросовер", "великий запас ходу", "інновації"]
+            },
+            "pl": {
+                "title": "Kia EV6",
+                "description": "Futurystyczny elektryczny crossover z wyjątkowym zasięgiem i innowacyjnymi funkcjami.",
+                "keywords": ["Kia", "EV6", "elektryczny crossover", "duży zasięg", "innowacje"]
+            },
+            "de": {
+                "title": "Kia EV6",
+                "description": "Ein futuristisches elektrisches Crossover mit außergewöhnlicher Reichweite und innovativen Funktionen.",
+                "keywords": ["Kia", "EV6", "elektrisches Crossover", "große Reichweite", "innovativ"]
+            },
+            "be": {
+                "title": "Kia EV6",
+                "description": "Футурыстычны электрычны кросовер з выключным запасам ходу і інавацыйнымі функцыямі.",
+                "keywords": ["Kia", "EV6", "электрычны кросовер", "вялікі запас ходу", "інавацыі"]
+            }
+        },
+        {
+            "slug": "kia-ev9",
+            "en": {
+                "title": "Kia EV9",
+                "description": "A bold and spacious electric SUV with cutting-edge technology.",
+                "keywords": ["Kia", "EV9", "electric SUV", "spacious", "advanced tech"]
+            },
+            "ru": {
+                "title": "Kia EV9",
+                "description": "Смелый и просторный электрический внедорожник с передовыми технологиями.",
+                "keywords": ["Kia", "EV9", "электрический внедорожник", "просторный", "передовые технологии"]
+            },
+            "ua": {
+                "title": "Kia EV9",
+                "description": "Сміливий і просторий електричний позашляховик із передовими технологіями.",
+                "keywords": ["Kia", "EV9", "електричний позашляховик", "просторий", "сучасні технології"]
+            },
+            "pl": {
+                "title": "Kia EV9",
+                "description": "Śmiały i przestronny elektryczny SUV z zaawansowaną technologią.",
+                "keywords": ["Kia", "EV9", "elektryczny SUV", "przestronny", "nowoczesna technologia"]
+            },
+            "de": {
+                "title": "Kia EV9",
+                "description": "Ein mutiger und geräumiger Elektro-SUV mit modernster Technologie.",
+                "keywords": ["Kia", "EV9", "elektrischer SUV", "geräumig", "moderne Technologie"]
+            },
+            "be": {
+                "title": "Kia EV9",
+                "description": "Смелы і прасторны электрычны пазадарожнік з перадавымі тэхналогіямі.",
+                "keywords": ["Kia", "EV9", "электрычны пазадарожнік", "прасторны", "сучасныя тэхналогіі"]
+            }
+        },
+        {
             "slug": "optima",
             "en": {
                 "title": "Kia Optima",

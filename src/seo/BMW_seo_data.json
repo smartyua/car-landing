@@ -34,6 +34,17 @@
                     "stylish (ua)"
                 ]
             },
+            "ru": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (ru)",
+                "keywords": [
+                    "BMW (ru)",
+                    "i3 (ru)",
+                    "eco-friendly (ru)",
+                    "urban EV (ru)",
+                    "stylish (ru)"
+                ]
+            },
             "pl": {
                 "title": "BMW i3",
                 "description": "A stylish and eco-friendly electric car perfect for urban commuting. (pl)",

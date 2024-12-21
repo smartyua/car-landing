@@ -1,7 +1,8 @@
 // @flow
 
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useEffect } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 // import * as Scroll from 'react-scroll';
 import { Helmet } from 'react-helmet';
 import _ from 'lodash';
@@ -25,22 +26,39 @@ const scrollOption = {
 const handleScrollClick = () => scroll.scrollToTop(scrollOption);
 
 const BrandScreen = (): any => {
+  const navigate = useNavigate();
+
   const params = useParams();
   const { brand = 'default' } = params;
-  const { defaultTitle, globalSEO } = metaValues;
+  const { defaultTitle, globalSEO, popularCarBrands } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
-  const { title, headTitle, description, models } =
+  const { title, headTitle, description } =
     _.get(globalSEO, brand) || _.get(globalSEO, 'default');
 
+  const models =
+    globalSEO[brand] && globalSEO[brand].models ? globalSEO[brand].models : [];
+
+  useEffect(() => {
+    if (!models.length) {
+      return navigate('/404');
+    }
+  });
+
+  const brandInfo = popularCarBrands.find(x => x.slug === brand);
   const descriptionText = description[language];
   const kwText = models
+    // $FlowFixMe
     .reduce((acc, item) => {
-      const { keywords } = item[language];
+      const { keywords } =
+        item && item[language] ? item[language] : { keywords: [] };
       return [].concat(acc, keywords);
     }, [])
-    .flat();
+    .flat()
+    .filter(x => !!x);
 
   const keywordsText = Array.from(new Set([...kwText]));
+  const imageStyle =
+    brandInfo && brandInfo.image ? styles[brandInfo.image] : '';
 
   return (
     <section>
@@ -57,18 +75,26 @@ const BrandScreen = (): any => {
         />
       </Helmet>
 
-      <Section fullwidth={true} className={styles.head}>
-        <div className={styles.headImage}>
-          <h1>{title}</h1>
-        </div>
-      </Section>
+      {brandInfo && brandInfo.image && (
+        <Section fullwidth={true} className={styles.head}>
+          <div className={imageStyle}>
+            <h1>{title}</h1>
+          </div>
+        </Section>
+      )}
 
       <Section>
         <div className={styles.content}>
+          {brandInfo && !brandInfo.image && <h1>{brandInfo.title}</h1>}
           <div className={styles.text}>{descriptionText}</div>
+
           {models.length > 0 && (
             <div className={styles.models}>
               {models.map((model, i) => {
+                if (!model[language].title) {
+                  return null;
+                }
+
                 const { slug } = model;
                 const link = `/${language}/${String(brand)}/${slug}`;
 

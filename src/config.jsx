@@ -50,28 +50,66 @@ const values = {
   },
 
   popularCarBrands: [
-    { title: 'Audi', models: ['A4', 'A6', 'Q5', 'Q7', 'A3', 'A5', 'Q3', 'Q8'] },
-    { title: 'BMW', models: ['3 Series', '5 Series', 'X5', 'X3'] },
-    { title: 'Chevrolet', models: ['Silverado', 'Malibu', 'Equinox', 'Tahoe'] },
-    { title: 'Dodge', models: ['Charger', 'Challenger', 'Durango'] },
-    { title: 'Ford', models: ['F-150', 'Explorer', 'Escape', 'Mustang'] },
-    { title: 'Honda', models: ['Civic', 'Accord', 'CR-V', 'Pilot'] },
-    { title: 'Hyundai', models: ['Elantra', 'Sonata', 'Tucson', 'Santa Fe'] },
-    { title: 'Jeep', models: ['Grand Cherokee', 'Wrangler', 'Cherokee'] },
-    { title: 'Kia', models: ['Optima', 'Sorento', 'Sportage', 'Forte'] },
-    { title: 'Lexus', models: ['RX', 'ES', 'NX', 'GX'] },
-    { title: 'MercedesBenz', models: ['C-Class', 'E-Class', 'GLE', 'GLS'] },
-    { title: 'Nissan', models: ['Altima', 'Rogue', 'Sentra', 'Pathfinder'] },
+    {
+      title: 'Audi',
+      slug: 'audi'
+    },
+    { title: 'BMW', slug: 'bmw' },
+    {
+      title: 'Chevrolet',
+      slug: 'chevrolet'
+    },
+    {
+      title: 'Dodge',
+      slug: 'dodge',
+      image: 'headDodge'
+    },
+    {
+      title: 'Ford',
+      slug: 'ford',
+      image: 'headMustang'
+    },
+    {
+      title: 'Honda',
+      slug: 'honda'
+    },
+    {
+      title: 'Hyundai',
+      slug: 'hyundai'
+    },
+    {
+      title: 'Jeep',
+      slug: 'jeep'
+    },
+    {
+      title: 'Kia',
+      slug: 'kia'
+    },
+    { title: 'Lexus', slug: 'lexus' },
+    {
+      title: 'MercedesBenz',
+      slug: 'mercedesbenz'
+    },
+    {
+      title: 'Nissan',
+      slug: 'nissan'
+    },
     {
       title: 'Subaru',
-      models: ['Outback', 'Forester', 'Impreza', 'Crosstrek']
+      slug: 'subaru'
     },
-    { title: 'Tesla', models: ['Model 3', 'Model S', 'Model X', 'Model Y'] },
+    {
+      title: 'Tesla',
+      slug: 'tesla'
+    },
     {
       title: 'Toyota',
-      models: ['Camry', 'Corolla', 'RAV4', 'Tacoma', 'Highlander']
+      slug: 'toyota'
     },
-    { title: 'Volkswagen', models: ['Jetta', 'Passat', 'Tiguan'] }
+    {
+      title: 'Volkswagen',
+      slug: 'volkswagen'
+    }
   ]
 };
 

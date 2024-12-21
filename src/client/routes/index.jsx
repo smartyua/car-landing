@@ -1,8 +1,6 @@
 import Home from '../screens/Home';
 import Brands from '../screens/Brands';
 import CarPage from '../screens/CarPage';
-import Dodge from '../screens/_Dodge';
-import Mustang from '../screens/_Mustang';
 import Page404 from '../screens/Page404';
 
 // ADMIN AREA
@@ -29,14 +27,9 @@ const Routes = [
     exact: true
   },
   {
-    path: '/:language/mustang',
-    element: Mustang,
-    exact: true
-  },
-  {
-    path: '/:language/dodge',
-    element: Dodge,
-    exact: true
+    exact: false,
+    path: '/404',
+    element: Page404
   },
   {
     exact: false,

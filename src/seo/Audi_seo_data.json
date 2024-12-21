@@ -1,71 +1,79 @@
 {
-    "title": "Audi",
-    "headTitle": "Audi used cars from US Auctions with delivery to your country",
+    "title": "Audi Electric Vehicles",
+    "headTitle": "All Electric Vehicles from Audi with advanced features and luxury",
     "description": {
-        "en": "Audi represents sophistication and high performance, making it a sought-after brand in US used car auctions. With advanced technology, models like the Audi A3, A4, Q5, and Q7 offer luxury, innovation, and reliability. Audi cars cater to enthusiasts who value style, comfort, and cutting-edge features.",
-        "ru": "Audi символизирует утонченность и высокую производительность, что делает её востребованным брендом на аукционах подержанных автомобилей в США. Благодаря передовым технологиям такие модели, как Audi A3, A4, Q5 и Q7, предлагают роскошь, инновации и надежность.",
-        "ua": "Audi представляє витонченість і високу продуктивність, що робить її популярним брендом на аукціонах вживаних авто в США. Завдяки передовим технологіям такі моделі, як Audi A3, A4, Q5 і Q7, пропонують розкіш, інновації та надійність.",
-        "pl": "Audi oznacza wyrafinowanie i wysoką wydajność, co czyni ją pożądaną marką na amerykańskich aukcjach samochodów używanych. Dzięki zaawansowanej technologii modele takie jak Audi A3, A4, Q5 i Q7 oferują luksus, innowacyjność i niezawodność.",
-        "de": "Audi steht für Eleganz und hohe Leistung und ist damit eine gefragte Marke bei US-Gebrauchtwagenauktionen. Mit fortschrittlicher Technologie bieten Modelle wie Audi A3, A4, Q5 und Q7 Luxus, Innovation und Zuverlässigkeit.",
-        "be": "Audi сімвалізуе вытанчанасць і высокую прадукцыйнасць, што робіць яе папулярным брэндам на аўкцыёнах ЗША. Дзякуючы перадавым тэхналогіям, мадэлі, такія як Audi A3, A4, Q5 і Q7, прапануюць раскошу, інавацыі і надзейнасць."
+        "en": "Explore the complete lineup of Audi electric vehicles, blending cutting-edge technology with luxury and performance. From compact models to spacious SUVs, Audi offers innovation for every driver.",
+        "ru": "Исследуйте весь модельный ряд электромобилей Audi, сочетающих передовые технологии с роскошью и производительностью. От компактных моделей до просторных внедорожников, Audi предлагает инновации для каждого.",
+        "ua": "Ознайомтеся з повним асортиментом електромобілів Audi, які поєднують передові технології з розкішшю та продуктивністю.",
+        "pl": "Poznaj pełną gamę samochodów elektrycznych Audi, łączących najnowsze technologie z luksusem i wydajnością.",
+        "de": "Entdecken Sie die komplette Palette der Audi-Elektrofahrzeuge, die Spitzentechnologie mit Luxus und Leistung verbinden.",
+        "be": "Даследуйце поўны асартымент электрамабіляў Audi, якія спалучаюць перадавыя тэхналогіі з раскошай і прадукцыйнасцю."
     },
     "models": [
         {
-            "slug": "audi-e-tron",
+            "slug": "audi-q4-e-tron-family",
             "en": {
-                "title": "Audi e-tron",
-                "description": "A luxury electric SUV offering comfort, performance, and advanced technology.",
-                "keywords": [
-                    "Audi",
-                    "e-tron",
-                    "luxury EV",
-                    "SUV",
-                    "advanced tech"
-                ]
+                "title": "Audi Q4 e-tron® Family",
+                "description": "A compact electric SUV family Audi Q4 e-tron, offering versatility and urban efficiency.",
+                "keywords": ["Audi", "Q4 e-tron", "compact SUV", "electric family", "urban efficiency"]
+            },
+            "ru": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Компактное семейство электрических внедорожников Audi Q4 e-tron, предлагающее универсальность и городскую эффективность.",
+                "keywords": ["Audi", "Q4 e-tron", "компактный внедорожник", "электрическое семейство", "городская эффективность"]
             },
             "ua": {
-                "title": "Audi e-tron",
-                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (ua)",
-                "keywords": [
-                    "Audi (ua)",
-                    "e-tron (ua)",
-                    "luxury EV (ua)",
-                    "SUV (ua)",
-                    "advanced tech (ua)"
-                ]
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Компактна родина електричних позашляховиків Audi Q4 e-tron, що пропонує універсальність та міську ефективність.",
+                "keywords": ["Audi", "Q4 e-tron", "компактний позашляховик", "електрична родина", "міська ефективність"]
             },
             "pl": {
-                "title": "Audi e-tron",
-                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (pl)",
-                "keywords": [
-                    "Audi (pl)",
-                    "e-tron (pl)",
-                    "luxury EV (pl)",
-                    "SUV (pl)",
-                    "advanced tech (pl)"
-                ]
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Kompaktowa rodzina elektrycznych SUV-ów oferująca wszechstronność i miejską wydajność.",
+                "keywords": ["Audi", "Q4 e-tron", "kompaktowy SUV", "elektryczna rodzina", "miejska wydajność"]
             },
             "de": {
-                "title": "Audi e-tron",
-                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (de)",
-                "keywords": [
-                    "Audi (de)",
-                    "e-tron (de)",
-                    "luxury EV (de)",
-                    "SUV (de)",
-                    "advanced tech (de)"
-                ]
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Eine kompakte Familie von Elektro-SUVs, die Vielseitigkeit und städtische Effizienz bietet.",
+                "keywords": ["Audi", "Q4 e-tron", "kompakter SUV", "elektrische Familie", "städtische Effizienz"]
             },
             "be": {
-                "title": "Audi e-tron",
-                "description": "A luxury electric SUV offering comfort, performance, and advanced technology. (be)",
-                "keywords": [
-                    "Audi (be)",
-                    "e-tron (be)",
-                    "luxury EV (be)",
-                    "SUV (be)",
-                    "advanced tech (be)"
-                ]
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Кампактнае сямейства электрычных пазадарожнікаў, якое прапануе ўніверсальнасць і гарадскую эфектыўнасць.",
+                "keywords": ["Audi", "Q4 e-tron", "кампактны пазадарожнік", "электрычнае сямейства", "гарадская эфектыўнасць"]
+            }
+        },
+        {
+            "slug": "audi-q6-e-tron-family",
+            "en": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "A bold electric SUV family with spacious interiors and cutting-edge features.",
+                "keywords": ["Audi", "Q6 e-tron", "electric SUV", "spacious", "advanced features"]
+            },
+            "ru": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смелое семейство электрических внедорожников с просторными интерьерами и передовыми функциями.",
+                "keywords": ["Audi", "Q6 e-tron", "электрический внедорожник", "просторный", "передовые функции"]
+            },
+            "ua": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смілива родина електричних позашляховиків із просторими інтер'єрами та передовими функціями.",
+                "keywords": ["Audi", "Q6 e-tron", "електричний позашляховик", "просторий", "передові функції"]
+            },
+            "pl": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Śmiała rodzina elektrycznych SUV-ów z przestronnymi wnętrzami i zaawansowanymi funkcjami.",
+                "keywords": ["Audi", "Q6 e-tron", "elektryczny SUV", "przestronny", "zaawansowane funkcje"]
+            },
+            "de": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Eine mutige Familie von Elektro-SUVs mit geräumigen Innenräumen und fortschrittlichen Funktionen.",
+                "keywords": ["Audi", "Q6 e-tron", "elektrischer SUV", "geräumig", "fortschrittliche Funktionen"]
+            },
+            "be": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смелая сям'я электрычных пазадарожнікаў з прасторнымі інтэр'ерамі і сучаснымі функцыямі.",
+                "keywords": ["Audi", "Q6 e-tron", "электрычны пазадарожнік", "прасторны", "сучасныя функцыі"]
             }
         },
         {
