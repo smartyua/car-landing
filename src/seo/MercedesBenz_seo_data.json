@@ -1,6 +1,13 @@
 {
     "title": "MercedesBenz",
-    "headTitle": "MercedesBenz used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Mercedes-Benz - Luxury Cars for Sale at US Car Auctions",
+        "ru": "Mercedes-Benz - Роскошные автомобили на продажу на аукционах автомобилей в США",
+        "ua": "Mercedes-Benz - Розкішні автомобілі на продаж на аукціонах автомобілів в США",
+        "pl": "Mercedes-Benz - Luksusowe samochody na sprzedaż na aukcjach samochodów w USA",
+        "de": "Mercedes-Benz - Luxusautos zum Verkauf bei US-Autoauktionen",
+        "be": "Mercedes-Benz — Раскошныя аўтамабілі на продаж на аўкцыёнах аўтамабіляў у ЗША"
+    },
     "description": {
         "en": "Mercedes-Benz represents the pinnacle of luxury and engineering excellence, making it a sought-after brand at US used car auctions. Known for their timeless design and cutting-edge features, models like the C-Class, E-Class, and GLE offer unmatched sophistication and comfort. These vehicles are designed to deliver exceptional performance while ensuring reliability and safety, making them an excellent choice for drivers who want the best in automotive innovation.",
         "ru": "Mercedes-Benz олицетворяет вершину роскоши и инженерного мастерства, что делает его востребованным брендом на аукционах подержанных автомобилей в США. Известные своим вневременным дизайном и передовыми функциями, такие модели, как C-Class, E-Class и GLE, предлагают непревзойденную утонченность и комфорт.",

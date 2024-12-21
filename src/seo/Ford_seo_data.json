@@ -1,6 +1,13 @@
 {
     "title": "Ford",
-    "headTitle": "Ford used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Ford cars for sale at US auctions",
+        "ru": "Автомобили Ford на продажу на аукционах в США",
+        "ua": "Автомобілі Ford на продаж на аукціонах в США",
+        "pl": "Samochody Ford na sprzedaż na aukcjach w USA",
+        "de": "Ford-Autos zum Verkauf bei US-Auktionen",
+        "be": "Аўтамабілі Ford на продаж на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Ford is a name synonymous with quality and innovation, making it a top choice for used car buyers at US auctions. With a legacy of producing reliable, versatile vehicles, Ford caters to a variety of preferences, from robust trucks like the F-150 to family-friendly SUVs and sedans. These vehicles are known for their affordability, efficiency, and cutting-edge technology, making them a practical and enduring choice. Whether you need a dependable workhorse or a sleek commuter car, Ford's diverse lineup has you covered.",
         "ru": "Ford — это имя, которое ассоциируется с качеством и инновациями, что делает его отличным выбором для покупателей подержанных автомобилей на аукционах в США. Благодаря наследию надежных и универсальных автомобилей, Ford удовлетворяет самые разные предпочтения — от мощных грузовиков, таких как F-150, до семейных внедорожников и седанов. Эти автомобили известны своей доступностью, экономичностью и передовыми технологиями, что делает их практичным и долговечным выбором. Независимо от того, нужен ли вам надежный рабочий автомобиль или стильный автомобиль для ежедневных поездок, разнообразие моделей Ford вас не разочарует.",

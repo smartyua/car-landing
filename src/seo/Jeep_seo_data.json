@@ -1,6 +1,13 @@
 {
     "title": "Jeep",
-    "headTitle": "Jeep used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Buy Jeep cars at US auctions",
+        "ru": "Купить автомобили Jeep на аукционах в США",
+        "ua": "Купити автомобілі Jeep на аукціонах в США",
+        "pl": "Kup samochody Jeep na aukcjach w USA",
+        "de": "Kaufen Sie Jeep-Autos bei US-Auktionen",
+        "be": "Купіць аўтамабілі Jeep на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Jeep vehicles are synonymous with rugged durability and off-road capability, making them a standout choice at US used car auctions. With a legacy of adventure and reliability, Jeep models like the Wrangler and Grand Cherokee are ideal for those who value versatility and strength. Jeep SUVs are engineered to handle challenging terrains while maintaining comfort and modern amenities, providing an excellent driving experience for outdoor enthusiasts and city dwellers alike.",
         "ru": "Автомобили Jeep ассоциируются с прочностью и внедорожными возможностями, что делает их отличным выбором на аукционах подержанных автомобилей в США. С наследием приключений и надежности, такие модели Jeep, как Wrangler и Grand Cherokee, идеально подходят для тех, кто ценит универсальность и мощь. Джипы разработаны для преодоления сложных маршрутов, сохраняя комфорт и современные удобства, обеспечивая отличный опыт вождения.",

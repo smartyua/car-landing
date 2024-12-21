@@ -1,6 +1,13 @@
 {
     "title": "Honda",
-    "headTitle": "Honda Used Cars at US Auctions",
+    "headTitle": {
+        "en": "Buy Honda cars at US used car auctions",
+        "ru": "Купить автомобили Honda на аукционах б/у автомобилей США",
+        "ua": "Купити автомобілі Honda на аукціонах вживаних автомобілів США",
+        "pl": "Kup samochody Honda na aukcjach samochodów używanych w USA",
+        "de": "Kaufen Sie Honda-Autos auf US-Gebrauchtwagenauktionen",
+        "be": "Купіць аўтамабілі Honda на аўкцыёнах б/у аўтамабіляў у ЗША"
+    },
     "description": {
         "en": "Honda is a trusted name in the automotive world, offering vehicles that combine reliability, efficiency, and innovation. When browsing US used car auctions, Honda models stand out as an excellent choice for their durability and low operating costs. From the popular Civic and Accord to the family-friendly CR-V and Pilot, Honda delivers exceptional value across a wide range of vehicles. These cars are designed to provide a comfortable, smooth ride while maintaining excellent fuel economy, making them a smart investment for any buyer.",
         "ru": "Honda — это надежное имя в мире автомобилей, предлагающее машины, сочетающие надежность, эффективность и инновации. При выборе подержанных автомобилей на аукционах США модели Honda выделяются своей долговечностью и низкими эксплуатационными расходами. От популярных Civic и Accord до семейных CR-V и Pilot — Honda предлагает исключительную ценность в широком спектре автомобилей. Эти машины созданы для комфортной и плавной езды, сохраняя отличную топливную экономичность, что делает их умным выбором для любого покупателя.",

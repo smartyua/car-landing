@@ -1,6 +1,13 @@
 {
     "title": "Volkswagen",
-    "headTitle": "Volkswagen used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Volkswagen cars for sale at US auctions",
+        "ru": "Автомобили Volkswagen на продажу на аукционах в США",
+        "ua": "Автомобілі Volkswagen на продаж на аукціонах в США",
+        "pl": "Samochody Volkswagen na sprzedaż na aukcjach w USA",
+        "de": "Volkswagen-Autos zum Verkauf auf US-Auktionen",
+        "be": "Аўтамабілі Volkswagen на продаж на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Volkswagen cars are known for their solid build quality, safety features, and efficient performance. Popular models like the Jetta, Passat, and Tiguan are excellent options for those looking for affordable and reliable used vehicles at US auctions. With a reputation for longevity and low maintenance costs, Volkswagen vehicles offer great value for anyone in the market for a dependable used car.",
         "ru": "Автомобили Volkswagen известны своей прочной конструкцией, безопасностью и эффективностью. Популярные модели, такие как Jetta, Passat и Tiguan, являются отличным выбором для тех, кто ищет доступные и надежные подержанные автомобили на аукционах в США.",

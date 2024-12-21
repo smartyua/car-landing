@@ -1,6 +1,13 @@
 {
     "title": "Kia",
-    "headTitle": "Kia used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Kia Cars for Sale at US Car Auctions",
+        "ru": "Автомобили Kia на продажу на аукционах в США",
+        "ua": "Автомобілі Kia на продаж у США",
+        "pl": "Samochody Kia na sprzedaż na aukcjach samochodowych w USA",
+        "de": "Kia-Autos zum Verkauf auf US-Autoauktionen",
+        "be": "Аўтамабілі Kia на продаж на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Kia has become a trusted brand in the used car market, offering vehicles that deliver reliability, style, and affordability. At US car auctions, Kia models like the Optima, Sorento, and Sportage are in high demand for their modern design and dependable performance. Kia vehicles provide excellent value, with advanced features and low maintenance costs, making them a smart choice for budget-conscious buyers looking for quality and comfort.",
         "ru": "Kia стала надежным брендом на рынке подержанных автомобилей, предлагая машины, которые сочетают надежность, стиль и доступность. На аукционах в США модели Kia, такие как Optima, Sorento и Sportage, пользуются высоким спросом благодаря современному дизайну и надежной производительности. Kia предлагает отличное соотношение цены и качества, с передовыми функциями и низкими затратами на обслуживание.",

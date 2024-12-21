@@ -40,6 +40,9 @@ const BrandScreen = (): any => {
 
   useEffect(() => {
     if (!models.length) {
+      if (typeof window !== 'undefined') {
+        window.history.pushState({}, '', '/404');
+      }
       return navigate('/404');
     }
   });
@@ -64,7 +67,7 @@ const BrandScreen = (): any => {
     <section>
       <Helmet>
         <title>
-          {title} - {headTitle} - {defaultTitle}
+          {title} - {headTitle[language]} - {defaultTitle}
         </title>
         <meta name="description" content={descriptionText} />
         <meta property="keywords" content={keywordsText} />
@@ -83,7 +86,7 @@ const BrandScreen = (): any => {
         </Section>
       )}
 
-      <Section>
+      <Section className={styles.section}>
         <div className={styles.content}>
           {brandInfo && !brandInfo.image && <h1>{brandInfo.title}</h1>}
           <div className={styles.text}>{descriptionText}</div>
@@ -101,7 +104,12 @@ const BrandScreen = (): any => {
                 return (
                   <div key={i} className={styles.model}>
                     <h3>
-                      <Link to={link} onClick={handleScrollClick}>
+                      <Link
+                        to={link}
+                        onClick={() => {
+                          handleScrollClick();
+                        }}
+                      >
                         {model[language].title}
                       </Link>
                     </h3>

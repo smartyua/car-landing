@@ -1,6 +1,13 @@
 {
     "title": "Toyota",
-    "headTitle": "Toyota used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Toyota Used Cars at US Auctions",
+        "ru": "Подержанные автомобили Toyota на аукционах в США",
+        "ua": "Вживані автомобілі Toyota на аукціонах в США",
+        "pl": "Używane samochody Toyota na aukcjach w USA",
+        "de": "Gebrauchtwagen von Toyota bei US-Auktionen",
+        "be": "Toyota аўтамабілі на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Toyota is one of the most trusted brands when it comes to used cars at US auctions. Known for their reliability, fuel efficiency, and long-lasting performance, Toyota vehicles like the Camry, Corolla, and RAV4 are among the top picks for used car buyers. These models maintain their value over time, offer a smooth ride, and are less likely to encounter expensive repairs, making them an ideal choice for buyers looking for dependable used cars.",
         "ru": "Toyota — один из самых надежных брендов на аукционах подержанных автомобилей в США. Известные своей надежностью, топливной экономичностью и долговечностью, такие автомобили, как Camry, Corolla и RAV4, являются одними из лучших вариантов для покупателей подержанных автомобилей.",

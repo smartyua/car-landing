@@ -1,6 +1,13 @@
 {
     "title": "Hyundai",
-    "headTitle": "Hyundai used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Buy Hyundai cars at US used car auctions",
+        "ru": "Купить автомобили Hyundai на аукционах б/у автомобилей США",
+        "ua": "Купити автомобілі Hyundai на аукціонах вживаних автомобілів США",
+        "pl": "Kup samochody Hyundai na aukcjach samochodów używanych w USA",
+        "de": "Kaufen Sie Hyundai-Autos auf US-Gebrauchtwagenauktionen",
+        "be": "Купіць аўтамабілі Hyundai на аўкцыёнах б/у аўтамабіляў у ЗША"
+    },
     "description": {
         "en": "Hyundai has earned its reputation as a manufacturer of high-quality, affordable vehicles that are perfect for the used car market. Known for their advanced technology, fuel efficiency, and modern design, Hyundai models consistently rank among the top choices at US auctions. Whether you're considering the compact Elantra, the versatile Tucson, or the family-friendly Santa Fe, Hyundai vehicles deliver excellent value and reliability. These cars are built to offer a comfortable driving experience while keeping maintenance costs low, making them a fantastic choice for budget-conscious buyers.",
         "ru": "Hyundai заслужил репутацию производителя высококачественных и доступных автомобилей, которые идеально подходят для рынка подержанных машин. Известные своими передовыми технологиями, топливной экономичностью и современным дизайном, модели Hyundai стабильно входят в число лучших на аукционах в США. Будь то компактный Elantra, универсальный Tucson или семейный Santa Fe, автомобили Hyundai предлагают отличное соотношение цены и надежности. Эти машины созданы для комфортного вождения при низких затратах на обслуживание, что делает их отличным выбором для экономных покупателей.",

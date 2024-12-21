@@ -1,6 +1,13 @@
 {
     "title": "BMW",
-    "headTitle": "BMW Used Cars at US Auctions",
+    "headTitle": {
+        "en": "BMW Used Cars at US Auctions",
+        "ru": "Подержанные автомобили BMW на аукционах США",
+        "ua": "Вживані автомобілі BMW на аукціонах США",
+        "pl": "Używane samochody BMW na aukcjach w USA",
+        "de": "Gebrauchtwagen von BMW bei US-Auktionen",
+        "be": "Б/у аўтамабілі BMW на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "When considering used cars at US auctions, BMW vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, BMW cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, BMW offers a diverse range of models that are sure to meet your needs.",
         "ru": "При рассмотрении подержанных автомобилей на аукционах США, автомобили BMW выделяются как одни из лучших доступных вариантов. Известные своей надежностью, долговечностью и общей ценностью, автомобили BMW сохраняют свою стоимость с течением времени, что делает их отличным выбором для тех, кто ищет долгосрочный автомобиль. Эти автомобили пользуются большим спросом на рынке подержанных автомобилей благодаря прочной конструкции и низким расходам на обслуживание по сравнению с другими марками. Независимо от того, ищете ли вы семейный автомобиль, рабочую лошадку или роскошный автомобиль, BMW предлагает разнообразие моделей, которые наверняка удовлетворят ваши потребности.",

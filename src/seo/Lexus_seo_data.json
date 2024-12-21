@@ -1,6 +1,13 @@
 {
     "title": "Lexus",
-    "headTitle": "Lexus used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Lexus cars for sale at US auctions",
+        "ru": "Автомобили Lexus на продажу на аукционах в США",
+        "ua": "Автомобілі Lexus на продаж на аукціонах в США",
+        "pl": "Samochody Lexus na sprzedaż na aukcjach w USA",
+        "de": "Lexus-Autos zum Verkauf bei US-Auktionen",
+        "be": "Аўтамабілі Lexus на продаж на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Lexus vehicles are renowned for their luxury, performance, and reliability, making them a top choice at US used car auctions. With elegant design and advanced technology, Lexus models like the RX, ES, and NX offer a premium driving experience. These cars are built to last, providing excellent value with low maintenance costs and outstanding durability, making them perfect for those who demand both comfort and quality.",
         "ru": "Автомобили Lexus известны своим люксом, производительностью и надежностью, что делает их одним из лучших выборов на аукционах подержанных автомобилей в США. Благодаря элегантному дизайну и передовым технологиям, модели Lexus, такие как RX, ES и NX, обеспечивают премиальный опыт вождения. Эти автомобили создаются на долгие годы, предоставляя отличное соотношение цены и качества.",

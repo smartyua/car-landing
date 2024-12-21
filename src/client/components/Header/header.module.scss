@@ -81,6 +81,13 @@
       vertical-align: top;
       margin-top: 8px;
 
+      .flagIcon {
+        width: 35px;
+        height: 23px;
+        display: inline-block;
+        margin-right: 10px;
+      }
+
       span {
         padding: 15px;
         display: block;
@@ -113,7 +120,7 @@
         li {
           cursor: pointer;
           display: block;
-          padding: 5px 10px;
+          padding: 5px 10px 5px 0;
 
           &.active {
             color: #576A8F;

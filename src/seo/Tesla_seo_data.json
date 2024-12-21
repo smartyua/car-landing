@@ -1,6 +1,13 @@
 {
     "title": "Tesla",
-    "headTitle": "Tesla used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Tesla cars for sale at US car auctions",
+        "ru": "Автомобили Tesla на продажу на аукционах автомобилей в США",
+        "ua": "Автомобілі Tesla на продаж на аукціонах автомобілів в США",
+        "pl": "Samochody Tesla na sprzedaż na aukcjach samochodowych w USA",
+        "de": "Tesla-Autos zu verkaufen bei US-Autoauktionen",
+        "be": "Аўтамабілі Tesla на продаж на аўкцыёнах аўтамабіляў у ЗША"
+    },
     "description": {
         "en": "Tesla is synonymous with innovation and sustainability, making it an exceptional choice at US used car auctions. With cutting-edge electric technology, models like the Model 3, Model S, and Model X offer impressive performance, long-range capabilities, and eco-friendly benefits. Tesla vehicles are increasingly popular among those seeking modern electric vehicles with advanced features and high resale value.",
         "ru": "Tesla ассоциируется с инновациями и устойчивостью, что делает ее отличным выбором на аукционах подержанных автомобилей в США. С передовыми электрифицированными технологиями модели, такие как Model 3, Model S и Model X, предлагают впечатляющую производительность, большую дальность и экологически чистые преимущества.",

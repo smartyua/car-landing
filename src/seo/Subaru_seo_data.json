@@ -1,6 +1,13 @@
 {
     "title": "Subaru",
-    "headTitle": "Subaru used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Subaru cars for sale at US auctions",
+        "ru": "Автомобили Subaru на аукционах в США",
+        "ua": "Автомобілі Subaru на аукціонах в США",
+        "pl": "Samochody Subaru na aukcjach w USA",
+        "de": "Subaru-Autos bei US-Auktionen",
+        "be": "Аўтамабілі Subaru на аўкцыёнах у ЗША"
+    },
     "description": {
         "en": "Subaru cars are celebrated for their all-wheel drive capability, safety, and reliability, making them a top pick at US used car auctions. Models like the Outback, Forester, and Crosstrek are ideal for families and outdoor enthusiasts alike. With exceptional resale value and a reputation for durability, Subaru vehicles are built to handle diverse terrains and weather conditions.",
         "ru": "Автомобили Subaru славятся своими полным приводом, безопасностью и надежностью, что делает их популярным выбором на аукционах подержанных автомобилей в США. Такие модели, как Outback, Forester и Crosstrek, идеально подходят как для семей, так и для любителей активного отдыха.",

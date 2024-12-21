@@ -1,11 +1,13 @@
 // @flow
 import * as React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 import styles from './footer.module.scss';
 import configValues from '../../../config';
 import { useSelector } from 'react-redux';
 import { animateScroll as scroll } from 'react-scroll';
+import { useDispatch } from 'react-redux';
+import languageChange from '../../store/actions/common';
 
 const scrollOption = {
   duration: 50,
@@ -13,10 +15,15 @@ const scrollOption = {
   smooth: true
 };
 
-const handleScrollClick = () => scroll.scrollToTop(scrollOption);
+const handleScrollClick = () => {
+  scroll.scrollToTop(scrollOption);
+};
 
 const Footer = (): any => {
   const { language } = useSelector(({ common: comm }: any) => comm);
+  const location = useLocation();
+  const dispatch = useDispatch();
+  const { pathname } = location;
 
   const heart = (
     <span role="img" className={styles.emojii} aria-label="Heart">
@@ -24,7 +31,8 @@ const Footer = (): any => {
     </span>
   );
 
-  const { popularCarBrands, globalSEO } = configValues;
+  const { popularCarBrands, globalSEO, languages, languageTitles } =
+    configValues;
   const cols = 3;
   const rows = Math.ceil(popularCarBrands.length / cols);
   const matrix = Array.from({ length: rows }, () => Array(cols).fill(null));
@@ -43,7 +51,6 @@ const Footer = (): any => {
     <div className={styles.footer}>
       <div className={styles.content}>
         <div className={styles.brands}>
-          <h2>Popular car brands:</h2>
           <div className={styles.list}>
             {matrix
               .filter(x => !!x)
@@ -74,6 +81,40 @@ const Footer = (): any => {
                 </div>
               ))}
           </div>
+        </div>
+
+        <div className={styles.languages}>
+          {languages.map(lng => {
+            let langLocation = pathname.replace(`/${language}/`, `/${lng}/`);
+
+            if (pathname === `/${language}`) {
+              langLocation = `/${lng}`;
+            }
+
+            const current = lng === language;
+
+            if (current) {
+              return (
+                <span key={lng} className={styles.current}>
+                  {languageTitles[lng]}
+                </span>
+              );
+            }
+
+            return (
+              <Link
+                key={lng}
+                to={langLocation}
+                className={current ? styles.active : ''}
+                onClick={() => {
+                  dispatch(languageChange(lng));
+                  handleScrollClick();
+                }}
+              >
+                {languageTitles[lng].toUpperCase()}
+              </Link>
+            );
+          })}
         </div>
 
         <div className={styles.title}>

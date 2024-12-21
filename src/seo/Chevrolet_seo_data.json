@@ -1,6 +1,13 @@
 {
     "title": "Chevrolet",
-    "headTitle": "Chevrolet used cars from US Auctions",
+    "headTitle": {
+        "en": "Buy Chevrolet cars at US auctions - Auto Auction Mall",
+        "ru": "Купить автомобили Chevrolet на аукционах США - Auto Auction Mall",
+        "ua": "Купити автомобілі Chevrolet на аукціонах США - Auto Auction Mall",
+        "pl": "Kupuj samochody Chevrolet na aukcjach w USA - Auto Auction Mall",
+        "de": "Kaufen Sie Chevrolet-Autos bei US-Auktionen - Auto Auction Mall",
+        "be": "Купляйце аўтамабілі Chevrolet на аўкцыёнах у ЗША - Auto Auction Mall"
+    },
     "description": {
         "en": "Chevrolet vehicles are a standout choice when shopping for used cars at US auctions. Known for their durability, affordability, and diverse model lineup, Chevrolet provides options that cater to a wide range of needs, from reliable family vehicles to powerful trucks and SUVs. With a reputation for solid engineering and lower long-term maintenance costs, these cars hold their value and deliver exceptional performance over time. Choosing Chevrolet means investing in a trusted brand that combines practicality with innovation.",
         "ru": "Автомобили Chevrolet являются отличным выбором при покупке подержанных машин на аукционах США. Известные своей долговечностью, доступностью и разнообразием моделей, Chevrolet предлагает варианты для самых разных нужд, от надежных семейных автомобилей до мощных грузовиков и внедорожников. Благодаря репутации надежной инженерии и низким эксплуатационным расходам, эти автомобили сохраняют свою ценность и обеспечивают отличную производительность с течением времени. Выбирая Chevrolet, вы инвестируете в проверенный бренд, который сочетает практичность с инновациями.",

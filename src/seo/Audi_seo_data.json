@@ -1,6 +1,13 @@
 {
     "title": "Audi Electric Vehicles",
-    "headTitle": "All Electric Vehicles from Audi with advanced features and luxury",
+    "headTitle": {
+        "en": "Audi Electric Vehicles | Audi USA",
+        "ru": "Электромобили Audi | Audi USA",
+        "ua": "Електромобілі Audi | Audi USA",
+        "pl": "Samochody elektryczne Audi | Audi USA",
+        "de": "Audi Elektrofahrzeuge | Audi USA",
+        "be": "Электрамабілі Audi | Audi USA"
+    },
     "description": {
         "en": "Explore the complete lineup of Audi electric vehicles, blending cutting-edge technology with luxury and performance. From compact models to spacious SUVs, Audi offers innovation for every driver.",
         "ru": "Исследуйте весь модельный ряд электромобилей Audi, сочетающих передовые технологии с роскошью и производительностью. От компактных моделей до просторных внедорожников, Audi предлагает инновации для каждого.",

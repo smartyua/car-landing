@@ -36,6 +36,16 @@ const globalSEO = {
 };
 
 const values = {
+  languages: ['en', 'be', 'ua', 'pl', 'de', 'ru'],
+  languageTitles: {
+    en: 'English',
+    be: 'Беларуская',
+    ua: 'Українська',
+    pl: 'Polski',
+    de: 'Deutsch',
+    ru: 'Русский'
+  },
+
   domain: 'https://www.kylypko.com',
   defaultTitle: 'DASAUTO.COM',
   globalSEO,
@@ -100,7 +110,8 @@ const values = {
     },
     {
       title: 'Tesla',
-      slug: 'tesla'
+      slug: 'tesla',
+      image: 'headTesla'
     },
     {
       title: 'Toyota',
@@ -112,5 +123,8 @@ const values = {
     }
   ]
 };
+
+export const languages = values.languages;
+export const languageTitles = values.languageTitles;
 
 export default values;

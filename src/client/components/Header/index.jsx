@@ -1,7 +1,7 @@
 // @flow
 
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 import _ from 'lodash';
 import { animateScroll as scroll } from 'react-scroll';
 import HeadRoom from 'react-headroom';
@@ -11,8 +11,20 @@ import { useDispatch, useSelector } from 'react-redux';
 import styles from './header.module.scss';
 import languageChange from '../../store/actions/common';
 import translation from '../../translate';
+import { languages } from '../../../config';
 import LogoIcon from '../../assets/img/logo.png';
 import Button from '../Button';
+
+import { Ukraine, Germany, Belarus, Poland, Russia, USA } from './flags';
+
+const languageIcons = {
+  en: USA,
+  ua: Ukraine,
+  de: Germany,
+  pl: Poland,
+  be: Belarus,
+  ru: Russia
+};
 
 const scrollOption = {
   duration: 200,
@@ -23,25 +35,13 @@ const scrollOption = {
 const handleScrollClick = () => scroll.scrollToTop(scrollOption);
 
 // const languages = ['en', 'ua', 'de', 'pl'];
-const languages = ['en', 'be', 'ua', 'pl', 'de', 'ru'];
 
 const isServer = typeof window === 'undefined';
 
-const handleUrlChange = (lng: string) => {
-  if (!isServer) {
-    const { pathname } = window.location;
-
-    if (pathname === '/') {
-      window.history.pushState({}, '', `/${lng}/`);
-    } else {
-      const newPathname = pathname.replace(/^\/[a-z]{2}/, `/${lng}`);
-      window.history.pushState({}, '', newPathname);
-    }
-  }
-};
-
 const Header = (props: any): any => {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
+  const currentLocation = useLocation();
   const { location } = props;
   const wnd = isServer ? {} : window;
   const pathname =
@@ -100,7 +100,7 @@ const Header = (props: any): any => {
         pinStart={30}
         className={styles.headroom}
         style={{
-          transition: 'all 0.5s ease-in-out'
+          transition: 'all 1s ease-in-out'
         }}
       >
         <div className={styles.container}>
@@ -117,9 +117,8 @@ const Header = (props: any): any => {
                 <img
                   src={LogoIcon}
                   className={styles.logoIcon}
-                  alt="React applications development Kylypko Grygorii"
+                  alt="Cars from USA"
                 />
-                {/* <LogoIcon className={styles.logoIcon} /> */}
               </Link>
               <div className={styles.contactButton}>
                 <span
@@ -135,18 +134,29 @@ const Header = (props: any): any => {
               <div className={styles.languageBlock}>
                 <span>{currLanguage.toUpperCase()}</span>
                 <ul className={styles.languages}>
-                  {languages.map(lng => (
-                    <li
-                      key={lng}
-                      className={lng === language ? styles.active : ''}
-                      onClick={() => {
-                        handleUrlChange(lng);
-                        dispatch(languageChange(lng));
-                      }}
-                    >
-                      {lng.toUpperCase()}
-                    </li>
-                  ))}
+                  {languages.map(lng => {
+                    const FlagIcon = languageIcons[lng];
+                    return (
+                      <li
+                        key={lng}
+                        className={lng === language ? styles.active : ''}
+                        onClick={() => {
+                          // handleUrlChange(lng);
+                          const { pathname: currentUrl } = currentLocation;
+                          const newUrl = currentUrl.replace(
+                            `/${language}/`,
+                            `/${lng}/`
+                          );
+
+                          dispatch(languageChange(lng));
+                          navigate(newUrl);
+                        }}
+                      >
+                        <FlagIcon className={styles.flagIcon} />
+                        {lng.toUpperCase()}
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
               <ul className={styles.menuItems}>

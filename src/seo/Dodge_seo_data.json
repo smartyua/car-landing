@@ -1,6 +1,13 @@
 {
     "title": "Dodge",
-    "headTitle": "Dodge used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Dodge cars for sale at US car auctions",
+        "ru": "Автомобили Dodge на продажу на аукционах автомобилей в США",
+        "ua": "Автомобілі Dodge на продаж на аукціонах автомобілів в США",
+        "pl": "Samochody Dodge na sprzedaż na aukcjach samochodowych w USA",
+        "de": "Dodge-Autos zum Verkauf bei US-Autoauktionen",
+        "be": "Аўтамабілі Dodge на продаж на аўкцыёнах аўтамабіляў у ЗША"
+    },
     "description": {
         "en": "Dodge vehicles are a fantastic option for those exploring used car auctions in the US. Renowned for their powerful performance, bold designs, and versatility, Dodge offers a range of cars and SUVs that cater to drivers seeking excitement and reliability. From the iconic Dodge Charger to the spacious Durango SUV, these vehicles are built to last and deliver outstanding value for money. With a strong presence in the used car market, Dodge cars are a dependable choice for drivers looking for something extraordinary.",
         "ru": "Автомобили Dodge являются отличным вариантом для тех, кто ищет подержанные автомобили на аукционах в США. Известные своей мощной производительностью, смелым дизайном и универсальностью, Dodge предлагает автомобили и внедорожники, которые подходят для водителей, стремящихся к эмоциям и надежности. От культового Dodge Charger до просторного внедорожника Durango — эти автомобили созданы, чтобы служить долго и предоставлять отличное соотношение цены и качества. Dodge — это надежный выбор для тех, кто ищет нечто особенное.",

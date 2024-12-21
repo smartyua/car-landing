@@ -1,6 +1,13 @@
 {
     "title": "Nissan",
-    "headTitle": "Nissan used cars from US Auctions with delivery to your country",
+    "headTitle": {
+        "en": "Nissan Used Cars for Sale in the USA",
+        "ru": "Подержанные автомобили Nissan на продажу в США",
+        "ua": "Вживані автомобілі Nissan на продаж в США",
+        "pl": "Używane samochody Nissan na sprzedaż w USA",
+        "de": "Gebrauchtwagen von Nissan in den USA",
+        "be": "Аўтамабілі Nissan на продаж у ЗША"
+    },
     "description": {
         "en": "Nissan vehicles are known for their affordability, efficiency, and versatility, making them a great choice at US used car auctions. Models like the Altima, Rogue, and Pathfinder are popular for their modern features, fuel efficiency, and dependable performance. With a reputation for innovation and value, Nissan offers options that suit a wide range of lifestyles and budgets.",
         "ru": "Автомобили Nissan известны своей доступностью, экономичностью и универсальностью, что делает их отличным выбором на аукционах подержанных автомобилей в США. Такие модели, как Altima, Rogue и Pathfinder, популярны благодаря современным функциям, топливной эффективности и надежной производительности.",
@@ -65,6 +72,17 @@
                     "compact EV (be)",
                     "affordable (be)",
                     "reliable (be)"
+                ]
+            },
+            "ru": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (ru)",
+                "keywords": [
+                    "Nissan (ru)",
+                    "Leaf (ru)",
+                    "compact EV (ru)",
+                    "affordable (ru)",
+                    "reliable (ru)"
                 ]
             }
         },
