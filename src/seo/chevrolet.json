@@ -25,153 +25,6 @@
     },
     "models": [
         {
-            "slug": "silverado",
-            "en": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "car",
-                    "luxury",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "автомобиль",
-                    "роскошь",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "автомобіль",
-                    "розкіш",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "samochód",
-                    "luksus",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "Auto",
-                    "Luxus",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "аўтамабіль",
-                    "раскоша",
-                    "silverado performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Silverado stands out as an exceptional choice in its category. Known for its silverado signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "coche",
-                    "lujo",
-                    "rendimiento de silverado",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Chevrolet Silverado se destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de silverado, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la confiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "fr": {
-                "title": "Chevrolet Silverado",
-                "description": "Chevrolet Silverado est un modèle de voiture de premier plan offrant de grandes performances et du luxe.",
-                "keywords": [
-                    "Chevrolet",
-                    "Silverado",
-                    "voiture",
-                    "luxe",
-                    "performance de silverado",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "conception innovante",
-                    "efficacité optimale"
-                ],
-                "text": "La Chevrolet Silverado se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de silverado, ce modèle combine technologie de pointe, confort et performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
-            },
-            "zh": {
-                "title": "雪佛兰Silverado",
-                "description": "雪佛兰Silverado是一款性能出色且豪华的顶级汽车型号。",
-                "keywords": [
-                    "雪佛兰",
-                    "Silverado",
-                    "汽车",
-                    "豪华",
-                    "silverado性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "雪佛兰Silverado在其类别中脱颖而出，是一个卓越的选择。以其silverado标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它既适合日常通勤者，也适合冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
-            }
-        },
-        {
             "slug": "malibu",
             "en": {
                 "title": "Chevrolet Malibu",
@@ -466,150 +319,629 @@
             }
         },
         {
-            "slug": "tahoe",
+            "slug": "chevrolet-silverado",
+            "competitors": [
+                "Ford F-150",
+                "Ram 1500",
+                "Toyota Tundra"
+            ],
             "en": {
-                "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe is a top-rated car model offering great performance and luxury.",
+                "title": "Chevrolet Silverado",
+                "head": "Unleash Capability and Strength with the Chevrolet Silverado",
+                "description": "The Chevrolet Silverado combines powerful performance, advanced technology, and rugged design. Discover a truck built for every job and adventure.",
+                "text": "The Chevrolet Silverado is a durable and capable full-size pickup truck designed to handle the toughest tasks. It offers a variety of powerful engine options, including the Duramax® 3.0L Turbo-Diesel, for outstanding towing and payload capacities. The Silverado's interior is spacious and modern, featuring advanced technology like the Chevrolet Infotainment 3 system and available 13.4-inch touchscreen. With a high-strength steel frame and innovative safety features like forward collision alert and lane departure warning, the Silverado delivers confidence on any terrain. Whether at work or off-road, the Silverado is ready to perform.",
+                "advantages": [
+                    "Exceptional towing and payload capabilities",
+                    "Durable design with advanced safety features",
+                    "Modern interior with advanced connectivity"
+                ],
                 "keywords": [
                     "Chevrolet",
-                    "Tahoe",
-                    "car",
-                    "luxury",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Chevrolet",
-                    "Tahoe",
-                    "автомобиль",
-                    "роскошь",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Chevrolet",
-                    "Tahoe",
-                    "автомобіль",
-                    "розкіш",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Chevrolet",
-                    "Tahoe",
-                    "samochód",
-                    "luksus",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "Silverado",
+                    "pickup truck",
+                    "towing capacity",
+                    "diesel engine"
+                ]
             },
             "de": {
+                "title": "Chevrolet Silverado",
+                "head": "Erleben Sie Leistung und Stärke mit dem Chevrolet Silverado",
+                "description": "Der Chevrolet Silverado vereint starke Leistung, fortschrittliche Technologie und robustes Design. Entdecken Sie einen Truck, der für jede Aufgabe und jedes Abenteuer gebaut ist.",
+                "text": "Der Chevrolet Silverado ist ein robuster und leistungsstarker Full-Size-Pickup, der für die härtesten Aufgaben entwickelt wurde. Er bietet eine Vielzahl leistungsstarker Motoroptionen, darunter den Duramax® 3,0L Turbo-Diesel, für beeindruckende Anhängelast und Nutzlast. Das Interieur des Silverado ist geräumig und modern, ausgestattet mit fortschrittlicher Technologie wie dem Chevrolet Infotainment 3-System und einem optionalen 13,4-Zoll-Touchscreen. Mit einem hochfesten Stahlrahmen und innovativen Sicherheitsfunktionen wie der Kollisionswarnung und dem Spurhalteassistenten bietet der Silverado Sicherheit auf jedem Gelände. Ob bei der Arbeit oder im Gelände – der Silverado ist bereit, zu leisten.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Nutzlast",
+                    "Robustes Design mit fortschrittlichen Sicherheitsfunktionen",
+                    "Modernes Interieur mit fortschrittlicher Konnektivität"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "Pickup",
+                    "Anhängerlast",
+                    "Dieselmotor"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Silverado",
+                "head": "Відчуйте потужність і надійність із Chevrolet Silverado",
+                "description": "Chevrolet Silverado поєднує високу продуктивність, передові технології та міцний дизайн. Дізнайтеся про пікап, створений для роботи та пригод.",
+                "text": "Chevrolet Silverado — це міцний і потужний пікап повнорозмірного класу, створений для найважчих завдань. Він пропонує широкий вибір потужних двигунів, включаючи Duramax® 3.0L Turbo-Diesel, що забезпечує вражаючі можливості буксирування та вантажопідйомності. Інтер'єр Silverado просторий і сучасний, оснащений передовими технологіями, такими як інформаційно-розважальна система Chevrolet Infotainment 3 і доступний 13,4-дюймовий сенсорний екран. Завдяки високоміцній сталевій рамі та інноваційним функціям безпеки, таким як попередження про зіткнення та система утримання смуги руху, Silverado забезпечує впевненість на будь-якій дорозі. Незалежно від того, чи це робота, чи пригоди, Silverado завжди готовий.",
+                "advantages": [
+                    "Вражаюча буксирна здатність і вантажопідйомність",
+                    "Міцний дизайн із передовими функціями безпеки",
+                    "Сучасний інтер'єр із передовими функціями підключення"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "пікап",
+                    "буксирування",
+                    "дизельний двигун"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Silverado",
+                "head": "Odkryj możliwości i siłę z Chevrolet Silverado",
+                "description": "Chevrolet Silverado łączy potężną wydajność, zaawansowaną technologię i solidną konstrukcję. Poznaj pickup stworzony do każdej pracy i przygody.",
+                "text": "Chevrolet Silverado to wytrzymały i wszechstronny pickup pełnowymiarowy, zaprojektowany do najcięższych zadań. Oferuje szeroką gamę mocnych silników, w tym Duramax® 3.0L Turbo-Diesel, zapewniając imponujące możliwości holowania i ładowności. Wnętrze Silverado jest przestronne i nowoczesne, wyposażone w zaawansowaną technologię, taką jak system multimedialny Chevrolet Infotainment 3 i dostępny 13,4-calowy ekran dotykowy. Dzięki ramie z wysokowytrzymałej stali oraz innowacyjnym funkcjom bezpieczeństwa, takim jak ostrzeżenie o kolizji i asystent pasa ruchu, Silverado zapewnia pewność na każdej drodze. Bez względu na wyzwania, Silverado jest gotowy do działania.",
+                "advantages": [
+                    "Imponujące możliwości holowania i ładowności",
+                    "Solidna konstrukcja z zaawansowanymi funkcjami bezpieczeństwa",
+                    "Nowoczesne wnętrze z zaawansowaną łącznością"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "pickup",
+                    "holowanie",
+                    "silnik diesla"
+                ]
+            },
+            "es": {
+                "title": "Chevrolet Silverado",
+                "head": "Descubre capacidad y fuerza con la Chevrolet Silverado",
+                "description": "La Chevrolet Silverado combina un rendimiento poderoso, tecnología avanzada y un diseño resistente. Descubre una pickup diseñada para cada trabajo y aventura.",
+                "text": "La Chevrolet Silverado es una pickup de tamaño completo duradera y capaz, diseñada para enfrentar las tareas más exigentes. Ofrece una variedad de opciones de motores potentes, incluido el Duramax® 3.0L Turbo-Diesel, que proporciona capacidades impresionantes de remolque y carga útil. El interior de la Silverado es espacioso y moderno, con tecnología avanzada como el sistema de infoentretenimiento Chevrolet Infotainment 3 y una pantalla táctil de 13.4 pulgadas. Con un marco de acero de alta resistencia y funciones de seguridad innovadoras como alerta de colisión frontal y advertencia de salida de carril, la Silverado brinda confianza en cualquier terreno. Ya sea en el trabajo o fuera de la carretera, la Silverado está lista para rendir.",
+                "advantages": [
+                    "Capacidades impresionantes de remolque y carga útil",
+                    "Diseño resistente con funciones de seguridad avanzadas",
+                    "Interior moderno con conectividad avanzada"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "pickup",
+                    "capacidad de remolque",
+                    "motor diésel"
+                ]
+            },
+            "fr": {
+                "title": "Chevrolet Silverado",
+                "head": "Découvrez la puissance et la robustesse avec la Chevrolet Silverado",
+                "description": "La Chevrolet Silverado allie performance puissante, technologie avancée et design robuste. Découvrez un pickup conçu pour chaque tâche et aventure.",
+                "text": "La Chevrolet Silverado est un pickup pleine grandeur durable et performant, conçu pour les tâches les plus difficiles. Elle propose une gamme de moteurs puissants, y compris le Duramax® 3.0L Turbo-Diesel, offrant des capacités impressionnantes de remorquage et de charge utile. L'intérieur de la Silverado est spacieux et moderne, avec des technologies avancées telles que le système d'infodivertissement Chevrolet Infotainment 3 et un écran tactile de 13,4 pouces. Avec un châssis en acier haute résistance et des fonctionnalités de sécurité innovantes comme l'alerte de collision frontale et l'avertissement de sortie de voie, la Silverado inspire confiance sur tous les terrains. Que ce soit pour le travail ou les aventures hors route, la Silverado est prête à performer.",
+                "advantages": [
+                    "Capacités impressionnantes de remorquage et de charge utile",
+                    "Design robuste avec des fonctionnalités de sécurité avancées",
+                    "Intérieur moderne avec connectivité avancée"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Silverado",
+                    "pickup",
+                    "remorquage",
+                    "moteur diesel"
+                ]
+            },
+            "zh": {
+                "title": "雪佛兰 Silverado",
+                "head": "探索雪佛兰 Silverado 的强大与能力",
+                "description": "雪佛兰 Silverado 将强劲性能、先进技术与坚固设计完美结合。发现一款为每项任务与冒险打造的皮卡。",
+                "text": "雪佛兰 Silverado 是一款耐用且功能强大的全尺寸皮卡，专为应对最艰巨的任务而设计。它提供多种强劲发动机选项，包括 Duramax® 3.0L 涡轮增压柴油发动机，提供卓越的拖曳与载重能力。Silverado 的内饰宽敞现代，配备先进技术，如雪佛兰信息娱乐系统 3 和 13.4 英寸触摸屏。凭借高强度钢框架和创新的安全功能，如前方碰撞警告和车道偏离警告，Silverado 在任何地形上都能提供信心。无论是工作还是越野，Silverado 都已准备好迎接挑战。",
+                "advantages": [
+                    "卓越的拖曳与载重能力",
+                    "坚固设计与先进安全功能",
+                    "现代化内饰与先进连接"
+                ],
+                "keywords": [
+                    "雪佛兰",
+                    "Silverado",
+                    "皮卡",
+                    "拖曳能力",
+                    "柴油发动机"
+                ]
+            }
+        },
+        {
+            "slug": "chevrolet-camaro",
+            "competitors": [
+                "Ford Mustang",
+                "Dodge Challenger",
+                "Nissan Z"
+            ],
+            "en": {
+                "title": "Chevrolet Camaro",
+                "head": "Experience Performance and Style with the Chevrolet Camaro",
+                "description": "The Chevrolet Camaro combines bold design with powerful performance for an exhilarating driving experience. Discover an icon of American muscle cars.",
+                "text": "The Chevrolet Camaro is a legendary sports car that delivers thrilling performance and unmistakable style. Available with a range of engine options, including the powerful 6.2L V8, it offers exceptional speed and handling. The Camaro's interior is driver-focused, featuring premium materials, an 8-inch touchscreen with Chevrolet Infotainment 3, and advanced safety features like forward collision alert and lane change assist. Whether cruising the streets or hitting the track, the Camaro provides a dynamic and confident driving experience.",
+                "advantages": [
+                    "Powerful engine options, including V8",
+                    "Iconic design with modern features",
+                    "Advanced safety and connectivity"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "sports car",
+                    "performance",
+                    "V8 engine"
+                ]
+            },
+            "ru": {
+                "title": "Chevrolet Camaro",
+                "head": "Ощутите мощь и стиль с Chevrolet Camaro",
+                "description": "Chevrolet Camaro сочетает дерзкий дизайн с мощной производительностью, обеспечивая захватывающее вождение. Узнайте больше об иконе американских muscle-car.",
+                "text": "Chevrolet Camaro — это легендарный спортивный автомобиль, который обеспечивает захватывающую динамику и узнаваемый стиль. С доступными вариантами двигателей, включая мощный 6.2L V8, Camaro предлагает отличную скорость и управляемость. Интерьер автомобиля ориентирован на водителя: премиальные материалы, 8-дюймовый сенсорный экран с системой Chevrolet Infotainment 3 и передовые системы безопасности, такие как предупреждение о фронтальном столкновении и ассистент смены полосы движения. Будь то городские улицы или гоночный трек, Camaro гарантирует динамичное и уверенное вождение.",
+                "advantages": [
+                    "Мощные двигатели, включая V8",
+                    "Иконный дизайн с современными элементами",
+                    "Передовые системы безопасности и подключения"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "спорткар",
+                    "производительность",
+                    "V8 двигатель"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Camaro",
+                "head": "Адчуйце магутнасць і стыль з Chevrolet Camaro",
+                "description": "Chevrolet Camaro злучае смелы дызайн з магутнай прадукцыйнасцю для захапляльнага водгукі. Даведайцеся больш пра ікону амерыканскіх muscle-car.",
+                "text": "Chevrolet Camaro — гэта легендарны спартыўны аўтамабіль, які забяспечвае захапляльную дынаміку і непавторны стыль. З даступнымі варыянтамі рухавікаў, уключаючы магутны 6.2L V8, Camaro прапануе выдатную хуткасць і кіраванне. Інтэр'ер аўтамабіля арыентаваны на водзя: прэміальныя матэрыялы, 8-дюймовы сенсарны экран з сістэмай Chevrolet Infotainment 3 і перадавыя сістэмы бяспекі, такія як папярэджанне аб фронтальным здзяйсненні і асістэнт змены паласы руху. Будзь то гарадскія вуліцы ці гонкавы трэк, Camaro забяспечвае дынамічнае і ўпэўненае кіраванне.",
+                "advantages": [
+                    "Магутныя рухавікі, уключаючы V8",
+                    "Іконны дызайн",
+                    "Перадавыя сістэмы бяспекі і падлучэння"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "спарткар",
+                    "прадукцыйнасць",
+                    "V8 рухавік"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Camaro",
+                "head": "Erleben Sie Leistung und Stil mit dem Chevrolet Camaro",
+                "description": "Der Chevrolet Camaro vereint mutiges Design mit leistungsstarker Performance für ein aufregendes Fahrerlebnis. Entdecken Sie eine Ikone der amerikanischen Muscle-Cars.",
+                "text": "Der Chevrolet Camaro ist ein legendäres Sportauto, das mit aufregender Leistung und unverwechselbarem Stil überzeugt. Mit einer Auswahl an Motoroptionen, darunter der leistungsstarke 6,2L V8, bietet er außergewöhnliche Geschwindigkeit und Handling. Das Interieur des Camaro ist fahrerorientiert und verfügt über hochwertige Materialien, einen 8-Zoll-Touchscreen mit Chevrolet Infotainment 3 und fortschrittliche Sicherheitsfunktionen wie Kollisionswarnung und Spurwechselassistent. Egal ob auf der Straße oder der Rennstrecke – der Camaro bietet ein dynamisches und sicheres Fahrerlebnis.",
+                "advantages": [
+                    "Leistungsstarke Motoroptionen, einschließlich V8",
+                    "Ikonisches Design mit modernen Features",
+                    "Fortschrittliche Sicherheits- und Konnektivitätsfunktionen"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "Sportwagen",
+                    "Leistung",
+                    "V8-Motor"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Camaro",
+                "head": "Відчуйте потужність і стиль із Chevrolet Camaro",
+                "description": "Chevrolet Camaro поєднує сміливий дизайн із потужною продуктивністю, забезпечуючи захоплюючий досвід водіння. Дізнайтеся більше про ікону американських muscle-car.",
+                "text": "Chevrolet Camaro — це легендарний спортивний автомобіль, який дарує захоплюючу динаміку та впізнаваний стиль. Завдяки потужним двигунам, включаючи 6.2L V8, Camaro пропонує виняткову швидкість і керованість. Інтер'єр авто орієнтований на водія: преміальні матеріали, 8-дюймовий сенсорний екран із системою Chevrolet Infotainment 3 і сучасні функції безпеки, такі як попередження про зіткнення та асистент зміни смуги руху. Camaro гарантує динамічне та впевнене водіння, як у місті, так і на трасі.",
+                "advantages": [
+                    "Потужні двигуни, включаючи V8",
+                    "Іконічний дизайн із сучасними особливостями",
+                    "Передові функції безпеки та підключення"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "спорткар",
+                    "продуктивність",
+                    "V8 двигун"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Camaro",
+                "head": "Doświadcz mocy i stylu z Chevrolet Camaro",
+                "description": "Chevrolet Camaro łączy odważny design z potężnymi osiągami, oferując ekscytujące wrażenia z jazdy. Poznaj ikonę amerykańskich muscle cars.",
+                "text": "Chevrolet Camaro to legendarny samochód sportowy, który oferuje emocjonujące osiągi i niepowtarzalny styl. Dostępny z szeroką gamą silników, w tym potężnym 6.2L V8, Camaro zapewnia wyjątkową prędkość i prowadzenie. Wnętrze Camaro jest zorientowane na kierowcę, wyposażone w wysokiej jakości materiały, 8-calowy ekran dotykowy z systemem Chevrolet Infotainment 3 oraz zaawansowane funkcje bezpieczeństwa, takie jak ostrzeżenie o kolizji czołowej i asystent zmiany pasa ruchu. Camaro oferuje dynamiczne i pewne prowadzenie, idealne zarówno na ulicach miasta, jak i na torze wyścigowym.",
+                "advantages": [
+                    "Mocne silniki, w tym V8",
+                    "Ikoniczny design z nowoczesnymi funkcjami",
+                    "Zaawansowane funkcje bezpieczeństwa i łączności"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "samochód sportowy",
+                    "osiągi",
+                    "silnik V8"
+                ]
+            },
+            "es": {
+                "title": "Chevrolet Camaro",
+                "head": "Experimenta potencia y estilo con el Chevrolet Camaro",
+                "description": "El Chevrolet Camaro combina un diseño audaz con un rendimiento poderoso para una experiencia de conducción emocionante. Descubre un ícono de los muscle cars estadounidenses.",
+                "text": "El Chevrolet Camaro es un deportivo legendario que ofrece un rendimiento emocionante y un estilo inconfundible. Con una gama de opciones de motor, incluido el potente V8 de 6.2L, ofrece una velocidad y manejo excepcionales. El interior del Camaro está enfocado en el conductor, con materiales de alta calidad, una pantalla táctil de 8 pulgadas con Chevrolet Infotainment 3 y funciones avanzadas de seguridad como alerta de colisión frontal y asistente de cambio de carril. Ya sea en las calles o en la pista, el Camaro proporciona una experiencia de conducción dinámica y confiada.",
+                "advantages": [
+                    "Opciones de motor potentes, incluyendo V8",
+                    "Diseño icónico con características modernas",
+                    "Seguridad avanzada y conectividad"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "coche deportivo",
+                    "rendimiento",
+                    "motor V8"
+                ]
+            },
+            "fr": {
+                "title": "Chevrolet Camaro",
+                "head": "Découvrez puissance et style avec la Chevrolet Camaro",
+                "description": "La Chevrolet Camaro allie design audacieux et performances puissantes pour une expérience de conduite exaltante. Découvrez une icône des muscle cars américains.",
+                "text": "La Chevrolet Camaro est une voiture de sport légendaire qui offre des performances palpitantes et un style inimitable. Avec une gamme de motorisations, dont le puissant V8 6.2L, elle assure une vitesse et une maniabilité exceptionnelles. L'intérieur de la Camaro est orienté vers le conducteur, avec des matériaux de qualité supérieure, un écran tactile de 8 pouces doté du système Chevrolet Infotainment 3 et des fonctionnalités de sécurité avancées telles que l'alerte de collision frontale et l'assistance au changement de voie. Que ce soit en ville ou sur circuit, la Camaro procure une expérience de conduite dynamique et assurée.",
+                "advantages": [
+                    "Motorisations puissantes, y compris V8",
+                    "Design iconique avec des fonctionnalités modernes",
+                    "Sécurité avancée et connectivité"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Camaro",
+                    "voiture de sport",
+                    "performance",
+                    "moteur V8"
+                ]
+            },
+            "zh": {
+                "title": "雪佛兰 Camaro",
+                "head": "体验雪佛兰 Camaro 的性能与风格",
+                "description": "雪佛兰 Camaro 将大胆设计与强劲性能相结合，为您带来激动人心的驾驶体验。探索美国肌肉车的经典之作。",
+                "text": "雪佛兰 Camaro 是一款传奇的跑车，提供令人兴奋的性能和独特的风格。配备多种发动机选项，包括强劲的 6.2L V8，Camaro 提供卓越的速度和操控性。内饰以驾驶员为中心，采用优质材料，搭载 8 英寸触摸屏 Chevrolet Infotainment 3 系统，以及前碰撞警告和车道变更辅助等先进安全功能。无论是城市驾驶还是赛道体验，Camaro 都能提供动态且自信的驾驶感受。",
+                "advantages": [
+                    "强劲的发动机选项，包括 V8",
+                    "标志性设计与现代功能",
+                    "先进的安全与连接功能"
+                ],
+                "keywords": [
+                    "雪佛兰",
+                    "Camaro",
+                    "跑车",
+                    "性能",
+                    "V8 发动机"
+                ]
+            }
+        },
+        {
+            "slug": "chevrolet-tahoe",
+            "competitors": [
+                "Ford Expedition",
+                "Toyota Sequoia",
+                "GMC Yukon"
+            ],
+            "en": {
                 "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "head": "Discover Power and Comfort with the Chevrolet Tahoe",
+                "description": "The Chevrolet Tahoe combines rugged capability, spacious comfort, and advanced technology. Explore a full-size SUV built for family and adventure.",
+                "text": "The Chevrolet Tahoe is a full-size SUV designed to offer exceptional performance, comfort, and utility. Equipped with powerful engine options, including a 6.2L V8, the Tahoe delivers impressive towing capacity and reliable off-road capability. Inside, the spacious cabin offers seating for up to eight passengers, premium materials, and advanced technology, including a large touchscreen infotainment system and a rear-seat entertainment package. With safety features like forward collision alert and lane-keeping assist, the Tahoe ensures peace of mind on every journey. Whether for daily commutes or extended road trips, the Chevrolet Tahoe is ready for any challenge.",
+                "advantages": [
+                    "Spacious seating for up to eight passengers",
+                    "Powerful engine options, including V8",
+                    "Advanced safety and entertainment features"
+                ],
                 "keywords": [
                     "Chevrolet",
                     "Tahoe",
-                    "Auto",
-                    "Luxus",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "SUV",
+                    "family car",
+                    "towing capacity"
+                ]
             },
             "be": {
                 "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Адкрыйце магутнасць і камфорт з Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe спалучае трываласць, прасторны камфорт і перадавыя тэхналогіі. Даследуйце поўнапамерны пазадарожнік для сям'і і прыгод.",
+                "text": "Chevrolet Tahoe — гэта поўнапамерны пазадарожнік, створаны для забеспячэння высокай прадукцыйнасці, камфорту і функцыянальнасці. Абсталяваны магутнымі рухавікамі, уключаючы 6.2L V8, Tahoe забяспечвае ўражлівую цягаваю здольнасць і надзейную праходнасць. Унутры прасторны салон змяшчае да васьмі пасажыраў, выкарыстоўвае прэміяльныя матэрыялы і абсталяваны перадавымі тэхналогіямі, уключаючы вялікі сэнсарны экран і пакет забаў для задніх сядзенняў. З функцыямі бяспекі, такімі як папярэджанне аб фронтальным сутыкненні і асістэнт утрымання паласы руху, Tahoe гарантуе спакой на кожнай паездцы. Незалежна ад таго, штодзённыя гэта паездкі ці далёкія падарожжы, Chevrolet Tahoe гатовы да любых выклікаў.",
+                "advantages": [
+                    "Прасторны салон для васьмі пасажыраў",
+                    "Магутныя рухавікі, уключаючы V8",
+                    "Перадавыя функцыі бяспекі і забаў"
+                ],
                 "keywords": [
                     "Chevrolet",
                     "Tahoe",
-                    "аўтамабіль",
-                    "раскоша",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
+                    "пазадарожнік",
+                    "сямейны аўтамабіль",
+                    "цягавая здольнасць"
+                ]
+            },
+            "ru": {
+                "title": "Chevrolet Tahoe",
+                "head": "Откройте мощь и комфорт с Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe сочетает прочные возможности, просторный комфорт и передовые технологии. Исследуйте полноразмерный внедорожник для семьи и приключений.",
+                "text": "Chevrolet Tahoe — это полноразмерный внедорожник, созданный для обеспечения высокой производительности, комфорта и функциональности. Оснащён мощными двигателями, включая 6.2L V8, Tahoe обеспечивает впечатляющую тяговую способность и надёжную проходимость. Внутри просторный салон вмещает до восьми пассажиров, использует премиальные материалы и оснащён передовыми технологиями, включая большой сенсорный экран и пакет развлечений для задних сидений. С функциями безопасности, такими как предупреждение о фронтальном столкновении и ассистент удержания полосы движения, Tahoe гарантирует спокойствие на каждой поездке. Независимо от того, ежедневные ли это поездки или дальние путешествия, Chevrolet Tahoe готов к любым вызовам.",
+                "advantages": [
+                    "Просторный салон для восьми пассажиров",
+                    "Мощные двигатели, включая V8",
+                    "Передовые функции безопасности и развлечений"
                 ],
-                "text": "The Chevrolet Tahoe stands out as an exceptional choice in its category. Known for its  signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "внедорожник",
+                    "семейный автомобиль",
+                    "тяговая способность"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Tahoe",
+                "head": "Entdecken Sie Kraft und Komfort mit dem Chevrolet Tahoe",
+                "description": "Der Chevrolet Tahoe kombiniert robuste Leistungsfähigkeit, geräumigen Komfort und fortschrittliche Technologie. Erkunden Sie einen Full-Size-SUV für Familie und Abenteuer.",
+                "text": "Der Chevrolet Tahoe ist ein Full-Size-SUV, der außergewöhnliche Leistung, Komfort und Vielseitigkeit bietet. Ausgestattet mit leistungsstarken Motoren, darunter ein 6,2L V8, liefert der Tahoe beeindruckende Anhängelast und zuverlässige Geländegängigkeit. Innen bietet das geräumige Interieur Platz für bis zu acht Passagiere, hochwertige Materialien und fortschrittliche Technologie, darunter ein großer Touchscreen und ein Unterhaltungspaket für die Rücksitze. Mit Sicherheitsfunktionen wie Kollisionswarnung und Spurhalteassistent sorgt der Tahoe für Sicherheit auf jeder Fahrt. Ob für den täglichen Arbeitsweg oder lange Reisen, der Chevrolet Tahoe ist für jede Herausforderung bereit.",
+                "advantages": [
+                    "Geräumige Sitzplätze für bis zu acht Personen",
+                    "Leistungsstarke Motoroptionen, einschließlich V8",
+                    "Fortschrittliche Sicherheits- und Unterhaltungstechnologie"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "SUV",
+                    "Familienauto",
+                    "Anhängerlast"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Tahoe",
+                "head": "Відкрийте потужність і комфорт із Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe поєднує надійність, просторий комфорт та сучасні технології. Досліджуйте повнорозмірний позашляховик для сім'ї та пригод.",
+                "text": "Chevrolet Tahoe — це повнорозмірний позашляховик, створений для забезпечення високої продуктивності, комфорту та універсальності. Оснащений потужними двигунами, включаючи 6.2L V8, Tahoe забезпечує вражаючу буксирну здатність і надійність на бездоріжжі. Усередині просторий салон вміщує до восьми пасажирів, має преміальні матеріали та передові технології, такі як великий сенсорний екран та розважальний пакет для задніх сидінь. Завдяки функціям безпеки, таким як попередження про зіткнення та утримання смуги руху, Tahoe забезпечує спокій у кожній поїздці. Для щоденних поїздок чи далеких подорожей Chevrolet Tahoe готовий до будь-яких викликів.",
+                "advantages": [
+                    "Просторі місця для восьми пасажирів",
+                    "Потужні двигуни, включаючи V8",
+                    "Передові функції безпеки та розваг"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "позашляховик",
+                    "сімейний автомобіль",
+                    "тягові можливості"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Tahoe",
+                "head": "Poznaj moc i komfort z Chevrolet Tahoe",
+                "description": "Chevrolet Tahoe łączy solidną wydajność, przestronny komfort i nowoczesne technologie. Odkryj pełnowymiarowego SUV-a stworzonego dla rodziny i przygód.",
+                "text": "Chevrolet Tahoe to pełnowymiarowy SUV zaprojektowany, aby zapewniać wyjątkową wydajność, komfort i wszechstronność. Wyposażony w mocne silniki, w tym 6.2L V8, Tahoe oferuje imponujące możliwości holowania i niezawodność w terenie. Wnętrze jest przestronne, z miejscem dla maksymalnie ośmiu pasażerów, wykorzystuje materiały premium i zaawansowane technologie, takie jak duży ekran dotykowy i system rozrywki dla tylnych siedzeń. Dzięki funkcjom bezpieczeństwa, takim jak ostrzeżenie o kolizji i asystent pasa ruchu, Tahoe zapewnia spokój podczas każdej podróży. Niezależnie od codziennej jazdy czy dalekich podróży, Chevrolet Tahoe jest gotowy na każde wyzwanie.",
+                "advantages": [
+                    "Przestronne wnętrze dla ośmiu pasażerów",
+                    "Mocne silniki, w tym V8",
+                    "Zaawansowane funkcje bezpieczeństwa i rozrywki"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Tahoe",
+                    "SUV",
+                    "samochód rodzinny",
+                    "holowanie"
+                ]
             },
             "es": {
                 "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "head": "Descubre potencia y comodidad con la Chevrolet Tahoe",
+                "description": "La Chevrolet Tahoe combina capacidad resistente, comodidad espaciosa y tecnología avanzada. Explora un SUV de tamaño completo diseñado para la familia y la aventura.",
+                "text": "La Chevrolet Tahoe es un SUV de tamaño completo diseñado para ofrecer un rendimiento excepcional, comodidad y utilidad. Con opciones de motores potentes, incluido el V8 de 6.2L, la Tahoe ofrece capacidades de remolque impresionantes y una confiabilidad fuera de la carretera. Su interior espacioso tiene capacidad para hasta ocho pasajeros, con materiales premium y tecnología avanzada, como un sistema de infoentretenimiento con pantalla táctil grande y un paquete de entretenimiento para los asientos traseros. Con características de seguridad como alerta de colisión frontal y asistente de mantenimiento de carril, la Tahoe garantiza tranquilidad en cada viaje. Ya sea para desplazamientos diarios o viajes largos, la Chevrolet Tahoe está lista para cualquier desafío.",
+                "advantages": [
+                    "Espacio para hasta ocho pasajeros",
+                    "Opciones de motor potentes, incluido V8",
+                    "Funciones avanzadas de seguridad y entretenimiento"
+                ],
                 "keywords": [
                     "Chevrolet",
                     "Tahoe",
-                    "coche",
-                    "lujo",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "El Chevrolet Tahoe se destaca como una elección excepcional en su categoría. Conocido por sus  signature features, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la confiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+                    "SUV",
+                    "coche familiar",
+                    "capacidad de remolque"
+                ]
             },
             "fr": {
                 "title": "Chevrolet Tahoe",
-                "description": "Chevrolet Tahoe est un modèle de voiture de premier plan offrant de grandes performances et du luxe.",
+                "head": "Découvrez puissance et confort avec la Chevrolet Tahoe",
+                "description": "La Chevrolet Tahoe allie capacité robuste, confort spacieux et technologie avancée. Explorez un SUV grand format conçu pour la famille et l'aventure.",
+                "text": "La Chevrolet Tahoe est un SUV grand format conçu pour offrir des performances, un confort et une polyvalence exceptionnels. Équipée de moteurs puissants, dont un V8 de 6,2L, la Tahoe offre des capacités de remorquage impressionnantes et une fiabilité hors route. Son intérieur spacieux peut accueillir jusqu'à huit passagers, avec des matériaux haut de gamme et des technologies avancées, comme un grand écran tactile et un système de divertissement pour les sièges arrière. Avec des fonctionnalités de sécurité telles que l'alerte de collision frontale et l'assistance au maintien dans la voie, la Tahoe assure une tranquillité d'esprit à chaque voyage. Que ce soit pour les trajets quotidiens ou les longs voyages, la Chevrolet Tahoe est prête pour tous les défis.",
+                "advantages": [
+                    "Places spacieuses pour huit passagers",
+                    "Options de motorisation puissantes, y compris le V8",
+                    "Fonctionnalités de sécurité et de divertissement avancées"
+                ],
                 "keywords": [
                     "Chevrolet",
                     "Tahoe",
-                    "voiture",
-                    "luxe",
-                    " performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "La Chevrolet Tahoe se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses  signature features, ce modèle combine technologie de pointe, confort et performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+                    "SUV",
+                    "voiture familiale",
+                    "remorquage"
+                ]
             },
             "zh": {
-                "title": "雪佛兰Tahoe",
-                "description": "雪佛兰Tahoe是一款性能出色且豪华的顶级汽车型号。",
+                "title": "雪佛兰 Tahoe",
+                "head": "探索雪佛兰 Tahoe 的强大与舒适",
+                "description": "雪佛兰 Tahoe 将坚固的性能、宽敞的舒适性与先进技术相结合。探索为家庭与冒险打造的全尺寸 SUV。",
+                "text": "雪佛兰 Tahoe 是一款全尺寸 SUV，专为提供卓越性能、舒适性与多功能性而设计。搭载强劲的发动机，包括 6.2L V8，Tahoe 提供卓越的拖曳能力与越野可靠性。宽敞的内部空间可容纳多达八名乘客，采用优质材料，并配备先进技术，如大型触摸屏信息娱乐系统和后排座椅娱乐系统。凭借前方碰撞警告与车道保持辅助等安全功能，Tahoe 在每次旅程中都能提供安心保障。无论是日常通勤还是长途旅行，雪佛兰 Tahoe 始终准备迎接挑战。",
+                "advantages": [
+                    "宽敞座位，可容纳八名乘客",
+                    "强劲的发动机选项，包括 V8",
+                    "先进的安全与娱乐功能"
+                ],
                 "keywords": [
                     "雪佛兰",
                     "Tahoe",
-                    "汽车",
-                    "豪华",
-                    " performance",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
+                    "SUV",
+                    "家庭车",
+                    "拖曳能力"
+                ]
+            }
+        },
+        {
+            "slug": "chevrolet-colorado",
+            "competitors": [
+                "Toyota Tacoma",
+                "Ford Ranger",
+                "Nissan Frontier"
+            ],
+            "en": {
+                "title": "Chevrolet Colorado",
+                "head": "Explore Performance and Versatility with the Chevrolet Colorado",
+                "description": "The Chevrolet Colorado combines rugged capability, advanced technology, and modern comfort for a midsize truck built to handle work and adventure.",
+                "text": "The Chevrolet Colorado is a versatile midsize pickup truck designed to deliver strong performance and practicality. Equipped with multiple engine options, including the Duramax® 2.8L Turbo-Diesel, the Colorado offers impressive towing capacity and off-road capability. The cabin features modern technology, such as an 11.3-inch touchscreen with Chevrolet Infotainment 3 and connectivity options like Apple CarPlay® and Android Auto™. Advanced safety features, including forward collision alert and lane-keeping assist, ensure confidence on every drive. Whether for daily tasks or weekend explorations, the Chevrolet Colorado is built to excel.",
+                "advantages": [
+                    "Impressive towing and off-road capabilities",
+                    "Modern interior with advanced technology",
+                    "Duramax® Turbo-Diesel option for strong performance"
                 ],
-                "text": "雪佛兰Tahoe在其类别中脱颖而出，是一个卓越的选择。以其  signature features而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它既适合日常通勤者，也适合冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "midsize truck",
+                    "off-road",
+                    "towing capacity"
+                ]
+            },
+            "ru": {
+                "title": "Chevrolet Colorado",
+                "head": "Откройте производительность и универсальность с Chevrolet Colorado",
+                "description": "Chevrolet Colorado сочетает прочность, передовые технологии и современный комфорт для работы и приключений.",
+                "text": "Chevrolet Colorado — это универсальный среднеразмерный пикап, созданный для обеспечения высокой производительности и практичности. Оснащён различными двигателями, включая Duramax® 2.8L Turbo-Diesel, Colorado обеспечивает впечатляющую тяговую способность и проходимость. Кабина оснащена современными технологиями, такими как 11.3-дюймовый сенсорный экран с системой Chevrolet Infotainment 3 и функциями подключения Apple CarPlay® и Android Auto™. Передовые функции безопасности, такие как предупреждение о столкновении и ассистент удержания полосы, гарантируют уверенность за рулём. Для ежедневных задач или приключений Chevrolet Colorado готов к любым испытаниям.",
+                "advantages": [
+                    "Впечатляющая тяговая способность и проходимость",
+                    "Современный интерьер с передовыми технологиями",
+                    "Двигатель Duramax® Turbo-Diesel для мощной производительности"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "среднеразмерный пикап",
+                    "внедорожье",
+                    "тяговая способность"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Colorado",
+                "head": "Адкрыйце прадукцыйнасць і ўніверсальнасць з Chevrolet Colorado",
+                "description": "Chevrolet Colorado спалучае трываласць, сучасныя тэхналогіі і камфорт для працы і прыгод.",
+                "text": "Chevrolet Colorado — гэта шматфункцыянальны сярэднепамерны пікап, створаны для высокай прадукцыйнасці і практычнасці. Абсталяваны рознымі рухавікамі, уключаючы Duramax® 2.8L Turbo-Diesel, Colorado забяспечвае ўражлівую цягавую здольнасць і праходнасць. Салон абсталяваны сучаснымі тэхналогіямі, такімі як 11.3-цалевы сэнсарны экран з сістэмай Chevrolet Infotainment 3 і функцыямі Apple CarPlay® і Android Auto™. Перадавыя функцыі бяспекі, уключаючы папярэджанне пра сутыкненне і ўтрыманне паласы руху, забяспечваюць упэўненасць на кожнай паездцы. Chevrolet Colorado гатовы да любых выклікаў, няхай гэта будзе праца ці прыгоды.",
+                "advantages": [
+                    "Уражлівая цягавітасць і праходнасць",
+                    "Сучасны інтэр'ер з сучаснымі тэхналогіямі",
+                    "Двигун Duramax® Turbo-Diesel для магутнай прадукцыйнасці"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "сярэднепамерны пікап",
+                    "бездараж",
+                    "цягавітасць"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Colorado",
+                "head": "Entdecken Sie Leistung und Vielseitigkeit mit dem Chevrolet Colorado",
+                "description": "Der Chevrolet Colorado vereint robuste Leistung, fortschrittliche Technologie und modernen Komfort für Arbeit und Abenteuer.",
+                "text": "Der Chevrolet Colorado ist ein vielseitiger Midsize-Pickup, der für starke Leistung und praktische Anwendungen entwickelt wurde. Mit verschiedenen Motoroptionen, darunter der Duramax® 2.8L Turbo-Diesel, bietet der Colorado beeindruckende Anhängelast und Geländegängigkeit. Das Interieur ist mit moderner Technologie ausgestattet, darunter ein 11,3-Zoll-Touchscreen mit Chevrolet Infotainment 3 und Konnektivitätsfunktionen wie Apple CarPlay® und Android Auto™. Fortschrittliche Sicherheitsfunktionen wie Kollisionswarnung und Spurhalteassistent sorgen für Sicherheit bei jeder Fahrt. Ob für tägliche Aufgaben oder Wochenendabenteuer – der Chevrolet Colorado ist bereit, zu überzeugen.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Geländefähigkeit",
+                    "Modernes Interieur mit fortschrittlicher Technologie",
+                    "Duramax® Turbo-Diesel für starke Leistung"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "Midsize-Pickup",
+                    "Offroad",
+                    "Anhängerlast"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Colorado",
+                "head": "Відкрийте продуктивність і універсальність із Chevrolet Colorado",
+                "description": "Chevrolet Colorado поєднує міцність, сучасні технології та комфорт для роботи та пригод.",
+                "text": "Chevrolet Colorado — це універсальний середньорозмірний пікап, створений для забезпечення високої продуктивності та практичності. Оснащений різними двигунами, включаючи Duramax® 2.8L Turbo-Diesel, Colorado забезпечує вражаючу тягову здатність і прохідність. Салон оснащений сучасними технологіями, такими як 11.3-дюймовий сенсорний екран із системою Chevrolet Infotainment 3 і функціями Apple CarPlay® та Android Auto™. Передові функції безпеки, такі як попередження про зіткнення та утримання смуги руху, забезпечують впевненість за кермом. Chevrolet Colorado готовий до будь-яких викликів, будь то робота чи пригоди.",
+                "advantages": [
+                    "Вражаюча тяговита здатність і прохідність",
+                    "Сучасний інтер'єр із передовими технологіями",
+                    "Двигун Duramax® Turbo-Diesel для потужної продуктивності"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "середньорозмірний пікап",
+                    "позашляховик",
+                    "тяговита здатність"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Colorado",
+                "head": "Odkryj wydajność i wszechstronność z Chevrolet Colorado",
+                "description": "Chevrolet Colorado łączy wytrzymałość, zaawansowaną technologię i nowoczesny komfort do pracy i przygód.",
+                "text": "Chevrolet Colorado to wszechstronny pickup średniej wielkości, zaprojektowany do zapewnienia wysokiej wydajności i praktyczności. Wyposażony w różne opcje silników, w tym Duramax® 2.8L Turbo-Diesel, Colorado oferuje imponującą zdolność holowania i możliwości terenowe. Wnętrze zostało wyposażone w nowoczesne technologie, takie jak 11,3-calowy ekran dotykowy z systemem Chevrolet Infotainment 3 i funkcje łączności Apple CarPlay® oraz Android Auto™. Zaawansowane funkcje bezpieczeństwa, takie jak ostrzeżenie o kolizji i asystent pasa ruchu, zapewniają pewność podczas każdej podróży. Chevrolet Colorado jest gotowy na każde wyzwanie, niezależnie od tego, czy to praca, czy przygoda.",
+                "advantages": [
+                    "Imponujące zdolności holowania i terenowe",
+                    "Nowoczesne wnętrze z zaawansowaną technologią",
+                    "Silnik Duramax® Turbo-Diesel dla silnych osiągów"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "pickup średniej wielkości",
+                    "terenowy",
+                    "zdolność holowania"
+                ]
+            },
+            "es": {
+                "title": "Chevrolet Colorado",
+                "head": "Explora el Rendimiento y la Versatilidad con la Chevrolet Colorado",
+                "description": "La Chevrolet Colorado combina capacidad robusta, tecnología avanzada y comodidad moderna para una camioneta mediana diseñada para manejar el trabajo y la aventura.",
+                "text": "La Chevrolet Colorado es una camioneta mediana versátil diseñada para ofrecer un rendimiento sólido y practicidad. Equipada con múltiples opciones de motor, incluido el Duramax® 2.8L Turbo-Diesel, la Colorado ofrece una impresionante capacidad de remolque y capacidad todoterreno. La cabina cuenta con tecnología moderna, como una pantalla táctil de 11.3 pulgadas con Chevrolet Infotainment 3 y opciones de conectividad como Apple CarPlay® y Android Auto™. Las características avanzadas de seguridad, que incluyen alerta de colisión frontal y asistencia de mantenimiento de carril, aseguran confianza en cada viaje. Ya sea para tareas diarias o exploraciones de fin de semana, la Chevrolet Colorado está construida para sobresalir.",
+                "advantages": [
+                    "Impresionantes capacidades de remolque y todoterreno",
+                    "Interior moderno con tecnología avanzada",
+                    "Opción Duramax® Turbo-Diesel para un rendimiento sólido"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "camioneta mediana",
+                    "todoterreno",
+                    "capacidad de remolque"
+                ]
+            },
+            "fr": {
+                "title": "Chevrolet Colorado",
+                "head": "Découvrez performance et polyvalence avec le Chevrolet Colorado",
+                "description": "Le Chevrolet Colorado combine robustesse, technologie avancée et confort moderne pour un camion de taille moyenne conçu pour le travail et l'aventure.",
+                "text": "Le Chevrolet Colorado est un camion polyvalent de taille moyenne conçu pour offrir des performances solides et une grande praticité. Équipé de plusieurs options de moteur, y compris le Duramax® 2.8L Turbo-Diesel, le Colorado offre une capacité de remorquage impressionnante et des capacités tout-terrain. L'habitacle dispose de technologies modernes, telles qu'un écran tactile de 11,3 pouces avec Chevrolet Infotainment 3 et des options de connectivité comme Apple CarPlay® et Android Auto™. Les fonctionnalités de sécurité avancées, y compris l'alerte de collision frontale et l'assistance au maintien de voie, assurent la confiance à chaque trajet. Que ce soit pour les tâches quotidiennes ou les explorations du week-end, le Chevrolet Colorado est conçu pour exceller.",
+                "advantages": [
+                    "Capacités de remorquage et tout-terrain impressionnantes",
+                    "Intérieur moderne avec technologie avancée",
+                    "Option Duramax® Turbo-Diesel pour des performances solides"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Colorado",
+                    "camion de taille moyenne",
+                    "tout-terrain",
+                    "capacité de remorquage"
+                ]
             }
         }
     ]

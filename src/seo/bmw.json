@@ -216,6 +216,175 @@
             }
         },
         {
+            "slug": "bmw-ix1",
+            "competitors": [
+                "Volvo XC40 Recharge",
+                "Tesla Model Y",
+                "Mercedes-Benz EQA"
+            ],
+            "en": {
+                "title": "BMW iX1",
+                "head": "Experience Innovation and Luxury with the BMW iX1",
+                "description": "The BMW iX1 combines cutting-edge electric technology, dynamic performance, and premium comfort in a compact electric SUV.",
+                "text": "The BMW iX1 is a fully electric compact SUV designed to deliver efficiency and excitement. With a range of up to 272 miles and fast-charging capabilities, it is ideal for both urban commutes and long journeys. The cabin offers luxurious finishes, a panoramic sunroof, and advanced technology like the BMW iDrive system with a curved display. Enhanced safety features, including lane-keeping assist and adaptive cruise control, provide confidence on every trip. Perfect for drivers seeking electric performance without compromising on luxury.",
+                "advantages": [
+                    "Up to 272 miles of electric range",
+                    "Luxurious interior with advanced technology",
+                    "Dynamic performance and safety features"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "electric SUV",
+                    "luxury",
+                    "performance"
+                ]
+            },
+            "ru": {
+                "title": "BMW iX1",
+                "head": "Испытайте инновации и роскошь с BMW iX1",
+                "description": "BMW iX1 сочетает передовые электрические технологии, динамическую производительность и премиальный комфорт в компактном электрическом внедорожнике.",
+                "text": "BMW iX1 — это полностью электрический компактный внедорожник, разработанный для эффективности и удовольствия от вождения. С запасом хода до 438 км и функцией быстрой зарядки он идеально подходит как для городских поездок, так и для дальних путешествий. Салон предлагает роскошные отделочные материалы, панорамный люк и современные технологии, такие как система BMW iDrive с изогнутым дисплеем. Расширенные функции безопасности, включая удержание полосы и адаптивный круиз-контроль, обеспечивают уверенность в каждой поездке. Прекрасный выбор для водителей, которые ищут электрическую производительность без компромиссов в роскоши.",
+                "advantages": [
+                    "Запас хода до 438 км",
+                    "Роскошный салон с передовыми технологиями",
+                    "Динамическая производительность и функции безопасности"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "электрический SUV",
+                    "роскошь",
+                    "производительность"
+                ]
+            },
+            "be": {
+                "title": "BMW iX1",
+                "head": "Выпрабуйце інавацыі і раскошу з BMW iX1",
+                "description": "BMW iX1 спалучае перадавыя электратэхналогіі, дынамічную прадукцыйнасць і прэміяльны камфорт у кампактным электрычным SUV.",
+                "text": "BMW iX1 — гэта цалкам электрычны кампактны пазадарожнік, распрацаваны для эфектыўнасці і задавальнення ад кіравання. З запасам ходу да 438 км і функцыяй хуткай зарадкі ён ідэальна падыходзіць як для гарадскіх паездак, так і для далёкіх падарожжаў. Салон прапануе раскошныя аздабленчыя матэрыялы, панарамны люк і сучасныя тэхналогіі, такія як сістэма BMW iDrive з выгнутым дысплеем. Пашыраныя функцыі бяспекі, уключаючы ўтрыманне паласы і адаптыўны круіз-кантроль, забяспечваюць упэўненасць у кожнай паездцы. Выдатны выбар для вадзіцеляў, якія шукаюць электрычную прадукцыйнасць без кампрамісаў у раскошы.",
+                "advantages": [
+                    "Запас ходу да 438 км",
+                    "Раскошны салон з сучаснымі тэхналогіямі",
+                    "Дынамічная прадукцыйнасць і функцыі бяспекі"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "электрычны SUV",
+                    "раскоша",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "BMW iX1",
+                "head": "Erleben Sie Innovation und Luxus mit dem BMW iX1",
+                "description": "Der BMW iX1 kombiniert modernste Elektrotechnik, dynamische Leistung und erstklassigen Komfort in einem kompakten Elektro-SUV.",
+                "text": "Der BMW iX1 ist ein vollelektrischer kompakter SUV, der Effizienz und Fahrspaß bietet. Mit einer Reichweite von bis zu 438 km und Schnellladefunktion eignet er sich ideal für Stadtfahrten und lange Reisen. Der Innenraum bietet luxuriöse Materialien, ein Panoramadach und fortschrittliche Technologie wie das BMW iDrive-System mit gebogenem Display. Erweiterte Sicherheitsfunktionen, darunter Spurhalteassistent und adaptiver Tempomat, sorgen für Sicherheit bei jeder Fahrt. Perfekt für Fahrer, die elektrische Leistung und Luxus suchen.",
+                "advantages": [
+                    "Bis zu 438 km elektrische Reichweite",
+                    "Luxuriöser Innenraum mit moderner Technologie",
+                    "Dynamische Leistung und Sicherheitsfunktionen"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "elektrischer SUV",
+                    "Luxus",
+                    "Leistung"
+                ]
+            },
+            "ua": {
+                "title": "BMW iX1",
+                "head": "Відкрийте інновації та розкіш із BMW iX1",
+                "description": "BMW iX1 поєднує передові електричні технології, динамічну продуктивність і преміальний комфорт у компактному електричному SUV.",
+                "text": "BMW iX1 — це повністю електричний компактний позашляховик, створений для ефективності та задоволення від водіння. Із запасом ходу до 438 км і функцією швидкої зарядки він ідеально підходить як для міських поїздок, так і для далеких подорожей. Салон пропонує розкішні матеріали, панорамний люк і сучасні технології, такі як система BMW iDrive із вигнутим дисплеєм. Розширені функції безпеки, включаючи утримання смуги та адаптивний круїз-контроль, забезпечують впевненість під час кожної поїздки. Чудовий вибір для тих, хто шукає електричну продуктивність без компромісів у розкоші.",
+                "advantages": [
+                    "Запас ходу до 438 км",
+                    "Розкішний інтер'єр із сучасними технологіями",
+                    "Динамічна продуктивність і функції безпеки"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "електричний SUV",
+                    "люкс",
+                    "продуктивність"
+                ]
+            },
+            "pl": {
+                "title": "BMW iX1",
+                "head": "Odkryj innowacje i luksus z BMW iX1",
+                "description": "BMW iX1 łączy zaawansowaną technologię elektryczną, dynamiczną wydajność i najwyższy komfort w kompaktowym SUV-ie elektrycznym.",
+                "text": "BMW iX1 to w pełni elektryczny kompaktowy SUV, zaprojektowany z myślą o efektywności i radości z jazdy. Zasięg do 438 km i funkcja szybkiego ładowania sprawiają, że jest idealny zarówno do codziennych dojazdów, jak i długich podróży. Wnętrze oferuje luksusowe wykończenia, panoramiczny dach i nowoczesne technologie, takie jak system BMW iDrive z zakrzywionym wyświetlaczem. Zaawansowane funkcje bezpieczeństwa, w tym asystent pasa ruchu i adaptacyjny tempomat, zapewniają bezpieczeństwo podczas każdej jazdy. Idealny wybór dla kierowców ceniących elektryczne osiągi i luksus.",
+                "advantages": [
+                    "Zasięg do 438 km",
+                    "Luksusowe wnętrze z nowoczesną technologią",
+                    "Dynamiczne osiągi i funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "elektryczny SUV",
+                    "luksus",
+                    "osiągi"
+                ]
+            },
+            "es": {
+                "title": "BMW iX1",
+                "head": "Descubre la innovación y el lujo con el BMW iX1",
+                "description": "El BMW iX1 combina tecnología eléctrica de vanguardia, rendimiento dinámico y confort premium en un SUV compacto eléctrico.",
+                "text": "El BMW iX1 es un SUV compacto totalmente eléctrico diseñado para ofrecer eficiencia y emoción al conducir. Con una autonomía de hasta 438 km y capacidad de carga rápida, es ideal para desplazamientos urbanos y viajes largos. El interior cuenta con acabados de lujo, un techo panorámico y tecnología avanzada como el sistema BMW iDrive con pantalla curva. Las características avanzadas de seguridad, incluido el asistente de mantenimiento de carril y el control de crucero adaptativo, garantizan tranquilidad en cada viaje. Perfecto para quienes buscan rendimiento eléctrico sin comprometer el lujo.",
+                "advantages": [
+                    "Autonomía de hasta 438 km",
+                    "Interior lujoso con tecnología avanzada",
+                    "Rendimiento dinámico y características de seguridad"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "SUV eléctrico",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "BMW iX1",
+                "head": "Découvrez l'innovation et le luxe avec le BMW iX1",
+                "description": "Le BMW iX1 combine une technologie électrique de pointe, des performances dynamiques et un confort premium dans un SUV électrique compact.",
+                "text": "Le BMW iX1 est un SUV compact entièrement électrique conçu pour offrir efficacité et excitation. Avec une autonomie allant jusqu'à 438 km et des capacités de charge rapide, il est idéal pour les trajets urbains et les longs voyages. L'habitacle offre des finitions luxueuses, un toit ouvrant panoramique et des technologies avancées comme le système BMW iDrive avec un écran incurvé. Les fonctionnalités de sécurité améliorées, y compris l'assistance au maintien de voie et le régulateur de vitesse adaptatif, offrent confiance à chaque trajet. Parfait pour les conducteurs recherchant des performances électriques sans compromis sur le luxe.",
+                "advantages": [
+                    "Autonomie électrique allant jusqu'à 438 km",
+                    "Intérieur luxueux avec technologie avancée",
+                    "Performances dynamiques et fonctionnalités de sécurité"
+                ],
+                "keywords": [
+                    "BMW",
+                    "iX1",
+                    "SUV électrique",
+                    "luxe",
+                    "performances"
+                ]
+            },
+            "zh": {
+                "title": "宝马iX1",
+                "head": "体验创新与奢华：宝马iX1",
+                "description": "宝马iX1将尖端电动技术、动态性能和高端舒适性融合于一体，打造紧凑型电动SUV。",
+                "text": "宝马iX1是一款全电动紧凑型SUV，旨在提供高效和激动人心的驾驶体验。最高续航里程达438公里，支持快速充电，非常适合城市通勤和长途旅行。车内采用豪华饰面、全景天窗和先进技术，如配备弯曲显示屏的宝马iDrive系统。增强的安全功能，包括车道保持辅助和自适应巡航控制，为每次行程提供信心。适合寻求电动性能而又不愿在奢华上妥协的驾驶者。",
+                "advantages": [
+                    "高达438公里的电动续航里程",
+                    "豪华内饰，配备先进技术",
+                    "动态性能和安全功能"
+                ],
+                "keywords": [
+                    "宝马",
+                    "iX1",
+                    "电动SUV",
+                    "奢华",
+                    "性能"
+                ]
+            }
+        },
+        {
             "slug": "bmw-ix3",
             "competitors": [
                 "Audi Q4 e-tron",

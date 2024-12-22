@@ -59,8 +59,6 @@ const Footer = (): any => {
     }
   }
 
-  console.log(colsCells);
-
   return (
     <div className={styles.footer}>
       <div className={styles.content}>

@@ -68,8 +68,6 @@ const BrandScreen = (): any => {
   const imageStyle =
     brandInfo && brandInfo.image ? styles[brandInfo.image] : '';
 
-  console.log(brandInfo);
-
   return (
     <section>
       <Helmet>

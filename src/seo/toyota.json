@@ -466,297 +466,611 @@
             }
         },
         {
-            "slug": "tacoma",
+            "slug": "toyota-highlander",
+            "competitors": [
+                "Hyundai Santa Fe",
+                "Honda Pilot",
+                "Ford Explorer"
+            ],
             "en": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
+                "title": "Toyota Highlander",
+                "head": "Discover Power and Comfort with the Toyota Highlander SUV",
+                "description": "The Toyota Highlander offers a perfect balance of spaciousness, performance, and advanced technology. Explore the SUV built for your journey.",
+                "text": "The Toyota Highlander is a premium SUV designed for families and adventurers. With its powerful and efficient engine options, including hybrid variants, it delivers excellent fuel economy without compromising on performance. The interior is spacious and comfortable, featuring premium materials and smart features like a multi-zone climate control system and an advanced infotainment display. Safety is a priority with Toyota's Safety Sense suite, which includes adaptive cruise control, lane-keeping assist, and pre-collision detection. Whether for daily commutes or long trips, the Highlander ensures a smooth and enjoyable drive.",
+                "advantages": [
+                    "Spacious and refined interior",
+                    "Hybrid powertrain options",
+                    "Toyota Safety Sense advanced safety features"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Tacoma",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Toyota",
-                    "Tacoma",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Toyota",
-                    "Tacoma",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Toyota",
-                    "Tacoma",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Highlander",
+                    "SUV",
+                    "hybrid",
+                    "family car"
+                ]
             },
             "de": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "title": "Toyota Highlander",
+                "head": "Entdecken Sie Kraft und Komfort mit dem Toyota Highlander SUV",
+                "description": "Der Toyota Highlander bietet eine perfekte Balance aus Geräumigkeit, Leistung und fortschrittlicher Technologie. Entdecken Sie das SUV, das für Ihre Reisen gebaut wurde.",
+                "text": "Der Toyota Highlander ist ein Premium-SUV, der für Familien und Abenteurer entwickelt wurde. Mit leistungsstarken und effizienten Motoroptionen, einschließlich Hybridvarianten, bietet er eine hervorragende Kraftstoffeffizienz, ohne auf Leistung zu verzichten. Das Interieur ist geräumig und komfortabel und verfügt über hochwertige Materialien sowie intelligente Funktionen wie eine Mehrzonen-Klimaautomatik und ein fortschrittliches Infotainment-Display. Sicherheit hat höchste Priorität mit Toyotas Safety Sense Suite, die adaptive Geschwindigkeitsregelung, Spurhalteassistent und Kollisionswarnung umfasst. Ob für den täglichen Arbeitsweg oder lange Reisen, der Highlander sorgt für eine angenehme und reibungslose Fahrt.",
+                "advantages": [
+                    "Geräumiges und hochwertiges Interieur",
+                    "Hybridantriebsoptionen",
+                    "Toyota Safety Sense fortschrittliche Sicherheitsmerkmale"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Tacoma",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Highlander",
+                    "SUV",
+                    "Hybrid",
+                    "Familienauto"
+                ]
             },
-            "be": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+            "ua": {
+                "title": "Toyota Highlander",
+                "head": "Відкрийте потужність і комфорт із позашляховиком Toyota Highlander",
+                "description": "Toyota Highlander пропонує ідеальний баланс простору, продуктивності та передових технологій. Дізнайтеся про позашляховик, створений для ваших подорожей.",
+                "text": "Toyota Highlander — це преміальний позашляховик, розроблений для сімей і мандрівників. Завдяки потужним і ефективним варіантам двигунів, включаючи гібридні, він забезпечує відмінну економію палива без шкоди для продуктивності. Салон просторий і комфортний, оснащений преміальними матеріалами та розумними функціями, такими як багатозонний клімат-контроль і сучасна інформаційно-розважальна система. Безпека є пріоритетом завдяки комплексу Toyota Safety Sense, який включає адаптивний круїз-контроль, систему утримання в смузі та виявлення зіткнень. Для щоденних поїздок чи тривалих подорожей Highlander забезпечує плавну та комфортну їзду.",
+                "advantages": [
+                    "Просторий і витончений салон",
+                    "Гібридні варіанти силової установки",
+                    "Передові системи безпеки Toyota Safety Sense"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Tacoma",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
+                    "Highlander",
+                    "позашляховик",
+                    "гібрид",
+                    "сімейний автомобіль"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Highlander",
+                "head": "Odkryj moc i komfort z SUV-em Toyota Highlander",
+                "description": "Toyota Highlander oferuje idealne połączenie przestronności, wydajności i zaawansowanej technologii. Odkryj SUV stworzony dla Twoich podróży.",
+                "text": "Toyota Highlander to wysokiej klasy SUV zaprojektowany dla rodzin i podróżników. Dzięki wydajnym i mocnym opcjom silników, w tym hybrydowym, zapewnia doskonałą oszczędność paliwa bez kompromisów w zakresie osiągów. Wnętrze jest przestronne i komfortowe, wyposażone w wysokiej jakości materiały oraz inteligentne funkcje, takie jak klimatyzacja wielostrefowa i zaawansowany system multimedialny. Bezpieczeństwo jest priorytetem dzięki pakietowi Toyota Safety Sense, który obejmuje adaptacyjny tempomat, asystenta pasa ruchu i system zapobiegania kolizjom. Niezależnie od tego, czy to codzienna jazda, czy długie podróże, Highlander gwarantuje płynną i wygodną jazdę.",
+                "advantages": [
+                    "Przestronne i luksusowe wnętrze",
+                    "Opcje hybrydowego napędu",
+                    "Zaawansowane funkcje bezpieczeństwa Toyota Safety Sense"
                 ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "SUV",
+                    "hybrydowy",
+                    "samochód rodzinny"
+                ]
             },
             "es": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "title": "Toyota Highlander",
+                "head": "Descubre potencia y comodidad con el SUV Toyota Highlander",
+                "description": "El Toyota Highlander ofrece el equilibrio perfecto entre espacio, rendimiento y tecnología avanzada. Explora el SUV diseñado para tus viajes.",
+                "text": "El Toyota Highlander es un SUV premium diseñado para familias y aventureros. Con opciones de motor potentes y eficientes, incluidas variantes híbridas, ofrece un excelente ahorro de combustible sin comprometer el rendimiento. Su interior es espacioso y cómodo, con materiales de alta calidad y características inteligentes como un sistema de control de clima multizona y una avanzada pantalla de infoentretenimiento. La seguridad es una prioridad con el paquete Toyota Safety Sense, que incluye control de crucero adaptativo, asistente de mantenimiento de carril y detección de colisiones. Tanto para desplazamientos diarios como para viajes largos, el Highlander garantiza una conducción cómoda y agradable.",
+                "advantages": [
+                    "Interior espacioso y refinado",
+                    "Opciones de tren motriz híbrido",
+                    "Funciones avanzadas de seguridad Toyota Safety Sense"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Tacoma",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Highlander",
+                    "SUV",
+                    "híbrido",
+                    "familiar"
+                ]
             },
             "fr": {
-                "title": "Toyota Tacoma",
-                "description": "Toyota Tacoma est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "title": "Toyota Highlander",
+                "head": "Découvrez la puissance et le confort avec le SUV Toyota Highlander",
+                "description": "Le Toyota Highlander offre un équilibre parfait entre espace, performance et technologie avancée. Explorez le SUV conçu pour vos voyages.",
+                "text": "Le Toyota Highlander est un SUV haut de gamme conçu pour les familles et les aventuriers. Avec ses options de motorisation puissantes et efficaces, y compris des variantes hybrides, il offre une excellente économie de carburant sans compromettre les performances. Son intérieur spacieux et confortable est doté de matériaux de qualité supérieure et de fonctionnalités intelligentes, comme un système de climatisation multizone et un écran d'infodivertissement avancé. La sécurité est une priorité avec la suite Toyota Safety Sense, qui comprend le régulateur de vitesse adaptatif, l'assistance au maintien dans la voie et la détection des collisions. Que ce soit pour les trajets quotidiens ou les longs voyages, le Highlander garantit une conduite agréable et fluide.",
+                "advantages": [
+                    "Intérieur spacieux et raffiné",
+                    "Options de motorisation hybride",
+                    "Fonctionnalités avancées de sécurité Toyota Safety Sense"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Tacoma",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Highlander",
+                    "SUV",
+                    "hybride",
+                    "familial"
+                ]
             },
             "zh": {
-                "title": "Toyota Tacoma",
-                "description": "丰田Tacoma是一款性能出色且豪华的高评分车型。",
+                "title": "丰田 Highlander",
+                "head": "探索力量与舒适：丰田 Highlander SUV",
+                "description": "丰田 Highlander 提供完美的空间、性能和先进技术平衡。探索为您的旅程打造的 SUV。",
+                "text": "丰田 Highlander 是一款高端 SUV，专为家庭和冒险者设计。其强大的高效发动机选项，包括混合动力版本，提供卓越的燃油经济性和性能表现。内部宽敞舒适，采用优质材料打造，并配备智能功能，如多区域气候控制系统和先进的信息娱乐显示屏。安全性是首要任务，Toyota Safety Sense 套件包括自适应巡航控制、车道保持辅助和碰撞预警系统。无论是日常通勤还是长途旅行，Highlander 都能确保顺畅舒适的驾驶体验。",
+                "advantages": [
+                    "宽敞且高档的内饰",
+                    "混合动力选项",
+                    "Toyota Safety Sense 高级安全功能"
+                ],
                 "keywords": [
                     "丰田",
-                    "Tacoma",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "tacoma highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Highlander",
+                    "SUV",
+                    "混合动力",
+                    "家庭用车"
+                ]
             }
         },
         {
-            "slug": "highlander",
+            "slug": "toyota-tundra",
+            "competitors": [
+                "Ford F-150",
+                "Chevrolet Silverado",
+                "Ram 1500"
+            ],
             "en": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",
+                "title": "Toyota Tundra",
+                "head": "Unleash Durability and Power with the Toyota Tundra",
+                "description": "The Toyota Tundra combines strength, reliability, and advanced technology for a pickup truck built to handle any challenge. Discover its robust capabilities.",
+                "text": "The Toyota Tundra is a powerful and dependable full-size pickup truck designed for tough tasks and adventures. With a range of powerful engines, including hybrid options, the Tundra delivers impressive towing and payload capacities while maintaining fuel efficiency. Its durable design is paired with a spacious, high-tech cabin that features premium materials, a large touchscreen infotainment system, and advanced safety technologies such as Toyota Safety Sense™. Whether you're hauling heavy loads or exploring off-road terrain, the Tundra offers the strength and reliability you need.",
+                "advantages": [
+                    "Impressive towing and payload capacity",
+                    "Hybrid powertrain options",
+                    "Durable design with advanced safety features"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Highlander",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Toyota",
-                    "Highlander",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Toyota",
-                    "Highlander",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Toyota",
-                    "Highlander",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Tundra",
+                    "pickup truck",
+                    "towing capacity",
+                    "hybrid"
+                ]
             },
             "de": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "title": "Toyota Tundra",
+                "head": "Erleben Sie Robustheit und Leistung mit der Toyota Tundra",
+                "description": "Die Toyota Tundra vereint Stärke, Zuverlässigkeit und fortschrittliche Technologie in einem Pickup, der jede Herausforderung meistert. Entdecken Sie ihre robusten Fähigkeiten.",
+                "text": "Die Toyota Tundra ist ein kraftvoller und zuverlässiger Full-Size-Pickup, der für harte Aufgaben und Abenteuer entwickelt wurde. Mit einer Auswahl an leistungsstarken Motoren, einschließlich Hybridoptionen, bietet die Tundra beeindruckende Anhängelast und Nutzlast bei gleichzeitig hoher Kraftstoffeffizienz. Ihr robustes Design wird durch ein geräumiges, hochmodernes Interieur ergänzt, das hochwertige Materialien, ein großes Touchscreen-Infotainmentsystem und fortschrittliche Sicherheitsfunktionen wie Toyota Safety Sense™ umfasst. Ob schwere Lasten oder Offroad-Gelände – die Tundra bietet die Stärke und Zuverlässigkeit, die Sie benötigen.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Nutzlast",
+                    "Hybrid-Antriebsoptionen",
+                    "Robustes Design mit fortschrittlichen Sicherheitsfunktionen"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Highlander",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Tundra",
+                    "Pickup",
+                    "Anhängerlast",
+                    "Hybrid"
+                ]
             },
-            "be": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+            "ua": {
+                "title": "Toyota Tundra",
+                "head": "Відчуйте міцність та потужність із Toyota Tundra",
+                "description": "Toyota Tundra поєднує силу, надійність та передові технології в пікапі, який здатен впоратися з будь-якими викликами. Дізнайтеся про її можливості.",
+                "text": "Toyota Tundra — це потужний і надійний пікап повнорозмірного класу, створений для важких завдань і пригод. Завдяки потужним двигунам, включаючи гібридні варіанти, Tundra забезпечує вражаючу буксирну здатність і вантажопідйомність при збереженні економічності палива. Її міцний дизайн доповнюється просторим високотехнологічним салоном, який оснащений преміальними матеріалами, великим сенсорним екраном і передовими функціями безпеки, такими як Toyota Safety Sense™. Незалежно від того, чи це важкі вантажі, чи бездоріжжя, Tundra забезпечує силу та надійність.",
+                "advantages": [
+                    "Вражаюча буксирна здатність і вантажопідйомність",
+                    "Гібридні варіанти силової установки",
+                    "Міцний дизайн із передовими функціями безпеки"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Highlander",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
+                    "Tundra",
+                    "пікап",
+                    "буксирування",
+                    "гібрид"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Tundra",
+                "head": "Poczuj wytrzymałość i moc z Toyota Tundra",
+                "description": "Toyota Tundra łączy siłę, niezawodność i zaawansowaną technologię w pickupie, który sprosta każdemu wyzwaniu. Poznaj jej możliwości.",
+                "text": "Toyota Tundra to potężny i niezawodny pickup pełnowymiarowy, zaprojektowany do ciężkich zadań i przygód. Dzięki gamie mocnych silników, w tym hybrydowych, Tundra oferuje imponujące możliwości holowania i ładowności przy zachowaniu oszczędności paliwa. Jej wytrzymała konstrukcja łączy się z przestronnym, zaawansowanym technologicznie wnętrzem, które zawiera materiały premium, duży ekran dotykowy i zaawansowane funkcje bezpieczeństwa, takie jak Toyota Safety Sense™. Niezależnie od tego, czy przewozisz ciężkie ładunki, czy poruszasz się w terenie, Tundra zapewnia siłę i niezawodność.",
+                "advantages": [
+                    "Imponujące możliwości holowania i ładowności",
+                    "Opcje napędu hybrydowego",
+                    "Wytrzymała konstrukcja z zaawansowanymi funkcjami bezpieczeństwa"
                 ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Toyota",
+                    "Tundra",
+                    "pickup",
+                    "holowanie",
+                    "hybryda"
+                ]
             },
             "es": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "title": "Toyota Tundra",
+                "head": "Desata durabilidad y potencia con la Toyota Tundra",
+                "description": "La Toyota Tundra combina fuerza, confiabilidad y tecnología avanzada en una pickup diseñada para enfrentar cualquier desafío. Descubre sus capacidades robustas.",
+                "text": "La Toyota Tundra es una pickup de tamaño completo potente y confiable, diseñada para tareas exigentes y aventuras. Con una gama de motores potentes, incluidas opciones híbridas, la Tundra ofrece capacidades de remolque y carga impresionantes mientras mantiene eficiencia en el consumo de combustible. Su diseño duradero se combina con una cabina espaciosa y de alta tecnología que incluye materiales de primera calidad, un sistema de infoentretenimiento con pantalla táctil grande y tecnologías avanzadas de seguridad como Toyota Safety Sense™. Ya sea para remolcar cargas pesadas o explorar terrenos difíciles, la Tundra proporciona la fuerza y confiabilidad que necesitas.",
+                "advantages": [
+                    "Capacidad de remolque y carga impresionante",
+                    "Opciones de tren motriz híbrido",
+                    "Diseño duradero con características avanzadas de seguridad"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Highlander",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Tundra",
+                    "pickup",
+                    "capacidad de remolque",
+                    "híbrido"
+                ]
             },
             "fr": {
-                "title": "Toyota Highlander",
-                "description": "Toyota Highlander est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "title": "Toyota Tundra",
+                "head": "Libérez la durabilité et la puissance avec la Toyota Tundra",
+                "description": "La Toyota Tundra combine robustesse, fiabilité et technologie avancée pour un pickup conçu pour relever tous les défis. Découvrez ses capacités impressionnantes.",
+                "text": "La Toyota Tundra est un pickup puissant et fiable de grande taille conçu pour les tâches difficiles et les aventures. Avec une gamme de moteurs puissants, y compris des options hybrides, la Tundra offre des capacités de remorquage et de charge impressionnantes tout en maintenant une bonne efficacité énergétique. Son design robuste s'accompagne d'un habitacle spacieux et high-tech doté de matériaux haut de gamme, d'un grand écran tactile et de technologies de sécurité avancées telles que Toyota Safety Sense™. Que ce soit pour transporter des charges lourdes ou explorer des terrains difficiles, la Tundra offre la puissance et la fiabilité dont vous avez besoin.",
+                "advantages": [
+                    "Capacité de remorquage et de charge impressionnante",
+                    "Options de motorisation hybride",
+                    "Design robuste avec des fonctionnalités de sécurité avancées"
+                ],
                 "keywords": [
                     "Toyota",
-                    "Highlander",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Tundra",
+                    "pickup",
+                    "remorquage",
+                    "hybride"
+                ]
             },
             "zh": {
-                "title": "Toyota Highlander",
-                "description": "丰田Highlander是一款性能出色且豪华的高评分车型。",
+                "title": "丰田 Tundra",
+                "head": "释放丰田 Tundra 的耐用性与强大性能",
+                "description": "丰田 Tundra 将力量、可靠性和先进技术相结合，打造应对任何挑战的皮卡。探索其卓越性能。",
+                "text": "丰田 Tundra 是一款功能强大且可靠的全尺寸皮卡，专为重载任务和冒险而设计。搭载多种强劲发动机，包括混合动力选项，Tundra 提供令人印象深刻的拖曳能力和载重能力，同时保持燃油效率。其坚固设计与宽敞的高科技驾驶舱相结合，内饰采用优质材料，大型触摸屏信息娱乐系统以及先进的安全技术如 Toyota Safety Sense™。无论是运输重型货物还是探索越野地形，Tundra 都能提供所需的强大性能和可靠性。",
+                "advantages": [
+                    "卓越的拖曳能力和载重能力",
+                    "混合动力选项",
+                    "坚固设计与先进的安全功能"
+                ],
                 "keywords": [
                     "丰田",
-                    "Highlander",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "highlander highlights",
-                    "best in class",
-                    "luxury design"
+                    "Tundra",
+                    "皮卡",
+                    "拖曳能力",
+                    "混合动力"
+                ]
+            }
+        },
+        {
+            "slug": "toyota-sequoia",
+            "competitors": [
+                "Chevrolet Tahoe",
+                "Ford Expedition",
+                "GMC Yukon"
+            ],
+            "en": {
+                "title": "Toyota Sequoia",
+                "head": "Discover Power and Versatility with the Toyota Sequoia",
+                "description": "The Toyota Sequoia combines rugged performance, spacious interior, and advanced technology for a full-size SUV built for families and adventures.",
+                "text": "The Toyota Sequoia is a full-size SUV designed for power, comfort, and reliability. Equipped with a powerful V6 hybrid engine, the Sequoia offers exceptional towing capacity and impressive fuel efficiency. Inside, the cabin is spacious and luxurious, with seating for up to eight passengers, premium materials, and advanced features like a large touchscreen infotainment system and a panoramic moonroof. Safety is a priority, with Toyota Safety Sense™ providing features like adaptive cruise control and lane-keeping assist. Whether navigating city streets or exploring off-road trails, the Toyota Sequoia is built for every journey.",
+                "advantages": [
+                    "Powerful hybrid engine with impressive towing capacity",
+                    "Spacious and luxurious interior",
+                    "Advanced safety and technology features"
                 ],
-                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "SUV",
+                    "hybrid",
+                    "family car"
+                ]
+            },
+            "ru": {
+                "title": "Toyota Sequoia",
+                "head": "Откройте мощь и универсальность с Toyota Sequoia",
+                "description": "Toyota Sequoia сочетает мощность, просторный интерьер и передовые технологии, создавая полноразмерный внедорожник для семьи и приключений.",
+                "text": "Toyota Sequoia — это полноразмерный внедорожник, созданный для мощности, комфорта и надежности. Оснащён мощным гибридным двигателем V6, Sequoia обеспечивает впечатляющую тяговую способность и экономию топлива. Внутри просторный и роскошный салон рассчитан на восемь пассажиров, имеет премиальные материалы и передовые функции, такие как большой сенсорный экран и панорамный люк. Безопасность обеспечивается системой Toyota Safety Sense™ с такими функциями, как адаптивный круиз-контроль и удержание полосы движения. Независимо от того, это городские улицы или бездорожье, Toyota Sequoia готова к любым поездкам.",
+                "advantages": [
+                    "Мощный гибридный двигатель с высокой тяговой способностью",
+                    "Просторный и роскошный интерьер",
+                    "Передовые функции безопасности и технологий"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "внедорожник",
+                    "гибрид",
+                    "семейный автомобиль"
+                ]
+            },
+            "be": {
+                "title": "Toyota Sequoia",
+                "head": "Адкрыйце магутнасць і універсальнасць з Toyota Sequoia",
+                "description": "Toyota Sequoia спалучае магутнасць, прасторны інтэр'ер і сучасныя тэхналогіі, ствараючы пазадарожнік для сям'і і прыгод.",
+                "text": "Toyota Sequoia — гэта вялікі пазадарожнік, створаны для магутнасці, камфорту і надзейнасці. Абсталяваны магутным гібрыдным рухавіком V6, Sequoia забяспечвае ўражальную цягавую здольнасць і эканамічнасць паліва. Унутры прасторны і раскошны салон разлічаны на восем пасажыраў, мае якасныя матэрыялы і сучасныя функцыі, такія як вялікі сэнсарны экран і панарамны люк. Бяспека гарантуецца сістэмай Toyota Safety Sense™, якая ўключае адаптыўны круіз-контроль і ўтрыманне паласы руху. Няхай гэта будзе гарадскія вуліцы ці бездараж, Toyota Sequoia гатовая да любых падарожжаў.",
+                "advantages": [
+                    "Магутны гібрыдны рухавік з высокай цягавой здольнасцю",
+                    "Прасторны і раскошны інтэр'ер",
+                    "Сучасныя функцыі бяспекі і тэхналогій"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "пазадарожнік",
+                    "гібрыд",
+                    "сямейны аўтамабіль"
+                ]
+            },
+            "de": {
+                "title": "Toyota Sequoia",
+                "head": "Entdecken Sie Kraft und Vielseitigkeit mit dem Toyota Sequoia",
+                "description": "Der Toyota Sequoia vereint robuste Leistung, geräumiges Interieur und fortschrittliche Technologie in einem Full-Size-SUV für Familie und Abenteuer.",
+                "text": "Der Toyota Sequoia ist ein Full-Size-SUV, der für Kraft, Komfort und Zuverlässigkeit entwickelt wurde. Mit einem leistungsstarken V6-Hybridmotor ausgestattet, bietet der Sequoia beeindruckende Anhängelast und hohe Kraftstoffeffizienz. Das Interieur ist geräumig und luxuriös, mit Platz für bis zu acht Personen, hochwertigen Materialien und modernen Funktionen wie einem großen Touchscreen-Infotainmentsystem und einem Panoramadach. Sicherheit steht im Fokus, mit Toyota Safety Sense™ und Funktionen wie adaptiver Geschwindigkeitsregelung und Spurhalteassistent. Ob Stadt oder Offroad – der Toyota Sequoia ist für jede Reise bereit.",
+                "advantages": [
+                    "Leistungsstarker Hybridmotor mit hoher Anhängelast",
+                    "Geräumiges und luxuriöses Interieur",
+                    "Fortschrittliche Sicherheits- und Technologiefunktionen"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "SUV",
+                    "Hybrid",
+                    "Familienauto"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Sequoia",
+                "head": "Відкрийте потужність та універсальність із Toyota Sequoia",
+                "description": "Toyota Sequoia поєднує потужність, просторий салон та сучасні технології, створюючи повнорозмірний позашляховик для сімей та пригод.",
+                "text": "Toyota Sequoia — це повнорозмірний позашляховик, створений для потужності, комфорту та надійності. Завдяки потужному гібридному двигуну V6, Sequoia забезпечує вражаючу буксирну здатність та економію палива. У салоні просторо та розкішно: до восьми пасажирів, преміальні матеріали, великий сенсорний екран та панорамний люк. Безпека гарантується системою Toyota Safety Sense™, яка включає адаптивний круїз-контроль та утримання смуги руху. Незалежно від того, чи це міські вулиці чи бездоріжжя, Toyota Sequoia готова до будь-яких поїздок.",
+                "advantages": [
+                    "Потужний гібридний двигун із високою буксирною здатністю",
+                    "Просторий та розкішний салон",
+                    "Сучасні функції безпеки та технології"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "позашляховик",
+                    "гібрид",
+                    "сімейний автомобіль"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Sequoia",
+                "head": "Odkryj moc i wszechstronność z Toyota Sequoia",
+                "description": "Toyota Sequoia łączy solidne osiągi, przestronne wnętrze i nowoczesne technologie. Odkryj SUV stworzony dla rodziny i przygód.",
+                "text": "Toyota Sequoia to pełnowymiarowy SUV zaprojektowany z myślą o mocy, komforcie i niezawodności. Wyposażony w potężny silnik hybrydowy V6, Sequoia oferuje imponujące możliwości holowania i wysoką wydajność paliwową. Wnętrze jest przestronne i luksusowe, z miejscem dla maksymalnie ośmiu pasażerów, wysokiej jakości materiałami oraz zaawansowanymi funkcjami, takimi jak duży ekran dotykowy i panoramiczny dach. Dzięki systemowi Toyota Safety Sense™ z adaptacyjnym tempomatem i asystentem pasa ruchu, Sequoia zapewnia bezpieczeństwo podczas każdej podróży. Niezależnie od terenu, Toyota Sequoia jest gotowa na wyzwania.",
+                "advantages": [
+                    "Mocny silnik hybrydowy z dużą zdolnością holowania",
+                    "Przestronne i luksusowe wnętrze",
+                    "Zaawansowane funkcje bezpieczeństwa i technologii"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "SUV",
+                    "hybryda",
+                    "samochód rodzinny"
+                ]
+            },
+            "es": {
+                "title": "Toyota Sequoia",
+                "head": "Descubre la potencia y versatilidad con la Toyota Sequoia",
+                "description": "La Toyota Sequoia combina un rendimiento robusto, un interior espacioso y tecnología avanzada para un SUV de tamaño completo diseñado para familias y aventuras.",
+                "text": "La Toyota Sequoia es un SUV de tamaño completo diseñado para la potencia, la comodidad y la fiabilidad. Equipada con un potente motor híbrido V6, la Sequoia ofrece una capacidad de remolque excepcional y una impresionante eficiencia de combustible. En el interior, la cabina es espaciosa y lujosa, con asientos para hasta ocho pasajeros, materiales premium y características avanzadas como un gran sistema de infoentretenimiento con pantalla táctil y un techo panorámico. La seguridad es una prioridad, con Toyota Safety Sense™ que ofrece funciones como control de crucero adaptativo y asistente de mantenimiento de carril. Ya sea en la ciudad o explorando senderos todoterreno, la Toyota Sequoia está diseñada para cada viaje.",
+                "advantages": [
+                    "Potente motor híbrido con impresionante capacidad de remolque",
+                    "Interior espacioso y lujoso",
+                    "Funciones avanzadas de seguridad y tecnología"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "SUV",
+                    "híbrido",
+                    "familiar"
+                ]
+            },
+            "fr": {
+                "title": "Toyota Sequoia",
+                "head": "Découvrez la puissance et la polyvalence avec la Toyota Sequoia",
+                "description": "La Toyota Sequoia combine des performances robustes, un intérieur spacieux et une technologie avancée pour un SUV de grande taille conçu pour les familles et les aventures.",
+                "text": "La Toyota Sequoia est un SUV de grande taille conçu pour la puissance, le confort et la fiabilité. Équipée d'un puissant moteur hybride V6, la Sequoia offre une capacité de remorquage exceptionnelle et une efficacité énergétique impressionnante. À l'intérieur, l'habitacle est spacieux et luxueux, avec des sièges pour jusqu'à huit passagers, des matériaux haut de gamme et des fonctionnalités avancées comme un grand système d'infodivertissement à écran tactile et un toit panoramique. La sécurité est une priorité, avec Toyota Safety Sense™ offrant des fonctionnalités telles que le régulateur de vitesse adaptatif et l'assistance au maintien de la voie. Que ce soit en ville ou en explorant des sentiers tout-terrain, la Toyota Sequoia est conçue pour chaque voyage.",
+                "advantages": [
+                    "Moteur hybride puissant avec une capacité de remorquage impressionnante",
+                    "Intérieur spacieux et luxueux",
+                    "Fonctionnalités de sécurité et de technologie avancées"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Sequoia",
+                    "SUV",
+                    "hybride",
+                    "familial"
+                ]
+            },
+            "zh": {
+                "title": "丰田 Sequoia",
+                "head": "探索力量与多功能性：丰田 Sequoia",
+                "description": "丰田 Sequoia 结合了强劲的性能、宽敞的内饰和先进技术，为全尺寸 SUV 打造了一个适合家庭和冒险的车型。",
+                "text": "丰田 Sequoia 是一款全尺寸 SUV，旨在提供强大、舒适和可靠性。搭载强劲的 V6 混合动力引擎，Sequoia 提供卓越的拖曳能力和出色的燃油效率。车内宽敞豪华，可容纳多达八名乘客，采用优质材料和先进功能，如大屏幕信息娱乐系统和全景天窗。安全是首要任务，Toyota Safety Sense™ 提供自适应巡航控制和车道保持辅助等功能。无论是城市街道还是探索越野道路，丰田 Sequoia 都是为每次旅行而设计的。",
+                "advantages": [
+                    "强大的混合动力引擎，卓越的拖曳能力",
+                    "宽敞豪华的内饰",
+                    "先进的安全和技术功能"
+                ],
+                "keywords": [
+                    "丰田",
+                    "Sequoia",
+                    "SUV",
+                    "混合动力",
+                    "家庭用车"
+                ]
+            }
+        },
+        {
+            "slug": "toyota-tacoma",
+            "competitors": [
+                "Ford Ranger",
+                "Chevrolet Colorado",
+                "Nissan Frontier"
+            ],
+            "en": {
+                "title": "Toyota Tacoma",
+                "head": "Unleash Capability and Durability with the Toyota Tacoma",
+                "description": "The Toyota Tacoma offers rugged performance, advanced technology, and versatility for a midsize truck designed to handle any challenge.",
+                "text": "The Toyota Tacoma is a reliable and durable midsize truck built for adventure and heavy-duty tasks. Equipped with a range of powerful engines, including a V6 option, the Tacoma provides impressive towing capacity and off-road capabilities. Its interior features a driver-focused design with advanced technology, including a large touchscreen infotainment system and connectivity options like Apple CarPlay® and Android Auto™. Safety is prioritized with Toyota Safety Sense™, offering adaptive cruise control, lane departure warning, and more. Whether for work or play, the Toyota Tacoma is ready for any terrain.",
+                "advantages": [
+                    "Impressive towing and off-road capabilities",
+                    "Durable design with advanced technology",
+                    "Toyota Safety Sense™ for enhanced safety"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "midsize truck",
+                    "off-road",
+                    "towing capacity"
+                ]
+            },
+            "ru": {
+                "title": "Toyota Tacoma",
+                "head": "Откройте возможности и надежность с Toyota Tacoma",
+                "description": "Toyota Tacoma предлагает прочную производительность, передовые технологии и универсальность для работы с любыми задачами.",
+                "text": "Toyota Tacoma — это надежный и прочный среднеразмерный пикап, созданный для приключений и сложных задач. Оснащён мощными двигателями, включая опцию V6, Tacoma обеспечивает впечатляющую тяговую способность и проходимость на бездорожье. Интерьер ориентирован на водителя и включает передовые технологии, такие как большой сенсорный экран и функции подключения Apple CarPlay® и Android Auto™. Безопасность гарантируется системой Toyota Safety Sense™, включающей адаптивный круиз-контроль, предупреждение о выходе из полосы и другие функции. Для работы или отдыха Toyota Tacoma готова к любым испытаниям.",
+                "advantages": [
+                    "Впечатляющая тяговая способность и проходимость",
+                    "Прочный дизайн с современными технологиями",
+                    "Toyota Safety Sense™ для повышения безопасности"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "пикап среднего размера",
+                    "внедорожье",
+                    "тяговая способность"
+                ]
+            },
+            "be": {
+                "title": "Toyota Tacoma",
+                "head": "Адкрыйце магутнасць і надзейнасць з Toyota Tacoma",
+                "description": "Toyota Tacoma прапануе трывалую прадукцыйнасць, сучасныя тэхналогіі і універсальнасць для любой задачы.",
+                "text": "Toyota Tacoma — гэта надзейны і трывалы сярэднепамерны пікап, створаны для прыгод і цяжкай працы. Абсталяваны магутнымі рухавікамі, уключаючы опцыю V6, Tacoma забяспечвае ўражлівую цягавую здольнасць і праходнасць на бездаражы. Салон арыентаваны на кіроўцу і ўключае сучасныя тэхналогіі, такія як вялікі сэнсарны экран і функцыі падключэння Apple CarPlay® і Android Auto™. Бяспеку гарантуе сістэма Toyota Safety Sense™, якая ўключае адаптыўны круіз-кантроль і папярэджанне пра выхад з паласы. Для працы ці адпачынку Toyota Tacoma гатова да любых выклікаў.",
+                "advantages": [
+                    "Уражлівая цягавітая здольнасць і праходнасць",
+                    "Трывалы дызайн з сучаснымі тэхналогіямі",
+                    "Toyota Safety Sense™ для павышэння бяспекі"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "сярэднепамерны пікап",
+                    "бездараж",
+                    "цягавітасць"
+                ]
+            },
+            "de": {
+                "title": "Toyota Tacoma",
+                "head": "Entdecken Sie Leistungsfähigkeit und Haltbarkeit mit dem Toyota Tacoma",
+                "description": "Der Toyota Tacoma bietet robuste Leistung, fortschrittliche Technologie und Vielseitigkeit für jede Herausforderung.",
+                "text": "Der Toyota Tacoma ist ein zuverlässiger und robuster Midsize-Pickup, der für Abenteuer und harte Aufgaben gebaut wurde. Ausgestattet mit einer Auswahl an leistungsstarken Motoren, darunter eine V6-Option, bietet der Tacoma beeindruckende Anhängelast und Geländegängigkeit. Das Interieur ist fahrerorientiert und verfügt über fortschrittliche Technologie wie ein großes Touchscreen-Infotainmentsystem und Konnektivitätsoptionen wie Apple CarPlay® und Android Auto™. Die Sicherheit wird durch Toyota Safety Sense™ gewährleistet, das adaptiven Tempomat, Spurhaltewarnung und mehr bietet. Ob für Arbeit oder Freizeit, der Toyota Tacoma ist bereit für jedes Terrain.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Geländefähigkeit",
+                    "Robustes Design mit fortschrittlicher Technologie",
+                    "Toyota Safety Sense™ für erhöhte Sicherheit"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "Midsize-Pickup",
+                    "Offroad",
+                    "Anhängerlast"
+                ]
+            },
+            "ua": {
+                "title": "Toyota Tacoma",
+                "head": "Відкрийте потужність і надійність із Toyota Tacoma",
+                "description": "Toyota Tacoma пропонує міцну продуктивність, сучасні технології та універсальність для роботи з будь-якими викликами.",
+                "text": "Toyota Tacoma — це надійний і міцний середньорозмірний пікап, створений для пригод і важких завдань. Оснащений потужними двигунами, включаючи V6, Tacoma забезпечує вражаючу тягову здатність і прохідність на бездоріжжі. Інтер'єр орієнтований на водія та включає сучасні технології, такі як великий сенсорний екран і функції підключення Apple CarPlay® та Android Auto™. Безпеку гарантує Toyota Safety Sense™, яка пропонує адаптивний круїз-контроль, попередження про виїзд зі смуги та інші функції. Для роботи чи відпочинку Toyota Tacoma готова до будь-яких викликів.",
+                "advantages": [
+                    "Вражаюча тяговита здатність і прохідність",
+                    "Міцний дизайн із сучасними технологіями",
+                    "Toyota Safety Sense™ для підвищення безпеки"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "середньорозмірний пікап",
+                    "позашляховик",
+                    "тяговита здатність"
+                ]
+            },
+            "pl": {
+                "title": "Toyota Tacoma",
+                "head": "Odkryj możliwości i trwałość z Toyota Tacoma",
+                "description": "Toyota Tacoma oferuje solidną wydajność, zaawansowaną technologię i wszechstronność, aby sprostać każdemu wyzwaniu.",
+                "text": "Toyota Tacoma to niezawodny i trwały średniej wielkości pickup zaprojektowany z myślą o przygodach i wymagających zadaniach. Wyposażony w różne potężne silniki, w tym opcję V6, Tacoma zapewnia imponującą zdolność holowania i możliwości terenowe. Wnętrze zostało zaprojektowane z myślą o kierowcy i wyposażone w zaawansowaną technologię, taką jak duży ekran dotykowy oraz funkcje łączności Apple CarPlay® i Android Auto™. Bezpieczeństwo zapewnia Toyota Safety Sense™, która oferuje adaptacyjny tempomat, ostrzeżenie o opuszczeniu pasa ruchu i inne funkcje. Niezależnie od pracy czy zabawy, Toyota Tacoma jest gotowa na każde wyzwanie.",
+                "advantages": [
+                    "Imponujące zdolności holowania i terenowe",
+                    "Trwała konstrukcja z zaawansowaną technologią",
+                    "Toyota Safety Sense™ dla zwiększonego bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "pickup średniej wielkości",
+                    "terenowy",
+                    "zdolność holowania"
+                ]
+            },
+            "es": {
+                "title": "Toyota Tacoma",
+                "head": "Descubre capacidad y durabilidad con la Toyota Tacoma",
+                "description": "La Toyota Tacoma ofrece rendimiento resistente, tecnología avanzada y versatilidad para enfrentar cualquier desafío.",
+                "text": "La Toyota Tacoma es una pickup mediana confiable y duradera diseñada para aventuras y tareas exigentes. Equipada con una gama de motores potentes, incluido un V6, la Tacoma proporciona una capacidad de remolque impresionante y habilidades todoterreno. Su interior cuenta con un diseño centrado en el conductor con tecnología avanzada, como un sistema de infoentretenimiento con pantalla táctil grande y opciones de conectividad como Apple CarPlay® y Android Auto™. La seguridad es una prioridad con Toyota Safety Sense™, que incluye control de crucero adaptativo, advertencia de cambio de carril y más. Ya sea para el trabajo o el ocio, la Toyota Tacoma está lista para cualquier terreno.",
+                "advantages": [
+                    "Capacidad de remolque y todoterreno impresionante",
+                    "Diseño duradero con tecnología avanzada",
+                    "Toyota Safety Sense™ para mayor seguridad"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "pickup mediana",
+                    "todoterreno",
+                    "capacidad de remolque"
+                ]
+            },
+            "fr": {
+                "title": "Toyota Tacoma",
+                "head": "Découvrez puissance et durabilité avec le Toyota Tacoma",
+                "description": "Le Toyota Tacoma offre des performances robustes, une technologie avancée et une polyvalence pour relever tous les défis.",
+                "text": "Le Toyota Tacoma est un pickup de taille moyenne fiable et durable, conçu pour l'aventure et les tâches exigeantes. Équipé d'une gamme de moteurs puissants, y compris une option V6, le Tacoma offre une capacité de remorquage impressionnante et des aptitudes tout-terrain. Son intérieur est conçu pour le conducteur, avec une technologie avancée comme un grand écran tactile et des options de connectivité telles qu'Apple CarPlay® et Android Auto™. La sécurité est une priorité avec Toyota Safety Sense™, qui comprend un régulateur de vitesse adaptatif, un avertissement de sortie de voie et plus encore. Que ce soit pour le travail ou les loisirs, le Toyota Tacoma est prêt pour tous les terrains.",
+                "advantages": [
+                    "Capacité de remorquage et tout-terrain impressionnante",
+                    "Design durable avec technologie avancée",
+                    "Toyota Safety Sense™ pour une sécurité accrue"
+                ],
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "pickup de taille moyenne",
+                    "tout-terrain",
+                    "capacité de remorquage"
+                ]
+            },
+            "zh": {
+                "title": "丰田 Tacoma",
+                "head": "探索丰田 Tacoma 的强大与耐久性",
+                "description": "丰田 Tacoma 提供坚固的性能、先进的技术和多功能性，能够应对任何挑战。",
+                "text": "丰田 Tacoma 是一款可靠耐用的中型皮卡，专为冒险和重型任务而设计。搭载多种强劲发动机，包括 V6 选项，Tacoma 提供令人印象深刻的拖曳能力和越野性能。其内饰采用以驾驶员为中心的设计，配备先进技术，如大型触摸屏信息娱乐系统和 Apple CarPlay® 和 Android Auto™ 等连接选项。安全是首要任务，Toyota Safety Sense™ 提供自适应巡航控制、车道偏离警告等功能。无论是工作还是娱乐，丰田 Tacoma 都准备好应对任何地形。",
+                "advantages": [
+                    "令人印象深刻的拖曳和越野能力",
+                    "耐用设计与先进技术",
+                    "Toyota Safety Sense™ 提升安全性"
+                ],
+                "keywords": [
+                    "丰田",
+                    "Tacoma",
+                    "中型皮卡",
+                    "越野",
+                    "拖曳能力"
+                ]
             }
         }
     ]

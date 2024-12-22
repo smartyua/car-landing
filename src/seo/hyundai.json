@@ -25,6 +25,140 @@
     },
     "models": [
         {
+            "slug": "hyundai-ioniq-5",
+            "competitors": [
+                "Tesla Model Y",
+                "Volkswagen ID.4",
+                "Ford Mustang Mach-E"
+            ],
+            "en": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Experience the Future of Mobility with the Hyundai Ioniq 5 Electric SUV",
+                "description": "The Hyundai Ioniq 5 redefines electric vehicles with its futuristic design and advanced technologies. Discover its outstanding performance and versatility.",
+                "text": "The Hyundai Ioniq 5 is a groundbreaking electric SUV that combines a sleek, futuristic design with impressive performance. Equipped with a high-capacity battery, it offers a range of up to 480 kilometers and supports ultra-fast charging, allowing you to charge up to 80% in just 18 minutes. Its spacious and innovative interior includes a sliding center console and reclinable front seats, designed for ultimate comfort. With cutting-edge driver-assistance systems and connectivity features, the Ioniq 5 sets new benchmarks for electric mobility.",
+                "advantages": [
+                    "Impressive range and ultra-fast charging",
+                    "Futuristic design and spacious interior",
+                    "Advanced driver-assistance systems"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "electric SUV",
+                    "fast charging",
+                    "futuristic"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Erleben Sie die Zukunft der Mobilität mit dem Hyundai Ioniq 5 Elektro-SUV",
+                "description": "Der Hyundai Ioniq 5 definiert Elektrofahrzeuge mit seinem futuristischen Design und fortschrittlichen Technologien neu. Entdecken Sie seine beeindruckende Leistung und Vielseitigkeit.",
+                "text": "Der Hyundai Ioniq 5 ist ein bahnbrechendes Elektro-SUV, das ein schlankes, futuristisches Design mit beeindruckender Leistung kombiniert. Ausgestattet mit einer Hochkapazitätsbatterie bietet er eine Reichweite von bis zu 480 Kilometern und unterstützt ultraschnelles Laden, mit dem Sie in nur 18 Minuten bis zu 80% aufladen können. Sein geräumiges und innovatives Interieur umfasst eine verschiebbare Mittelkonsole und verstellbare Vordersitze, die für maximalen Komfort ausgelegt sind. Mit modernsten Fahrerassistenzsystemen und Konnektivitätsfunktionen setzt der Ioniq 5 neue Maßstäbe für die Elektromobilität.",
+                "advantages": [
+                    "Beeindruckende Reichweite und ultraschnelles Laden",
+                    "Futuristisches Design und geräumiges Interieur",
+                    "Fortschrittliche Fahrerassistenzsysteme"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "elektrisches SUV",
+                    "schnelles Laden",
+                    "futuristisch"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Відчуйте майбутнє мобільності з електричним позашляховиком Hyundai Ioniq 5",
+                "description": "Hyundai Ioniq 5 змінює уявлення про електромобілі завдяки футуристичному дизайну та передовим технологіям. Відкрийте для себе його вражаючі характеристики.",
+                "text": "Hyundai Ioniq 5 — це революційний електричний позашляховик, що поєднує стильний футуристичний дизайн із вражаючими характеристиками. Завдяки високопродуктивній батареї він забезпечує до 480 кілометрів пробігу та підтримує ультрашвидку зарядку, яка дозволяє зарядити до 80% лише за 18 хвилин. Просторий і інноваційний салон включає регульовану центральну консоль і відкидні передні сидіння, створені для максимального комфорту. Сучасні системи допомоги водієві та функції підключення встановлюють нові стандарти в електричній мобільності.",
+                "advantages": [
+                    "Вражаючий запас ходу та ультрашвидка зарядка",
+                    "Футуристичний дизайн і просторий інтер'єр",
+                    "Передові системи допомоги водієві"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "електричний позашляховик",
+                    "швидка зарядка",
+                    "футуристичний"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Poznaj przyszłość mobilności z elektrycznym SUV-em Hyundai Ioniq 5",
+                "description": "Hyundai Ioniq 5 redefiniuje pojazdy elektryczne dzięki futurystycznemu designowi i zaawansowanym technologiom. Odkryj jego wyjątkowe osiągi i wszechstronność.",
+                "text": "Hyundai Ioniq 5 to przełomowy elektryczny SUV łączący nowoczesny, futurystyczny design z imponującymi osiągami. Wyposażony w akumulator o dużej pojemności, oferuje zasięg do 480 kilometrów i obsługuje ultraszybkie ładowanie, które pozwala naładować 80% w zaledwie 18 minut. Przestronne i innowacyjne wnętrze obejmuje przesuwaną konsolę środkową i regulowane przednie fotele, zaprojektowane z myślą o maksymalnym komforcie. Dzięki najnowocześniejszym systemom wspomagania kierowcy i funkcjom łączności, Ioniq 5 wyznacza nowe standardy w elektromobilności.",
+                "advantages": [
+                    "Imponujący zasięg i ultraszybkie ładowanie",
+                    "Futurystyczny design i przestronne wnętrze",
+                    "Zaawansowane systemy wspomagania kierowcy"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "SUV elektryczny",
+                    "szybkie ładowanie",
+                    "futurystyczny"
+                ]
+            },
+            "es": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Experimenta el futuro de la movilidad con el SUV eléctrico Hyundai Ioniq 5",
+                "description": "El Hyundai Ioniq 5 redefine los vehículos eléctricos con su diseño futurista y tecnologías avanzadas. Descubre su impresionante rendimiento y versatilidad.",
+                "text": "El Hyundai Ioniq 5 es un SUV eléctrico revolucionario que combina un diseño futurista y elegante con un rendimiento impresionante. Equipado con una batería de alta capacidad, ofrece una autonomía de hasta 480 kilómetros y soporta carga ultrarrápida, permitiendo cargar hasta el 80% en solo 18 minutos. Su interior espacioso e innovador incluye una consola central deslizante y asientos delanteros reclinables, diseñados para un confort máximo. Con sistemas avanzados de asistencia al conductor y funciones de conectividad, el Ioniq 5 establece nuevos estándares en la movilidad eléctrica.",
+                "advantages": [
+                    "Autonomía impresionante y carga ultrarrápida",
+                    "Diseño futurista e interior espacioso",
+                    "Sistemas avanzados de asistencia al conductor"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "SUV eléctrico",
+                    "carga rápida",
+                    "futurista"
+                ]
+            },
+            "fr": {
+                "title": "Hyundai Ioniq 5",
+                "head": "Découvrez l'avenir de la mobilité avec le SUV électrique Hyundai Ioniq 5",
+                "description": "Le Hyundai Ioniq 5 redéfinit les véhicules électriques avec son design futuriste et ses technologies avancées. Découvrez ses performances impressionnantes et sa polyvalence.",
+                "text": "Le Hyundai Ioniq 5 est un SUV électrique révolutionnaire qui allie un design futuriste élégant à des performances impressionnantes. Équipé d'une batterie haute capacité, il offre une autonomie allant jusqu'à 480 kilomètres et prend en charge la charge ultra-rapide, permettant de charger jusqu'à 80 % en seulement 18 minutes. Son intérieur spacieux et innovant comprend une console centrale coulissante et des sièges avant inclinables, conçus pour un confort maximal. Avec des systèmes avancés d'assistance au conducteur et des fonctionnalités connectées, l'Ioniq 5 établit de nouvelles normes pour la mobilité électrique.",
+                "advantages": [
+                    "Autonomie impressionnante et charge ultra-rapide",
+                    "Design futuriste et intérieur spacieux",
+                    "Systèmes avancés d'assistance au conducteur"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 5",
+                    "SUV électrique",
+                    "charge rapide",
+                    "futuriste"
+                ]
+            },
+            "zh": {
+                "title": "现代 Ioniq 5",
+                "head": "感受未来移动出行：现代 Ioniq 5 电动 SUV",
+                "description": "现代 Ioniq 5 以其未来派设计和先进技术重新定义电动车。探索其卓越性能与多功能性。",
+                "text": "现代 Ioniq 5 是一款突破性的电动 SUV，融合了流线型的未来派设计和卓越的性能。配备高容量电池，它能提供长达 480 公里的续航里程，并支持超快充电，仅需 18 分钟即可充电至 80%。宽敞且创新的内饰包括可滑动的中央控制台和可调节的前排座椅，旨在提供极致舒适体验。借助最先进的驾驶辅助系统和互联功能，Ioniq 5 为电动出行树立了新的标杆。",
+                "advantages": [
+                    "令人印象深刻的续航和超快充电",
+                    "未来感设计和宽敞内饰",
+                    "先进的驾驶辅助系统"
+                ],
+                "keywords": [
+                    "现代",
+                    "Ioniq 5",
+                    "电动 SUV",
+                    "快充",
+                    "未来感"
+                ]
+            }
+        },
+        {
             "slug": "elantra",
             "en": {
                 "title": "Hyundai Elantra",
@@ -466,150 +600,137 @@
             }
         },
         {
-            "slug": "santa-fe",
+            "slug": "hyundai-santa-fe",
+            "competitors": [
+                "Toyota Highlander",
+                "Honda Pilot",
+                "Ford Edge"
+            ],
             "en": {
                 "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe is a top-rated car model offering great performance and luxury.",
+                "head": "Experience Comfort and Versatility with the Hyundai Santa Fe SUV",
+                "description": "The Hyundai Santa Fe combines spaciousness, advanced technology, and excellent performance. Discover the SUV that fits your lifestyle.",
+                "text": "The Hyundai Santa Fe is a versatile and stylish SUV designed for families and adventurers alike. It features a powerful and efficient engine lineup, including hybrid options, to deliver excellent fuel economy and performance. Inside, the spacious and refined cabin offers premium materials, smart storage solutions, and advanced connectivity features like a touchscreen infotainment system. Safety is paramount with cutting-edge driver-assistance technologies such as blind-spot monitoring and adaptive cruise control. Whether for city driving or long road trips, the Santa Fe provides comfort, practicality, and style.",
+                "advantages": [
+                    "Spacious interior with premium materials",
+                    "Advanced driver-assistance features",
+                    "Hybrid powertrain options available"
+                ],
                 "keywords": [
                     "Hyundai",
                     "Santa Fe",
-                    "car",
-                    "luxury",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Hyundai",
-                    "Santa Fe",
-                    "автомобиль",
-                    "роскошь",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Hyundai",
-                    "Santa Fe",
-                    "автомобіль",
-                    "розкіш",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Hyundai",
-                    "Santa Fe",
-                    "samochód",
-                    "luksus",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "SUV",
+                    "family car",
+                    "hybrid"
+                ]
             },
             "de": {
                 "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "head": "Erleben Sie Komfort und Vielseitigkeit mit dem Hyundai Santa Fe SUV",
+                "description": "Der Hyundai Santa Fe vereint Geräumigkeit, fortschrittliche Technologie und hervorragende Leistung. Entdecken Sie das SUV, das zu Ihrem Lebensstil passt.",
+                "text": "Der Hyundai Santa Fe ist ein vielseitiges und stilvolles SUV, das sowohl für Familien als auch für Abenteurer entwickelt wurde. Er bietet eine leistungsstarke und effiziente Motorenpalette, einschließlich Hybridoptionen, die hervorragende Kraftstoffeffizienz und Leistung liefern. Innen überzeugt der geräumige und hochwertige Innenraum mit Premium-Materialien, cleveren Stauraumlösungen und fortschrittlichen Konnektivitätsfunktionen wie einem Touchscreen-Infotainmentsystem. Sicherheit steht an erster Stelle, mit modernsten Fahrerassistenztechnologien wie Totwinkelüberwachung und adaptiver Geschwindigkeitsregelung. Egal ob für die Stadt oder lange Reisen, der Santa Fe bietet Komfort, Praktikabilität und Stil.",
+                "advantages": [
+                    "Geräumiger Innenraum mit hochwertigen Materialien",
+                    "Fortschrittliche Fahrerassistenzsysteme",
+                    "Verfügbare Hybridantriebsoptionen"
+                ],
                 "keywords": [
                     "Hyundai",
                     "Santa Fe",
-                    "Auto",
-                    "Luxus",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "SUV",
+                    "Familienauto",
+                    "Hybrid"
+                ]
             },
-            "be": {
+            "ua": {
                 "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Відчуйте комфорт і універсальність із позашляховиком Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe поєднує простір, передові технології та відмінну продуктивність. Дізнайтеся про позашляховик, який підходить саме вам.",
+                "text": "Hyundai Santa Fe — це універсальний та стильний позашляховик, розроблений для сімей і мандрівників. Він оснащений потужними та економічними двигунами, включаючи гібридні опції, які забезпечують відмінну продуктивність і економію палива. Всередині просторий і витончений салон, оздоблений преміальними матеріалами, має розумні рішення для зберігання та сучасні функції підключення, такі як інформаційно-розважальна система з сенсорним екраном. Безпека на високому рівні завдяки передовим технологіям допомоги водієві, таким як моніторинг сліпих зон і адаптивний круїз-контроль. Для міста чи тривалих подорожей Santa Fe пропонує комфорт, практичність і стиль.",
+                "advantages": [
+                    "Просторий інтер'єр із преміальними матеріалами",
+                    "Передові системи допомоги водієві",
+                    "Гібридні варіанти силової установки"
+                ],
                 "keywords": [
                     "Hyundai",
                     "Santa Fe",
-                    "аўтамабіль",
-                    "раскоша",
-                    "santa-fe performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
+                    "позашляховик",
+                    "сімейний автомобіль",
+                    "гібрид"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Santa Fe",
+                "head": "Poczuj komfort i wszechstronność z SUV-em Hyundai Santa Fe",
+                "description": "Hyundai Santa Fe łączy przestronność, zaawansowaną technologię i doskonałe osiągi. Odkryj SUV dopasowany do Twojego stylu życia.",
+                "text": "Hyundai Santa Fe to wszechstronny i stylowy SUV zaprojektowany zarówno dla rodzin, jak i miłośników podróży. Wyposażony w wydajną i oszczędną gamę silników, w tym opcje hybrydowe, zapewnia doskonałą wydajność i ekonomię paliwa. Wnętrze jest przestronne i eleganckie, wykonane z materiałów premium, oferujące sprytne rozwiązania do przechowywania i zaawansowane funkcje łączności, takie jak system multimedialny z ekranem dotykowym. Bezpieczeństwo jest priorytetem dzięki nowoczesnym technologiom wspomagania kierowcy, takim jak monitorowanie martwego pola i adaptacyjny tempomat. Zarówno w mieście, jak i na długich trasach Santa Fe zapewnia komfort, praktyczność i styl.",
+                "advantages": [
+                    "Przestronne wnętrze z materiałami premium",
+                    "Zaawansowane systemy wspomagania kierowcy",
+                    "Dostępne opcje hybrydowe"
                 ],
-                "text": "The Hyundai Santa Fe stands out as an exceptional choice in its category. Known for its santa-fe signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                "keywords": [
+                    "Hyundai",
+                    "Santa Fe",
+                    "SUV",
+                    "samochód rodzinny",
+                    "hybrydowy"
+                ]
             },
             "es": {
                 "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "head": "Experimenta comodidad y versatilidad con el SUV Hyundai Santa Fe",
+                "description": "El Hyundai Santa Fe combina espacio, tecnología avanzada y un rendimiento excepcional. Descubre el SUV que se adapta a tu estilo de vida.",
+                "text": "El Hyundai Santa Fe es un SUV versátil y elegante diseñado tanto para familias como para aventureros. Ofrece una gama de motores potentes y eficientes, incluidas opciones híbridas, que brindan excelente economía de combustible y rendimiento. En el interior, el espacioso y refinado habitáculo cuenta con materiales de primera calidad, soluciones de almacenamiento inteligentes y funciones avanzadas de conectividad, como un sistema de infoentretenimiento con pantalla táctil. La seguridad es una prioridad, con tecnologías avanzadas de asistencia al conductor como monitoreo de punto ciego y control de crucero adaptativo. Tanto para la ciudad como para largos viajes, el Santa Fe ofrece comodidad, practicidad y estilo.",
+                "advantages": [
+                    "Interior espacioso con materiales de alta calidad",
+                    "Funciones avanzadas de asistencia al conductor",
+                    "Opciones de tren motriz híbrido disponibles"
+                ],
                 "keywords": [
                     "Hyundai",
                     "Santa Fe",
-                    "coche",
-                    "lujo",
-                    "rendimiento santa-fe",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Hyundai Santa Fe se destaca como una elección excepcional en su categoría. Conocido por sus características de firma santa-fe, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la confiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "现代Santa Fe",
-                "description": "现代Santa Fe是一款高性能和豪华的顶级汽车型号。",
-                "keywords": [
-                    "现代",
-                    "Santa Fe",
-                    "汽车",
-                    "豪华",
-                    "santa-fe性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "现代Santa Fe在其类别中脱颖而出，是一个卓越的选择。以其santa-fe标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+                    "SUV",
+                    "familiar",
+                    "híbrido"
+                ]
             },
             "fr": {
                 "title": "Hyundai Santa Fe",
-                "description": "Hyundai Santa Fe est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "head": "Découvrez le confort et la polyvalence avec le SUV Hyundai Santa Fe",
+                "description": "Le Hyundai Santa Fe combine espace, technologie avancée et performances exceptionnelles. Découvrez le SUV qui s'adapte à votre style de vie.",
+                "text": "Le Hyundai Santa Fe est un SUV polyvalent et élégant conçu pour les familles et les aventuriers. Il offre une gamme de moteurs puissants et efficaces, y compris des options hybrides, qui garantissent une excellente économie de carburant et des performances remarquables. À l'intérieur, l'habitacle spacieux et raffiné utilise des matériaux haut de gamme, des solutions de rangement intelligentes et des fonctionnalités de connectivité avancées, comme un système d'infodivertissement à écran tactile. La sécurité est une priorité, avec des technologies avancées d'assistance au conducteur telles que la surveillance des angles morts et le régulateur de vitesse adaptatif. Que ce soit pour la ville ou les longs trajets, le Santa Fe offre confort, praticité et style.",
+                "advantages": [
+                    "Habitacle spacieux avec des matériaux premium",
+                    "Technologies avancées d'assistance au conducteur",
+                    "Options de motorisation hybride disponibles"
+                ],
                 "keywords": [
                     "Hyundai",
                     "Santa Fe",
-                    "voiture",
-                    "luxe",
-                    "performance santa-fe",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
+                    "SUV",
+                    "familial",
+                    "hybride"
+                ]
+            },
+            "zh": {
+                "title": "现代 Santa Fe",
+                "head": "感受舒适与多功能性：现代 Santa Fe SUV",
+                "description": "现代 Santa Fe 结合了宽敞空间、先进技术和卓越性能。探索适合您生活方式的 SUV。",
+                "text": "现代 Santa Fe 是一款多功能且时尚的 SUV，专为家庭和冒险者设计。它提供多种高效动力系统选择，包括混合动力选项，确保卓越的燃油经济性和性能。内饰宽敞且精致，采用优质材料打造，配备智能储物解决方案和先进的互联功能，如触摸屏信息娱乐系统。安全性是重中之重，配备盲点监控和自适应巡航控制等先进驾驶辅助技术。无论是城市驾驶还是长途旅行，Santa Fe 都能提供舒适、实用和风格。",
+                "advantages": [
+                    "宽敞内饰，采用优质材料",
+                    "先进的驾驶辅助技术",
+                    "提供混合动力选项"
                 ],
-                "text": "L'Hyundai Santa Fe se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature santa-fe, ce modèle combine une technologie de pointe, un confort et des performances. Axé sur la sécurité et la fiabilité, il s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+                "keywords": [
+                    "现代",
+                    "Santa Fe",
+                    "SUV",
+                    "家庭车",
+                    "混合动力"
+                ]
             }
         }
     ]

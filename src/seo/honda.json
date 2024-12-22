@@ -467,149 +467,136 @@
         },
         {
             "slug": "pilot",
+            "competitors": [
+                "Toyota Highlander",
+                "Hyundai Santa Fe",
+                "Ford Explorer"
+            ],
             "en": {
                 "title": "Honda Pilot",
-                "description": "Honda Pilot is a top-rated car model offering great performance and luxury.",
+                "head": "Explore Space and Versatility with the Honda Pilot SUV",
+                "description": "The Honda Pilot combines comfort, advanced technology, and spaciousness for an exceptional SUV experience. Perfect for families and adventurers alike.",
+                "text": "The Honda Pilot is a versatile and reliable SUV designed to meet the needs of modern families. With a powerful V6 engine and optional all-wheel drive, it provides excellent performance and handling in various conditions. Inside, the Pilot offers a spacious cabin with seating for up to eight passengers and features such as tri-zone climate control, a touchscreen infotainment system, and premium material finishes. Honda's advanced safety suite, including adaptive cruise control and lane-keeping assist, ensures peace of mind on every journey. Whether you're commuting or embarking on a road trip, the Honda Pilot is built to deliver comfort and confidence.",
+                "advantages": [
+                    "Spacious seating for up to eight passengers",
+                    "Advanced safety features",
+                    "Powerful V6 engine with optional all-wheel drive"
+                ],
                 "keywords": [
                     "Honda",
                     "Pilot",
-                    "car",
-                    "luxury",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Honda Pilot",
-                "description": "Honda Pilot — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Honda",
-                    "Pilot",
-                    "автомобиль",
-                    "роскошь",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Honda Pilot",
-                "description": "Honda Pilot — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Honda",
-                    "Pilot",
-                    "автомобіль",
-                    "розкіш",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Honda Pilot",
-                "description": "Honda Pilot to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Honda",
-                    "Pilot",
-                    "samochód",
-                    "luksus",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "SUV",
+                    "family car",
+                    "all-wheel drive"
+                ]
             },
             "de": {
                 "title": "Honda Pilot",
-                "description": "Honda Pilot ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "head": "Entdecken Sie Raum und Vielseitigkeit mit dem Honda Pilot SUV",
+                "description": "Der Honda Pilot kombiniert Komfort, fortschrittliche Technologie und Geräumigkeit für ein außergewöhnliches SUV-Erlebnis. Perfekt für Familien und Abenteurer.",
+                "text": "Der Honda Pilot ist ein vielseitiges und zuverlässiges SUV, das den Bedürfnissen moderner Familien gerecht wird. Mit einem leistungsstarken V6-Motor und optionalem Allradantrieb bietet er hervorragende Leistung und Fahrverhalten unter verschiedenen Bedingungen. Innen bietet der Pilot ein geräumiges Interieur mit Platz für bis zu acht Personen sowie Funktionen wie eine Drei-Zonen-Klimaautomatik, ein Touchscreen-Infotainmentsystem und hochwertige Materialausführungen. Die fortschrittliche Sicherheitssuite von Honda, einschließlich adaptiver Geschwindigkeitsregelung und Spurhalteassistent, sorgt für Sicherheit bei jeder Fahrt. Egal ob Pendelverkehr oder lange Reisen, der Honda Pilot ist für Komfort und Zuverlässigkeit gebaut.",
+                "advantages": [
+                    "Geräumige Sitzplätze für bis zu acht Personen",
+                    "Fortschrittliche Sicherheitsfunktionen",
+                    "Leistungsstarker V6-Motor mit optionalem Allradantrieb"
+                ],
                 "keywords": [
                     "Honda",
                     "Pilot",
-                    "Auto",
-                    "Luxus",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "SUV",
+                    "Familienauto",
+                    "Allradantrieb"
+                ]
             },
-            "be": {
+            "ua": {
                 "title": "Honda Pilot",
-                "description": "Honda Pilot — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Досліджуйте простір і універсальність із позашляховиком Honda Pilot",
+                "description": "Honda Pilot поєднує комфорт, передові технології та просторість для неперевершеного досвіду керування SUV. Ідеальний для сімей та мандрівників.",
+                "text": "Honda Pilot — це універсальний і надійний позашляховик, розроблений для задоволення потреб сучасних сімей. Завдяки потужному V6 двигуну та опціональному повному приводу він забезпечує відмінну продуктивність і керованість у різних умовах. Салон просторий і комфортний, розрахований на вісім пасажирів, оснащений такими функціями, як тризонний клімат-контроль, сенсорна інформаційно-розважальна система та оздоблення преміум-класу. Передові системи безпеки Honda, включаючи адаптивний круїз-контроль та асистент утримання смуги, гарантують спокій під час кожної подорожі. Для щоденних поїздок чи тривалих подорожей Honda Pilot створений для комфорту та впевненості.",
+                "advantages": [
+                    "Просторі місця для восьми пасажирів",
+                    "Передові системи безпеки",
+                    "Потужний V6 двигун з опціональним повним приводом"
+                ],
                 "keywords": [
                     "Honda",
                     "Pilot",
-                    "аўтамабіль",
-                    "раскоша",
-                    "pilot performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
+                    "позашляховик",
+                    "сімейний автомобіль",
+                    "повний привід"
+                ]
+            },
+            "pl": {
+                "title": "Honda Pilot",
+                "head": "Odkryj przestrzeń i wszechstronność z SUV-em Honda Pilot",
+                "description": "Honda Pilot łączy komfort, zaawansowaną technologię i przestronność, oferując wyjątkowe doświadczenie z SUV-em. Idealny dla rodzin i podróżników.",
+                "text": "Honda Pilot to wszechstronny i niezawodny SUV zaprojektowany z myślą o potrzebach nowoczesnych rodzin. Dzięki mocnemu silnikowi V6 i opcjonalnemu napędowi na wszystkie koła zapewnia doskonałe osiągi i prowadzenie w różnych warunkach. Wnętrze jest przestronne i wygodne, pomieści do ośmiu pasażerów, oferując takie funkcje jak trójstrefowa klimatyzacja, system multimedialny z ekranem dotykowym oraz wykończenie materiałami klasy premium. Zaawansowane systemy bezpieczeństwa Hondy, w tym adaptacyjny tempomat i asystent utrzymania pasa ruchu, gwarantują spokojną podróż. Na codzienne dojazdy czy dalekie trasy Honda Pilot zapewnia komfort i pewność.",
+                "advantages": [
+                    "Przestronne miejsca dla ośmiu pasażerów",
+                    "Zaawansowane systemy bezpieczeństwa",
+                    "Mocny silnik V6 z opcjonalnym napędem na cztery koła"
                 ],
-                "text": "The Honda Pilot stands out as an exceptional choice in its category. Known for its pilot signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                "keywords": [
+                    "Honda",
+                    "Pilot",
+                    "SUV",
+                    "samochód rodzinny",
+                    "napęd na wszystkie koła"
+                ]
             },
             "es": {
                 "title": "Honda Pilot",
-                "description": "Honda Pilot es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "head": "Explora el espacio y la versatilidad con el SUV Honda Pilot",
+                "description": "El Honda Pilot combina comodidad, tecnología avanzada y amplitud para ofrecer una experiencia SUV excepcional. Perfecto para familias y aventureros.",
+                "text": "El Honda Pilot es un SUV versátil y confiable diseñado para satisfacer las necesidades de las familias modernas. Con un potente motor V6 y tracción total opcional, ofrece un excelente rendimiento y manejo en diversas condiciones. Su interior espacioso acomoda hasta ocho pasajeros y cuenta con características como control de clima de tres zonas, sistema de infoentretenimiento con pantalla táctil y acabados de materiales de primera calidad. Las avanzadas funciones de seguridad de Honda, incluido el control de crucero adaptativo y el asistente de mantenimiento de carril, brindan tranquilidad en cada viaje. Ya sea para el día a día o para viajes largos, el Honda Pilot está diseñado para ofrecer comodidad y confianza.",
+                "advantages": [
+                    "Espacioso para hasta ocho pasajeros",
+                    "Funciones avanzadas de seguridad",
+                    "Motor V6 potente con tracción total opcional"
+                ],
                 "keywords": [
                     "Honda",
                     "Pilot",
-                    "coche",
-                    "lujo",
-                    "rendimiento pilot",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Honda Pilot se destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de pilot, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la confiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "本田Pilot",
-                "description": "本田Pilot是一款性能出色、豪华的高评分汽车型号。",
-                "keywords": [
-                    "本田",
-                    "Pilot",
-                    "汽车",
-                    "豪华",
-                    "Pilot性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "本田Pilot在其类别中脱颖而出，是一款卓越的选择。以其Pilot标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+                    "SUV",
+                    "familiar",
+                    "tracción total"
+                ]
             },
             "fr": {
                 "title": "Honda Pilot",
-                "description": "Honda Pilot est un modèle de voiture haut de gamme offrant de grandes performances et du luxe.",
+                "head": "Découvrez l'espace et la polyvalence avec le SUV Honda Pilot",
+                "description": "Le Honda Pilot allie confort, technologie avancée et espace pour une expérience SUV exceptionnelle. Parfait pour les familles et les aventuriers.",
+                "text": "Le Honda Pilot est un SUV polyvalent et fiable conçu pour répondre aux besoins des familles modernes. Avec un puissant moteur V6 et une transmission intégrale en option, il offre d'excellentes performances et une maniabilité exceptionnelle dans diverses conditions. Son intérieur spacieux peut accueillir jusqu'à huit passagers et comprend des fonctionnalités telles qu'un contrôle climatique à trois zones, un système d'infodivertissement à écran tactile et des finitions en matériaux haut de gamme. Les fonctionnalités de sécurité avancées de Honda, notamment le régulateur de vitesse adaptatif et l'assistance au maintien de voie, garantissent la tranquillité d'esprit à chaque trajet. Que ce soit pour les trajets quotidiens ou les longs voyages, le Honda Pilot est conçu pour offrir confort et confiance.",
+                "advantages": [
+                    "Intérieur spacieux pour huit passagers",
+                    "Fonctionnalités de sécurité avancées",
+                    "Moteur V6 puissant avec transmission intégrale en option"
+                ],
                 "keywords": [
                     "Honda",
                     "Pilot",
-                    "voiture",
-                    "luxe",
-                    "performance pilot",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
+                    "SUV",
+                    "familial",
+                    "transmission intégrale"
+                ]
+            },
+            "zh": {
+                "title": "本田 Pilot",
+                "head": "探索空间与多功能性：本田 Pilot SUV",
+                "description": "本田 Pilot 将舒适性、先进技术和宽敞空间完美结合，提供卓越的 SUV 驾驶体验。适合家庭和探险者。",
+                "text": "本田 Pilot 是一款多功能且可靠的 SUV，专为现代家庭的需求设计。搭载强劲的 V6 发动机，并可选配全轮驱动，在各种路况下提供卓越的性能和操控性。内部宽敞，可容纳多达八名乘客，配备三区域空调控制、触摸屏信息娱乐系统和优质材料饰面。本田先进的安全功能，包括自适应巡航控制和车道保持辅助，为每次旅程提供安心保障。无论是日常通勤还是长途旅行，本田 Pilot 都能提供舒适与信心。",
+                "advantages": [
+                    "宽敞座位，可容纳八名乘客",
+                    "先进的安全功能",
+                    "强劲的 V6 发动机和可选全轮驱动"
                 ],
-                "text": "La Honda Pilot se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de pilot, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+                "keywords": [
+                    "本田",
+                    "Pilot",
+                    "SUV",
+                    "家庭汽车",
+                    "全轮驱动"
+                ]
             }
         }
     ]

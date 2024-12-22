@@ -25,6 +25,176 @@
     },
     "models": [
         {
+            "slug": "volvo-xc40-recharge",
+            "competitors": [
+                "Tesla Model Y",
+                "Audi Q4 e-tron",
+                "BMW iX1"
+            ],
+            "en": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Discover Sustainable Luxury with the Volvo XC40 Recharge",
+                "description": "The Volvo XC40 Recharge combines Scandinavian design, all-electric performance, and advanced safety in a compact luxury SUV.",
+                "text": "The Volvo XC40 Recharge is a fully electric SUV designed for sustainability and performance. With an all-electric range of up to 250 miles and fast-charging capabilities, it offers convenience for everyday use. The cabin is crafted with premium materials and features advanced technology, including a Google-powered infotainment system with a large touchscreen. Volvo's renowned safety features, such as Pilot Assist and 360° camera, provide peace of mind on every journey. Perfect for eco-conscious drivers seeking style, safety, and sustainability.",
+                "advantages": [
+                    "Up to 250 miles of electric range",
+                    "Premium Scandinavian design",
+                    "Advanced safety features and Google-powered infotainment"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "electric SUV",
+                    "luxury",
+                    "sustainable"
+                ]
+            },
+            "ru": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Откройте устойчивую роскошь с Volvo XC40 Recharge",
+                "description": "Volvo XC40 Recharge сочетает скандинавский дизайн, полностью электрическую производительность и передовые системы безопасности в компактном люксовом SUV.",
+                "text": "Volvo XC40 Recharge — это полностью электрический внедорожник, созданный для устойчивости и производительности. С запасом хода до 400 км и возможностью быстрой зарядки он обеспечивает удобство для повседневного использования. Салон выполнен из премиальных материалов и оснащён передовыми технологиями, включая информационно-развлекательную систему на базе Google с большим сенсорным экраном. Знаменитые системы безопасности Volvo, такие как Pilot Assist и камера кругового обзора, обеспечивают спокойствие в каждой поездке. Идеальный выбор для тех, кто ценит стиль, безопасность и устойчивое развитие.",
+                "advantages": [
+                    "Запас хода до 400 км",
+                    "Премиальный скандинавский дизайн",
+                    "Передовые системы безопасности и технологии Google"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "электрический SUV",
+                    "роскошь",
+                    "устойчивость"
+                ]
+            },
+            "be": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Адкрыйце ўстойлівую раскошу з Volvo XC40 Recharge",
+                "description": "Volvo XC40 Recharge спалучае скандынаўскі дызайн, цалкам электрычную прадукцыйнасць і перадавыя сістэмы бяспекі ў кампактным люксовым SUV.",
+                "text": "Volvo XC40 Recharge — гэта цалкам электрычны пазадарожнік, створаны для ўстойлівасці і прадукцыйнасці. З запасам ходу да 400 км і магчымасцю хуткай зарадкі ён забяспечвае зручнасць для штодзённага выкарыстання. Салон выкананы з прэміяльных матэрыялаў і абсталяваны сучаснымі тэхналогіямі, уключаючы інфармацыйна-забаўляльную сістэму на базе Google з вялікім сэнсарным экранам. Знакамітыя сістэмы бяспекі Volvo, такія як Pilot Assist і камера кругавога агляду, забяспечваюць спакой у кожнай паездцы. Ідэальны выбар для тых, хто цэніць стыль, бяспеку і ўстойлівае развіццё.",
+                "advantages": [
+                    "Запас ходу да 400 км",
+                    "Прэміяльны скандынаўскі дызайн",
+                    "Сучасныя сістэмы бяспекі і тэхналогіі Google"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "электрычны SUV",
+                    "раскоша",
+                    "устойлівасць"
+                ]
+            },
+            "de": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Erleben Sie nachhaltigen Luxus mit dem Volvo XC40 Recharge",
+                "description": "Der Volvo XC40 Recharge kombiniert skandinavisches Design, vollelektrische Leistung und fortschrittliche Sicherheit in einem kompakten Luxus-SUV.",
+                "text": "Der Volvo XC40 Recharge ist ein vollelektrischer SUV, der für Nachhaltigkeit und Leistung entwickelt wurde. Mit einer elektrischen Reichweite von bis zu 400 km und Schnellladefähigkeit bietet er Komfort für den Alltag. Das Interieur ist mit hochwertigen Materialien gestaltet und verfügt über fortschrittliche Technologie, darunter ein Google-basiertes Infotainmentsystem mit großem Touchscreen. Die bekannten Sicherheitsfunktionen von Volvo, wie Pilot Assist und 360°-Kamera, sorgen für Sicherheit bei jeder Fahrt. Ideal für umweltbewusste Fahrer, die Stil, Sicherheit und Nachhaltigkeit schätzen.",
+                "advantages": [
+                    "Bis zu 400 km elektrische Reichweite",
+                    "Hochwertiges skandinavisches Design",
+                    "Fortschrittliche Sicherheitsfunktionen und Google-Infotainment"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "elektrischer SUV",
+                    "Luxus",
+                    "nachhaltig"
+                ]
+            },
+            "ua": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Відкрийте стійку розкіш із Volvo XC40 Recharge",
+                "description": "Volvo XC40 Recharge поєднує скандинавський дизайн, повністю електричну продуктивність та передові системи безпеки в компактному люксовому SUV.",
+                "text": "Volvo XC40 Recharge — це повністю електричний позашляховик, створений для стійкості та продуктивності. Із запасом ходу до 400 км і можливістю швидкої зарядки, він забезпечує зручність для повсякденного використання. Інтер'єр виготовлений із преміальних матеріалів і оснащений сучасними технологіями, такими як інформаційно-розважальна система на базі Google із великим сенсорним екраном. Відомі системи безпеки Volvo, такі як Pilot Assist і камера кругового огляду, забезпечують спокій під час кожної подорожі. Ідеальний вибір для тих, хто цінує стиль, безпеку та стійкість.",
+                "advantages": [
+                    "Запас ходу до 400 км",
+                    "Преміальний скандинавський дизайн",
+                    "Сучасні системи безпеки та Google-технології"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "електричний SUV",
+                    "люкс",
+                    "стійкість"
+                ]
+            },
+            "pl": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Odkryj zrównoważony luksus z Volvo XC40 Recharge",
+                "description": "Volvo XC40 Recharge łączy skandynawski design, w pełni elektryczną wydajność i zaawansowane funkcje bezpieczeństwa w kompaktowym SUV-ie premium.",
+                "text": "Volvo XC40 Recharge to w pełni elektryczny SUV zaprojektowany z myślą o zrównoważonym rozwoju i wydajności. Z zasięgiem do 400 km i możliwością szybkiego ładowania oferuje wygodę na co dzień. Wnętrze jest wykonane z najwyższej jakości materiałów i wyposażone w zaawansowaną technologię, taką jak system informacyjno-rozrywkowy Google z dużym ekranem dotykowym. Znane funkcje bezpieczeństwa Volvo, takie jak Pilot Assist i kamera 360°, zapewniają spokój podczas każdej podróży. Idealny wybór dla świadomych ekologicznie kierowców, którzy cenią styl, bezpieczeństwo i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 400 km",
+                    "Skandynawski design premium",
+                    "Zaawansowane funkcje bezpieczeństwa i Google"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "SUV elektryczny",
+                    "luksus",
+                    "zrównoważony"
+                ]
+            },
+            "es": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Descubre el lujo sostenible con el Volvo XC40 Recharge",
+                "description": "El Volvo XC40 Recharge combina diseño escandinavo, rendimiento totalmente eléctrico y tecnología avanzada en un SUV compacto de lujo.",
+                "text": "El Volvo XC40 Recharge es un SUV totalmente eléctrico diseñado para la sostenibilidad y el rendimiento. Con una autonomía de hasta 400 km y capacidad de carga rápida, ofrece comodidad para el uso diario. El interior está fabricado con materiales de primera calidad y cuenta con tecnología avanzada, como un sistema de infoentretenimiento impulsado por Google con una gran pantalla táctil. Las reconocidas características de seguridad de Volvo, como Pilot Assist y cámara de 360°, garantizan tranquilidad en cada viaje. Perfecto para conductores ecológicos que buscan estilo, seguridad y sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 400 km",
+                    "Diseño escandinavo premium",
+                    "Funciones avanzadas de seguridad e infotainment Google"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "SUV eléctrico",
+                    "lujo",
+                    "sostenible"
+                ]
+            },
+            "fr": {
+                "title": "Volvo XC40 Recharge",
+                "head": "Découvrez le luxe durable avec le Volvo XC40 Recharge",
+                "description": "Le Volvo XC40 Recharge associe design scandinave, performances entièrement électriques et sécurité avancée dans un SUV compact de luxe.",
+                "text": "Le Volvo XC40 Recharge est un SUV entièrement électrique conçu pour la durabilité et les performances. Avec une autonomie allant jusqu'à 400 km et des capacités de charge rapide, il offre un confort pour un usage quotidien. L'habitacle est fabriqué avec des matériaux de qualité supérieure et dispose de technologies avancées, telles qu'un système d'infodivertissement alimenté par Google avec un grand écran tactile. Les caractéristiques de sécurité renommées de Volvo, telles que le Pilot Assist et la caméra 360°, offrent la tranquillité d'esprit à chaque voyage. Parfait pour les conducteurs soucieux de l'environnement à la recherche de style, de sécurité et de durabilité.",
+                "advantages": [
+                    "Autonomie allant jusqu'à 400 km",
+                    "Design scandinave premium",
+                    "Fonctions de sécurité avancées et infodivertissement Google"
+                ],
+                "keywords": [
+                    "Volvo",
+                    "XC40 Recharge",
+                    "SUV électrique",
+                    "luxe",
+                    "durable"
+                ]
+            },
+            "zh": {
+                "title": "Volvo XC40 Recharge",
+                "head": "与沃尔沃XC40 Recharge一起发现可持续奢华",
+                "description": "沃尔沃XC40 Recharge将斯堪的纳维亚设计、全电动性能和先进安全性融合在一起，打造了一款紧凑型豪华SUV。",
+                "text": "沃尔沃XC40 Recharge是一款专为可持续性和性能而设计的全电动SUV。最高续航里程达400公里，支持快速充电，为日常使用提供便利。车厢采用优质材料制造，配备先进技术，包括由Google提供支持的信息娱乐系统和大屏幕触控显示屏。沃尔沃著名的安全功能，如Pilot Assist和360°摄像头，为每次旅行提供安心。非常适合注重环保的驾驶员，他们追求风格、安全性和可持续性。",
+                "advantages": [
+                    "最高400公里的电动续航里程",
+                    "优质斯堪的纳维亚设计",
+                    "先进安全功能和Google信息娱乐"
+                ],
+                "keywords": [
+                    "沃尔沃",
+                    "XC40 Recharge",
+                    "电动SUV",
+                    "豪华",
+                    "可持续"
+                ]
+            }
+        },
+        {
             "slug": "volvo-xc90-recharge",
             "competitors": [
                 "BMW iX",

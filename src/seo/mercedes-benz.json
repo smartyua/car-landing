@@ -367,159 +367,173 @@
             }
         },
         {
-            "slug": "mercedes-eqa",
+            "slug": "mercedes-benz-eqa",
+            "competitors": [
+                "BMW iX1",
+                "Audi Q4 e-tron",
+                "Volvo XC40 Recharge"
+            ],
             "en": {
-                "title": "Mercedes EQA",
-                "description": "A compact electric SUV designed for urban mobility and efficiency.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "compact SUV",
-                    "electric car",
-                    "efficiency",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "Discover Electric Luxury with the Mercedes-Benz EQA",
+                "description": "The Mercedes-Benz EQA combines cutting-edge electric technology, dynamic performance, and premium design in a compact luxury SUV.",
+                "text": "The Mercedes-Benz EQA is a fully electric compact SUV that offers an impressive range of up to 265 miles and advanced safety features. Designed for efficiency and comfort, the EQA boasts a sleek exterior and a luxurious cabin featuring high-quality materials and advanced technology, including the MBUX infotainment system with voice control. With dynamic handling and an all-electric drivetrain, the EQA provides an engaging driving experience. Perfect for eco-conscious drivers seeking style, performance, and innovation.",
+                "advantages": [
+                    "Up to 265 miles of electric range",
+                    "Luxurious interior with advanced MBUX system",
+                    "Dynamic performance and advanced safety features"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "electric SUV",
+                    "luxury",
+                    "performance"
+                ]
             },
             "ru": {
-                "title": "Mercedes EQA",
-                "description": "Компактный электрический внедорожник, созданный для городской мобильности и экономичности.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "компактный внедорожник",
-                    "электромобиль",
-                    "эффективность",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "Откройте электрическую роскошь с Mercedes-Benz EQA",
+                "description": "Mercedes-Benz EQA сочетает передовые электротехнологии, динамическую производительность и премиальный дизайн в компактном люксовом SUV.",
+                "text": "Mercedes-Benz EQA — это полностью электрический компактный внедорожник с запасом хода до 426 км и передовыми функциями безопасности. Созданный для эффективности и комфорта, EQA выделяется стильным внешним видом и роскошным салоном с использованием высококачественных материалов и технологий, таких как информационно-развлекательная система MBUX с голосовым управлением. С динамичным управлением и полностью электрическим приводом EQA обеспечивает захватывающий опыт вождения. Идеально подходит для экологически сознательных водителей, которые ценят стиль, производительность и инновации.",
+                "advantages": [
+                    "Запас хода до 426 км",
+                    "Роскошный интерьер с передовой системой MBUX",
+                    "Динамическая производительность и передовые функции безопасности"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Mercedes EQA",
-                "description": "Компактний електричний позашляховик, створений для міської мобільності та ефективності.",
                 "keywords": [
-                    "Mercedes",
+                    "Mercedes-Benz",
                     "EQA",
-                    "компактний позашляховик",
-                    "електромобіль",
-                    "ефективність",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Mercedes EQA",
-                "description": "Kompaktowy elektryczny SUV zaprojektowany z myślą o mobilności miejskiej i efektywności.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "kompaktowy SUV",
-                    "elektryczny samochód",
-                    "efektywność",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Mercedes EQA",
-                "description": "Ein kompakter Elektro-SUV, der für urbane Mobilität und Effizienz entwickelt wurde.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "kompakter SUV",
-                    "elektrisches Auto",
-                    "Effizienz",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "электрический SUV",
+                    "роскошь",
+                    "производительность"
+                ]
             },
             "be": {
-                "title": "Mercedes EQA",
-                "description": "Кампактны электрычны пазадарожнік, створаны для гарадской мабільнасці і эфектыўнасці.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "кампактны пазадарожнік",
-                    "электрамабіль",
-                    "эфектыўнасць",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "Адкрыйце электрычную раскошу з Mercedes-Benz EQA",
+                "description": "Mercedes-Benz EQA спалучае перадавыя электратэхналогіі, дынамічную прадукцыйнасць і прэміяльны дызайн у кампактным люксовым SUV.",
+                "text": "Mercedes-Benz EQA — гэта цалкам электрычны кампактны пазадарожнік з запасам ходу да 426 км і перадавымі функцыямі бяспекі. Створаны для эфектыўнасці і камфорту, EQA адрозніваецца элегантным дызайнам і раскошным інтэр'ерам з выкарыстаннем якасных матэрыялаў і сучасных тэхналогій, такіх як сістэма MBUX з галасавым кіраваннем. З дынамічным кіраваннем і поўным электрапрывадам EQA забяспечвае захапляльныя ўражанні ад кіравання. Ідэальны выбар для экалагічна свядомых кіроўцаў, якія цэняць стыль, прадукцыйнасць і інавацыі.",
+                "advantages": [
+                    "Запас ходу да 426 км",
+                    "Раскошны інтэр'ер з сучаснай сістэмай MBUX",
+                    "Дынамічная прадукцыйнасць і сучасныя функцыі бяспекі"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "электрычны SUV",
+                    "раскоша",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "Mercedes-Benz EQA",
+                "head": "Erleben Sie elektrischen Luxus mit dem Mercedes-Benz EQA",
+                "description": "Der Mercedes-Benz EQA vereint modernste Elektrotechnik, dynamische Leistung und ein erstklassiges Design in einem kompakten Luxus-SUV.",
+                "text": "Der Mercedes-Benz EQA ist ein vollelektrischer kompakter SUV mit einer beeindruckenden Reichweite von bis zu 426 km und fortschrittlichen Sicherheitsfunktionen. Entwickelt für Effizienz und Komfort, bietet der EQA ein elegantes Außendesign und einen luxuriösen Innenraum mit hochwertigen Materialien und innovativer Technologie wie dem MBUX-Infotainmentsystem mit Sprachsteuerung. Mit dynamischem Handling und einem rein elektrischen Antrieb liefert der EQA ein spannendes Fahrerlebnis. Ideal für umweltbewusste Fahrer, die Stil, Leistung und Innovation suchen.",
+                "advantages": [
+                    "Bis zu 426 km elektrische Reichweite",
+                    "Luxuriöser Innenraum mit MBUX-System",
+                    "Dynamische Leistung und Sicherheitsfunktionen"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "elektrischer SUV",
+                    "Luxus",
+                    "Leistung"
+                ]
+            },
+            "ua": {
+                "title": "Mercedes-Benz EQA",
+                "head": "Відкрийте електричну розкіш із Mercedes-Benz EQA",
+                "description": "Mercedes-Benz EQA поєднує передові електричні технології, динамічну продуктивність і преміальний дизайн у компактному електричному SUV.",
+                "text": "Mercedes-Benz EQA — це повністю електричний компактний позашляховик із запасом ходу до 426 км і передовими функціями безпеки. Створений для ефективності та комфорту, EQA вирізняється стильним дизайном і розкішним салоном із використанням високоякісних матеріалів та технологій, таких як інформаційно-розважальна система MBUX із голосовим керуванням. З динамічним управлінням і повністю електричним приводом EQA забезпечує захоплюючий досвід водіння. Чудовий вибір для водіїв, які цінують стиль, продуктивність і інновації.",
+                "advantages": [
+                    "Запас ходу до 426 км",
+                    "Розкішний інтер'єр із системою MBUX",
+                    "Динамічна продуктивність і передові функції безпеки"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "електричний SUV",
+                    "люкс",
+                    "продуктивність"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz EQA",
+                "head": "Odkryj elektryczny luksus z Mercedes-Benz EQA",
+                "description": "Mercedes-Benz EQA łączy zaawansowaną technologię elektryczną, dynamiczną wydajność i luksusowy design w kompaktowym SUV-ie elektrycznym.",
+                "text": "Mercedes-Benz EQA to w pełni elektryczny kompaktowy SUV oferujący zasięg do 426 km i zaawansowane funkcje bezpieczeństwa. Zaprojektowany z myślą o efektywności i komforcie, EQA wyróżnia się eleganckim wyglądem zewnętrznym i luksusowym wnętrzem z wysokiej jakości materiałami oraz technologiami, takimi jak system MBUX z funkcją sterowania głosem. Dzięki dynamicznej obsłudze i w pełni elektrycznemu układowi napędowemu EQA zapewnia ekscytujące wrażenia z jazdy. Idealny wybór dla kierowców ceniących styl, osiągi i innowacje.",
+                "advantages": [
+                    "Zasięg do 426 km",
+                    "Luksusowe wnętrze z systemem MBUX",
+                    "Dynamiczne osiągi i zaawansowane funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "SUV elektryczny",
+                    "luksus",
+                    "osiągi"
+                ]
             },
             "es": {
-                "title": "Mercedes EQA",
-                "description": "Un SUV eléctrico compacto diseñado para la movilidad urbana y la eficiencia.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "SUV compacto",
-                    "coche eléctrico",
-                    "eficiencia",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "Descubre el lujo eléctrico con el Mercedes-Benz EQA",
+                "description": "El Mercedes-Benz EQA combina tecnología eléctrica de vanguardia, rendimiento dinámico y diseño de lujo en un SUV compacto.",
+                "text": "El Mercedes-Benz EQA es un SUV compacto totalmente eléctrico que ofrece una autonomía de hasta 426 km y características avanzadas de seguridad. Diseñado para la eficiencia y el confort, el EQA presenta un exterior elegante y un interior lujoso con materiales de alta calidad y tecnología avanzada, incluido el sistema de infoentretenimiento MBUX con control por voz. Con una conducción dinámica y un sistema de propulsión totalmente eléctrico, el EQA ofrece una experiencia de conducción emocionante. Ideal para conductores que buscan estilo, rendimiento e innovación.",
+                "advantages": [
+                    "Autonomía de hasta 426 km",
+                    "Interior lujoso con sistema MBUX",
+                    "Rendimiento dinámico y características avanzadas de seguridad"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "SUV eléctrico",
+                    "lujo",
+                    "rendimiento"
+                ]
             },
             "fr": {
-                "title": "Mercedes EQA",
-                "description": "Un SUV électrique compact conçu pour la mobilité urbaine et l'efficacité.",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "SUV compact",
-                    "voiture électrique",
-                    "efficacité",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "Découvrez le luxe électrique avec le Mercedes-Benz EQA",
+                "description": "Le Mercedes-Benz EQA combine technologie électrique de pointe, performances dynamiques et design premium dans un SUV compact.",
+                "text": "Le Mercedes-Benz EQA est un SUV compact entièrement électrique offrant une autonomie allant jusqu'à 426 km et des fonctionnalités de sécurité avancées. Conçu pour l'efficacité et le confort, l'EQA arbore un extérieur élégant et un intérieur luxueux avec des matériaux de haute qualité et une technologie avancée, notamment le système d'infodivertissement MBUX avec commande vocale. Avec une conduite dynamique et une motorisation entièrement électrique, l'EQA offre une expérience de conduite passionnante. Parfait pour les conducteurs recherchant style, performances et innovation.",
+                "advantages": [
+                    "Autonomie allant jusqu'à 426 km",
+                    "Intérieur luxueux avec système MBUX",
+                    "Performances dynamiques et sécurité avancée"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQA",
+                    "SUV électrique",
+                    "luxe",
+                    "performance"
+                ]
             },
             "zh": {
-                "title": "Mercedes EQA",
-                "description": "一款紧凑型电动SUV，专为城市出行和效率而设计。",
-                "keywords": [
-                    "Mercedes",
-                    "EQA",
-                    "紧凑型SUV",
-                    "电动汽车",
-                    "效率",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqa highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz EQA",
+                "head": "探索梅赛德斯-奔驰 EQA 的电动豪华",
+                "description": "梅赛德斯-奔驰 EQA 将尖端电动技术、动态性能和豪华设计融合于一体，打造出一款紧凑型豪华 SUV。",
+                "text": "梅赛德斯-奔驰 EQA 是一款全电动紧凑型 SUV，提供高达 426 公里的令人印象深刻续航里程和先进的安全功能。EQA 旨在提高效率和舒适性，拥有时尚的外观和豪华的内饰，采用高品质材料和先进技术，包括 MBUX 信息娱乐系统和语音控制。EQA 具有动态操控和全电动传动系统，提供引人入胜的驾驶体验。非常适合追求风格、性能和创新的环保驾驶员。",
+                "advantages": [
+                    "高达 426 公里的电动续航里程",
+                    "豪华内饰，配备 MBUX 系统",
+                    "动态性能和先进安全功能"
                 ],
-                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "梅赛德斯-奔驰",
+                    "EQA",
+                    "电动 SUV",
+                    "豪华",
+                    "性能"
+                ]
             }
         },
         {

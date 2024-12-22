@@ -26,447 +26,6 @@
     },
     "models": [
         {
-            "slug": "f-150",
-            "en": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "car",
-                    "luxury",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "автомобиль",
-                    "роскошь",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "автомобіль",
-                    "розкіш",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "samochód",
-                    "luksus",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "Auto",
-                    "Luxus",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "аўтамабіль",
-                    "раскоша",
-                    "f-150 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "coche",
-                    "lujo",
-                    "rendimiento f-150",
-                    "funciones de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Ford F-150 destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de f-150, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "汽车",
-                    "豪华",
-                    "f-150 性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "Ford F-150 在其类别中脱颖而出，是一个卓越的选择。以其 f-150 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
-            },
-            "fr": {
-                "title": "Ford F-150",
-                "description": "Ford F-150 est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
-                "keywords": [
-                    "Ford",
-                    "F-150",
-                    "voiture",
-                    "luxe",
-                    "performance f-150",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
-                ],
-                "text": "La Ford F-150 se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de f-150, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
-            }
-        },
-        {
-            "slug": "mustang-ev",
-            "en": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "car",
-                    "luxury",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "автомобиль",
-                    "роскошь",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "автомобіль",
-                    "розкіш",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "samochód",
-                    "luksus",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "Auto",
-                    "Luxus",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "аўтамабіль",
-                    "раскоша",
-                    "mustang mach-e performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "coche",
-                    "lujo",
-                    "rendimiento mustang mach-e",
-                    "funciones de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Ford Mustang Mach-E destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de mustang mach-e, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "汽车",
-                    "豪华",
-                    "mustang mach-e 性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "Ford Mustang Mach-E 在其类别中脱颖而出，是一个卓越的选择。以其 mustang mach-e 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
-            },
-            "fr": {
-                "title": "Ford Mustang Mach-E",
-                "description": "Ford Mustang Mach-E est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
-                "keywords": [
-                    "Ford",
-                    "Mustang Mach-E",
-                    "voiture",
-                    "luxe",
-                    "performance mustang mach-e",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
-                ],
-                "text": "La Ford Mustang Mach-E se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de mustang mach-e, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
-            }
-        },
-        {
-            "slug": "explorer",
-            "en": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "car",
-                    "luxury",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "автомобиль",
-                    "роскошь",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "автомобіль",
-                    "розкіш",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "samochód",
-                    "luksus",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "Auto",
-                    "Luxus",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "аўтамабіль",
-                    "раскоша",
-                    "explorer performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "coche",
-                    "lujo",
-                    "rendimiento explorer",
-                    "funciones de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Ford Explorer destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de explorer, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "汽车",
-                    "豪华",
-                    "explorer 性能",
-                    "先进的安全功能",
-                    "用户友好界面",
-                    "创新设计",
-                    "最佳效率"
-                ],
-                "text": "Ford Explorer 在其类别中脱颖而出，是一个卓越的选择。以其 explorer 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
-            },
-            "fr": {
-                "title": "Ford Explorer",
-                "description": "Ford Explorer est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
-                "keywords": [
-                    "Ford",
-                    "Explorer",
-                    "voiture",
-                    "luxe",
-                    "performance explorer",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
-                ],
-                "text": "La Ford Explorer se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives d'explorer, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
-            }
-        },
-        {
             "slug": "escape",
             "en": {
                 "title": "Ford Escape",
@@ -758,6 +317,462 @@
                     "efficacité optimale"
                 ],
                 "text": "La Ford Mustang se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de mustang, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "ford-explorer",
+            "competitors": [
+                "Toyota Highlander",
+                "Honda Pilot",
+                "Chevrolet Traverse"
+            ],
+            "en": {
+                "title": "Ford Explorer",
+                "head": "Explore Power and Innovation with the Ford Explorer SUV",
+                "description": "The Ford Explorer offers a blend of capability, comfort, and advanced technology. Discover an SUV that fits all your adventures.",
+                "text": "The Ford Explorer is a versatile and robust SUV built for families and adventurers. It features a range of powerful engines, including hybrid options, and offers impressive towing capacity and off-road capability with its available intelligent all-wheel drive. Inside, the Explorer boasts a spacious cabin with seating for up to seven passengers, premium materials, and modern features such as a large touchscreen infotainment system with SYNC® 3 technology. Advanced safety features, including Ford Co-Pilot360™, provide peace of mind on every journey. Whether tackling tough terrain or cruising in the city, the Ford Explorer is ready for any challenge.",
+                "advantages": [
+                    "Impressive towing and off-road capability",
+                    "Spacious seating for seven passengers",
+                    "Advanced safety features with Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "SUV",
+                    "family car",
+                    "all-wheel drive"
+                ]
+            },
+            "de": {
+                "title": "Ford Explorer",
+                "head": "Entdecken Sie Kraft und Innovation mit dem Ford Explorer SUV",
+                "description": "Der Ford Explorer vereint Leistungsfähigkeit, Komfort und fortschrittliche Technologie. Entdecken Sie ein SUV, das zu jedem Abenteuer passt.",
+                "text": "Der Ford Explorer ist ein vielseitiges und robustes SUV, das für Familien und Abenteurer gebaut wurde. Er verfügt über eine Reihe leistungsstarker Motoren, einschließlich Hybridoptionen, und bietet beeindruckende Anhängelast und Offroad-Fähigkeiten mit seinem verfügbaren intelligenten Allradantrieb. Innen bietet der Explorer ein geräumiges Interieur mit Platz für bis zu sieben Passagiere, hochwertige Materialien und moderne Funktionen wie ein großes Touchscreen-Infotainmentsystem mit SYNC® 3-Technologie. Fortschrittliche Sicherheitsfunktionen, einschließlich Ford Co-Pilot360™, sorgen für Sicherheit bei jeder Fahrt. Ob im Gelände oder in der Stadt, der Ford Explorer ist für jede Herausforderung bereit.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Offroad-Fähigkeiten",
+                    "Geräumige Sitzplätze für sieben Passagiere",
+                    "Fortschrittliche Sicherheitsfunktionen mit Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "SUV",
+                    "Familienauto",
+                    "Allradantrieb"
+                ]
+            },
+            "ua": {
+                "title": "Ford Explorer",
+                "head": "Досліджуйте потужність та інновації з позашляховиком Ford Explorer",
+                "description": "Ford Explorer поєднує потужність, комфорт та передові технології. Дізнайтеся про позашляховик, який підійде для будь-яких пригод.",
+                "text": "Ford Explorer — це універсальний та міцний позашляховик, створений для сімей та мандрівників. Він оснащений потужними двигунами, включаючи гібридні варіанти, і пропонує вражаючу буксирну здатність та позашляхові можливості завдяки інтелектуальному повному приводу. Салон просторий, розрахований на сім пасажирів, з преміальними матеріалами та сучасними функціями, такими як великий сенсорний екран із технологією SYNC® 3. Передові системи безпеки, зокрема Ford Co-Pilot360™, забезпечують спокій під час кожної подорожі. Незалежно від того, чи це бездоріжжя, чи міські вулиці, Ford Explorer готовий до будь-яких викликів.",
+                "advantages": [
+                    "Вражаюча буксирна здатність та позашляхові можливості",
+                    "Просторі місця для семи пасажирів",
+                    "Передові системи безпеки Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "позашляховик",
+                    "сімейний автомобіль",
+                    "повний привід"
+                ]
+            },
+            "pl": {
+                "title": "Ford Explorer",
+                "head": "Odkryj moc i innowacyjność z SUV-em Ford Explorer",
+                "description": "Ford Explorer łączy w sobie zdolności terenowe, komfort i zaawansowaną technologię. Odkryj SUV-a idealnego na każdą przygodę.",
+                "text": "Ford Explorer to wszechstronny i wytrzymały SUV zaprojektowany dla rodzin i miłośników przygód. Wyposażony w gamę mocnych silników, w tym opcje hybrydowe, oferuje imponującą zdolność holowania i możliwości terenowe dzięki inteligentnemu napędowi na wszystkie koła. Wnętrze jest przestronne, pomieści do siedmiu pasażerów, z wysokiej jakości materiałami i nowoczesnymi funkcjami, takimi jak duży ekran dotykowy z technologią SYNC® 3. Zaawansowane systemy bezpieczeństwa, w tym Ford Co-Pilot360™, zapewniają spokój podczas każdej podróży. Niezależnie od terenu, Ford Explorer jest gotowy na każde wyzwanie.",
+                "advantages": [
+                    "Imponujące możliwości holowania i terenowe",
+                    "Przestronne wnętrze dla siedmiu pasażerów",
+                    "Zaawansowane systemy bezpieczeństwa Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "SUV",
+                    "samochód rodzinny",
+                    "napęd na wszystkie koła"
+                ]
+            },
+            "es": {
+                "title": "Ford Explorer",
+                "head": "Descubre potencia e innovación con el SUV Ford Explorer",
+                "description": "El Ford Explorer combina capacidad, confort y tecnología avanzada. Descubre un SUV perfecto para todas tus aventuras.",
+                "text": "El Ford Explorer es un SUV versátil y robusto diseñado para familias y aventureros. Cuenta con una gama de motores potentes, incluidas opciones híbridas, y ofrece una impresionante capacidad de remolque y habilidades todoterreno gracias a su tracción total inteligente. Su interior es espacioso, con capacidad para hasta siete pasajeros, materiales de primera calidad y características modernas como un sistema de infoentretenimiento con pantalla táctil y tecnología SYNC® 3. Las funciones avanzadas de seguridad, incluido Ford Co-Pilot360™, garantizan tranquilidad en cada viaje. Ya sea para explorar terrenos difíciles o conducir en la ciudad, el Ford Explorer está listo para cualquier desafío.",
+                "advantages": [
+                    "Impresionante capacidad de remolque y todoterreno",
+                    "Asientos espaciosos para siete pasajeros",
+                    "Funciones avanzadas de seguridad Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "SUV",
+                    "familiar",
+                    "tracción total"
+                ]
+            },
+            "fr": {
+                "title": "Ford Explorer",
+                "head": "Découvrez la puissance et l'innovation avec le SUV Ford Explorer",
+                "description": "Le Ford Explorer offre un mélange de capacités, de confort et de technologies avancées. Découvrez un SUV conçu pour toutes vos aventures.",
+                "text": "Le Ford Explorer est un SUV polyvalent et robuste conçu pour les familles et les aventuriers. Il propose une gamme de moteurs puissants, y compris des options hybrides, et offre une capacité de remorquage impressionnante ainsi que des capacités tout-terrain grâce à sa transmission intégrale intelligente. Son intérieur spacieux peut accueillir jusqu'à sept passagers et est doté de matériaux haut de gamme et de fonctionnalités modernes telles qu'un grand écran tactile avec la technologie SYNC® 3. Les fonctions de sécurité avancées, notamment Ford Co-Pilot360™, assurent la tranquillité d'esprit à chaque voyage. Que ce soit pour affronter des terrains difficiles ou pour la conduite urbaine, le Ford Explorer est prêt pour tous les défis.",
+                "advantages": [
+                    "Capacité de remorquage et tout-terrain impressionnante",
+                    "Sièges spacieux pour sept passagers",
+                    "Fonctionnalités de sécurité avancées avec Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "SUV",
+                    "familial",
+                    "transmission intégrale"
+                ]
+            },
+            "zh": {
+                "title": "福特 Explorer",
+                "head": "探索福特 Explorer SUV 的强大与创新",
+                "description": "福特 Explorer 将能力、舒适性和先进技术完美结合。发现适合所有冒险的 SUV。",
+                "text": "福特 Explorer 是一款多功能且坚固耐用的 SUV，专为家庭和冒险者设计。它配备一系列强劲的发动机，包括混合动力选项，并通过智能全轮驱动提供令人印象深刻的牵引能力和越野性能。内部空间宽敞，可容纳多达七名乘客，采用优质材料打造，并配备现代化功能，如搭载 SYNC® 3 技术的大型触摸屏信息娱乐系统。先进的安全功能，包括 Ford Co-Pilot360™，为每次旅程提供安心保障。无论是挑战崎岖地形还是在城市驾驶，福特 Explorer 始终准备就绪。",
+                "advantages": [
+                    "卓越的牵引能力和越野性能",
+                    "宽敞座椅，可容纳七名乘客",
+                    "先进的安全功能 Ford Co-Pilot360™"
+                ],
+                "keywords": [
+                    "福特",
+                    "Explorer",
+                    "SUV",
+                    "家庭车",
+                    "全轮驱动"
+                ]
+            }
+        },
+        {
+            "slug": "ford-f-150",
+            "competitors": [
+                "Chevrolet Silverado",
+                "Ram 1500",
+                "Toyota Tundra"
+            ],
+            "en": {
+                "title": "Ford F-150",
+                "head": "Experience Unmatched Strength and Versatility with the Ford F-150",
+                "description": "The Ford F-150 redefines what a truck can do with its power, innovation, and advanced features. Discover a pickup built for work and play.",
+                "text": "The Ford F-150 is an iconic pickup truck known for its toughness, capability, and innovation. It offers a range of powerful engines, including hybrid and fully electric variants, ensuring excellent performance and fuel efficiency. The F-150 is built to handle heavy-duty tasks with an impressive towing capacity and a durable aluminum-alloy body. Inside, the cabin is designed for comfort and functionality, featuring advanced technology such as the SYNC® 4 infotainment system and Pro Power Onboard™ for versatile power needs. With Ford Co-Pilot360™ safety features, the F-150 provides confidence on every drive, whether on the job or exploring the great outdoors.",
+                "advantages": [
+                    "Impressive towing and payload capacities",
+                    "Hybrid and electric powertrain options",
+                    "Advanced safety and technology features"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "pickup truck",
+                    "towing capacity",
+                    "hybrid"
+                ]
+            },
+            "de": {
+                "title": "Ford F-150",
+                "head": "Erleben Sie unvergleichliche Stärke und Vielseitigkeit mit dem Ford F-150",
+                "description": "Der Ford F-150 definiert, was ein Truck leisten kann, neu – mit Kraft, Innovation und fortschrittlichen Funktionen. Entdecken Sie einen Pickup, der Arbeit und Freizeit verbindet.",
+                "text": "Der Ford F-150 ist ein ikonischer Pickup, der für seine Robustheit, Leistungsfähigkeit und Innovation bekannt ist. Er bietet eine Auswahl an leistungsstarken Motoren, einschließlich Hybrid- und vollelektrischer Varianten, die hervorragende Leistung und Kraftstoffeffizienz gewährleisten. Der F-150 ist für schwere Aufgaben ausgelegt, mit beeindruckender Anhängelast und einer langlebigen Karosserie aus Aluminiumlegierung. Innenraum und Ausstattung sind auf Komfort und Funktionalität ausgelegt, darunter das fortschrittliche SYNC® 4-Infotainmentsystem und Pro Power Onboard™ für vielseitige Strombedürfnisse. Mit Ford Co-Pilot360™-Sicherheitsfunktionen bietet der F-150 Sicherheit bei jeder Fahrt, egal ob bei der Arbeit oder in der Natur.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Nutzlast",
+                    "Hybrid- und elektrische Antriebsoptionen",
+                    "Fortschrittliche Sicherheits- und Technologiefunktionen"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "Pickup",
+                    "Anhängerlast",
+                    "Hybrid"
+                ]
+            },
+            "be": {
+                "title": "Ford F-150",
+                "head": "Адчуйце неперавершаную сілу і унікальнасць з Ford F-150",
+                "description": "Ford F-150 пераацэньвае магчымасці пікапаў з дапамогай магутнасці, інавацый і перадавых функцый. Даведайцеся пра пікап, створаны для працы і адпачынку.",
+                "text": "Ford F-150 — гэта культавы пікап, вядомы сваёй моцай, магутнасцю і інавацыямі. Ён прапануе шырокі выбар магутных рухавікаў, уключаючы гібрыдныя і поўнасцю электрычныя варыянты, якія забяспечваюць выдатныя вынікі і эканомію паліва. F-150 створаны для цяжкіх задач, з уражаючай буксірнай здольнасцю і моцным кузавам з алюмініевага сплаву. Унутры салон арыентаваны на камфорт і функцыянальнасць, з перадавымі тэхналогіямі, такімі як інфармацыйна-разважальная сістэма SYNC® 4 і Pro Power Onboard™ для рознастайных энергетычных патрэб. Дзякуючы функцыям бяспекі Ford Co-Pilot360™",
+                "advantages": [
+                    "Уражаючая буксірная здольнасць і грузападымальнасць",
+                    "Гібрыдныя і электрычныя варыянты сілкавай ўсталявы",
+                    "Перадавыя функцыі бяспекі і тэхналогіі"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "пікап",
+                    "буксіраванне",
+                    "гібрыд"
+                ]
+            },
+            "ru": {
+                "title": "Ford F-150",
+                "head": "Испытайте непревзойденную силу и универсальность с Ford F-150",
+                "description": "Ford F-150 переосмысливает возможности пикапа благодаря мощности, инновациям и передовым функциям. Узнайте о пикапе, созданном для работы и отдыха.",
+                "text": "Ford F-150 — это культовый пикап, известный своей прочностью, мощностью и инновациями. Он предлагает широкий выбор мощных двигателей, включая гибридные и полностью электрические варианты, которые обеспечивают отличную производительность и экономию топлива. F-150 создан для тяжелых задач, с впечатляющей буксировочной способностью и прочным кузовом из алюминиевого сплава. Внутри салон ориентирован на комфорт и функциональность, с передовыми технологиями, такими как информационно-развлекательная система SYNC® 4 и Pro Power Onboard™ для различных энергетических потребностей. Благодаря функциям безопасности Ford Co-Pilot360™ F-150 обеспечивает уверенность во время каждой поездки, будь то на работе или на природе.",
+                "advantages": [
+                    "Впечатляющая буксировочная способность и грузоподъемность",
+                    "Гибридные и электрические варианты силовой установки",
+                    "Передовые функции безопасности и технологии"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "пикап",
+                    "буксировка",
+                    "гибрид"
+                ]
+            },
+            "ua": {
+                "title": "Ford F-150",
+                "head": "Відчуйте неперевершену силу та універсальність із Ford F-150",
+                "description": "Ford F-150 переосмислює можливості пікапа завдяки потужності, інноваціям та передовим функціям. Дізнайтеся про пікап, створений для роботи та відпочинку.",
+                "text": "Ford F-150 — це культовий пікап, відомий своєю міцністю, потужністю та інноваціями. Він пропонує широкий вибір потужних двигунів, включаючи гібридні та повністю електричні варіанти, які забезпечують відмінну продуктивність та економію палива. F-150 створений для важких завдань, з вражаючою буксирною здатністю та міцним кузовом із алюмінієвого сплаву. Усередині салон орієнтований на комфорт і функціональність, з передовими технологіями, такими як інформаційно-розважальна система SYNC® 4 та Pro Power Onboard™ для різноманітних енергетичних потреб. Завдяки функціям безпеки Ford Co-Pilot360™ F-150 забезпечує впевненість під час кожної подорожі, будь то на роботі чи на природі.",
+                "advantages": [
+                    "Вражаюча буксирна здатність і вантажопідйомність",
+                    "Гібридні та електричні варіанти силової установки",
+                    "Передові функції безпеки та технології"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "пікап",
+                    "буксирування",
+                    "гібрид"
+                ]
+            },
+            "pl": {
+                "title": "Ford F-150",
+                "head": "Poczuj niezrównaną siłę i wszechstronność z Fordem F-150",
+                "description": "Ford F-150 na nowo definiuje możliwości pickupa dzięki swojej mocy, innowacjom i zaawansowanym funkcjom. Odkryj pickup stworzony do pracy i zabawy.",
+                "text": "Ford F-150 to kultowy pickup, znany ze swojej wytrzymałości, zdolności i innowacyjności. Oferuje szeroką gamę mocnych silników, w tym hybrydowych i w pełni elektrycznych, które zapewniają doskonałe osiągi i oszczędność paliwa. F-150 jest zaprojektowany do ciężkich zadań, z imponującą zdolnością holowania i wytrzymałym nadwoziem z aluminium. Wnętrze jest przestronne i funkcjonalne, z zaawansowanymi technologiami, takimi jak system multimedialny SYNC® 4 i Pro Power Onboard™ do różnych potrzeb energetycznych. Dzięki funkcjom bezpieczeństwa Ford Co-Pilot360™ F-150 zapewnia pewność podczas każdej podróży, czy to w pracy, czy na łonie natury.",
+                "advantages": [
+                    "Imponująca zdolność holowania i ładowność",
+                    "Hybrydowe i elektryczne opcje napędu",
+                    "Zaawansowane funkcje bezpieczeństwa i technologie"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "pickup",
+                    "holowanie",
+                    "hybryda"
+                ]
+            },
+            "es": {
+                "title": "Ford F-150",
+                "head": "Experimenta fuerza y versatilidad incomparables con el Ford F-150",
+                "description": "El Ford F-150 redefine lo que un camión puede hacer con su potencia, innovación y funciones avanzadas. Descubre un pickup diseñado para trabajar y disfrutar.",
+                "text": "El Ford F-150 es una camioneta icónica conocida por su robustez, capacidad e innovación. Ofrece una gama de motores potentes, incluidos variantes híbridas y completamente eléctricas, que aseguran un excelente rendimiento y eficiencia de combustible. El F-150 está construido para tareas exigentes con una impresionante capacidad de remolque y un cuerpo de aleación de aluminio duradero. En el interior, la cabina está diseñada para comodidad y funcionalidad, con tecnologías avanzadas como el sistema de infoentretenimiento SYNC® 4 y Pro Power Onboard™ para necesidades energéticas versátiles. Con las funciones de seguridad Ford Co-Pilot360™, el F-150 proporciona confianza en cada viaje, ya sea en el trabajo o explorando la naturaleza.",
+                "advantages": [
+                    "Impresionante capacidad de remolque y carga útil",
+                    "Opciones de tren motriz híbrido y eléctrico",
+                    "Funciones avanzadas de seguridad y tecnología"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "pickup",
+                    "capacidad de remolque",
+                    "híbrido"
+                ]
+            },
+            "fr": {
+                "title": "Ford F-150",
+                "head": "Découvrez une puissance et une polyvalence inégalées avec le Ford F-150",
+                "description": "Le Ford F-150 redéfinit ce qu'un camion peut accomplir grâce à sa puissance, son innovation et ses fonctionnalités avancées. Découvrez un pickup conçu pour le travail et les loisirs.",
+                "text": "Le Ford F-150 est un pickup emblématique connu pour sa robustesse, sa capacité et son innovation. Il propose une gamme de moteurs puissants, y compris des variantes hybrides et entièrement électriques, garantissant d'excellentes performances et une efficacité énergétique. Conçu pour les tâches exigeantes, le F-150 offre une capacité de remorquage impressionnante et une carrosserie en alliage d'aluminium durable. À l'intérieur, la cabine est pensée pour le confort et la fonctionnalité, avec des technologies avancées comme le système d'infodivertissement SYNC® 4 et Pro Power Onboard™ pour des besoins énergétiques polyvalents. Avec les fonctionnalités de sécurité Ford Co-Pilot360™, le F-150 assure confiance et sérénité à chaque trajet, que ce soit pour le travail ou l'exploration.",
+                "advantages": [
+                    "Capacité de remorquage et de charge impressionnante",
+                    "Options de motorisation hybride et électrique",
+                    "Fonctionnalités avancées de sécurité et de technologie"
+                ],
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "pickup",
+                    "remorquage",
+                    "hybride"
+                ]
+            },
+            "zh": {
+                "title": "福特 F-150",
+                "head": "体验福特 F-150 的无与伦比的强大与多功能性",
+                "description": "福特 F-150 以其强大的性能、创新技术和先进功能重新定义了皮卡的可能性。探索为工作和休闲而设计的皮卡。",
+                "text": "福特 F-150 是一款标志性的皮卡，以其坚固、强大和创新而闻名。它提供多种强劲的发动机选择，包括混合动力和纯电动版本，确保卓越的性能和燃油效率。F-150 专为重型任务而设计，具有令人印象深刻的拖拽能力和耐用的铝合金车身。内部空间宽敞，配备先进技术，如搭载 SYNC® 4 技术的信息娱乐系统和 Pro Power Onboard™，以满足多种能源需求。借助 Ford Co-Pilot360™ 安全功能，无论在工作中还是在野外，F-150 都能提供信心和舒适体验。",
+                "advantages": [
+                    "卓越的拖拽能力和承载能力",
+                    "混合动力和电动选项",
+                    "先进的安全和技术功能"
+                ],
+                "keywords": [
+                    "福特",
+                    "F-150",
+                    "皮卡",
+                    "拖拽能力",
+                    "混合动力"
+                ]
+            }
+        },
+        {
+            "slug": "ford-mustang-mach-e",
+            "competitors": [
+                "Tesla Model Y",
+                "Volkswagen ID.4",
+                "Hyundai Ioniq 5"
+            ],
+            "en": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Experience Electric Power and Performance with the Ford Mustang Mach-E",
+                "description": "The Ford Mustang Mach-E combines iconic style with advanced electric technology. Discover an SUV designed for performance and sustainability.",
+                "text": "The Ford Mustang Mach-E is a game-changing electric SUV that combines the performance and spirit of the Mustang with cutting-edge electric technology. With a range of up to 300 miles and fast-charging capabilities, the Mach-E offers both convenience and confidence on the road. The interior is spacious and modern, featuring premium materials, a 15.5-inch touchscreen with SYNC® 4A, and advanced connectivity options. Equipped with Ford Co-Pilot360™ and optional BlueCruise hands-free driving, the Mach-E ensures a safe and innovative driving experience. Perfect for eco-conscious drivers seeking style and performance.",
+                "advantages": [
+                    "Impressive electric range and fast-charging",
+                    "Stylish design with advanced connectivity",
+                    "Ford Co-Pilot360™ and hands-free driving technology"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "electric SUV",
+                    "performance",
+                    "fast-charging"
+                ]
+            },
+            "de": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Erleben Sie elektrische Leistung und Performance mit dem Ford Mustang Mach-E",
+                "description": "Der Ford Mustang Mach-E kombiniert ikonisches Design mit fortschrittlicher Elektrotechnik. Entdecken Sie ein SUV, das Leistung und Nachhaltigkeit vereint.",
+                "text": "Der Ford Mustang Mach-E ist ein bahnbrechendes elektrisches SUV, das die Performance und den Geist des Mustangs mit modernster Elektrotechnik verbindet. Mit einer Reichweite von bis zu 482 Kilometern und Schnellladefunktionen bietet der Mach-E Komfort und Zuverlässigkeit auf der Straße. Der Innenraum ist geräumig und modern, ausgestattet mit hochwertigen Materialien, einem 15,5-Zoll-Touchscreen mit SYNC® 4A und fortschrittlichen Konnektivitätsoptionen. Mit Ford Co-Pilot360™ und optionalem BlueCruise für freihändiges Fahren bietet der Mach-E ein sicheres und innovatives Fahrerlebnis. Perfekt für umweltbewusste Fahrer, die Stil und Performance suchen.",
+                "advantages": [
+                    "Beeindruckende elektrische Reichweite und Schnellladung",
+                    "Stylisches Design mit fortschrittlicher Konnektivität",
+                    "Ford Co-Pilot360™ und freihändige Fahrtechnologie"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "elektrisches SUV",
+                    "Performance",
+                    "Schnellladung"
+                ]
+            },
+            "ru": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Почувствуйте электрическую мощь и производительность с Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E сочетает в себе культовый стиль и передовые электрические технологии. Откройте для себя SUV, созданный для производительности и устойчивого развития.",
+                "text": "Ford Mustang Mach-E — это революционный электрический внедорожник, который сочетает в себе производительность и дух Mustang с современными электрическими технологиями. Благодаря запасу хода до 482 км и быстрой зарядке Mach-E обеспечивает удобство и уверенность на дороге. Салон просторный и современный, с премиальными материалами, 15,5-дюймовым сенсорным экраном с SYNC® 4A и расширенными функциями подключения. С оборудованием Ford Co-Pilot360™ и опциональной технологией BlueCruise для безконтактного вождения Mach-E гарантирует безопасный и инновационный опыт управления. Идеальный выбор для экологически осознанных водителей, которые ищут стиль и производительность.",
+                "advantages": [
+                    "Впечатляющий запас хода и быстрая зарядка",
+                    "Стильный дизайн с передовыми функциями подключения",
+                    "Ford Co-Pilot360™ и технология безконтактного вождения"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "электрический внедорожник",
+                    "производительность",
+                    "быстрая зарядка"
+                ]
+            },
+            "ua": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Відчуйте електричну потужність і продуктивність із Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E поєднує культовий стиль із передовими електричними технологіями. Дізнайтеся про SUV, створений для продуктивності та екологічності.",
+                "text": "Ford Mustang Mach-E — це революційний електричний позашляховик, який поєднує продуктивність і дух Mustang із сучасними електричними технологіями. Завдяки запасу ходу до 482 км і швидкій зарядці Mach-E забезпечує зручність і впевненість на дорозі. Салон просторий і сучасний, з преміальними матеріалами, 15,5-дюймовим сенсорним екраном із SYNC® 4A та розширеними функціями підключення. Оснащений Ford Co-Pilot360™ і опціональною технологією BlueCruise для безконтактного водіння, Mach-E гарантує безпечний та інноваційний досвід керування. Ідеальний вибір для екосвідомих водіїв, які шукають стиль і продуктивність.",
+                "advantages": [
+                    "Вражаючий запас ходу та швидка зарядка",
+                    "Стильний дизайн із сучасними функціями підключення",
+                    "Ford Co-Pilot360™ та технологія безконтактного водіння"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "електричний позашляховик",
+                    "продуктивність",
+                    "швидка зарядка"
+                ]
+            },
+            "pl": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Doświadcz mocy elektrycznej i wydajności z Fordem Mustang Mach-E",
+                "description": "Ford Mustang Mach-E łączy kultowy styl z zaawansowaną technologią elektryczną. Odkryj SUV stworzony dla osiągów i zrównoważonego rozwoju.",
+                "text": "Ford Mustang Mach-E to rewolucyjny elektryczny SUV, który łączy osiągi i ducha Mustanga z nowoczesną technologią elektryczną. Zasięg do 482 km i możliwość szybkiego ładowania sprawiają, że Mach-E oferuje wygodę i pewność na drodze. Wnętrze jest przestronne i nowoczesne, wyposażone w wysokiej jakości materiały, 15,5-calowy ekran dotykowy z systemem SYNC® 4A oraz zaawansowane opcje łączności. Dzięki Ford Co-Pilot360™ i opcjonalnej technologii BlueCruise do jazdy bez użycia rąk, Mach-E zapewnia bezpieczne i innowacyjne wrażenia z jazdy. Idealny dla świadomych ekologicznie kierowców, którzy szukają stylu i osiągów.",
+                "advantages": [
+                    "Imponujący zasięg i szybkie ładowanie",
+                    "Stylowy design z zaawansowaną łącznością",
+                    "Ford Co-Pilot360™ i technologia jazdy bez użycia rąk"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "elektryczny SUV",
+                    "osiągi",
+                    "szybkie ładowanie"
+                ]
+            },
+            "es": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Experimenta potencia y rendimiento eléctrico con el Ford Mustang Mach-E",
+                "description": "El Ford Mustang Mach-E combina el estilo icónico con tecnología eléctrica avanzada. Descubre un SUV diseñado para el rendimiento y la sostenibilidad.",
+                "text": "El Ford Mustang Mach-E es un SUV eléctrico revolucionario que combina el rendimiento y el espíritu del Mustang con tecnología eléctrica de vanguardia. Con una autonomía de hasta 482 km y capacidad de carga rápida, el Mach-E ofrece comodidad y confianza en la carretera. El interior es espacioso y moderno, con materiales premium, una pantalla táctil de 15.5 pulgadas con SYNC® 4A y opciones avanzadas de conectividad. Equipado con Ford Co-Pilot360™ y la opción de conducción manos libres BlueCruise, el Mach-E garantiza una experiencia de conducción segura e innovadora. Perfecto para conductores conscientes del medio ambiente que buscan estilo y rendimiento.",
+                "advantages": [
+                    "Impresionante autonomía y carga rápida",
+                    "Diseño elegante con conectividad avanzada",
+                    "Ford Co-Pilot360™ y tecnología de conducción manos libres"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "SUV eléctrico",
+                    "rendimiento",
+                    "carga rápida"
+                ]
+            },
+            "fr": {
+                "title": "Ford Mustang Mach-E",
+                "head": "Découvrez la puissance et les performances électriques avec le Ford Mustang Mach-E",
+                "description": "Le Ford Mustang Mach-E associe un style emblématique à une technologie électrique avancée. Découvrez un SUV conçu pour la performance et la durabilité.",
+                "text": "Le Ford Mustang Mach-E est un SUV électrique révolutionnaire qui combine les performances et l'esprit du Mustang avec une technologie électrique de pointe. Avec une autonomie allant jusqu'à 482 km et une capacité de recharge rapide, le Mach-E offre confort et confiance sur la route. L'intérieur est spacieux et moderne, avec des matériaux haut de gamme, un écran tactile de 15,5 pouces avec SYNC® 4A et des options de connectivité avancées. Équipé de Ford Co-Pilot360™ et de BlueCruise en option pour une conduite mains libres, le Mach-E garantit une expérience de conduite sûre et innovante. Parfait pour les conducteurs soucieux de l'environnement recherchant style et performance.",
+                "advantages": [
+                    "Autonomie impressionnante et recharge rapide",
+                    "Design élégant avec connectivité avancée",
+                    "Ford Co-Pilot360™ et technologie de conduite mains libres"
+                ],
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "SUV électrique",
+                    "performance",
+                    "recharge rapide"
+                ]
+            },
+            "zh": {
+                "title": "福特 Mustang Mach-E",
+                "head": "体验福特 Mustang Mach-E 的电动性能与创新",
+                "description": "福特 Mustang Mach-E 将标志性风格与先进电动技术相结合。探索专为性能和可持续性设计的 SUV。",
+                "text": "福特 Mustang Mach-E 是一款突破性的电动 SUV，将 Mustang 的性能与精神与尖端电动技术融为一体。续航里程可达 482 公里，具备快速充电功能，Mach-E 提供了道路上的便利与信心。内饰宽敞现代，采用优质材料，配备 15.5 英寸触摸屏搭载 SYNC® 4A 和先进的连接选项。搭载 Ford Co-Pilot360™ 和可选 BlueCruise 无手驾驶技术，Mach-E 确保安全且创新的驾驶体验。适合追求风格与性能的环保车主。",
+                "advantages": [
+                    "令人印象深刻的续航和快速充电",
+                    "时尚设计与高级连接",
+                    "Ford Co-Pilot360™ 和无手驾驶技术"
+                ],
+                "keywords": [
+                    "福特",
+                    "Mustang Mach-E",
+                    "电动 SUV",
+                    "性能",
+                    "快速充电"
+                ]
             }
         }
     ]

@@ -173,150 +173,155 @@
             }
         },
         {
-            "slug": "challenger",
+            "slug": "dodge-challenger",
+            "competitors": [
+                "Ford Mustang",
+                "Chevrolet Camaro",
+                "Nissan Z"
+            ],
             "en": {
                 "title": "Dodge Challenger",
-                "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
+                "head": "Unleash Iconic Power and Style with the Dodge Challenger",
+                "description": "The Dodge Challenger delivers legendary muscle car performance with modern technology and timeless design. Discover a car built for speed and style.",
+                "text": "The Dodge Challenger is a muscle car icon, offering unmatched performance and bold styling. With a variety of powerful engine options, including the Supercharged 6.2L HEMI® V8, it delivers exceptional horsepower and acceleration. The Challenger's spacious interior combines retro-inspired design with modern technology, featuring a customizable 8.4-inch Uconnect® touchscreen and advanced driver assistance features. Whether on the track or the open road, the Dodge Challenger ensures a thrilling and comfortable ride, making it perfect for those who crave power and presence.",
+                "advantages": [
+                    "Powerful engine options, including supercharged variants",
+                    "Iconic design with a modern twist",
+                    "Spacious interior with advanced technology"
+                ],
                 "keywords": [
                     "Dodge",
                     "Challenger",
-                    "car",
-                    "luxury",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Dodge Challenger",
-                "description": "Dodge Challenger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Dodge",
-                    "Challenger",
-                    "автомобиль",
-                    "роскошь",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Dodge Challenger",
-                "description": "Dodge Challenger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Dodge",
-                    "Challenger",
-                    "автомобіль",
-                    "розкіш",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Dodge Challenger",
-                "description": "Dodge Challenger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Dodge",
-                    "Challenger",
-                    "samochód",
-                    "luksus",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "muscle car",
+                    "performance",
+                    "supercharged"
+                ]
             },
             "de": {
                 "title": "Dodge Challenger",
-                "description": "Dodge Challenger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "head": "Erleben Sie ikonische Kraft und Stil mit dem Dodge Challenger",
+                "description": "Der Dodge Challenger bietet legendäre Muscle-Car-Performance mit moderner Technologie und zeitlosem Design. Entdecken Sie ein Auto, das für Geschwindigkeit und Stil gebaut wurde.",
+                "text": "Der Dodge Challenger ist eine Muscle-Car-Ikone, die unvergleichliche Leistung und ein markantes Design bietet. Mit einer Vielzahl leistungsstarker Motoren, darunter der aufgeladene 6,2L HEMI® V8, liefert er außergewöhnliche PS und Beschleunigung. Das geräumige Interieur des Challengers kombiniert retro-inspiriertes Design mit moderner Technologie, einschließlich eines anpassbaren 8,4-Zoll-Uconnect®-Touchscreens und fortschrittlicher Fahrerassistenzfunktionen. Ob auf der Rennstrecke oder auf der Straße – der Dodge Challenger sorgt für ein aufregendes und komfortables Fahrerlebnis und ist perfekt für alle, die Kraft und Präsenz lieben.",
+                "advantages": [
+                    "Leistungsstarke Motoroptionen, einschließlich aufgeladener Varianten",
+                    "Ikonisches Design mit modernem Touch",
+                    "Geräumiges Interieur mit fortschrittlicher Technologie"
+                ],
                 "keywords": [
                     "Dodge",
                     "Challenger",
-                    "Auto",
-                    "Luxus",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "Muscle-Car",
+                    "Leistung",
+                    "aufgeladen"
+                ]
             },
-            "be": {
+            "ru": {
                 "title": "Dodge Challenger",
-                "description": "Dodge Challenger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Освободите легендарную мощь и стиль с Dodge Challenger",
+                "description": "Dodge Challenger предлагает легендарную производительность muscle-car с современной технологией и вечным дизайном. Откройте для себя автомобиль, созданный для скорости и стиля.",
+                "text": "Dodge Challenger — это икона muscle-car, предлагающая непревзойденную производительность и смелый стиль. Благодаря разнообразию мощных двигателей, включая наддувные варианты 6,2L HEMI® V8, он обеспечивает исключительную мощность и ускорение. Просторный салон Challenger сочетает в себе ретро-дизайн с современной технологией, включая настраиваемый 8,4-дюймовый сенсорный экран Uconnect® и передовые функции помощи водителю. Независимо от того, на треке или на открытой дороге, Dodge Challenger обеспечивает захватывающую и комфортную поездку, идеальную для тех, кто стремится к мощности и престижу.",
+                "advantages": [
+                    "Мощные двигатели, включая наддувные варианты",
+                    "Иконичный дизайн с современным акцентом",
+                    "Просторный интерьер с современной технологией"
+                ],
                 "keywords": [
                     "Dodge",
                     "Challenger",
-                    "аўтамабіль",
-                    "раскоша",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
+                    "muscle car",
+                    "производительность",
+                    "наддув"
+                ]
+            },
+            "ua": {
+                "title": "Dodge Challenger",
+                "head": "Відчуйте легендарну потужність та стиль із Dodge Challenger",
+                "description": "Dodge Challenger забезпечує легендарну продуктивність muscle-car із сучасними технологіями та позачасовим дизайном. Дізнайтеся про авто, створене для швидкості та стилю.",
+                "text": "Dodge Challenger — це ікона muscle-car, що пропонує неперевершену потужність та сміливий стиль. Завдяки широкому вибору потужних двигунів, включаючи 6,2L HEMI® V8 із наддувом, він забезпечує виняткову потужність та прискорення. Просторий салон Challenger поєднує ретро-дизайн із сучасними технологіями, такими як налаштовуваний 8,4-дюймовий сенсорний екран Uconnect® і передові функції допомоги водію. Незалежно від того, чи це трек, чи відкриті дороги, Dodge Challenger забезпечує захоплюючу та комфортну їзду, ідеальну для тих, хто прагне потужності та престижу.",
+                "advantages": [
+                    "Потужні двигуни, включаючи наддувні варіанти",
+                    "Іконічний дизайн із сучасним акцентом",
+                    "Просторий інтер'єр із сучасними технологіями"
                 ],
-                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "muscle car",
+                    "продуктивність",
+                    "наддувний"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Challenger",
+                "head": "Doświadcz legendarnej mocy i stylu z Dodge Challenger",
+                "description": "Dodge Challenger oferuje legendarną wydajność muscle-car z nowoczesną technologią i ponadczasowym designem. Poznaj samochód stworzony do prędkości i stylu.",
+                "text": "Dodge Challenger to ikona muscle-car, oferująca niezrównane osiągi i odważny styl. Dzięki szerokiej gamie potężnych silników, w tym doładowanego 6,2L HEMI® V8, zapewnia wyjątkową moc i przyspieszenie. Przestronne wnętrze Challengera łączy retro-inspirowany design z nowoczesną technologią, taką jak konfigurowalny 8,4-calowy ekran dotykowy Uconnect® oraz zaawansowane funkcje wspomagania kierowcy. Niezależnie od tego, czy jesteś na torze, czy na otwartej drodze, Dodge Challenger gwarantuje ekscytującą i komfortową jazdę, idealną dla tych, którzy pragną mocy i stylu.",
+                "advantages": [
+                    "Mocne silniki, w tym doładowane warianty",
+                    "Ikoniczny design z nowoczesnym akcentem",
+                    "Przestronne wnętrze z zaawansowaną technologią"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "muscle car",
+                    "osiągi",
+                    "doładowany"
+                ]
             },
             "es": {
                 "title": "Dodge Challenger",
-                "description": "Dodge Challenger es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "head": "Desata el poder y estilo icónicos con el Dodge Challenger",
+                "description": "El Dodge Challenger ofrece un rendimiento legendario de muscle car con tecnología moderna y diseño atemporal. Descubre un auto hecho para la velocidad y el estilo.",
+                "text": "El Dodge Challenger es un ícono de los muscle cars, que ofrece un rendimiento inigualable y un diseño audaz. Con una variedad de opciones de motores potentes, incluido el Supercharged 6.2L HEMI® V8, entrega una potencia y aceleración excepcionales. El interior espacioso del Challenger combina un diseño inspirado en lo retro con tecnología moderna, como la pantalla táctil personalizable Uconnect® de 8.4 pulgadas y funciones avanzadas de asistencia al conductor. Ya sea en la pista o en la carretera, el Dodge Challenger asegura una experiencia de conducción emocionante y cómoda, ideal para aquellos que buscan potencia y presencia.",
+                "advantages": [
+                    "Opciones de motores potentes, incluyendo variantes sobrealimentadas",
+                    "Diseño icónico con un toque moderno",
+                    "Interior espacioso con tecnología avanzada"
+                ],
                 "keywords": [
                     "Dodge",
                     "Challenger",
-                    "coche",
-                    "lujo",
-                    "rendimiento del challenger",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Dodge Challenger destaca como una elección excepcional en su categoría. Conocido por sus características de firma del challenger, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Dodge Challenger",
-                "description": "Dodge Challenger 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Dodge",
-                    "Challenger",
-                    "汽车",
-                    "豪华",
-                    "challenger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "Dodge Challenger 在其类别中脱颖而出，是一个卓越的选择。以其 challenger 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+                    "muscle car",
+                    "rendimiento",
+                    "sobrealimentado"
+                ]
             },
             "fr": {
                 "title": "Dodge Challenger",
-                "description": "Dodge Challenger est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "head": "Découvrez la puissance et le style emblématiques avec le Dodge Challenger",
+                "description": "Le Dodge Challenger offre des performances légendaires de muscle car avec une technologie moderne et un design intemporel. Découvrez une voiture conçue pour la vitesse et le style.",
+                "text": "Le Dodge Challenger est une icône des muscle cars, offrant des performances inégalées et un style audacieux. Avec une gamme de moteurs puissants, y compris le V8 HEMI® 6,2L suralimenté, il délivre une puissance et une accélération exceptionnelles. L'intérieur spacieux du Challenger allie un design rétro-inspiré à une technologie moderne, avec un écran tactile Uconnect® de 8,4 pouces personnalisable et des fonctionnalités avancées d'assistance au conducteur. Que ce soit sur la piste ou sur la route, le Dodge Challenger garantit une expérience de conduite excitante et confortable, parfaite pour ceux qui recherchent puissance et présence.",
+                "advantages": [
+                    "Options de moteurs puissants, y compris des variantes suralimentées",
+                    "Design emblématique avec une touche moderne",
+                    "Intérieur spacieux avec technologie avancée"
+                ],
                 "keywords": [
                     "Dodge",
                     "Challenger",
-                    "voiture",
-                    "luxe",
-                    "performance du challenger",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
+                    "muscle car",
+                    "performance",
+                    "suralimenté"
+                ]
+            },
+            "zh": {
+                "title": "道奇 Challenger",
+                "head": "体验道奇 Challenger 的标志性力量与风格",
+                "description": "道奇 Challenger 将经典的肌肉车性能与现代技术和永恒设计相结合。探索专为速度与风格打造的车型。",
+                "text": "道奇 Challenger 是肌肉车的标志性车型，提供无与伦比的性能和大胆的设计。拥有多种强劲发动机选择，包括超级增压 6.2L HEMI® V8，带来卓越的马力和加速性能。Challenger 宽敞的内饰融合复古风格与现代技术，配备可定制的 8.4 英寸 Uconnect® 触摸屏和先进的驾驶辅助功能。无论是在赛道上还是公路上，道奇 Challenger 都能确保刺激与舒适兼备的驾驶体验，是追求力量与个性车主的理想选择。",
+                "advantages": [
+                    "强劲发动机选项，包括超级增压型号",
+                    "标志性设计结合现代元素",
+                    "宽敞内饰与先进技术"
                 ],
-                "text": "La Dodge Challenger se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du challenger, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+                "keywords": [
+                    "道奇",
+                    "Challenger",
+                    "肌肉车",
+                    "性能",
+                    "超级增压"
+                ]
             }
         },
         {
@@ -464,6 +469,140 @@
                     "efficacité optimale"
                 ],
                 "text": "La Dodge Durango se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du durango, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "ram-1500",
+            "competitors": [
+                "Ford F-150",
+                "Chevrolet Silverado",
+                "Toyota Tundra"
+            ],
+            "en": {
+                "title": "Ram 1500",
+                "head": "Unleash Power and Luxury with the Ram 1500 Pickup Truck",
+                "description": "The Ram 1500 combines strength, innovation, and luxury for a pickup truck that excels at both work and leisure. Discover its unmatched capabilities.",
+                "text": "The Ram 1500 is a full-size pickup truck designed for strength, comfort, and versatility. With a range of powerful engine options, including the available 5.7L HEMI® V8 with eTorque, it delivers exceptional towing and payload capacities. The interior is spacious and luxurious, featuring premium materials, advanced technology like the Uconnect® 5 infotainment system, and a class-leading 12-inch touchscreen. Equipped with innovative safety features such as adaptive cruise control and lane-keeping assist, the Ram 1500 offers confidence on every drive. Whether on the job or exploring off-road, the Ram 1500 is built to perform.",
+                "advantages": [
+                    "Exceptional towing and payload capacities",
+                    "Luxurious interior with advanced technology",
+                    "Innovative safety features"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "pickup truck",
+                    "towing capacity",
+                    "luxury"
+                ]
+            },
+            "de": {
+                "title": "Ram 1500",
+                "head": "Erleben Sie Kraft und Luxus mit dem Ram 1500 Pickup",
+                "description": "Der Ram 1500 vereint Stärke, Innovation und Luxus in einem Pickup, der sowohl bei der Arbeit als auch in der Freizeit überzeugt. Entdecken Sie seine unvergleichlichen Fähigkeiten.",
+                "text": "Der Ram 1500 ist ein Full-Size-Pickup, der für Stärke, Komfort und Vielseitigkeit entwickelt wurde. Mit einer Reihe leistungsstarker Motoren, einschließlich des 5,7L HEMI® V8 mit eTorque, bietet er beeindruckende Anhängelast und Nutzlast. Das Interieur ist geräumig und luxuriös, ausgestattet mit hochwertigen Materialien, moderner Technologie wie dem Uconnect® 5-Infotainmentsystem und einem branchenführenden 12-Zoll-Touchscreen. Mit innovativen Sicherheitsfunktionen wie adaptiver Geschwindigkeitsregelung und Spurhalteassistent bietet der Ram 1500 Sicherheit und Komfort bei jeder Fahrt. Ob bei der Arbeit oder im Gelände – der Ram 1500 ist für Höchstleistungen gebaut.",
+                "advantages": [
+                    "Beeindruckende Anhängelast und Nutzlast",
+                    "Luxuriöses Interieur mit fortschrittlicher Technologie",
+                    "Innovative Sicherheitsfunktionen"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "Pickup",
+                    "Anhängerlast",
+                    "Luxus"
+                ]
+            },
+            "ua": {
+                "title": "Ram 1500",
+                "head": "Відчуйте потужність і розкіш із пікапом Ram 1500",
+                "description": "Ram 1500 поєднує силу, інновації та розкіш, створюючи пікап, який ідеально підходить як для роботи, так і для відпочинку. Дізнайтеся про його унікальні можливості.",
+                "text": "Ram 1500 — це повнорозмірний пікап, розроблений для міцності, комфорту та універсальності. Завдяки потужним двигунам, включаючи 5,7L HEMI® V8 із системою eTorque, він забезпечує вражаючі буксирну здатність та вантажопідйомність. Інтер'єр просторий і розкішний, оснащений преміальними матеріалами, сучасними технологіями, такими як інформаційно-розважальна система Uconnect® 5, та провідним у класі 12-дюймовим сенсорним екраном. З інноваційними функціями безпеки, такими як адаптивний круїз-контроль та система утримання смуги руху, Ram 1500 забезпечує впевненість під час кожної подорожі. Незалежно від того, чи це робота, чи пригоди, Ram 1500 створений для досягнення найкращих результатів.",
+                "advantages": [
+                    "Вражаюча буксирна здатність та вантажопідйомність",
+                    "Розкішний інтер'єр із сучасними технологіями",
+                    "Інноваційні функції безпеки"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "пікап",
+                    "буксирування",
+                    "розкіш"
+                ]
+            },
+            "pl": {
+                "title": "Ram 1500",
+                "head": "Poczuj moc i luksus z pickupem Ram 1500",
+                "description": "Ram 1500 łączy w sobie siłę, innowacje i luksus, tworząc pickup idealny zarówno do pracy, jak i do wypoczynku. Poznaj jego niezwykłe możliwości.",
+                "text": "Ram 1500 to pełnowymiarowy pickup zaprojektowany z myślą o wytrzymałości, komforcie i wszechstronności. Dzięki potężnym silnikom, w tym 5,7L HEMI® V8 z systemem eTorque, oferuje imponującą zdolność holowania i ładowność. Wnętrze jest przestronne i luksusowe, wyposażone w materiały najwyższej jakości, nowoczesną technologię, taką jak system multimedialny Uconnect® 5, oraz wiodący w klasie 12-calowy ekran dotykowy. Z innowacyjnymi funkcjami bezpieczeństwa, takimi jak adaptacyjny tempomat i asystent pasa ruchu, Ram 1500 zapewnia bezpieczeństwo i komfort podczas każdej podróży. Niezależnie od wyzwań, Ram 1500 jest stworzony do najwyższej wydajności.",
+                "advantages": [
+                    "Imponujące możliwości holowania i ładowności",
+                    "Luksusowe wnętrze z zaawansowaną technologią",
+                    "Innowacyjne funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "pickup",
+                    "holowanie",
+                    "luksus"
+                ]
+            },
+            "es": {
+                "title": "Ram 1500",
+                "head": "Descubre potencia y lujo con la Ram 1500",
+                "description": "La Ram 1500 combina fuerza, innovación y lujo para crear una pickup que sobresale tanto en el trabajo como en el ocio. Descubre sus capacidades incomparables.",
+                "text": "La Ram 1500 es una pickup de tamaño completo diseñada para la fuerza, el confort y la versatilidad. Con una gama de motores potentes, incluido el 5.7L HEMI® V8 con eTorque, ofrece capacidades de remolque y carga impresionantes. Su interior es espacioso y lujoso, con materiales de alta calidad, tecnología avanzada como el sistema de infoentretenimiento Uconnect® 5 y una pantalla táctil de 12 pulgadas, líder en su clase. Equipada con funciones de seguridad innovadoras como control de crucero adaptativo y asistente de mantenimiento de carril, la Ram 1500 proporciona confianza en cada trayecto. Ya sea para trabajar o explorar, la Ram 1500 está diseñada para rendir.",
+                "advantages": [
+                    "Impresionante capacidad de remolque y carga útil",
+                    "Interior lujoso con tecnología avanzada",
+                    "Funciones de seguridad innovadoras"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "pickup",
+                    "capacidad de remolque",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "Ram 1500",
+                "head": "Découvrez la puissance et le luxe avec le Ram 1500",
+                "description": "Le Ram 1500 allie force, innovation et luxe pour créer un pickup performant tant pour le travail que pour les loisirs. Découvrez ses capacités inégalées.",
+                "text": "Le Ram 1500 est un pickup pleine grandeur conçu pour la force, le confort et la polyvalence. Avec une gamme de moteurs puissants, y compris le 5.7L HEMI® V8 avec eTorque, il offre des capacités de remorquage et de charge impressionnantes. Son intérieur est spacieux et luxueux, doté de matériaux haut de gamme, de technologies avancées telles que le système d'infodivertissement Uconnect® 5 et d'un écran tactile de 12 pouces, leader dans sa catégorie. Équipé de fonctionnalités de sécurité innovantes telles que le régulateur de vitesse adaptatif et l'assistance au maintien dans la voie, le Ram 1500 garantit confiance et confort à chaque trajet. Que ce soit pour le travail ou l'exploration, le Ram 1500 est conçu pour exceller.",
+                "advantages": [
+                    "Capacité de remorquage et de charge impressionnante",
+                    "Intérieur luxueux avec technologie avancée",
+                    "Fonctionnalités de sécurité innovantes"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "pickup",
+                    "remorquage",
+                    "luxe"
+                ]
+            },
+            "zh": {
+                "title": "Ram 1500",
+                "head": "体验 Ram 1500 的强大与奢华",
+                "description": "Ram 1500 将力量、创新与奢华结合，打造一款在工作与休闲中均表现出色的皮卡。探索其卓越性能。",
+                "text": "Ram 1500 是一款全尺寸皮卡，专为强大、舒适与多功能而设计。配备多种强劲发动机，包括 5.7L HEMI® V8 搭载 eTorque 系统，提供卓越的拖曳与载重能力。内饰宽敞豪华，采用高端材料，配备先进技术，如 Uconnect® 5 信息娱乐系统和同级领先的 12 英寸触摸屏。搭载创新安全功能，如自适应巡航控制和车道保持辅助，Ram 1500 在每次旅程中都能带来信心与舒适。无论是工作还是探险，Ram 1500 都为卓越性能而生。",
+                "advantages": [
+                    "卓越的拖曳与载重能力",
+                    "豪华内饰与先进技术",
+                    "创新的安全功能"
+                ],
+                "keywords": [
+                    "Ram",
+                    "1500",
+                    "皮卡",
+                    "拖曳能力",
+                    "奢华"
+                ]
             }
         }
     ]
