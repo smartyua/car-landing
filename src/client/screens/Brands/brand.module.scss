@@ -68,6 +68,13 @@
   background-image: url('/src/client/assets/img/tesla-lineup.jpg');
 }
 
+.headLexus {
+  @extend .headImage;
+
+  min-height: 500px !important;
+  background-image: url('/src/client/assets/img/lexus-lineup.jpg');
+}
+
 .headMustang {
   @extend .headImage;
 
