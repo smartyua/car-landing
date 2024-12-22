@@ -39,54 +39,67 @@ const Footer = (): any => {
   const matrix = Array.from({ length: rows }, () => Array(cols).fill(null));
   let index = 0;
 
+  const colsCells = [];
+
   for (let col = 0; col < cols; col++) {
+    if (!colsCells[col]) {
+      colsCells[col] = [];
+    }
+
     for (let row = 0; row < rows; row++) {
       if (index < globalSEOKeys.length) {
         matrix[row][col] = globalSEOKeys[index] || null;
+        // eslint-disable-next-line max-depth
+        if (matrix[row][col]) {
+          colsCells[col].push(matrix[row][col]);
+        }
+
         index++;
       }
     }
   }
 
+  console.log(colsCells);
+
   return (
     <div className={styles.footer}>
       <div className={styles.content}>
         <div className={styles.brands}>
-          <div className={styles.list}>
-            {matrix
-              .filter(x => !!x)
-              .map((row, i) => (
-                <div key={i} className={styles.row}>
-                  {row.map((brand, j) => {
-                    if (!brand) {
-                      return null;
-                    }
+          <div className={styles.table}>
+            {colsCells.map(brands => (
+              <div key={brands.join('')} className={styles.column}>
+                {brands.map((brand, j) => {
+                  if (!brand) {
+                    return null;
+                  }
 
-                    const { models } = globalSEO[brand];
-                    const modelsText = models
-                      .map(x =>
-                        x[language] && x[language].title
-                          ? x[language].title
-                          : null
-                      )
-                      .filter(x => !!x);
+                  const { models } = globalSEO[brand] || [];
+                  const modelsText = models
+                    // $FlowFixMe
+                    .map(x =>
+                      x[language] && x[language].title
+                        ? x[language].title
+                        : null
+                    )
+                    // $FlowFixMe
+                    .filter(x => !!x);
 
-                    const link = `/${language}/${globalSEO[brand].slug}`;
-                    return (
-                      <div key={j} className={styles.brand}>
-                        <div className={styles.brandTitle}>
-                          <Link to={link} onClick={handleScrollClick}>
-                            {globalSEO[brand].title}
-                          </Link>
-                        </div>
-                        <div className={styles.models}>
-                          {modelsText.join(', ')}
-                        </div>
+                  const link = `/${language}/${globalSEO[brand].slug}`;
+                  return (
+                    <div key={j} className={styles.brand}>
+                      <div className={styles.brandTitle}>
+                        <Link to={link} onClick={handleScrollClick}>
+                          {globalSEO[brand].title}
+                        </Link>
                       </div>
-                    );
-                  })}
-                </div>
-              ))}
+                      <div className={styles.models}>
+                        {modelsText.join(', ')}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            ))}
           </div>
         </div>
 
