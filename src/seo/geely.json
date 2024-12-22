@@ -1,0 +1,249 @@
+{
+    "title": "Geely Electric Vehicles",
+    "headTitle": {
+        "en": "Geely | Premium Electric Vehicles",
+        "ru": "Geely | Премиальные электромобили",
+        "ua": "Geely | Преміальні електромобілі",
+        "pl": "Geely | Samochody elektryczne premium",
+        "de": "Geely | Premium-Elektrofahrzeuge",
+        "be": "Geely | Прэміяльныя электрамабілі",
+        "es": "Geely | Vehículos eléctricos premium",
+        "zh": "Geely | 高端电动车",
+        "fr": "Geely | Véhicules électriques premium"
+    },
+    "description": {
+        "en": "Geely offers a wide range of electric and hybrid vehicles, combining affordability with innovation.",
+        "ru": "Geely предлагает широкий выбор электрических и гибридных автомобилей, сочетая доступность с инновациями.",
+        "ua": "Geely пропонує широкий вибір електричних та гібридних автомобілів, поєднуючи доступність з інноваціями.",
+        "pl": "Geely oferuje szeroką gamę pojazdów elektrycznych i hybrydowych, łącząc przystępność cenową z innowacjami.",
+        "de": "Geely bietet eine breite Palette von Elektro- und Hybridfahrzeugen, die Erschwinglichkeit mit Innovation verbinden.",
+        "be": "Geely прапануе шырокі выбар электрычных і гібрыдных аўтамабіляў, якія паўноцца спалучаюць даступнасць з інавацыямі.",
+        "es": "Geely ofrece una amplia gama de vehículos eléctricos e híbridos, combinando asequibilidad con innovación.",
+        "zh": "吉利提供各种电动和混合动力车型，将实惠与创新相结合。",
+        "fr": "Geely propose une large gamme de véhicules électriques et hybrides, alliant accessibilité et innovation."
+    },
+    "models": [
+        {
+            "slug": "geely-geometry-a",
+            "en": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "ru": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "ua": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "pl": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "de": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "be": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "es": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            },
+            "zh": {
+                "title": "吉利几何A",
+                "description": "一款注重效率和经济性的中型电动轿车。",
+                "keywords": [
+                    "吉利",
+                    "几何A",
+                    "电动轿车",
+                    "高效",
+                    "经济实惠"
+                ],
+                "text": "吉利几何A是现代驾驶者的环保且经济实惠的选择。"
+            },
+            "fr": {
+                "title": "Geely Geometry A",
+                "description": "A mid-size electric sedan focused on efficiency and affordability.",
+                "keywords": [
+                    "Geely",
+                    "Geometry A",
+                    "electric sedan",
+                    "efficient",
+                    "affordable"
+                ],
+                "text": "Geely Geometry A is an eco-friendly and cost-effective choice for modern drivers."
+            }
+        },
+        {
+            "slug": "geely-emgrand-ev",
+            "en": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "ru": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "ua": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "pl": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "de": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "be": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "es": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            },
+            "zh": {
+                "title": "吉利帝豪EV",
+                "description": "帝豪的电动版本，提供卓越的价值和性能。",
+                "keywords": [
+                    "吉利",
+                    "帝豪EV",
+                    "电动车",
+                    "价值",
+                    "性能"
+                ],
+                "text": "吉利帝豪EV结合了值得信赖的帝豪设计和电动效率。"
+            },
+            "fr": {
+                "title": "Geely Emgrand EV",
+                "description": "An electric version of the popular Emgrand, offering excellent value and performance.",
+                "keywords": [
+                    "Geely",
+                    "Emgrand EV",
+                    "electric car",
+                    "value",
+                    "performance"
+                ],
+                "text": "The Geely Emgrand EV combines the trusted Emgrand design with electric efficiency."
+            }
+        }
+    ]
+}

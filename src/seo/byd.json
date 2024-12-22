@@ -1,0 +1,249 @@
+{
+    "title": "BYD",
+    "headTitle": {
+        "en": "BYD Electric Vehicles",
+        "be": "Электромабілі BYD",
+        "ua": "Електромобілі BYD",
+        "pl": "Samochody elektryczne BYD",
+        "de": "BYD Elektrofahrzeuge",
+        "ru": "Электромобили BYD",
+        "es": "Vehículos eléctricos BYD",
+        "zh": "比亚迪电动汽车",
+        "fr": "Véhicules électriques BYD"
+    },
+    "description": {
+        "en": "BYD is a global leader in electric vehicle production, known for its innovation and sustainability. With models like the BYD Han, BYD Tang, and BYD Dolphin, the brand offers something for everyone, from luxury sedans to practical compact cars.",
+        "be": "BYD - глабальны лідар у вытворчасці электрамабіляў, вядомы сваімі інавацыямі і сталым распрацоўкам. Благадары мадэлям, такім як BYD Han, BYD Tang і BYD Dolphin, брэнд прапануе нешта для кожнага, ад роскошных седанаў да практычных кампактных аўтамабіляў.",
+        "ua": "BYD є світовим лідером у виробництві електромобілів, відомим своїми інноваціями та сталим розвитком. Завдяки моделям, таким як BYD Han, BYD Tang та BYD Dolphin, бренд пропонує щось для кожного – від розкішних седанів до практичних компактних автомобілів.",
+        "pl": "BYD to globalny lider w produkcji pojazdów elektrycznych, znany z innowacji i zrównoważonego rozwoju. Dzięki modelom takim jak BYD Han, BYD Tang i BYD Dolphin marka oferuje coś dla każdego, od luksusowych limuzyn po praktyczne kompaktowe samochody.",
+        "de": "BYD ist ein weltweit führender Hersteller von Elektrofahrzeugen, bekannt für Innovation und Nachhaltigkeit. Mit Modellen wie dem BYD Han, BYD Tang und BYD Dolphin bietet die Marke für jeden etwas, von Luxuslimousinen bis hin zu praktischen Kompaktwagen.",
+        "ru": "BYD - мировой лидер в производстве электромобилей, известный своими инновациями и устойчивым развитием. Благодаря моделям, таким как BYD Han, BYD Tang и BYD Dolphin, бренд предлагает что-то для каждого, от роскошных седанов до практичных компактных автомобилей.",
+        "es": "BYD es un líder global en la producción de vehículos eléctricos, conocido por su innovación y sostenibilidad. Con modelos como el BYD Han, BYD Tang y BYD Dolphin, la marca ofrece algo para todos, desde sedanes de lujo hasta coches compactos prácticos.",
+        "zh": "比亚迪是全球电动汽车生产领域的领导者，以其创新和可持续性而闻名。凭借比亚迪汉、比亚迪唐和比亚迪海豚等车型，该品牌为每个人提供了适合的车型，从豪华轿车到实用紧凑型车。",
+        "fr": "BYD est un leader mondial de la production de véhicules électriques, connu pour son innovation et sa durabilité. Avec des modèles comme la BYD Han, la BYD Tang et la BYD Dolphin, la marque propose quelque chose pour tout le monde, des berlines de luxe aux voitures compactes pratiques."
+    },
+    "models": [
+        {
+            "slug": "byd-han",
+            "en": {
+                "title": "BYD Han (en)",
+                "description": "A luxury electric sedan with cutting-edge technology and exceptional range. (en)",
+                "keywords": [
+                    "BYD (en)",
+                    "Han (en)",
+                    "luxury sedan (en)",
+                    "long range (en)",
+                    "innovation (en)"
+                ],
+                "text": "The BYD Han redefines luxury in the electric vehicle space, offering unparalleled range, safety, and advanced features. (en)"
+            },
+            "be": {
+                "title": "BYD Хань",
+                "description": "Раскошны электрычны седан з перадавымі тэхналогіямі і выдатным запасам ходу.",
+                "keywords": [
+                    "BYD",
+                    "Хань",
+                    "раскошны седан",
+                    "доўгі запас ходу",
+                    "інавацыі"
+                ],
+                "text": "BYD Хань задае новую планку раскошы ў свеце электрамабіляў, прапануючы вялікі запас ходу, бяспеку і перадавыя функцыі."
+            },
+            "ua": {
+                "title": "BYD Han",
+                "description": "Розкішний електричний седан із передовими технологіями та винятковим запасом ходу.",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "розкішний седан",
+                    "довгий запас ходу",
+                    "інновації"
+                ],
+                "text": "BYD Han перевизначає розкіш у світі електромобілів, пропонуючи надзвичайний запас ходу, безпеку та передові функції."
+            },
+            "pl": {
+                "title": "BYD Han",
+                "description": "Luksusowy elektryczny sedan z nowoczesną technologią i imponującym zasięgiem.",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "luksusowy sedan",
+                    "duży zasięg",
+                    "innowacja"
+                ],
+                "text": "BYD Han redefiniuje pojęcie luksusu w dziedzinie pojazdów elektrycznych, zapewniając niezrównany zasięg, bezpieczeństwo i zaawansowane funkcje."
+            },
+            "de": {
+                "title": "BYD Han",
+                "description": "A luxury electric sedan with cutting-edge technology and exceptional range.",
+                "keywords": [
+                    "BYD",
+                    "Han (de)",
+                    "luxury sedan",
+                    "long range",
+                    "innovation"
+                ],
+                "text": "The BYD Han redefines luxury in the electric vehicle space, offering unparalleled range, safety, and advanced features."
+            },
+            "ru": {
+                "title": "BYD Han",
+                "description": "Роскошный электроседан с передовыми технологиями и выдающимся запасом хода.",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "роскошный седан",
+                    "большой запас хода",
+                    "инновации"
+                ],
+                "text": "BYD Han заново определяет роскошь в сфере электромобилей, предлагая непревзойденный запас хода, безопасность и передовые функции."
+            },
+            "es": {
+                "title": "BYD Han",
+                "description": "Un sedán eléctrico de lujo con tecnología de vanguardia y un rango excepcional.",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "sedán de lujo",
+                    "gran autonomía",
+                    "innovación"
+                ],
+                "text": "El BYD Han redefine el lujo en el espacio de los vehículos eléctricos, ofreciendo un rango, seguridad y características avanzadas sin igual."
+            },
+            "zh": {
+                "title": "BYD Han",
+                "description": "豪华电动轿车，配备尖端技术和出色续航里程。",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "豪华轿车",
+                    "长续航里程",
+                    "创新"
+                ],
+                "text": "BYD Han 在电动汽车领域重新定义了豪华，提供无与伦比的续航里程、安全性和先进功能。"
+            },
+            "fr": {
+                "title": "BYD Han",
+                "description": "Une berline électrique de luxe dotée de technologies de pointe et d'une autonomie exceptionnelle.",
+                "keywords": [
+                    "BYD",
+                    "Han",
+                    "berline de luxe",
+                    "grande autonomie",
+                    "innovation"
+                ],
+                "text": "La BYD Han redéfinit le luxe dans l'univers des véhicules électriques, offrant une autonomie, une sécurité et des fonctionnalités avancées inégalées."
+            }
+        },
+        {
+            "slug": "byd-tang",
+            "en": {
+                "title": "BYD Tang",
+                "description": "A spacious electric SUV designed for families and adventure seekers.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "electric SUV",
+                    "spacious",
+                    "family-friendly"
+                ],
+                "text": "The BYD Tang combines utility and style, making it the perfect choice for modern families."
+            },
+            "be": {
+                "title": "BYD Танг",
+                "description": "Прасторны электрычны кросавер, прызначаны для сямей і любіцеляў адпачынку.",
+                "keywords": [
+                    "BYD",
+                    "Танг",
+                    "электрычны кросавер",
+                    "прасторны",
+                    "дружэлюбны да сям'і"
+                ],
+                "text": "BYD Танг аб'ядноўвае карысць і стыль, што робіць яго ідэальным выбарам для сучасных сямей."
+            },
+            "ru": {
+                "title": "BYD Tang",
+                "description": "Просторный электрический внедорожник, разработанный для семей и любителей приключений.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "электрический внедорожник",
+                    "просторный",
+                    "подходит для семей"
+                ],
+                "text": "BYD Tang сочетает в себе утилитарность и стиль, что делает его идеальным выбором для современных семей."
+            },
+            "ua": {
+                "title": "BYD Tang",
+                "description": "Просторий електричний позашляховик, розроблений для сімей та любителів пригод.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "електричний позашляховик",
+                    "просторий",
+                    "сімейний"
+                ],
+                "text": "BYD Tang поєднує в собі утилітарність і стиль, що робить його ідеальним вибором для сучасних сімей."
+            },
+            "pl": {
+                "title": "BYD Tang",
+                "description": "Przestronny elektryczny SUV zaprojektowany dla rodzin i poszukiwaczy przygód.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "elektryczny SUV",
+                    "przestronny",
+                    "rodzinny"
+                ],
+                "text": "BYD Tang łączy w sobie funkcjonalność i styl, co czyni go idealnym wyborem dla nowoczesnych rodzin."
+            },
+            "de": {
+                "title": "BYD Tang",
+                "description": "A spacious electric SUV designed for families and adventure seekers.",
+                "keywords": [
+                    "BYD",
+                    "Tang (de)",
+                    "electric SUV",
+                    "spacious",
+                    "family-friendly"
+                ],
+                "text": "The BYD Tang combines utility and style, making it the perfect choice for modern families."
+            },
+            "es": {
+                "title": "BYD Tang",
+                "description": "Un espacioso SUV eléctrico diseñado para familias y amantes de la aventura.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "SUV eléctrico",
+                    "espacioso",
+                    "familiar"
+                ],
+                "text": "El BYD Tang combina utilidad y estilo, convirtiéndolo en la elección perfecta para las familias modernas."
+            },
+            "zh": {
+                "title": "BYD Tang",
+                "description": "宽敞的电动SUV，专为家庭和冒险者设计。",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "电动SUV",
+                    "宽敞",
+                    "适合家庭"
+                ],
+                "text": "BYD Tang 结合了实用性和风格，是现代家庭的完美选择。"
+            },
+            "fr": {
+                "title": "BYD Tang",
+                "description": "Un SUV électrique spacieux conçu pour les familles et les aventuriers.",
+                "keywords": [
+                    "BYD",
+                    "Tang",
+                    "SUV électrique",
+                    "spacieux",
+                    "familial"
+                ],
+                "text": "La BYD Tang allie utilité et style, en faisant le choix parfait pour les familles modernes."
+            }
+        }
+    ]
+}

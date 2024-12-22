@@ -6,7 +6,9 @@
         "ua": "Автомобілі Tesla на продаж на аукціонах автомобілів в США",
         "pl": "Samochody Tesla na sprzedaż na aukcjach samochodowych w USA",
         "de": "Tesla-Autos zu verkaufen bei US-Autoauktionen",
-        "be": "Аўтамабілі Tesla на продаж на аўкцыёнах аўтамабіляў у ЗША"
+        "be": "Аўтамабілі Tesla на продаж на аўкцыёнах аўтамабіляў у ЗША",
+        "es": "Coches Tesla a la venta en subastas de automóviles de EE. UU.",
+        "zh": "特斯拉汽车在美国拍卖销售"
     },
     "description": {
         "en": "Tesla is synonymous with innovation and sustainability, making it an exceptional choice at US used car auctions. With cutting-edge electric technology, models like the Model 3, Model S, and Model X offer impressive performance, long-range capabilities, and eco-friendly benefits. Tesla vehicles are increasingly popular among those seeking modern electric vehicles with advanced features and high resale value.",
@@ -14,7 +16,9 @@
         "ua": "Tesla асоціюється з інноваціями та стійкістю, що робить її чудовим вибором на аукціонах вживаних авто в США. З передовими електричними технологіями моделі, такі як Model 3, Model S та Model X, пропонують вражаючу продуктивність, велику дальність і екологічні переваги.",
         "pl": "Tesla kojarzy się z innowacjami i zrównoważonym rozwojem, co czyni ją doskonałym wyborem na amerykańskich aukcjach samochodów używanych. Dzięki nowoczesnym technologiom elektrycznym modele takie jak Model 3, Model S i Model X oferują imponującą wydajność, duży zasięg i korzyści ekologiczne.",
         "de": "Tesla ist gleichbedeutend mit Innovation und Nachhaltigkeit und damit eine ausgezeichnete Wahl bei US-Gebrauchtwagenauktionen. Mit fortschrittlicher Elektrotechnologie bieten Modelle wie Model 3, Model S und Model X beeindruckende Leistung, große Reichweiten und umweltfreundliche Vorteile.",
-        "be": "Tesla асацыюецца з інавацыямі і ўстойлівасцю, што робіць яе выдатным выбарам на аўкцыёнах ЗША. З перадавымі электрычнымі тэхналогіямі мадэлі, такія як Model 3, Model S і Model X, прапануюць уражлівую прадукцыйнасць, вялікую дальнабойнасць і экалагічныя перавагі."
+        "be": "Tesla асацыюецца з інавацыямі і ўстойлівасцю, што робіць яе выдатным выбарам на аўкцыёнах ЗША. З перадавымі электрычнымі тэхналогіямі мадэлі, такія як Model 3, Model S і Model X, прапануюць уражлівую прадукцыйнасць, вялікую дальнабойнасць і экалагічныя перавагі.",
+        "es": "Tesla es sinónimo de innovación y sostenibilidad, lo que la convierte en una elección excepcional en las subastas de autos usados en EE. UU. Con tecnología eléctrica de vanguardia, modelos como el Model 3, Model S y Model X ofrecen un rendimiento impresionante, capacidades de largo alcance y beneficios ecológicos.",
+        "zh": "特斯拉象征着创新与可持续性，使其成为美国二手车拍卖中的绝佳选择。凭借先进的电动车技术，Model 3、Model S 和 Model X 等车型提供卓越性能、长续航能力和环保优势。"
     },
     "models": [
         {
@@ -77,6 +81,26 @@
                     "Model 3",
                     "аўтамабіль",
                     "раскоша"
+                ]
+            },
+            "es": {
+                "title": "Tesla Model 3",
+                "description": "El Tesla Model 3 es un modelo de automóvil altamente calificado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "zh": {
+                "title": "特斯拉Model 3",
+                "description": "特斯拉Model 3是一款高评价的车型，提供卓越的性能和奢华体验。",
+                "keywords": [
+                    "特斯拉",
+                    "Model 3",
+                    "汽车",
+                    "豪华"
                 ]
             }
         },
@@ -141,6 +165,26 @@
                     "аўтамабіль",
                     "раскоша"
                 ]
+            },
+            "es": {
+                "title": "Tesla Model S",
+                "description": "El Tesla Model S es un modelo de automóvil altamente calificado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "zh": {
+                "title": "特斯拉Model S",
+                "description": "特斯拉Model S是一款高评价的车型，提供卓越的性能和奢华体验。",
+                "keywords": [
+                    "特斯拉",
+                    "Model S",
+                    "汽车",
+                    "豪华"
+                ]
             }
         },
         {
@@ -204,6 +248,26 @@
                     "аўтамабіль",
                     "раскоша"
                 ]
+            },
+            "es": {
+                "title": "Tesla Model X",
+                "description": "El Tesla Model X es un modelo de automóvil altamente calificado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "zh": {
+                "title": "特斯拉Model X",
+                "description": "特斯拉Model X是一款高评价的车型，提供卓越的性能和奢华体验。",
+                "keywords": [
+                    "特斯拉",
+                    "Model X",
+                    "汽车",
+                    "豪华"
+                ]
             }
         },
         {
@@ -266,6 +330,26 @@
                     "Model Y",
                     "аўтамабіль",
                     "раскоша"
+                ]
+            },
+            "es": {
+                "title": "Tesla Model Y",
+                "description": "El Tesla Model Y es un modelo de automóvil altamente calificado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "zh": {
+                "title": "特斯拉Model Y",
+                "description": "特斯拉Model Y是一款高评价的车型，提供卓越的性能和奢华体验。",
+                "keywords": [
+                    "特斯拉",
+                    "Model Y",
+                    "汽车",
+                    "豪华"
                 ]
             }
         }

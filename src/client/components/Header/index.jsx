@@ -15,7 +15,17 @@ import { languages } from '../../../config';
 import LogoIcon from '../../assets/img/logo.png';
 import Button from '../Button';
 
-import { Ukraine, Germany, Belarus, Poland, Russia, USA } from './flags';
+import {
+  Ukraine,
+  Germany,
+  Belarus,
+  Poland,
+  Russia,
+  USA,
+  China,
+  Spain,
+  France
+} from '../../../flags';
 
 const languageIcons = {
   en: USA,
@@ -23,7 +33,10 @@ const languageIcons = {
   de: Germany,
   pl: Poland,
   be: Belarus,
-  ru: Russia
+  ru: Russia,
+  es: Spain,
+  fr: France,
+  zh: China
 };
 
 const scrollOption = {
@@ -33,8 +46,6 @@ const scrollOption = {
 };
 
 const handleScrollClick = () => scroll.scrollToTop(scrollOption);
-
-// const languages = ['en', 'ua', 'de', 'pl'];
 
 const isServer = typeof window === 'undefined';
 
@@ -46,8 +57,6 @@ const Header = (props: any): any => {
   const wnd = isServer ? {} : window;
   const pathname =
     _.get(location, 'pathname') || _.get(wnd, 'location.pathname');
-  // let defaultStyle;
-  // let errorHeader;
 
   const { language } = useSelector(({ common: comm }: any) => comm);
   const currLanguage = languages.filter(lng => language === lng)[0] || 'en';

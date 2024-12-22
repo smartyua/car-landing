@@ -62,9 +62,15 @@ const Footer = (): any => {
                     }
 
                     const { models } = globalSEO[brand.slug];
-                    const modelsText = models.map(x => x[language].title);
+                    const modelsText = models
+                      .map(x =>
+                        x[language] && x[language].title
+                          ? x[language].title
+                          : null
+                      )
+                      .filter(x => !!x);
 
-                    const link = `/${language}/${brand.title.toLowerCase()}`;
+                    const link = `/${language}/${brand.slug}`;
                     return (
                       <div key={j} className={styles.brand}>
                         <div className={styles.brandTitle}>

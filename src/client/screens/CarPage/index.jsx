@@ -79,7 +79,8 @@ const CarScreen = (): any => {
         </Link>
         &nbsp;→&nbsp;{model.title}
         <h1>{model.title}</h1>
-        <div>{model.description}</div>
+        {!model.text && <div>{model.description}</div>}
+        {model.text && <div>{model.text}</div>}
       </Section>
     </section>
   );

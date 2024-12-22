@@ -1,0 +1,468 @@
+{
+    "title": "Dodge",
+    "headTitle": {
+        "en": "Dodge cars for sale at US car auctions",
+        "ru": "Автомобили Dodge на продажу на аукционах автомобилей в США",
+        "ua": "Автомобілі Dodge на продаж на аукціонах автомобілів в США",
+        "pl": "Samochody Dodge na sprzedaż na aukcjach samochodowych w USA",
+        "de": "Dodge-Autos zum Verkauf bei US-Autoauktionen",
+        "be": "Аўтамабілі Dodge на продаж на аўкцыёнах аўтамабіляў у ЗША",
+        "es": "Coches Dodge en venta en subastas de coches de EE. UU.",
+        "zh": "道奇汽车在美国汽车拍卖会上出售",
+        "fr": "Voitures Dodge à vendre aux enchères de voitures aux États-Unis"
+    },
+    "description": {
+        "en": "Dodge vehicles are a fantastic option for those exploring used car auctions in the US. Renowned for their powerful performance, bold designs, and versatility, Dodge offers a range of cars and SUVs that cater to drivers seeking excitement and reliability. From the iconic Dodge Charger to the spacious Durango SUV, these vehicles are built to last and deliver outstanding value for money. With a strong presence in the used car market, Dodge cars are a dependable choice for drivers looking for something extraordinary.",
+        "ru": "Автомобили Dodge являются отличным вариантом для тех, кто ищет подержанные автомобили на аукционах в США. Известные своей мощной производительностью, смелым дизайном и универсальностью, Dodge предлагает автомобили и внедорожники, которые подходят для водителей, стремящихся к эмоциям и надежности. От культового Dodge Charger до просторного внедорожника Durango — эти автомобили созданы, чтобы служить долго и предоставлять отличное соотношение цены и качества. Dodge — это надежный выбор для тех, кто ищет нечто особенное.",
+        "ua": "Автомобілі Dodge є чудовим варіантом для тих, хто шукає вживані автомобілі на аукціонах у США. Відомі своєю потужною продуктивністю, сміливим дизайном і універсальністю, Dodge пропонує автомобілі та позашляховики, які підходять водіям, що шукають емоції та надійність. Від культового Dodge Charger до просторого позашляховика Durango — ці автомобілі створені для довговічності та забезпечують відмінне співвідношення ціни та якості. Dodge — це надійний вибір для тих, хто шукає щось особливе.",
+        "pl": "Samochody Dodge to świetna opcja dla osób poszukujących używanych aut na aukcjach w USA. Znane z potężnych osiągów, odważnego designu i wszechstronności, Dodge oferuje gamę samochodów i SUV-ów, które zadowolą kierowców szukających emocji i niezawodności. Od kultowego Dodge Chargera po przestronnego SUV-a Durango, te pojazdy są trwałe i zapewniają doskonały stosunek jakości do ceny. Dodge to niezawodny wybór dla tych, którzy szukają czegoś niezwykłego.",
+        "de": "Dodge-Fahrzeuge sind eine hervorragende Option für diejenigen, die Gebrauchtwagenauktionen in den USA erkunden. Bekannt für ihre kraftvolle Leistung, mutige Designs und Vielseitigkeit bietet Dodge eine Reihe von Autos und SUVs, die Fahrern gerecht werden, die Aufregung und Zuverlässigkeit suchen. Vom kultigen Dodge Charger bis zum geräumigen Durango SUV sind diese Fahrzeuge langlebig und bieten ein ausgezeichnetes Preis-Leistungs-Verhältnis. Dodge ist eine zuverlässige Wahl für Fahrer, die etwas Besonderes suchen.",
+        "be": "Аўтамабілі Dodge з'яўляюцца выдатным выбарам для тых, хто шукае б/у аўтамабілі на аўкцыёнах у ЗША. Вядомыя сваёй магутнай прадукцыйнасцю, смелым дызайнам і універсальнасцю, Dodge прапануе аўтамабілі і пазадарожнікі, якія падыходзяць кіроўцам, якія шукаюць эмоцыі і надзейнасць. Ад культавага Dodge Charger да прасторнага пазадарожніка Durango — гэтыя аўтамабілі створаны для даўгавечнасці і забяспечваюць выдатнае суадносіны кошту і якасці. Dodge — гэта надзейны выбар для тых, хто шукае нешта незвычайнае.",
+        "es": "Los vehículos Dodge son una opción fantástica para aquellos que exploran subastas de coches usados en EE. UU. Renombrados por su potente rendimiento, diseños audaces y versatilidad, Dodge ofrece una gama de coches y SUV que satisfacen a los conductores que buscan emoción y fiabilidad. Desde el icónico Dodge Charger hasta el espacioso SUV Durango, estos vehículos están diseñados para durar y ofrecer un valor excepcional. Con una fuerte presencia en el mercado de coches usados, los coches Dodge son una elección fiable para los conductores que buscan algo extraordinario.",
+        "zh": "道奇汽车是探索美国二手车拍卖会的绝佳选择。道奇以强大的性能、大胆的设计和多功能性而闻名，提供了一系列汽车和SUV，满足寻求刺激和可靠性的驾驶员。从标志性的道奇Charger到宽敞的Durango SUV，这些车辆经久耐用，性价比出色。在二手车市场上占有一席之地，道奇汽车是寻找非凡之物的驾驶员的可靠选择。",
+        "fr": "Les véhicules Dodge sont une option fantastique pour ceux qui explorent les enchères de voitures d'occasion aux États-Unis. Réputée pour ses performances puissantes, ses designs audacieux et sa polyvalence, Dodge propose une gamme de voitures et de SUV qui répondent aux attentes des conducteurs en quête"
+    },
+    "models": [
+        {
+            "slug": "charger",
+            "en": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "car",
+                    "luxury",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "автомобиль",
+                    "роскошь",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "автомобіль",
+                    "розкіш",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "samochód",
+                    "luksus",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "Auto",
+                    "Luxus",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "аўтамабіль",
+                    "раскоша",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "coche",
+                    "lujo",
+                    "rendimiento del cargador",
+                    "características de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Dodge Charger destaca como una elección excepcional en su categoría. Conocido por sus características de firma del cargador, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "汽车",
+                    "豪华",
+                    "charger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "Dodge Charger 在其类别中脱颖而出，是一个卓越的选择。以其 charger 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Dodge Charger",
+                "description": "Dodge Charger est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "voiture",
+                    "luxe",
+                    "charger performance",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Dodge Charger se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du chargeur, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "challenger",
+            "en": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "car",
+                    "luxury",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "автомобиль",
+                    "роскошь",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "автомобіль",
+                    "розкіш",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "samochód",
+                    "luksus",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "Auto",
+                    "Luxus",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "аўтамабіль",
+                    "раскоша",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Challenger stands out as an exceptional choice in its category. Known for its challenger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "coche",
+                    "lujo",
+                    "rendimiento del challenger",
+                    "características de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Dodge Challenger destaca como una elección excepcional en su categoría. Conocido por sus características de firma del challenger, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "汽车",
+                    "豪华",
+                    "challenger performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "Dodge Challenger 在其类别中脱颖而出，是一个卓越的选择。以其 challenger 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Dodge Challenger",
+                "description": "Dodge Challenger est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Dodge",
+                    "Challenger",
+                    "voiture",
+                    "luxe",
+                    "performance du challenger",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Dodge Challenger se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du challenger, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "durango",
+            "en": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "car",
+                    "luxury",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "автомобиль",
+                    "роскошь",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "автомобіль",
+                    "розкіш",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "samochód",
+                    "luksus",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "Auto",
+                    "Luxus",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "аўтамабіль",
+                    "раскоша",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "coche",
+                    "lujo",
+                    "rendimiento del durango",
+                    "características de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Dodge Durango destaca como una elección excepcional en su categoría. Conocido por sus características de firma del durango, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "汽车",
+                    "豪华",
+                    "durango performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "Dodge Durango 在其类别中脱颖而出，是一个卓越的选择。以其 durango 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Dodge Durango",
+                "description": "Dodge Durango est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "voiture",
+                    "luxe",
+                    "performance du durango",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Dodge Durango se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du durango, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        }
+    ]
+}

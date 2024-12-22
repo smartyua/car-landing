@@ -1,0 +1,919 @@
+{
+    "title": "Nissan",
+    "headTitle": {
+        "en": "Nissan Used Cars for Sale in the USA",
+        "ru": "Подержанные автомобили Nissan на продажу в США",
+        "ua": "Вживані автомобілі Nissan на продаж в США",
+        "pl": "Używane samochody Nissan na sprzedaż w USA",
+        "de": "Gebrauchtwagen von Nissan in den USA",
+        "be": "Аўтамабілі Nissan на продаж у ЗША",
+        "es": "Autos usados Nissan en venta en EE. UU.",
+        "fr": "Voitures d'occasion Nissan à vendre aux États-Unis",
+        "zh": "美国二手日产汽车出售"
+    },
+    "description": {
+        "en": "Nissan vehicles are known for their affordability, efficiency, and versatility, making them a great choice at US used car auctions. Models like the Altima, Rogue, and Pathfinder are popular for their modern features, fuel efficiency, and dependable performance. With a reputation for innovation and value, Nissan offers options that suit a wide range of lifestyles and budgets.",
+        "ru": "Автомобили Nissan известны своей доступностью, экономичностью и универсальностью, что делает их отличным выбором на аукционах подержанных автомобилей в США. Такие модели, как Altima, Rogue и Pathfinder, популярны благодаря современным функциям, топливной эффективности и надежной производительности.",
+        "ua": "Автомобілі Nissan відомі своєю доступністю, економічністю та універсальністю, що робить їх чудовим вибором на аукціонах вживаних авто в США. Такі моделі, як Altima, Rogue і Pathfinder, популярні завдяки сучасним функціям, паливній ефективності та надійній продуктивності.",
+        "pl": "Samochody Nissan są znane z przystępnej ceny, wydajności i wszechstronności, co czyni je świetnym wyborem na amerykańskich aukcjach samochodów używanych. Modele takie jak Altima, Rogue i Pathfinder cieszą się popularnością dzięki nowoczesnym funkcjom, oszczędności paliwa i niezawodnej wydajności.",
+        "de": "Nissan-Fahrzeuge sind bekannt für ihre Erschwinglichkeit, Effizienz und Vielseitigkeit, was sie zu einer großartigen Wahl bei US-Gebrauchtwagenauktionen macht. Modelle wie Altima, Rogue und Pathfinder sind beliebt für ihre modernen Funktionen, Kraftstoffeffizienz und zuverlässige Leistung.",
+        "be": "Аўтамабілі Nissan вядомыя сваёй даступнасцю, эфектыўнасцю і ўніверсальнасцю, што робіць іх выдатным выбарам на аўкцыёнах ЗША. Мадэлі, такія як Altima, Rogue і Pathfinder, карыстаюцца папулярнасцю дзякуючы сучасным функцыям і надзейнай прадукцыйнасці.",
+        "es": "Los vehículos Nissan son conocidos por su asequibilidad, eficiencia y versatilidad, lo que los convierte en una excelente opción en las subastas de autos usados en EE. UU. Modelos como el Altima, Rogue y Pathfinder son populares por sus características modernas, eficiencia de combustible y rendimiento confiable.",
+        "fr": "Les véhicules Nissan sont connus pour leur abordabilité, leur efficacité et leur polyvalence, ce qui en fait un excellent choix aux enchères de voitures d'occasion aux États-Unis. Des modèles comme l'Altima, le Rogue et le Pathfinder sont populaires pour leurs caractéristiques modernes, leur efficacité énergétique et leurs performances fiables.",
+        "zh": "日产汽车以价格实惠、高效和多功能性而闻名，使其成为美国二手车拍卖中的绝佳选择。像Altima、Rogue和Pathfinder这样的车型因其现代功能、燃油效率和可靠性而备受青睐。日产以创新和价值而闻名，提供适合各种生活方式和预算的选择。"
+    },
+    "models": [
+        {
+            "slug": "nissan-leaf",
+            "en": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability.",
+                "keywords": [
+                    "Nissan",
+                    "Leaf",
+                    "compact EV",
+                    "affordable",
+                    "reliable",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (ua)",
+                "keywords": [
+                    "Nissan (ua)",
+                    "Leaf (ua)",
+                    "compact EV (ua)",
+                    "affordable (ua)",
+                    "reliable (ua)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (pl)",
+                "keywords": [
+                    "Nissan (pl)",
+                    "Leaf (pl)",
+                    "compact EV (pl)",
+                    "affordable (pl)",
+                    "reliable (pl)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (de)",
+                "keywords": [
+                    "Nissan (de)",
+                    "Leaf (de)",
+                    "compact EV (de)",
+                    "affordable (de)",
+                    "reliable (de)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (be)",
+                "keywords": [
+                    "Nissan (be)",
+                    "Leaf (be)",
+                    "compact EV (be)",
+                    "affordable (be)",
+                    "reliable (be)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (ru)",
+                "keywords": [
+                    "Nissan (ru)",
+                    "Leaf (ru)",
+                    "compact EV (ru)",
+                    "affordable (ru)",
+                    "reliable (ru)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (es)",
+                "keywords": [
+                    "Nissan (es)",
+                    "Leaf (es)",
+                    "compact EV (es)",
+                    "affordable (es)",
+                    "reliable (es)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (fr)",
+                "keywords": [
+                    "Nissan (fr)",
+                    "Leaf (fr)",
+                    "compact EV (fr)",
+                    "affordable (fr)",
+                    "reliable (fr)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Leaf",
+                "description": "A compact electric hatchback known for its affordability and reliability. (zh)",
+                "keywords": [
+                    "Nissan (zh)",
+                    "Leaf (zh)",
+                    "compact EV (zh)",
+                    "affordable (zh)",
+                    "reliable (zh)",
+                    "nissan-leaf performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Leaf stands out as an exceptional choice in its category. Known for its nissan-leaf signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+        },
+        {
+            "slug": "altima",
+            "en": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "car",
+                    "luxury",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "автомобиль",
+                    "роскошь",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "автомобіль",
+                    "розкіш",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "samochód",
+                    "luksus",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "Auto",
+                    "Luxus",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "аўтамабіль",
+                    "раскоша",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "coche",
+                    "lujo",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima 是一款备受好评的汽车型号，提供出色的性能和豪华体验。",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "汽车",
+                    "豪华",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Altima",
+                "description": "Nissan Altima est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "keywords": [
+                    "Nissan",
+                    "Altima",
+                    "voiture",
+                    "luxe",
+                    "altima performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Altima stands out as an exceptional choice in its category. Known for its altima signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+
+        },
+        {
+            "slug": "rogue",
+            "en": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "car",
+                    "luxury",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "автомобиль",
+                    "роскошь",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "автомобіль",
+                    "розкіш",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "samochód",
+                    "luksus",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "Auto",
+                    "Luxus",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "аўтамабіль",
+                    "раскоша",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "coche",
+                    "lujo",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "voiture",
+                    "luxe",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Rogue",
+                "description": "Nissan Rogue 是一款备受好评的汽车型号，提供出色的性能和豪华体验。",
+                "keywords": [
+                    "Nissan",
+                    "Rogue",
+                    "汽车",
+                    "豪华",
+                    "rogue performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Rogue stands out as an exceptional choice in its category. Known for its rogue signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+        },
+        {
+            "slug": "sentra",
+            "en": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "car",
+                    "luxury",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "автомобиль",
+                    "роскошь",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "автомобіль",
+                    "розкіш",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "samochód",
+                    "luksus",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "Auto",
+                    "Luxus",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "аўтамабіль",
+                    "раскоша",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "coche",
+                    "lujo",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "voiture",
+                    "luxe",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Sentra",
+                "description": "Nissan Sentra 是一款备受好评的汽车型号，提供出色的性能和豪华体验。",
+                "keywords": [
+                    "Nissan",
+                    "Sentra",
+                    "汽车",
+                    "豪华",
+                    "sentra performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Sentra stands out as an exceptional choice in its category. Known for its sentra signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+        },
+        {
+            "slug": "pathfinder",
+            "en": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "car",
+                    "luxury",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "автомобиль",
+                    "роскошь",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "автомобіль",
+                    "розкіш",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "samochód",
+                    "luksus",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "Auto",
+                    "Luxus",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "аўтамабіль",
+                    "раскоша",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "coche",
+                    "lujo",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "voiture",
+                    "luxe",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Pathfinder",
+                "description": "Nissan Pathfinder 是一款备受好评的汽车型号，提供出色的性能和豪华体验。",
+                "keywords": [
+                    "Nissan",
+                    "Pathfinder",
+                    "汽车",
+                    "豪华",
+                    "pathfinder performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Pathfinder stands out as an exceptional choice in its category. Known for its pathfinder signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+        },
+        {
+            "slug": "nissan-ariya",
+            "en": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "car",
+                    "luxury",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "автомобиль",
+                    "роскошь",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "автомобіль",
+                    "розкіш",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "samochód",
+                    "luksus",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "Auto",
+                    "Luxus",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "аўтамабіль",
+                    "раскоша",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "coche",
+                    "lujo",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "fr": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya est un modèle de voiture de haute qualité offrant de bonnes performances et du luxe.",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "voiture",
+                    "luxe",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "zh": {
+                "title": "Nissan Ariya",
+                "description": "Nissan Ariya 是一款备受好评的汽车型号，提供出色的性能和豪华体验。",
+                "keywords": [
+                    "Nissan",
+                    "Ariya",
+                    "汽车",
+                    "豪华",
+                    "ariya performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Nissan Ariya stands out as an exceptional choice in its category. Known for its ariya signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            }
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "title": "Xpeng (Xiaopeng Motors) Electric Vehicles",
+    "headTitle": {
+        "en": "Xpeng (Xiaopeng Motors) | Premium Electric Vehicles",
+        "ru": "Xpeng (Xiaopeng Motors) | Премиальные электромобили",
+        "ua": "Xpeng (Xiaopeng Motors) | Преміальні електромобілі",
+        "pl": "Xpeng (Xiaopeng Motors) | Samochody elektryczne premium",
+        "de": "Xpeng (Xiaopeng Motors) | Premium-Elektrofahrzeuge",
+        "be": "Xpeng (Xiaopeng Motors) | Прэміяльныя электрамабілі",
+        "es": "Xpeng (Xiaopeng Motors) | Vehículos eléctricos premium",
+        "zh": "Xpeng (Xiaopeng Motors) | 高端电动车",
+        "fr": "Xpeng (Xiaopeng Motors) | Véhicules électriques premium"
+    },
+    "description": {
+        "en": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "ru": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "ua": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "pl": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "de": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "be": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "es": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "zh": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles.",
+        "fr": "Xpeng focuses on advanced autonomous driving technology and affordability, offering innovative electric vehicles."
+    },
+    "models": [
+        {
+            "slug": "xpeng-p7",
+            "en": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "ru": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "ua": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "pl": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "de": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "be": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "es": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            },
+            "zh": {
+                "title": "小鹏P7",
+                "description": "一款智能电动轿车，具有先进的自动驾驶和时尚的设计。",
+                "keywords": [
+                    "小鹏",
+                    "P7",
+                    "电动轿车",
+                    "自动驾驶",
+                    "时尚设计"
+                ],
+                "text": "小鹏P7结合了创新和风格，提供最先进的自动驾驶功能和豪华的内饰。"
+            },
+            "fr": {
+                "title": "Xpeng P7",
+                "description": "A smart electric sedan with advanced autonomous driving and a sleek design.",
+                "keywords": [
+                    "Xpeng",
+                    "P7",
+                    "electric sedan",
+                    "autonomous driving",
+                    "sleek design"
+                ],
+                "text": "Xpeng P7 combines innovation and style, offering cutting-edge autonomous driving capabilities and a luxurious interior."
+            }
+        },
+        {
+            "slug": "xpeng-g3",
+            "en": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "ru": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "ua": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "pl": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "de": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "be": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "es": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            },
+            "zh": {
+                "title": "小鹏G3",
+                "description": "一款紧凑型电动SUV，具有出色的续航里程和智能功能。",
+                "keywords": [
+                    "小鹏",
+                    "G3",
+                    "紧凑型SUV",
+                    "智能",
+                    "长续航里程"
+                ],
+                "text": "小鹏G3专为城市生活方式设计，提供实用性和先进技术。"
+            },
+            "fr": {
+                "title": "Xpeng G3",
+                "description": "A compact electric SUV with exceptional range and intelligent features.",
+                "keywords": [
+                    "Xpeng",
+                    "G3",
+                    "compact SUV",
+                    "intelligent",
+                    "long range"
+                ],
+                "text": "Xpeng G3 is designed for urban lifestyles, offering practicality and advanced technology."
+            }
+        }
+    ]
+}

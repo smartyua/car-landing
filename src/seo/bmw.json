@@ -1,0 +1,927 @@
+{
+    "title": "BMW",
+    "headTitle": {
+        "en": "BMW Used Cars at US Auctions",
+        "ru": "Подержанные автомобили BMW на аукционах США",
+        "ua": "Вживані автомобілі BMW на аукціонах США",
+        "pl": "Używane samochody BMW na aukcjach w USA",
+        "de": "Gebrauchtwagen von BMW bei US-Auktionen",
+        "be": "Б/у аўтамабілі BMW на аўкцыёнах у ЗША",
+        "es": "BMW Autos Usados en Subastas de EE. UU.",
+        "zh": "BMW二手车在美国拍卖",
+        "fr": "Voitures d'occasion BMW aux enchères aux États-Unis"
+    },
+    "description": {
+        "en": "When considering used cars at US auctions, BMW vehicles stand out as some of the best options available. Known for their reliability, durability, and overall value, BMW cars hold their value over time, making them an excellent choice for anyone looking for a long-lasting vehicle. These cars are highly sought after in the used market due to their robust build and lower maintenance costs compared to other brands. Whether you're looking for a family car, a workhorse, or a luxury vehicle, BMW offers a diverse range of models that are sure to meet your needs.",
+        "ru": "При рассмотрении подержанных автомобилей на аукционах США, автомобили BMW выделяются как одни из лучших доступных вариантов. Известные своей надежностью, долговечностью и общей ценностью, автомобили BMW сохраняют свою стоимость с течением времени, что делает их отличным выбором для тех, кто ищет долгосрочный автомобиль. Эти автомобили пользуются большим спросом на рынке подержанных автомобилей благодаря прочной конструкции и низким расходам на обслуживание по сравнению с другими марками. Независимо от того, ищете ли вы семейный автомобиль, рабочую лошадку или роскошный автомобиль, BMW предлагает разнообразие моделей, которые наверняка удовлетворят ваши потребности.",
+        "ua": "При розгляді вживаних автомобілів на аукціонах США, автомобілі BMW виділяються як одні з найкращих доступних варіантів. Відомі своєю надійністю, довговічністю та загальною вартістю, автомобілі BMW зберігають свою вартість з часом, що робить їх відмінним вибором для тих, хто шукає довговічний автомобіль. Ці автомобілі користуються великим попитом на ринку вживаних автомобілів завдяки міцній конструкції та низьким витратам на обслуговування порівняно з іншими марками. Незалежно від того, чи шукаєте ви сімейний автомобіль, робочу кінь або розкішний автомобіль, BMW пропонує різноманітні моделі, які, без сумніву, задовольнять ваші потреби.",
+        "pl": "Przy rozważaniu używanych samochodów na aukcjach w USA, samochody BMW wyróżniają się jako jedne z najlepszych dostępnych opcji. Znane ze swojej niezawodności, trwałości i ogólnej wartości, samochody BMW utrzymują swoją wartość z biegiem czasu, co czyni je doskonałym wyborem dla każdego, kto szuka długotrwałego pojazdu. Te samochody cieszą się dużym popytem na rynku używanych samochodów dzięki solidnej budowie i niższym kosztom utrzymania w porównaniu do innych marek. Niezależnie od tego, czy szukasz samochodu rodzinnego, pracownika, czy luksusowego pojazdu, BMW oferuje szeroki wybór modeli, które na pewno spełnią Twoje potrzeby.",
+        "de": "Bei der Betrachtung von Gebrauchtwagen bei US-Auktionen heben sich BMW-Fahrzeuge als einige der besten verfügbaren Optionen hervor. Bekannt für ihre Zuverlässigkeit, Langlebigkeit und ihren Gesamtwert, behalten BMW-Autos im Laufe der Zeit ihren Wert, was sie zu einer ausgezeichneten Wahl für alle macht, die ein langlebiges Fahrzeug suchen. Diese Autos sind aufgrund ihrer robusten Bauweise und der niedrigeren Wartungskosten im Vergleich zu anderen Marken auf dem Gebrauchtmarkt sehr begehrt. Egal, ob Sie ein Familienauto, ein Arbeitstier oder ein Luxusfahrzeug suchen, BMW bietet eine Vielzahl von Modellen, die Ihre Bedürfnisse sicher erfüllen werden.",
+        "be": "Пры разглядзе б/у аўтамабіляў на аўкцыёнах у ЗША, аўтамабілі BMW вылучаюцца як адны з лепшых даступных варыянтаў. Вядомыя сваёй надзейнасцю, даўгавечнасцю і агульнай каштоўнасцю, аўтамабілі BMW захоўваюць сваю каштоўнасць з часам, што робіць іх выдатным выбарам для тых, хто шукае доўгатэрміновы аўтамабіль. Гэтыя аўтамабілі карыстаюцца вялікім попытам на рынку б/у аўтамабіляў дзякуючы моцнай канструкцыі і нізкім выдаткам на абслугоўванне ў параўнанні з іншымі маркамі. Незалежна ад таго, ці шукаеце вы сямейны аўтамабіль, рабочую конь ці раскошны аўтамабіль, BMW прапануе разнастайнасць мадэляў, якія абавязкова задавальняць вашы патрэбы.",
+        "es": "Al considerar autos usados en subastas de EE. UU., los vehículos BMW se destacan como algunas de las mejores opciones disponibles. Conocidos por su confiabilidad, durabilidad y valor general, los autos BMW mantienen su valor con el tiempo, lo que los convierte en una excelente opción para quienes buscan un vehículo duradero.",
+        "zh": "在考虑美国拍卖的二手车时，BMW车辆因其可靠性、耐用性和整体价值脱颖而出。这些汽车保值性高，是寻求长期使用车辆的理想选择。",
+        "fr": "Lorsque vous envisagez d'acheter une voiture d'occasion aux enchères aux États-Unis, les véhicules BMW se démarquent comme l'un des meilleurs choix disponibles. Connu pour leur fiabilité, leur durabilité et leur valeur globale, les voitures BMW conservent leur valeur au fil du temps, ce qui en fait un excellent choix pour quiconque recherche un véhicule durable."
+    },
+    "models": [
+        {
+            "slug": "bmw-i4",
+            "en": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting.",
+                "keywords": [
+                    "BMW",
+                    "i4",
+                    "eco-friendly",
+                    "urban EV",
+                    "stylish",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting. (ua)",
+                "keywords": [
+                    "BMW (ua)",
+                    "i4 (ua)",
+                    "eco-friendly (ua)",
+                    "urban EV (ua)",
+                    "stylish (ua)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting. (ru)",
+                "keywords": [
+                    "BMW (ru)",
+                    "i4 (ru)",
+                    "eco-friendly (ru)",
+                    "urban EV (ru)",
+                    "stylish (ru)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting. (pl)",
+                "keywords": [
+                    "BMW (pl)",
+                    "i4 (pl)",
+                    "eco-friendly (pl)",
+                    "urban EV (pl)",
+                    "stylish (pl)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting. (de)",
+                "keywords": [
+                    "BMW (de)",
+                    "i4 (de)",
+                    "eco-friendly (de)",
+                    "urban EV (de)",
+                    "stylish (de)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW i4",
+                "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting. (be)",
+                "keywords": [
+                    "BMW (be)",
+                    "i4 (be)",
+                    "eco-friendly (be)",
+                    "urban EV (be)",
+                    "stylish (be)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW i4",
+                "description": "El BMW i4 es un coche eléctrico elegante y ecológico perfecto para el desplazamiento urbano.",
+                "keywords": [
+                    "BMW",
+                    "i4",
+                    "ecológico",
+                    "EV urbano",
+                    "elegante",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW i4",
+                "description": "BMW i4是一款时尚环保的电动车，非常适合城市通勤。",
+                "keywords": [
+                    "BMW",
+                    "i4",
+                    "环保",
+                    "城市电动车",
+                    "时尚",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW i4",
+                "description": "La BMW i4 est une voiture électrique élégante et respectueuse de l'environnement, parfaite pour les déplacements urbains.",
+                "keywords": [
+                    "BMW",
+                    "i4",
+                    "écologique",
+                    "VE urbain",
+                    "élégant",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "bmw-i3",
+            "en": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting.",
+                "keywords": [
+                    "BMW",
+                    "i3",
+                    "eco-friendly",
+                    "urban EV",
+                    "stylish",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (ua)",
+                "keywords": [
+                    "BMW (ua)",
+                    "i3 (ua)",
+                    "eco-friendly (ua)",
+                    "urban EV (ua)",
+                    "stylish (ua)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (ru)",
+                "keywords": [
+                    "BMW (ru)",
+                    "i3 (ru)",
+                    "eco-friendly (ru)",
+                    "urban EV (ru)",
+                    "stylish (ru)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (pl)",
+                "keywords": [
+                    "BMW (pl)",
+                    "i3 (pl)",
+                    "eco-friendly (pl)",
+                    "urban EV (pl)",
+                    "stylish (pl)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (de)",
+                "keywords": [
+                    "BMW (de)",
+                    "i3 (de)",
+                    "eco-friendly (de)",
+                    "urban EV (de)",
+                    "stylish (de)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW i3",
+                "description": "A stylish and eco-friendly electric car perfect for urban commuting. (be)",
+                "keywords": [
+                    "BMW (be)",
+                    "i3 (be)",
+                    "eco-friendly (be)",
+                    "urban EV (be)",
+                    "stylish (be)",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW i3",
+                "description": "Un coche eléctrico elegante y ecológico perfecto para el desplazamiento urbano.",
+                "keywords": [
+                    "BMW",
+                    "i3",
+                    "ecológico",
+                    "EV urbano",
+                    "elegante",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW i3",
+                "description": "一款时尚环保的电动车，非常适合城市通勤。",
+                "keywords": [
+                    "BMW",
+                    "i3",
+                    "环保",
+                    "城市电动车",
+                    "时尚",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW i3",
+                "description": "Une voiture électrique élégante et respectueuse de l'environnement, parfaite pour les déplacements urbains.",
+                "keywords": [
+                    "BMW",
+                    "i3",
+                    "écologique",
+                    "VE urbain",
+                    "élégant",
+                    "advanced features",
+                    "value for money",
+                    "bmw-i3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW i3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-i3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "bmw-3-series",
+            "en": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW 3 Series",
+                "description": "BMW 3 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "3 Series",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW Serie 3",
+                "description": "El BMW Serie 3 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "BMW",
+                    "Serie 3",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW Serie 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW 3系",
+                "description": "BMW 3系是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "BMW",
+                    "3系",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 3系 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW Série 3",
+                "description": "La BMW Série 3 est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "BMW",
+                    "Série 3",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "bmw-3-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW Série 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-3-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "bmw-5-series",
+            "en": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW 5 Series",
+                "description": "BMW 5 Series — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "5 Series",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5 Series offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW Serie 5",
+                "description": "El BMW Serie 5 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "BMW",
+                    "Serie 5",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW Serie 5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW 5系",
+                "description": "BMW 5系是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "BMW",
+                    "5系",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW 5系 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW Série 5",
+                "description": "La BMW Série 5 est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "BMW",
+                    "Série 5",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "bmw-5-series highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW Série 5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-5-series's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "bmw-x5",
+            "en": {
+                "title": "BMW X5",
+                "description": "BMW X5 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW X5",
+                "description": "BMW X5 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW X5",
+                "description": "BMW X5 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW X5",
+                "description": "BMW X5 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW X5",
+                "description": "BMW X5 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW X5",
+                "description": "BMW X5 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW X5",
+                "description": "El BMW X5 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW X5",
+                "description": "BMW X5是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW X5",
+                "description": "La BMW X5 est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "BMW",
+                    "X5",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "bmw-x3",
+            "en": {
+                "title": "BMW X3",
+                "description": "BMW X3 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "BMW X3",
+                "description": "BMW X3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "BMW X3",
+                "description": "BMW X3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "BMW X3",
+                "description": "BMW X3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "BMW X3",
+                "description": "BMW X3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "BMW X3",
+                "description": "BMW X3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "BMW X3",
+                "description": "El BMW X3 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "BMW X3",
+                "description": "BMW X3是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "BMW X3",
+                "description": "La BMW X3 est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "BMW",
+                    "X3",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "bmw-x3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "BMW X3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value bmw-x3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

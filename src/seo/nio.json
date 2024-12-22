@@ -1,0 +1,471 @@
+{
+    "title": "NIO Electric Vehicles",
+    "headTitle": {
+        "en": "NIO Electric Vehicles | Premium Electric Cars",
+        "ru": "Электромобили NIO | Премиальные электрокары",
+        "ua": "Електромобілі NIO | Преміальні електрокари",
+        "pl": "Pojazdy elektryczne NIO | Samochody elektryczne premium",
+        "de": "NIO Elektrofahrzeuge | Premium-Elektroautos",
+        "be": "Электрамабілі NIO | Прэміяльныя электрамабілі",
+        "es": "Vehículos Eléctricos NIO | Coches Eléctricos Premium",
+        "zh": "蔚来电动车 | 高端电动车",
+        "fr": "Véhicules électriques NIO | Voitures électriques premium"
+    },
+    "description": {
+        "en": "Discover the range of NIO electric vehicles, blending premium features with cutting-edge technology. Experience innovation and luxury in every model.",
+        "ru": "Откройте для себя линейку электромобилей NIO, сочетающих премиальные характеристики с передовыми технологиями. Испытайте инновации и роскошь в каждой модели.",
+        "ua": "Відкрийте для себе модельний ряд електромобілів NIO, що поєднують преміальні характеристики з передовими технологіями.",
+        "pl": "Poznaj gamę pojazdów elektrycznych NIO, łączących funkcje premium z najnowocześniejszą technologią.",
+        "de": "Entdecken Sie die Palette der NIO Elektrofahrzeuge, die Premium-Funktionen mit modernster Technologie verbinden.",
+        "be": "Адкрыйце для сябе лінейку электрамабіляў NIO, якія спалучаюць прэміяльныя функцыі і сучасныя тэхналогіі.",
+        "es": "Descubra la gama de vehículos eléctricos NIO, que combina características premium con tecnología de vanguardia.",
+        "zh": "探索蔚来电动车系列，将高端配置与尖端技术完美结合。",
+        "fr": "Découvrez la gamme de véhicules électriques NIO, alliant fonctionnalités premium et technologie de pointe."
+    },
+    "models": [
+        {
+            "slug": "nio-es8",
+            "en": {
+                "title": "NIO ES8",
+                "description": "A full-size electric SUV offering luxury and advanced autonomous driving capabilities.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "electric SUV",
+                    "luxury",
+                    "autonomous driving"
+                ],
+                "text": "NIO ES8 is a premium electric SUV, designed to provide comfort, performance, and advanced technology. Its spacious interior and autonomous features make it perfect for families and long trips."
+            },
+            "ru": {
+                "title": "NIO ES8",
+                "description": "Полноразмерный электрический внедорожник, предлагающий роскошь и возможности автономного вождения.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "электрический внедорожник",
+                    "роскошь",
+                    "автономное вождение"
+                ],
+                "text": "NIO ES8 — это премиальный электрический внедорожник, разработанный для обеспечения комфорта, производительности и передовых технологий."
+            },
+            "ua": {
+                "title": "NIO ES8",
+                "description": "Повнорозмірний електричний позашляховик, що пропонує розкіш та передові можливості автономного водіння.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "електричний позашляховик",
+                    "розкіш",
+                    "автономне водіння"
+                ],
+                "text": "NIO ES8 - це преміальний електричний позашляховик, розроблений для забезпечення комфорту, продуктивності та передових технологій."
+            },
+            "pl": {
+                "title": "NIO ES8",
+                "description": "Elektryczny SUV klasy pełnowymiarowej oferujący luksus i zaawansowane możliwości autonomicznego prowadzenia.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "elektryczny SUV",
+                    "luksus",
+                    "autonomiczne prowadzenie"
+                ],
+                "text": "NIO ES8 to luksusowy elektryczny SUV, zaprojektowany z myślą o komforcie, wydajności i zaawansowanej technologii."
+            },
+            "de": {
+                "title": "NIO ES8",
+                "description": "Ein Elektro-SUV in voller Größe, der Luxus und fortschrittliche autonome Fahrfunktionen bietet.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "Elektro-SUV",
+                    "Luxus",
+                    "autonomes Fahren"
+                ],
+                "text": "Der NIO ES8 ist ein Premium-Elektro-SUV, der Komfort, Leistung und fortschrittliche Technologie bietet."
+            },
+            "be": {
+                "title": "NIO ES8",
+                "description": "Поўнаметражны электрычны внедарожнік, які прапануе роскош і магчымасці аўтаномнага кіравання.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "электрычны внедарожнік",
+                    "роскош",
+                    "аўтаномнае кіраванне"
+                ],
+                "text": "NIO ES8 - гэта прэміум-электрычны внедарожнік, прызначаны для забеспячэння камфорту, прадукцыйнасці і перадавых тэхналогій."
+            },
+            "es": {
+                "title": "NIO ES8",
+                "description": "Un SUV eléctrico de tamaño completo que ofrece lujo y avanzadas capacidades de conducción autónoma.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "SUV eléctrico",
+                    "lujo",
+                    "conducción autónoma"
+                ],
+                "text": "NIO ES8 es un SUV eléctrico premium, diseñado para ofrecer comodidad, rendimiento y tecnología avanzada."
+            },
+            "zh": {
+                "title": "NIO ES8",
+                "description": "全尺寸电动SUV，提供豪华和先进的自动驾驶功能。",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "电动SUV",
+                    "豪华",
+                    "自动驾驶"
+                ],
+                "text": "NIO ES8是一款高端电动SUV，旨在提供舒适性、性能和先进技术。"
+            },
+            "fr": {
+                "title": "NIO ES8",
+                "description": "Un SUV électrique de grande taille offrant luxe et capacités de conduite autonome avancées.",
+                "keywords": [
+                    "NIO",
+                    "ES8",
+                    "SUV électrique",
+                    "luxe",
+                    "conduite autonome"
+                ],
+                "text": "Le NIO ES8 est un SUV électrique haut de gamme, conçu pour offrir confort, performance et technologie avancée."
+            }
+        },
+        {
+            "slug": "nio-et7",
+            "en": {
+                "title": "NIO ET7",
+                "description": "A luxury electric sedan with cutting-edge autonomous driving features and exceptional range.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "luxury sedan",
+                    "autonomous driving",
+                    "long range"
+                ],
+                "text": "NIO ET7 redefines electric sedans with its advanced features, long-range capabilities, and luxurious interior. Perfect for executives and long-distance travelers."
+            },
+            "ru": {
+                "title": "NIO ET7",
+                "description": "Роскошный электрический седан с передовыми функциями автономного вождения и исключительным запасом хода.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "электрический седан",
+                    "автономное вождение",
+                    "дальний запас хода"
+                ],
+                "text": "NIO ET7 переосмысливает электрические седаны, предлагая передовые функции, длительный запас хода и роскошный интерьер."
+            },
+            "ua": {
+                "title": "NIO ET7",
+                "description": "Розкішний електричний седан з передовими функціями автономного водіння та винятковим запасом ходу.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "електричний седан",
+                    "автономне водіння",
+                    "дальний запас ходу"
+                ],
+                "text": "NIO ET7 переосмислює електричні седани завдяки передовим функціям, великому запасу ходу та розкішному інтер'єру."
+            },
+            "pl": {
+                "title": "NIO ET7",
+                "description": "Luksusowy sedan elektryczny z najnowocześniejszymi funkcjami autonomicznego prowadzenia i wyjątkowym zasięgiem.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "luksusowy sedan",
+                    "autonomiczne prowadzenie",
+                    "duży zasięg"
+                ],
+                "text": "NIO ET7 definiuje na nowo sedany elektryczne dzięki swoim zaawansowanym funkcjom, dużemu zasięgowi i luksusowemu wnętrzu."
+            },
+            "de": {
+                "title": "NIO ET7",
+                "description": "Ein luxuriöser Elektro-Sedan mit modernsten autonomen Fahrfunktionen und außergewöhnlicher Reichweite.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "Luxus-Sedan",
+                    "autonomes Fahren",
+                    "große Reichweite"
+                ],
+                "text": "Der NIO ET7 definiert Elektro-Sedans mit seinen fortschrittlichen Funktionen, großer Reichweite und luxuriösem Interieur neu."
+            },
+            "be": {
+                "title": "NIO ET7",
+                "description": "Раскошны электрычны седан з сучаснымі функцыямі аўтаномнага кіравання і выдатным запасам ходу.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "раскошны седан",
+                    "аўтаномнае кіраванне",
+                    "вялікі запас ходу"
+                ],
+                "text": "NIO ET7 пераўтварае электрычныя седаны сваімі прадвышэннемі функцыямі, вялікім запасам ходу і раскошным інтэр'ерам."
+            },
+            "es": {
+                "title": "NIO ET7",
+                "description": "Un sedán eléctrico de lujo con características de conducción autónoma de vanguardia y un rango excepcional.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "sedán de lujo",
+                    "conducción autónoma",
+                    "gran autonomía"
+                ],
+                "text": "NIO ET7 redefine los sedanes eléctricos con sus características avanzadas, capacidades de largo alcance e interior lujoso."
+            },
+            "zh": {
+                "title": "NIO ET7",
+                "description": "豪华电动轿车，配备尖端自动驾驶功能和出色的续航里程。",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "豪华轿车",
+                    "自动驾驶",
+                    "长续航里程"
+                ],
+                "text": "NIO ET7通过其先进功能、长续航能力和豪华内饰重新定义了电动轿车。"
+            },
+            "fr": {
+                "title": "NIO ET7",
+                "description": "Une berline électrique de luxe dotée de fonctionnalités de conduite autonome de pointe et d'une autonomie exceptionnelle.",
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "berline de luxe",
+                    "conduite autonome",
+                    "grande autonomie"
+                ],
+                "text": "La NIO ET7 redéfinit les berlines électriques avec ses fonctionnalités avancées, ses capacités longue distance et son intérieur luxueux."
+            }
+        },
+        {
+            "slug": "nio-ec6",
+            "en": {
+                "title": "NIO EC6",
+                "description": "A stylish electric coupe SUV with a sporty design and impressive performance.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "electric coupe SUV",
+                    "sporty design",
+                    "performance"
+                ],
+                "text": "NIO EC6 combines sportiness and functionality in a sleek coupe SUV design. Ideal for urban drivers seeking a modern and dynamic ride."
+            },
+            "ru": {
+                "title": "NIO EC6",
+                "description": "Элегантный электрический кроссовер-купе с спортивным дизайном и впечатляющей производительностью.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "электрический кроссовер-купе",
+                    "спортивный дизайн",
+                    "производительность"
+                ],
+                "text": "NIO EC6 сочетает спортивность и функциональность в изящном дизайне кроссовера-купе."
+            },
+            "ua": {
+                "title": "NIO EC6",
+                "description": "Стильний електричний купе-позашляховик зі спортивним дизайном та вражаючою продуктивністю.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "електричний купе-позашляховик",
+                    "спортивний дизайн",
+                    "продуктивність"
+                ],
+                "text": "NIO EC6 поєднує спортивність та функціональність в стильному дизайні купе-позашляховика."
+            },
+            "pl": {
+                "title": "NIO EC6",
+                "description": "Stylowy elektryczny SUV coupe z dynamicznym designem i imponującą wydajnością.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "elektryczne SUV coupe",
+                    "dynamiczny design",
+                    "wydajność"
+                ],
+                "text": "NIO EC6 łączy sportowy charakter i funkcjonalność w eleganckim designie SUV coupe."
+            },
+            "de": {
+                "title": "NIO EC6",
+                "description": "Ein stilvolles elektrisches Coupé-SUV mit sportlichem Design und beeindruckender Leistung.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "elektrisches Coupé-SUV",
+                    "sportliches Design",
+                    "Leistung"
+                ],
+                "text": "Der NIO EC6 kombiniert Sportlichkeit und Funktionalität in einem schlanken Coupé-SUV-Design."
+            },
+            "be": {
+                "title": "NIO EC6",
+                "description": "Стыльны электрычны купэ-высокапраходны кросавік з спартыўным дызайнам і ўражаючай прадукцыйнасцю.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "электрычны купэ-высокапраходны кросавік",
+                    "спартыўны дызайн",
+                    "прадукцыйнасць"
+                ],
+                "text": "NIO EC6 паўноцца спалучае спартыўнасць і функцыянальнасць у выгадным дызайне купэ-высокапраходнага кросавіка."
+            },
+            "es": {
+                "title": "NIO EC6",
+                "description": "Un elegante SUV coupé eléctrico con un diseño deportivo y un rendimiento impresionante.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "SUV coupé eléctrico",
+                    "diseño deportivo",
+                    "rendimiento"
+                ],
+                "text": "NIO EC6 combina deportividad y funcionalidad en un elegante diseño de SUV coupé."
+            },
+            "zh": {
+                "title": "NIO EC6",
+                "description": "时尚的电动轿车SUV，采用运动设计和出色性能。",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "电动轿车SUV",
+                    "运动设计",
+                    "性能"
+                ],
+                "text": "NIO EC6将运动性和功能性融合在时尚的轿车SUV设计中。"
+            },
+            "fr": {
+                "title": "NIO EC6",
+                "description": "Un élégant SUV coupé électrique au design sportif et aux performances impressionnantes.",
+                "keywords": [
+                    "NIO",
+                    "EC6",
+                    "SUV coupé électrique",
+                    "design sportif",
+                    "performances"
+                ],
+                "text": "La NIO EC6 allie sportivité et fonctionnalité dans un design de SUV coupé élégant."
+            }
+        },
+        {
+            "slug": "nio-et5",
+            "en": {
+                "title": "NIO ET5",
+                "description": "A compact electric sedan with innovative technology and a focus on efficiency.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "compact sedan",
+                    "innovative",
+                    "efficient"
+                ],
+                "text": "NIO ET5 is a compact and efficient electric sedan designed for modern urban lifestyles. With its advanced features and affordability, it appeals to a wide range of drivers."
+            },
+            "ru": {
+                "title": "NIO ET5",
+                "description": "Компактный электрический седан с инновационными технологиями и акцентом на эффективность.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "компактный седан",
+                    "инновационный",
+                    "эффективный"
+                ],
+                "text": "NIO ET5 — это компактный и эффективный электрический седан, разработанный для современных городских условий."
+            },
+            "ua": {
+                "title": "NIO ET5",
+                "description": "Компактний електричний седан з інноваційними технологіями та акцентом на ефективність.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "компактний седан",
+                    "інноваційний",
+                    "ефективний"
+                ],
+                "text": "NIO ET5 - це компактний і ефективний електричний седан, розроблений для сучасних міських умов."
+            },
+            "pl": {
+                "title": "NIO ET5",
+                "description": "Kompaktowy sedan elektryczny z innowacyjną technologią i naciskiem na efektywność.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "kompaktowy sedan",
+                    "innowacyjny",
+                    "efektywny"
+                ],
+                "text": "NIO ET5 to kompaktowy i wydajny sedan elektryczny zaprojektowany z myślą o nowoczesnym stylu życia miejskim."
+            },
+            "de": {
+                "title": "NIO ET5",
+                "description": "Ein kompakter Elektro-Sedan mit innovativer Technologie und Fokus auf Effizienz.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "kompakter Sedan",
+                    "innovativ",
+                    "effizient"
+                ],
+                "text": "Der NIO ET5 ist ein kompakter und effizienter Elektro-Sedan, der für moderne urbane Lebensstile entwickelt wurde."
+            },
+            "be": {
+                "title": "NIO ET5",
+                "description": "Кампактны электрычны седан з інавацыйнымі тэхналогіямі і акцэнтам на эфектыўнасць.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "кампактны седан",
+                    "інавацыйны",
+                    "эфектыўны"
+                ],
+                "text": "NIO ET5 - гэта кампактны і эфектыўны электрычны седан, прызначаны для сучасных гарадскіх умоваў."
+            },
+            "es": {
+                "title": "NIO ET5",
+                "description": "Un sedán eléctrico compacto con tecnología innovadora y un enfoque en la eficiencia.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "sedán compacto",
+                    "innovador",
+                    "eficiente"
+                ],
+                "text": "NIO ET5 es un sedán eléctrico compacto y eficiente diseñado para estilos de vida urbanos modernos."
+            },
+            "zh": {
+                "title": "NIO ET5",
+                "description": "紧凑型电动轿车，拥有创新技术和注重效率。",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "紧凑型轿车",
+                    "创新",
+                    "高效"
+                ],
+                "text": "NIO ET5是一款紧凑高效的电动轿车，专为现代城市生活方式设计。"
+            },
+            "fr": {
+                "title": "NIO ET5",
+                "description": "Une berline électrique compacte avec une technologie innovante et un accent sur l'efficacité.",
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "berline compacte",
+                    "innovant",
+                    "efficace"
+                ],
+                "text": "La NIO ET5 est une berline électrique compacte conçue pour les modes de vie urbains modernes, avec des fonctionnalités avancées et un prix abordable."
+            }
+        }
+    ]
+}

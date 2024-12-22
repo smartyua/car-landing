@@ -6,7 +6,10 @@
         "ua": "Автомобілі Subaru на аукціонах в США",
         "pl": "Samochody Subaru na aukcjach w USA",
         "de": "Subaru-Autos bei US-Auktionen",
-        "be": "Аўтамабілі Subaru на аўкцыёнах у ЗША"
+        "be": "Аўтамабілі Subaru на аўкцыёнах у ЗША",
+        "es": "Coches Subaru en subastas de EE. UU.",
+        "fr": "Voitures Subaru en vente aux enchères aux États-Unis",
+        "zh": "Subaru汽车在美国拍卖"
     },
     "description": {
         "en": "Subaru cars are celebrated for their all-wheel drive capability, safety, and reliability, making them a top pick at US used car auctions. Models like the Outback, Forester, and Crosstrek are ideal for families and outdoor enthusiasts alike. With exceptional resale value and a reputation for durability, Subaru vehicles are built to handle diverse terrains and weather conditions.",
@@ -14,7 +17,10 @@
         "ua": "Автомобілі Subaru відомі своїм повним приводом, безпекою та надійністю, що робить їх популярним вибором на аукціонах вживаних авто в США. Такі моделі, як Outback, Forester і Crosstrek, ідеально підходять як для сімей, так і для любителів активного відпочинку.",
         "pl": "Samochody Subaru są cenione za napęd na wszystkie koła, bezpieczeństwo i niezawodność, co czyni je jednym z najlepszych wyborów na amerykańskich aukcjach samochodów używanych. Modele takie jak Outback, Forester i Crosstrek są idealne dla rodzin i entuzjastów aktywnego wypoczynku.",
         "de": "Subaru-Fahrzeuge sind bekannt für ihren Allradantrieb, ihre Sicherheit und Zuverlässigkeit und gehören zu den besten Optionen bei US-Gebrauchtwagenauktionen. Modelle wie Outback, Forester und Crosstrek sind ideal für Familien und Outdoor-Enthusiasten.",
-        "be": "Аўтамабілі Subaru цэняцца за поўны прывад, бяспеку і надзейнасць, што робіць іх адным з лепшых варыянтаў на аўкцыёнах ЗША. Такія мадэлі, як Outback, Forester і Crosstrek, ідэальныя для сем’яў і аматараў актыўнага адпачынку."
+        "be": "Аўтамабілі Subaru цэняцца за поўны прывад, бяспеку і надзейнасць, што робіць іх адным з лепшых варыянтаў на аўкцыёнах ЗША. Такія мадэлі, як Outback, Forester і Crosstrek, ідэальныя для сем’яў і аматараў актыўнага адпачынку.",
+        "es": "Los coches Subaru son conocidos por su tracción en las cuatro ruedas, seguridad y fiabilidad, lo que los convierte en una de las mejores opciones en las subastas de coches usados de EE. UU. Modelos como el Outback, Forester y Crosstrek son ideales para familias y entusiastas de la naturaleza.",
+        "fr": "Les voitures Subaru sont célèbres pour leur capacité de traction intégrale, leur sécurité et leur fiabilité, ce qui en fait un choix de premier plan aux enchères de voitures d'occasion aux États-Unis. Des modèles comme l'Outback, le Forester et le Crosstrek sont idéaux pour les fam",
+        "zh": "Subaru汽车以其全轮驱动能力、安全性和可靠性而闻名，使其成为美国二手车拍卖会上的首选。Outback、Forester和Crosstrek等车型既适合家庭，也适合户外爱好者。Subaru汽车以卓越的二手车价值和耐用性而闻名，适合应对各种地形和气候条件。"
     },
     "models": [
         {
@@ -77,6 +83,36 @@
                     "Outback",
                     "аўтамабіль",
                     "раскоша"
+                ]
+            },
+            "es": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "Subaru Outback",
+                "description": "La Subaru Outback est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "voiture",
+                    "luxe"
+                ]
+            },
+            "zh": {
+                "title": "Subaru Outback",
+                "description": "Subaru Outback是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Subaru",
+                    "Outback",
+                    "汽车",
+                    "豪华"
                 ]
             }
         },
@@ -141,6 +177,36 @@
                     "аўтамабіль",
                     "раскоша"
                 ]
+            },
+            "es": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "Subaru Forester",
+                "description": "La Subaru Forester est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "voiture",
+                    "luxe"
+                ]
+            },
+            "zh": {
+                "title": "Subaru Forester",
+                "description": "Subaru Forester是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Subaru",
+                    "Forester",
+                    "汽车",
+                    "豪华"
+                ]
             }
         },
         {
@@ -204,6 +270,36 @@
                     "аўтамабіль",
                     "раскоша"
                 ]
+            },
+            "es": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "Subaru Impreza",
+                "description": "La Subaru Impreza est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "voiture",
+                    "luxe"
+                ]
+            },
+            "zh": {
+                "title": "Subaru Impreza",
+                "description": "Subaru Impreza是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Subaru",
+                    "Impreza",
+                    "汽车",
+                    "豪华"
+                ]
             }
         },
         {
@@ -266,6 +362,36 @@
                     "Crosstrek",
                     "аўтамабіль",
                     "раскоша"
+                ]
+            },
+            "es": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "coche",
+                    "lujo"
+                ]
+            },
+            "fr": {
+                "title": "Subaru Crosstrek",
+                "description": "La Subaru Crosstrek est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "voiture",
+                    "luxe"
+                ]
+            },
+            "zh": {
+                "title": "Subaru Crosstrek",
+                "description": "Subaru Crosstrek是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Subaru",
+                    "Crosstrek",
+                    "汽车",
+                    "豪华"
                 ]
             }
         }

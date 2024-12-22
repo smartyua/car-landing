@@ -1,0 +1,249 @@
+{
+    "title": "Li Auto (Li Xiang) Electric Vehicles",
+    "headTitle": {
+        "en": "Li Auto (Li Xiang) | Premium Electric Vehicles",
+        "ru": "Li Auto (Li Xiang) | Премиальные электромобили",
+        "ua": "Li Auto (Li Xiang) | Преміальні електромобілі",
+        "pl": "Li Auto (Li Xiang) | Samochody elektryczne premium",
+        "de": "Li Auto (Li Xiang) | Premium-Elektrofahrzeuge",
+        "be": "Li Auto (Li Xiang) | Прэміяльныя электрамабілі",
+        "es": "Li Auto (Li Xiang) | Vehículos eléctricos premium",
+        "zh": "Li Auto (Li Xiang) | 高端电动车",
+        "fr": "Li Auto (Li Xiang) | Véhicules électriques premium"
+    },
+    "description": {
+        "en": "Li Auto specializes in hybrid and electric SUVs, blending innovation with practicality.",
+        "ru": "Li Auto специализируется на гибридных и электрических внедорожниках, сочетая инновации с практичностью.",
+        "ua": "Li Auto спеціалізується на гібридних та електричних позашляховиках, поєднуючи інновації з практичністю.",
+        "pl": "Li Auto specjalizuje się w hybrydowych i elektrycznych SUV-ach, łącząc innowacje z praktycznością.",
+        "de": "Li Auto ist auf Hybrid- und Elektro-SUVs spezialisiert und verbindet Innovation mit Praktikabilität.",
+        "be": "Li Auto спецыялізуецца на гібрыдных і электрычных внедарожніках, злучаючы інавацыі з практычнасцю.",
+        "es": "Li Auto se especializa en SUV híbridos y eléctricos, combinando innovación con practicidad.",
+        "zh": "理想汽车专注于混合动力和电动SUV，将创新与实用性相结合。",
+        "fr": "Li Auto se spécialise dans les SUV hybrides et électriques, alliant innovation et praticité."
+    },
+    "models": [
+        {
+            "slug": "li-one",
+            "en": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "ru": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "ua": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "pl": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "de": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "be": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "es": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            },
+            "zh": {
+                "title": "理想ONE",
+                "description": "一款大型电动SUV，具有延长续航里程和家庭友好功能。",
+                "keywords": [
+                    "理想汽车",
+                    "理想ONE",
+                    "电动SUV",
+                    "延长续航",
+                    "家庭友好"
+                ],
+                "text": "理想ONE提供延长的续航里程和宽敞的内部空间，非常适合家庭公路旅行。"
+            },
+            "fr": {
+                "title": "Li ONE",
+                "description": "A large electric SUV with extended range and family-friendly features.",
+                "keywords": [
+                    "Li Auto",
+                    "Li ONE",
+                    "electric SUV",
+                    "extended range",
+                    "family-friendly"
+                ],
+                "text": "Li ONE offers extended range and spacious interiors, perfect for family road trips."
+            }
+        },
+        {
+            "slug": "li-l9",
+            "en": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "ru": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "ua": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "pl": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "de": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "be": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "es": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            },
+            "zh": {
+                "title": "理想L9",
+                "description": "一款专为豪华和长途旅行设计的高端电动SUV。",
+                "keywords": [
+                    "理想汽车",
+                    "理想L9",
+                    "电动SUV",
+                    "高端",
+                    "长途"
+                ],
+                "text": "理想L9是一款旗舰SUV，融合了豪华和技术，为卓越的驾驶体验。"
+            },
+            "fr": {
+                "title": "Li L9",
+                "description": "A premium electric SUV designed for luxury and long-distance travel.",
+                "keywords": [
+                    "Li Auto",
+                    "Li L9",
+                    "electric SUV",
+                    "premium",
+                    "long-distance"
+                ],
+                "text": "Li L9 is a flagship SUV, combining luxury and technology for a superior driving experience."
+            }
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "title": "Toyota",
+    "headTitle": {
+        "en": "Toyota Used Cars at US Auctions",
+        "ru": "Подержанные автомобили Toyota на аукционах в США",
+        "ua": "Вживані автомобілі Toyota на аукціонах в США",
+        "pl": "Używane samochody Toyota na aukcjach w USA",
+        "de": "Gebrauchtwagen von Toyota bei US-Auktionen",
+        "be": "Toyota аўтамабілі на аўкцыёнах у ЗША",
+        "es": "Toyota autos usados en subastas de EE. UU.",
+        "fr": "Voitures d'occasion Toyota aux enchères aux États-Unis",
+        "zh": "美国拍卖的丰田二手车"
+    },
+    "description": {
+        "en": "Toyota is one of the most trusted brands when it comes to used cars at US auctions. Known for their reliability, fuel efficiency, and long-lasting performance, Toyota vehicles like the Camry, Corolla, and RAV4 are among the top picks for used car buyers. These models maintain their value over time, offer a smooth ride, and are less likely to encounter expensive repairs, making them an ideal choice for buyers looking for dependable used cars.",
+        "ru": "Toyota — один из самых надежных брендов на аукционах подержанных автомобилей в США. Известные своей надежностью, топливной экономичностью и долговечностью, такие автомобили, как Camry, Corolla и RAV4, являются одними из лучших вариантов для покупателей подержанных автомобилей.",
+        "ua": "Toyota — один з найнадійніших брендів на аукціонах вживаних авто в США. Відомі своєю надійністю, паливною економічністю і довговічністю, такі автомобілі, як Camry, Corolla і RAV4, є одними з найкращих варіантів для покупців вживаних авто.",
+        "pl": "Toyota to jedna z najbardziej zaufanych marek, jeśli chodzi o samochody używane na amerykańskich aukcjach. Znane ze swojej niezawodności, oszczędności paliwa i długotrwałej wydajności, samochody takie jak Camry, Corolla i RAV4 należą do najlepszych wyborów dla kupujących samochody używane.",
+        "de": "Toyota ist eine der vertrauenswürdigsten Marken, wenn es um Gebrauchtwagen bei US-Auktionen geht. Bekannt für ihre Zuverlässigkeit, Kraftstoffeffizienz und langlebige Leistung, sind Fahrzeuge wie Camry, Corolla und RAV4 unter den beliebtesten Optionen für Gebrauchtwagenkäufer.",
+        "be": "Toyota - адзін з самых надзейных брэндаў на аўкцыёнах аўтамабіляў у ЗША. Вядомыя сваёй надзейнасцю, эканоміяй паліва і доўгавечнасцю, такія аўтамабілі, як Camry, Corolla і RAV4, з'яўляюцца аднымі з лепшых варыянтаў для пакупнікоў б/у аўтамабіляў.",
+        "es": "Toyota es una de las marcas más confiables cuando se trata de autos usados en subastas de EE. UU. Conocidos por su confiabilidad, eficiencia de combustible y rendimiento duradero, los vehículos Toyota como el Camry, Corolla y RAV4 están entre las mejores opciones para los compradores de autos usados.",
+        "fr": "Toyota est l'une des marques les plus fiables en matière de voitures d'occasion aux enchères aux États-Unis. Connu pour leur fiabilité, leur efficacité énergétique et leurs performances durables, les véhicules Toyota tels que la Camry, la Corolla et le RAV4 figurent parmi les meilleurs choix pour les acheteurs de voitures d'occasion.",
+        "zh": "丰田是美国拍卖二手车时最值得信赖的品牌之一。 以其可靠性，燃油效率和持久性而闻名，像凯美瑞，卡罗拉和RAV4这样的丰田车型是二手车买家的首选之一。 这些车型随着时间的推移保持其价值，提供平稳的驾驶体验，并且不太可能遇到昂贵的维修费用，这使它们成为寻找可靠二手车的买家的理想选择。"
+    },
+    "models": [
+        {
+            "slug": "camry",
+            "en": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Toyota Camry",
+                "description": "Toyota Camry est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Toyota",
+                    "Camry",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Toyota Camry",
+                "description": "丰田凯美瑞是一款性能出色且豪华的高评分车型。",
+                "keywords": [
+                    "丰田",
+                    "凯美瑞",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "camry highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Camry offers a perfect blend of performance, design, and innovation. Ideal for drivers who value camry's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "corolla",
+            "en": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Toyota Corolla",
+                "description": "Toyota Corolla est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Toyota",
+                    "Corolla",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Toyota Corolla",
+                "description": "丰田卡罗拉是一款性能出色且豪华的高评分车型。",
+                "keywords": [
+                    "丰田",
+                    "卡罗拉",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "corolla highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Corolla offers a perfect blend of performance, design, and innovation. Ideal for drivers who value corolla's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "rav4",
+            "en": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Toyota RAV4",
+                "description": "Toyota RAV4 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Toyota",
+                    "RAV4",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Toyota RAV4",
+                "description": "丰田RAV4是一款性能出色且豪华的高评分车型。",
+                "keywords": [
+                    "丰田",
+                    "RAV4",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "rav4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota RAV4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rav4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "tacoma",
+            "en": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Toyota Tacoma",
+                "description": "Toyota Tacoma est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Toyota",
+                    "Tacoma",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Toyota Tacoma",
+                "description": "丰田Tacoma是一款性能出色且豪华的高评分车型。",
+                "keywords": [
+                    "丰田",
+                    "Tacoma",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "tacoma highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Tacoma offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tacoma's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "highlander",
+            "en": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander es un modelo de automóvil de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Toyota Highlander",
+                "description": "Toyota Highlander est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Toyota",
+                    "Highlander",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Toyota Highlander",
+                "description": "丰田Highlander是一款性能出色且豪华的高评分车型。",
+                "keywords": [
+                    "丰田",
+                    "Highlander",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "highlander highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Toyota Highlander offers a perfect blend of performance, design, and innovation. Ideal for drivers who value highlander's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

@@ -1,0 +1,1239 @@
+{
+    "title": "MercedesBenz",
+    "headTitle": {
+        "en": "Mercedes-Benz - Luxury Cars for Sale at US Car Auctions",
+        "ru": "Mercedes-Benz - Роскошные автомобили на продажу на аукционах автомобилей в США",
+        "ua": "Mercedes-Benz - Розкішні автомобілі на продаж на аукціонах автомобілів в США",
+        "pl": "Mercedes-Benz - Luksusowe samochody na sprzedaż na aukcjach samochodów w USA",
+        "de": "Mercedes-Benz - Luxusautos zum Verkauf bei US-Autoauktionen",
+        "be": "Mercedes-Benz — Раскошныя аўтамабілі на продаж на аўкцыёнах аўтамабіляў у ЗША",
+        "es": "Mercedes-Benz - Coches de lujo en venta en subastas de coches de EE. UU.",
+        "fr": "Mercedes-Benz - Voitures de luxe à vendre aux enchères de voitures aux États-Unis",
+        "zh": "梅赛德斯-奔驰 - 美国汽车拍卖会上出售的豪华汽车"
+    },
+    "description": {
+        "en": "Mercedes-Benz represents the pinnacle of luxury and engineering excellence, making it a sought-after brand at US used car auctions. Known for their timeless design and cutting-edge features, models like the C-Class, E-Class, and GLE offer unmatched sophistication and comfort. These vehicles are designed to deliver exceptional performance while ensuring reliability and safety, making them an excellent choice for drivers who want the best in automotive innovation.",
+        "ru": "Mercedes-Benz олицетворяет вершину роскоши и инженерного мастерства, что делает его востребованным брендом на аукционах подержанных автомобилей в США. Известные своим вневременным дизайном и передовыми функциями, такие модели, как C-Class, E-Class и GLE, предлагают непревзойденную утонченность и комфорт.",
+        "ua": "Mercedes-Benz уособлює вершину розкоші та інженерної досконалості, що робить його популярним брендом на аукціонах вживаних авто в США. Відомі своїм позачасовим дизайном і передовими функціями, моделі, такі як C-Class, E-Class і GLE, пропонують неперевершену витонченість і комфорт.",
+        "pl": "Mercedes-Benz to szczyt luksusu i doskonałości inżynieryjnej, co czyni go poszukiwanym wyborem na amerykańskich aukcjach samochodów używanych. Znane z ponadczasowego designu i zaawansowanych funkcji, modele takie jak C-Class, E-Class i GLE oferują niezrównaną elegancję i komfort.",
+        "de": "Mercedes-Benz steht für Luxus und Ingenieurskunst und ist eine begehrte Marke bei US-Gebrauchtwagenauktionen. Bekannt für zeitloses Design und fortschrittliche Funktionen bieten Modelle wie die C-Klasse, E-Klasse und GLE unvergleichliche Eleganz und Komfort.",
+        "be": "Mercedes-Benz — гэта сімвал раскошы і інжынернага майстэрства, які высока цэніцца на аўкцыёнах ЗША. Мадэлі, такія як C-Class, E-Class і GLE, адрозніваюцца вытанчаным дызайнам і інавацыйнымі тэхналогіямі.",
+        "es": "Mercedes-Benz representa la cúspide del lujo y la excelencia en ingeniería, lo que lo convierte en una marca muy solicitada en las subastas de coches usados de EE. UU. Conocidos por su diseño atemporal y sus características de vanguardia, modelos como la Clase C, la Clase E y el GLE ofrecen una sofisticación y comodidad inigualables.",
+        "fr": "Mercedes-Benz représente le summum du luxe et de l'excellence en ingénierie, ce qui en fait une marque très recherchée aux enchères de voitures d'occasion aux États-Unis. Connu pour son design intemporel et ses fonctionnalités de pointe, des modèles comme la Classe C, la Classe E et le GLE offrent une sophistication et un confort inégalés.",
+        "zh": "梅赛德斯-奔驰代表着奢华和工程卓越的顶峰，使其成为美国二手车拍卖会上备受追捧的品牌。以其永恒的设计和尖端功能而闻名，如C级、E级和GLE等车型提供无与伦比的精致和舒适。这些车辆旨在提供卓越的性能，同时确保可靠性和安全性，使它们成为追求汽车创新的驾驶员的绝佳选择。"
+    },
+    "models": [
+        {
+            "slug": "mercedes-eqc",
+            "en": {
+                "title": "Mercedes EQC",
+                "description": "A luxurious and versatile electric SUV with exceptional comfort and performance.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "luxury SUV",
+                    "electric SUV",
+                    "performance",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Mercedes EQC",
+                "description": "Роскошный и универсальный электрический внедорожник с исключительным комфортом и производительностью.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "роскошный внедорожник",
+                    "электрический внедорожник",
+                    "производительность",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Mercedes EQC",
+                "description": "Розкішний та універсальний електричний позашляховик із винятковим комфортом та продуктивністю.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "розкішний позашляховик",
+                    "електричний позашляховик",
+                    "продуктивність",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Mercedes EQC",
+                "description": "Luksusowy i wszechstronny elektryczny SUV z wyjątkowym komfortem i osiągami.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "luksusowy SUV",
+                    "elektryczny SUV",
+                    "osiągi",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Mercedes EQC",
+                "description": "Ein luxuriöser und vielseitiger Elektro-SUV mit außergewöhnlichem Komfort und Leistung.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "luxuriöser SUV",
+                    "elektrischer SUV",
+                    "Leistung",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Mercedes EQC",
+                "description": "Раскошны і універсальны электрычны пазадарожнік з выключным камфортам і прадукцыйнасцю.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "раскошны пазадарожнік",
+                    "электрычны пазадарожнік",
+                    "прадукцыйнасць",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Mercedes EQC",
+                "description": "Un SUV eléctrico lujoso y versátil con un confort y rendimiento excepcionales.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "SUV de lujo",
+                    "SUV eléctrico",
+                    "rendimiento",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Mercedes EQC",
+                "description": "Un SUV électrique luxueux et polyvalent offrant un confort et des performances exceptionnels.",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "SUV de luxe",
+                    "SUV électrique",
+                    "performance",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Mercedes EQC",
+                "description": "一款豪华多功能的电动SUV，具有出色的舒适性和性能。",
+                "keywords": [
+                    "Mercedes",
+                    "EQC",
+                    "豪华SUV",
+                    "电动SUV",
+                    "性能",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqc highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "mercedes-eqa",
+            "en": {
+                "title": "Mercedes EQA",
+                "description": "A compact electric SUV designed for urban mobility and efficiency.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "compact SUV",
+                    "electric car",
+                    "efficiency",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Mercedes EQA",
+                "description": "Компактный электрический внедорожник, созданный для городской мобильности и экономичности.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "компактный внедорожник",
+                    "электромобиль",
+                    "эффективность",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Mercedes EQA",
+                "description": "Компактний електричний позашляховик, створений для міської мобільності та ефективності.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "компактний позашляховик",
+                    "електромобіль",
+                    "ефективність",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Mercedes EQA",
+                "description": "Kompaktowy elektryczny SUV zaprojektowany z myślą o mobilności miejskiej i efektywności.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "kompaktowy SUV",
+                    "elektryczny samochód",
+                    "efektywność",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Mercedes EQA",
+                "description": "Ein kompakter Elektro-SUV, der für urbane Mobilität und Effizienz entwickelt wurde.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "kompakter SUV",
+                    "elektrisches Auto",
+                    "Effizienz",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Mercedes EQA",
+                "description": "Кампактны электрычны пазадарожнік, створаны для гарадской мабільнасці і эфектыўнасці.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "кампактны пазадарожнік",
+                    "электрамабіль",
+                    "эфектыўнасць",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Mercedes EQA",
+                "description": "Un SUV eléctrico compacto diseñado para la movilidad urbana y la eficiencia.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "SUV compacto",
+                    "coche eléctrico",
+                    "eficiencia",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Mercedes EQA",
+                "description": "Un SUV électrique compact conçu pour la mobilité urbaine et l'efficacité.",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "SUV compact",
+                    "voiture électrique",
+                    "efficacité",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Mercedes EQA",
+                "description": "一款紧凑型电动SUV，专为城市出行和效率而设计。",
+                "keywords": [
+                    "Mercedes",
+                    "EQA",
+                    "紧凑型SUV",
+                    "电动汽车",
+                    "效率",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqa highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQA offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqa's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "mercedes-eqb",
+            "en": {
+                "title": "Mercedes EQB",
+                "description": "A family-friendly electric SUV with flexible seating and advanced features.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "family SUV",
+                    "electric car",
+                    "flexible seating",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Mercedes EQB",
+                "description": "Семейный электрический внедорожник с гибкой компоновкой сидений и передовыми функциями.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "семейный внедорожник",
+                    "электромобиль",
+                    "гибкая компоновка",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Mercedes EQB",
+                "description": "Сімейний електричний позашляховик із гнучкою компоновкою сидінь і передовими функціями.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "сімейний позашляховик",
+                    "електромобіль",
+                    "гнучка компоновка",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Mercedes EQB",
+                "description": "Rodzinny elektryczny SUV z elastycznym układem siedzeń i zaawansowanymi funkcjami.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "rodzinny SUV",
+                    "elektryczny samochód",
+                    "elastyczne siedzenia",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Mercedes EQB",
+                "description": "Ein familienfreundlicher Elektro-SUV mit flexiblem Sitzkonzept und fortschrittlichen Funktionen.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "familienfreundlicher SUV",
+                    "elektrisches Auto",
+                    "flexibles Sitzen",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Mercedes EQB",
+                "description": "Сямейны электрычны пазадарожнік з гнуткай кампановкай сядзенняў і перадавымі функцыямі.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "сямейны пазадарожнік",
+                    "электрамабіль",
+                    "гнуткая кампановка",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Mercedes EQB",
+                "description": "Un SUV eléctrico familiar con asientos flexibles y funciones avanzadas.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "SUV familiar",
+                    "coche eléctrico",
+                    "asientos flexibles",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Mercedes EQB",
+                "description": "Un SUV électrique familial avec des sièges flexibles et des fonctionnalités avancées.",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "SUV familial",
+                    "voiture électrique",
+                    "sièges flexibles",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Mercedes EQB",
+                "description": "一款适合家庭使用的电动SUV，配备灵活座椅和先进功能。",
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "家庭SUV",
+                    "电动汽车",
+                    "灵活座椅",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqb highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "mercedes-eqs",
+            "en": {
+                "title": "Mercedes EQS",
+                "description": "A luxury electric sedan that redefines comfort and performance.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "luxury EV",
+                    "sedan",
+                    "performance",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Mercedes EQS",
+                "description": "Роскошный электрический седан, переосмысливающий комфорт и производительность.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "роскошный электромобиль",
+                    "седан",
+                    "производительность",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Mercedes EQS",
+                "description": "Розкішний електричний седан, що переосмислює комфорт і продуктивність.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "розкішний електромобіль",
+                    "седан",
+                    "продуктивність",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Mercedes EQS",
+                "description": "Luksusowy elektryczny sedan, który na nowo definiuje komfort i osiągi.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "luksusowy EV",
+                    "sedan",
+                    "osiągi",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Mercedes EQS",
+                "description": "Eine luxuriöse elektrische Limousine, die Komfort und Leistung neu definiert.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "luxuriöses EV",
+                    "Limousine",
+                    "Leistung",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Mercedes EQS",
+                "description": "Раскошны электрычны седан, які пераасэнсоўвае камфорт і прадукцыйнасць.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "раскошны электрамабіль",
+                    "седан",
+                    "прадукцыйнасць",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Mercedes EQS",
+                "description": "Una berlina eléctrica de lujo que redefine el confort y el rendimiento.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "EV de lujo",
+                    "berlina",
+                    "rendimiento",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Mercedes EQS",
+                "description": "Une berline électrique de luxe qui redéfinit le confort et les performances.",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "berline de luxe",
+                    "berline",
+                    "performance",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Mercedes EQS",
+                "description": "一款重新定义舒适性和性能的豪华电动轿车。",
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "豪华电动车",
+                    "轿车",
+                    "性能",
+                    "advanced features",
+                    "value for money",
+                    "mercedes-eqs highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "c-class",
+            "en": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "MercedesBenz C-Class",
+                "description": "MercedesBenz C-Class 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "MercedesBenz",
+                    "C-Class",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "c-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "e-class",
+            "en": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "MercedesBenz E-Class",
+                "description": "MercedesBenz E-Class 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "MercedesBenz",
+                    "E-Class",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "e-class highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz E-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value e-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "gle",
+            "en": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "MercedesBenz GLE",
+                "description": "MercedesBenz GLE 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLE",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "gle highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "gls",
+            "en": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "MercedesBenz GLS",
+                "description": "MercedesBenz GLS 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "MercedesBenz",
+                    "GLS",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "gls highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

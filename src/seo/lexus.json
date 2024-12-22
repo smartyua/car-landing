@@ -1,0 +1,615 @@
+{
+    "title": "Lexus",
+    "headTitle": {
+        "en": "Lexus cars for sale at US auctions",
+        "ru": "Автомобили Lexus на продажу на аукционах в США",
+        "ua": "Автомобілі Lexus на продаж на аукціонах в США",
+        "pl": "Samochody Lexus na sprzedaż na aukcjach w USA",
+        "de": "Lexus-Autos zum Verkauf bei US-Auktionen",
+        "be": "Аўтамабілі Lexus на продаж на аўкцыёнах у ЗША",
+        "es": "Coches Lexus en venta en subastas de EE. UU.",
+        "fr": "Voitures Lexus à vendre aux enchères aux États-Unis",
+        "zh": "Lexus汽车在美国拍卖出售"
+    },
+    "description": {
+        "en": "Lexus vehicles are renowned for their luxury, performance, and reliability, making them a top choice at US used car auctions. With elegant design and advanced technology, Lexus models like the RX, ES, and NX offer a premium driving experience. These cars are built to last, providing excellent value with low maintenance costs and outstanding durability, making them perfect for those who demand both comfort and quality.",
+        "ru": "Автомобили Lexus известны своим люксом, производительностью и надежностью, что делает их одним из лучших выборов на аукционах подержанных автомобилей в США. Благодаря элегантному дизайну и передовым технологиям, модели Lexus, такие как RX, ES и NX, обеспечивают премиальный опыт вождения. Эти автомобили создаются на долгие годы, предоставляя отличное соотношение цены и качества.",
+        "ua": "Автомобілі Lexus відомі своєю розкішшю, продуктивністю та надійністю, що робить їх одним з найкращих варіантів на аукціонах вживаних авто в США. Завдяки елегантному дизайну та передовим технологіям, моделі Lexus, такі як RX, ES і NX, забезпечують преміальний досвід водіння. Ці автомобілі створені на довгі роки, пропонуючи чудове співвідношення ціни та якості.",
+        "pl": "Samochody Lexus są znane z luksusu, wydajności i niezawodności, co czyni je jednym z najlepszych wyborów na amerykańskich aukcjach samochodów używanych. Dzięki eleganckiemu designowi i zaawansowanej technologii modele Lexus, takie jak RX, ES i NX, oferują doskonałe wrażenia z jazdy. Te samochody są budowane na lata, zapewniając świetną wartość przy niskich kosztach utrzymania.",
+        "de": "Lexus-Fahrzeuge sind bekannt für ihren Luxus, ihre Leistung und Zuverlässigkeit und gehören zu den besten Optionen bei US-Gebrauchtwagenauktionen. Mit elegantem Design und fortschrittlicher Technologie bieten Lexus-Modelle wie der RX, ES und NX ein erstklassiges Fahrerlebnis. Diese Fahrzeuge sind langlebig und bieten ein hervorragendes Preis-Leistungs-Verhältnis.",
+        "be": "Аўтамабілі Lexus славяцца раскошай, прадукцыйнасцю і надзейнасцю, што робіць іх адным з лепшых варыянтаў на аўкцыёнах ЗША. З элегантным дызайнам і перадавымі тэхналогіямі мадэлі RX, ES і NX забяспечваюць прэміум-клас досведу кіравання.",
+        "es": "Los vehículos Lexus son conocidos por su lujo, rendimiento y fiabilidad, lo que los convierte en una de las mejores opciones en las subastas de autos usados en EE. UU. Con un diseño elegante y tecnología avanzada, modelos como el RX, ES y NX ofrecen una experiencia de conducción premium. Estos autos están diseñados para durar, brindando un excelente valor con bajos costos de mantenimiento y una durabilidad excepcional.",
+        "fr": "Les véhicules Lexus sont réputés pour leur luxe, leurs performances et leur fiabilité, ce qui en fait un choix de premier plan aux enchères de voitures d'occasion aux États-Unis. Avec un design élégant et une technologie avancée, des modèles comme le RX, l'ES et le NX offrent une expérience de conduite haut de gamme. Ces voitures sont conçues pour durer, offrant une excellente valeur avec des coûts d'entretien réduits et une durabilité exceptionnelle.",
+        "zh": "Lexus汽车以其豪华、性能和可靠性而闻名，使其成为美国二手车拍卖会上的首选之一。凭借优雅的设计和先进的技术，像RX、ES和NX这样的Lexus车型提供了一流的驾驶体验。这些汽车经久耐用，提供出色的性价比。"
+    },
+    "models": [
+        {
+            "slug": "rx",
+            "en": {
+                "title": "Lexus RX",
+                "description": "Lexus RX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Lexus RX",
+                "description": "Lexus RX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Lexus RX",
+                "description": "Lexus RX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Lexus RX",
+                "description": "Lexus RX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Lexus RX",
+                "description": "Lexus RX es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Lexus RX",
+                "description": "Lexus RX est un modèle de voiture haut de gamme offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Lexus RX",
+                "description": "Lexus RX是一款性能和豪华并存的顶级车型。",
+                "keywords": [
+                    "Lexus",
+                    "RX",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "rx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus RX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value rx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "es",
+            "en": {
+                "title": "Lexus ES",
+                "description": "Lexus ES is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Lexus ES",
+                "description": "Lexus ES to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Lexus ES",
+                "description": "Lexus ES ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Lexus ES",
+                "description": "Lexus ES — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Lexus ES",
+                "description": "Lexus ES es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Lexus ES",
+                "description": "Lexus ES est un modèle de voiture haut de gamme offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Lexus ES",
+                "description": "Lexus ES是一款性能和豪华并存的顶级车型。",
+                "keywords": [
+                    "Lexus",
+                    "ES",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "es highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus ES offers a perfect blend of performance, design, and innovation. Ideal for drivers who value es's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "nx",
+            "en": {
+                "title": "Lexus NX",
+                "description": "Lexus NX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Lexus NX",
+                "description": "Lexus NX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Lexus NX",
+                "description": "Lexus NX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Lexus NX",
+                "description": "Lexus NX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Lexus NX",
+                "description": "Lexus NX es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Lexus NX",
+                "description": "Lexus NX est un modèle de voiture haut de gamme offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Lexus NX",
+                "description": "Lexus NX是一款性能和豪华并存的顶级车型。",
+                "keywords": [
+                    "Lexus",
+                    "NX",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "nx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus NX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value nx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "gx",
+            "en": {
+                "title": "Lexus GX",
+                "description": "Lexus GX is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Lexus GX",
+                "description": "Lexus GX to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Lexus GX",
+                "description": "Lexus GX ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Lexus GX",
+                "description": "Lexus GX — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Lexus GX",
+                "description": "Lexus GX es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Lexus GX",
+                "description": "Lexus GX est un modèle de voiture haut de gamme offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "Lexus GX",
+                "description": "Lexus GX是一款性能和豪华并存的顶级车型。",
+                "keywords": [
+                    "Lexus",
+                    "GX",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "gx highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Lexus GX offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gx's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

@@ -1,0 +1,909 @@
+{
+    "title": "Tesla",
+    "headTitle": {
+        "en": "Tesla cars for sale at US car auctions",
+        "ru": "Автомобили Tesla на продажу на аукционах автомобилей в США",
+        "ua": "Автомобілі Tesla на продаж на аукціонах автомобілів в США",
+        "pl": "Samochody Tesla na sprzedaż na aukcjach samochodowych w USA",
+        "de": "Tesla-Autos zu verkaufen bei US-Autoauktionen",
+        "be": "Аўтамабілі Tesla на продаж на аўкцыёнах аўтамабіляў у ЗША",
+        "es": "Coches Tesla en venta en subastas de coches de EE. UU.",
+        "zh": "特斯拉汽车在美国汽车拍卖会上出售",
+        "fr": "Voitures Tesla à vendre aux enchères de voitures aux États-Unis"
+    },
+    "description": {
+        "en": "Tesla is synonymous with innovation and sustainability, making it an exceptional choice at US used car auctions. With cutting-edge electric technology, models like the Model 3, Model S, and Model X offer impressive performance, long-range capabilities, and eco-friendly benefits. Tesla vehicles are increasingly popular among those seeking modern electric vehicles with advanced features and high resale value.",
+        "ru": "Tesla ассоциируется с инновациями и устойчивостью, что делает ее отличным выбором на аукционах подержанных автомобилей в США. С передовыми электрифицированными технологиями модели, такие как Model 3, Model S и Model X, предлагают впечатляющую производительность, большую дальность и экологически чистые преимущества.",
+        "ua": "Tesla асоціюється з інноваціями та стійкістю, що робить її чудовим вибором на аукціонах вживаних авто в США. З передовими електричними технологіями моделі, такі як Model 3, Model S та Model X, пропонують вражаючу продуктивність, велику дальність і екологічні переваги.",
+        "pl": "Tesla kojarzy się z innowacjami i zrównoważonym rozwojem, co czyni ją doskonałym wyborem na amerykańskich aukcjach samochodów używanych. Dzięki nowoczesnym technologiom elektrycznym modele takie jak Model 3, Model S i Model X oferują imponującą wydajność, duży zasięg i korzyści ekologiczne.",
+        "de": "Tesla ist gleichbedeutend mit Innovation und Nachhaltigkeit und damit eine ausgezeichnete Wahl bei US-Gebrauchtwagenauktionen. Mit fortschrittlicher Elektrotechnologie bieten Modelle wie Model 3, Model S und Model X beeindruckende Leistung, große Reichweiten und umweltfreundliche Vorteile.",
+        "be": "Tesla асацыюецца з інавацыямі і ўстойлівасцю, што робіць яе выдатным выбарам на аўкцыёнах ЗША. З перадавымі электрычнымі тэхналогіямі мадэлі, такія як Model 3, Model S і Model X, прапануюць уражлівую прадукцыйнасць, вялікую дальнабойнасць і экалагічныя перавагі.",
+        "es": "Tesla es sinónimo de innovación y sostenibilidad, lo que la convierte en una elección excepcional en las subastas de coches usados de EE. UU. Con tecnología eléctrica de vanguardia, modelos como el Model 3, Model S y Model X ofrecen un rendimiento impresionante, capacidades de largo alcance y beneficios ecológicos.",
+        "zh": "特斯拉是创新和可持续性的代名词，使其成为美国二手车拍卖会上的一个特殊选择。凭借先进的电动技术，Model 3、Model S 和 Model X 等车型提供了令人印象深刻的性能、长途驾驶能力和环保优势。特斯拉汽车越来越受到那些寻求现代电动汽车、具有先进功能和高二手价值的人的欢迎。",
+        "fr": "Tesla est synonyme d'innovation et de durabilité, ce qui en fait un choix exceptionnel aux enchères de voitures d'occasion aux États-Unis. Avec une technologie électrique de pointe, des modèles comme la Model 3, la Model S et la Model X offrent des performances impressionnantes, des capacités longue distance et des avantages écologiques."
+    },
+    "models": [
+        {
+            "slug": "model-3",
+            "en": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Model 3",
+                "description": "特斯拉 Model 3 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Model 3",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Model 3",
+                "description": "Tesla Model 3 est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Model 3",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "model-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "model-s",
+            "en": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Model S",
+                "description": "特斯拉 Model S 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Model S",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Model S",
+                "description": "Tesla Model S est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Model S",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "model-s highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "model-x",
+            "en": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Model X",
+                "description": "特斯拉 Model X 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Model X",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Model X",
+                "description": "Tesla Model X est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Model X",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "model-x highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "model-y",
+            "en": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Model Y",
+                "description": "特斯拉 Model Y 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Model Y",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Model Y",
+                "description": "Tesla Model Y est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Model Y",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "model-y highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "roadster",
+            "en": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Roadster",
+                "description": "特斯拉 Roadster 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Roadster",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Roadster",
+                "description": "Tesla Roadster est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Roadster",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "roadster highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "cybertruck",
+            "en": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "特斯拉 Cybertruck",
+                "description": "特斯拉 Cybertruck 是一款性能出色、豪华的高评分车型。",
+                "keywords": [
+                    "特斯拉",
+                    "Cybertruck",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "特斯拉 Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Tesla Cybertruck",
+                "description": "Tesla Cybertruck est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "cybertruck highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

@@ -1,0 +1,963 @@
+{
+    "title": "Audi Electric Vehicles",
+    "headTitle": {
+        "en": "Audi Electric Vehicles | Audi USA",
+        "ru": "Электромобили Audi | Audi USA",
+        "ua": "Електромобілі Audi | Audi USA",
+        "pl": "Samochody elektryczne Audi | Audi USA",
+        "de": "Audi Elektrofahrzeuge | Audi USA",
+        "be": "Электрамабілі Audi | Audi USA",
+        "es": "Vehículos Eléctricos Audi | Audi USA",
+        "zh": "奥迪电动车 | 奥迪美国",
+        "fr": "Véhicules électriques Audi | Audi USA"
+    },
+    "description": {
+        "en": "Explore the complete lineup of Audi electric vehicles, blending cutting-edge technology with luxury and performance. From compact models to spacious SUVs, Audi offers innovation for every driver.",
+        "ru": "Исследуйте весь модельный ряд электромобилей Audi, сочетающих передовые технологии с роскошью и производительностью. От компактных моделей до просторных внедорожников, Audi предлагает инновации для каждого.",
+        "ua": "Ознайомтеся з повним асортиментом електромобілів Audi, які поєднують передові технології з розкішшю та продуктивністю.",
+        "pl": "Poznaj pełną gamę samochodów elektrycznych Audi, łączących najnowsze technologie z luksusem i wydajnością.",
+        "de": "Entdecken Sie die komplette Palette der Audi-Elektrofahrzeuge, die Spitzentechnologie mit Luxus und Leistung verbinden.",
+        "be": "Даследуйце поўны асартымент электрамабіляў Audi, якія спалучаюць перадавыя тэхналогіі з раскошай і прадукцыйнасцю.",
+        "es": "Descubra la gama completa de vehículos eléctricos Audi, que combina tecnología de vanguardia con lujo y rendimiento. Desde modelos compactos hasta SUV espaciosos, Audi ofrece innovación para cada conductor.",
+        "zh": "探索奥迪电动车的完整阵容，将尖端技术与奢华性能完美结合。从紧凑型车型到宽敞的SUV，奥迪为每位驾驶者提供创新选择。",
+        "fr": "Découvrez la gamme complète des véhicules électriques Audi, alliant technologie de pointe, luxe et performances. Des modèles compacts aux SUV spacieux, Audi propose des innovations pour chaque conducteur."
+    },
+    "models": [
+        {
+            "slug": "audi-q4-e-tron-family",
+            "en": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "A compact electric SUV family Audi Q4 e-tron, offering versatility and urban efficiency.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "compact SUV",
+                    "electric family",
+                    "urban efficiency",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Компактное семейство электрических внедорожников Audi Q4 e-tron, предлагающее универсальность и городскую эффективность.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "компактный внедорожник",
+                    "электрическое семейство",
+                    "городская эффективность",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Компактна родина електричних позашляховиків Audi Q4 e-tron, що пропонує універсальність та міську ефективність.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "компактний позашляховик",
+                    "електрична родина",
+                    "міська ефективність",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Kompaktowa rodzina elektrycznych SUV-ów oferująca wszechstronność i miejską wydajność.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "kompaktowy SUV",
+                    "elektryczna rodzina",
+                    "miejska wydajność",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Eine kompakte Familie von Elektro-SUVs, die Vielseitigkeit und städtische Effizienz bietet.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "kompakter SUV",
+                    "elektrische Familie",
+                    "städtische Effizienz",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi Q4 e-tron® Family",
+                "description": "Кампактнае сямейства электрычных пазадарожнікаў, якое прапануе ўніверсальнасць і гарадскую эфектыўнасць.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "кампактны пазадарожнік",
+                    "электрычнае сямейства",
+                    "гарадская эфектыўнасць",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q4 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Familia Audi Q4 e-tron®",
+                "description": "Una familia de SUV eléctricos compactos Audi Q4 e-tron, que ofrece versatilidad y eficiencia urbana.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "SUV compacto",
+                    "familia eléctrica",
+                    "eficiencia urbana",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Familia Audi Q4 e-tron® offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪Q4 e-tron®系列",
+                "description": "紧凑型电动SUV系列奥迪Q4 e-tron，提供多功能性和城市效率。",
+                "keywords": [
+                    "奥迪",
+                    "Q4 e-tron",
+                    "紧凑型SUV",
+                    "电动系列",
+                    "城市效率",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪Q4 e-tron®系列 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Famille Audi Q4 e-tron®",
+                "description": "Une famille de SUV électriques compacts Audi Q4 e-tron, offrant polyvalence et efficacité urbaine.",
+                "keywords": [
+                    "Audi",
+                    "Q4 e-tron",
+                    "SUV compact",
+                    "famille électrique",
+                    "efficacité urbaine",
+                    "advanced features",
+                    "value for money",
+                    "audi-q4-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Famille Audi Q4 e-tron® offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q4-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "audi-q6-e-tron-family",
+            "en": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "A bold electric SUV family with spacious interiors and cutting-edge features.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "electric SUV",
+                    "spacious",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смелое семейство электрических внедорожников с просторными интерьерами и передовыми функциями.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "электрический внедорожник",
+                    "просторный",
+                    "передовые функции",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смілива родина електричних позашляховиків із просторими інтер'єрами та передовими функціями.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "електричний позашляховик",
+                    "просторий",
+                    "передові функції",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Śmiała rodzina elektrycznych SUV-ów z przestronnymi wnętrzami i zaawansowanymi funkcjami.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "elektryczny SUV",
+                    "przestronny",
+                    "zaawansowane funkcje",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Eine mutige Familie von Elektro-SUVs mit geräumigen Innenräumen und fortschrittlichen Funktionen.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "elektrischer SUV",
+                    "geräumig",
+                    "fortschrittliche Funktionen",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi Q6 e-tron® Family",
+                "description": "Смелая сям'я электрычных пазадарожнікаў з прасторнымі інтэр'ерамі і сучаснымі функцыямі.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "электрычны пазадарожнік",
+                    "прасторны",
+                    "сучасныя функцыі",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q6 e-tron® Family offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Familia Audi Q6 e-tron®",
+                "description": "Una audaz familia de SUV eléctricos con interiores espaciosos y funciones de vanguardia.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "SUV eléctrico",
+                    "espacioso",
+                    "funciones avanzadas",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Familia Audi Q6 e-tron® offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪Q6 e-tron®系列",
+                "description": "大胆的电动SUV系列，拥有宽敞的内饰和尖端功能。",
+                "keywords": [
+                    "奥迪",
+                    "Q6 e-tron",
+                    "电动SUV",
+                    "宽敞",
+                    "先进功能",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪Q6 e-tron®系列 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Famille Audi Q6 e-tron®",
+                "description": "Une famille audacieuse de SUV électriques avec des intérieurs spacieux et des fonctionnalités de pointe.",
+                "keywords": [
+                    "Audi",
+                    "Q6 e-tron",
+                    "SUV électrique",
+                    "spacieux",
+                    "fonctionnalités avancées",
+                    "advanced features",
+                    "value for money",
+                    "audi-q6-e-tron-family highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Famille Audi Q6 e-tron® offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q6-e-tron-family's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "audi-a3",
+            "en": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi A3",
+                "description": "Audi A3 сочетает компактную роскошь с динамичной производительностью и современными технологиями.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "компактная роскошь",
+                    "производительность",
+                    "технологии",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi A3",
+                "description": "Audi A3 combines compact luxury with dynamic performance and modern technology.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "compact luxury",
+                    "performance",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Audi A3",
+                "description": "El Audi A3 combina lujo compacto con un rendimiento dinámico y tecnología moderna.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "lujo compacto",
+                    "rendimiento",
+                    "tecnología",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪A3",
+                "description": "奥迪A3将紧凑型豪华与动态性能和现代技术相结合。",
+                "keywords": [
+                    "奥迪",
+                    "A3",
+                    "紧凑型豪华",
+                    "性能",
+                    "技术",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Audi A3",
+                "description": "L'Audi A3 combine le luxe compact avec des performances dynamiques et une technologie moderne.",
+                "keywords": [
+                    "Audi",
+                    "A3",
+                    "luxe compact",
+                    "performance",
+                    "technologie",
+                    "advanced features",
+                    "value for money",
+                    "audi-a3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "audi-a4",
+            "en": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi A4",
+                "description": "Audi A4 является символом премиального качества, предлагая плавную езду и передовые функции.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "премиальное качество",
+                    "плавная езда",
+                    "современные функции",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi A4",
+                "description": "Audi A4 is a symbol of premium quality, offering a smooth ride and advanced features.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "premium quality",
+                    "smooth ride",
+                    "advanced features",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Audi A4",
+                "description": "El Audi A4 es un símbolo de calidad premium, que ofrece una conducción suave y funciones avanzadas.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "calidad premium",
+                    "conducción suave",
+                    "funciones avanzadas",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪A4",
+                "description": "奥迪A4是优质品质的象征，提供平稳的驾驶和先进的功能。",
+                "keywords": [
+                    "奥迪",
+                    "A4",
+                    "优质品质",
+                    "平稳驾驶",
+                    "先进功能",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Audi A4",
+                "description": "L'Audi A4 est un symbole de qualité premium, offrant une conduite souple et des fonctionnalités avancées.",
+                "keywords": [
+                    "Audi",
+                    "A4",
+                    "qualité premium",
+                    "conduite souple",
+                    "fonctionnalités avancées",
+                    "advanced features",
+                    "value for money",
+                    "audi-a4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi A4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-a4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "audi-q5",
+            "en": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 предлагает идеальное сочетание роскоши, производительности и универсальности в сегменте SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "роскошный SUV",
+                    "производительность",
+                    "универсальность",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi Q5",
+                "description": "Audi Q5 offers the perfect balance of luxury, performance, and versatility in an SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "luxury SUV",
+                    "performance",
+                    "versatility",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Audi Q5",
+                "description": "El Audi Q5 ofrece el equilibrio perfecto entre lujo, rendimiento y versatilidad en un SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "SUV de lujo",
+                    "rendimiento",
+                    "versatilidad",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪Q5",
+                "description": "奥迪Q5在SUV中提供了奢华、性能和多功能性的完美平衡。",
+                "keywords": [
+                    "奥迪",
+                    "Q5",
+                    "豪华SUV",
+                    "性能",
+                    "多功能性",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Audi Q5",
+                "description": "L'Audi Q5 offre l'équilibre parfait entre luxe, performances et polyvalence dans un SUV.",
+                "keywords": [
+                    "Audi",
+                    "Q5",
+                    "SUV de luxe",
+                    "performance",
+                    "polyvalence",
+                    "advanced features",
+                    "value for money",
+                    "audi-q5 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q5 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q5's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "audi-q7",
+            "en": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 — это полноразмерный роскошный SUV, известный своим просторным салоном и передовыми технологиями.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "роскошный SUV",
+                    "просторный салон",
+                    "технологии",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Audi Q7",
+                "description": "Audi Q7 is a full-size luxury SUV known for its spacious interior and state-of-the-art technology.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "luxury SUV",
+                    "spacious interior",
+                    "technology",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Audi Q7",
+                "description": "El Audi Q7 es un SUV de lujo de tamaño completo conocido por su interior espacioso y tecnología de vanguardia.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "SUV de lujo",
+                    "interior espacioso",
+                    "tecnología",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "奥迪Q7",
+                "description": "奥迪Q7是一款全尺寸豪华SUV，以其宽敞的内饰和尖端技术而闻名。",
+                "keywords": [
+                    "奥迪",
+                    "Q7",
+                    "豪华SUV",
+                    "宽敞内饰",
+                    "技术",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "奥迪Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Audi Q7",
+                "description": "L'Audi Q7 est un SUV de luxe de grande taille connu pour son intérieur spacieux et sa technologie de pointe.",
+                "keywords": [
+                    "Audi",
+                    "Q7",
+                    "SUV de luxe",
+                    "intérieur spacieux",
+                    "technologie",
+                    "advanced features",
+                    "value for money",
+                    "audi-q7 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Audi Q7 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value audi-q7's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}

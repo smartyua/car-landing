@@ -1,0 +1,762 @@
+{
+    "title": "Ford",
+    "headTitle": {
+        "en": "Ford cars for sale at US auctions",
+        "ru": "Автомобили Ford на продажу на аукционах в США",
+        "ua": "Автомобілі Ford на продаж на аукціонах в США",
+        "pl": "Samochody Ford na sprzedaż na aukcjach w USA",
+        "de": "Ford-Autos zum Verkauf bei US-Auktionen",
+        "be": "Аўтамабілі Ford на продаж на аўкцыёнах у ЗША",
+        "es": "Coches Ford en venta en subastas en EE. UU.",
+        "zh": "Ford汽车在美国拍卖出售",
+        "fr": "Voitures Ford à vendre aux enchères aux États-Unis"
+    },
+    "description": {
+        "en": "Ford is a name synonymous with quality and innovation, making it a top choice for used car buyers at US auctions. With a legacy of producing reliable, versatile vehicles, Ford caters to a variety of preferences, from robust trucks like the F-150 to family-friendly SUVs and sedans. These vehicles are known for their affordability, efficiency, and cutting-edge technology, making them a practical and enduring choice. Whether you need a dependable workhorse or a sleek commuter car, Ford's diverse lineup has you covered.",
+        "ru": "Ford — это имя, которое ассоциируется с качеством и инновациями, что делает его отличным выбором для покупателей подержанных автомобилей на аукционах в США. Благодаря наследию надежных и универсальных автомобилей, Ford удовлетворяет самые разные предпочтения — от мощных грузовиков, таких как F-150, до семейных внедорожников и седанов. Эти автомобили известны своей доступностью, экономичностью и передовыми технологиями, что делает их практичным и долговечным выбором. Независимо от того, нужен ли вам надежный рабочий автомобиль или стильный автомобиль для ежедневных поездок, разнообразие моделей Ford вас не разочарует.",
+        "ua": "Ford — це ім'я, що асоціюється з якістю та інноваціями, що робить його чудовим вибором для покупців уживаних автомобілів на аукціонах у США. Завдяки спадщині надійних і універсальних автомобілів, Ford задовольняє різноманітні вподобання — від потужних вантажівок, таких як F-150, до сімейних позашляховиків і седанів. Ці автомобілі відомі своєю доступністю, економічністю та передовими технологіями, що робить їх практичним і довговічним вибором.",
+        "pl": "Ford to nazwa kojarzona z jakością i innowacyjnością, co czyni go doskonałym wyborem dla kupujących używane samochody na aukcjach w USA. Dzięki dziedzictwu produkcji niezawodnych i wszechstronnych pojazdów Ford zaspokaja różnorodne preferencje — od solidnych ciężarówek, takich jak F-150, po rodzinne SUV-y i sedany. Pojazdy te są znane ze swojej przystępności, efektywności i zaawansowanej technologii, co czyni je praktycznym i trwałym wyborem.",
+        "de": "Ford ist ein Name, der mit Qualität und Innovation gleichbedeutend ist, was ihn zu einer erstklassigen Wahl für Gebrauchtwagenkäufer bei US-Auktionen macht. Mit einer Tradition der Herstellung zuverlässiger und vielseitiger Fahrzeuge bedient Ford eine Vielzahl von Vorlieben, von robusten Lastwagen wie dem F-150 bis hin zu familienfreundlichen SUVs und Limousinen. Diese Fahrzeuge sind für ihre Erschwinglichkeit, Effizienz und Spitzentechnologie bekannt, was sie zu einer praktischen und langlebigen Wahl macht.",
+        "be": "Ford — гэта імя, якое асацыюецца з якасцю і інавацыямі, што робіць яго выдатным выбарам для пакупнікоў аўтамабіляў на аўкцыёнах у ЗША. Дзякуючы спадчыне надзейных і універсальных аўтамабіляў, Ford задавальняе розныя перавагі — ад магутных грузавікоў, такіх як F-150, да сямейных пазадарожнікаў і седанаў. Гэтыя аўтамабілі вядомыя сваёй даступнасцю, эканамічнасцю і перадавымі тэхналогіямі.",
+        "es": "Ford es un nombre sinónimo de calidad e innovación, lo que lo convierte en una opción principal para los compradores de automóviles usados en las subastas de EE. UU. Con un legado de producción de vehículos confiables y versátiles, Ford satisface una variedad de preferencias, desde camionetas robustas como la F-150 hasta SUV y sedanes familiares. Estos vehículos son conocidos por su asequibilidad, eficiencia y tecnología de vanguardia, lo que los convierte en una elección práctica y duradera. Ya sea que necesite un caballo de batalla confiable o un elegante automóvil para desplazarse, la diversa línea de Ford lo tiene cubierto.",
+        "zh": "Ford 是质量和创新的代名词，使其成为美国拍卖二手车买家的首选。Ford 以生产可靠、多功能的车辆而闻名，满足各种喜好，从像 F-150 这样的强大卡车到适合家庭的 SUV 和轿车。这些车辆以价格实惠、高效和尖端技术而闻名，使其成为实用且持久的选择。无论您需要可靠的工作马或时尚的通勤车，Ford 多样化的车型都能满足您的需求。",
+        "fr": "Ford est un nom synonyme de qualité et d'innovation, ce qui en fait un choix de premier plan pour les acheteurs de voitures d'occasion aux enchères aux États-Unis. Avec un héritage de production de véhicules fiables et polyvalents, Ford répond à une variété de préférences, des robustes camions comme le F-150 aux SUV et berlines familiales. Ces véhicules sont connus pour leur abordabilité, leur efficacité et leur technologie de pointe, ce qui en fait un choix pratique et durable. Que vous ayez besoin d'un cheval de bataille fiable ou d'une voiture de banlieue élégante, la gamme diversifiée de Ford a ce qu'il vous faut."
+    },
+    "models": [
+        {
+            "slug": "f-150",
+            "en": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "car",
+                    "luxury",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "автомобиль",
+                    "роскошь",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "автомобіль",
+                    "розкіш",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "samochód",
+                    "luksus",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "Auto",
+                    "Luxus",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "аўтамабіль",
+                    "раскоша",
+                    "f-150 performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford F-150 stands out as an exceptional choice in its category. Known for its f-150 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "coche",
+                    "lujo",
+                    "rendimiento f-150",
+                    "funciones de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Ford F-150 destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de f-150, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "汽车",
+                    "豪华",
+                    "f-150 性能",
+                    "先进的安全功能",
+                    "用户友好界面",
+                    "创新设计",
+                    "最佳效率"
+                ],
+                "text": "Ford F-150 在其类别中脱颖而出，是一个卓越的选择。以其 f-150 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Ford F-150",
+                "description": "Ford F-150 est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Ford",
+                    "F-150",
+                    "voiture",
+                    "luxe",
+                    "performance f-150",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Ford F-150 se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de f-150, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "mustang-ev",
+            "en": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "car",
+                    "luxury",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "автомобиль",
+                    "роскошь",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "автомобіль",
+                    "розкіш",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "samochód",
+                    "luksus",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "Auto",
+                    "Luxus",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "аўтамабіль",
+                    "раскоша",
+                    "mustang mach-e performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang Mach-E stands out as an exceptional choice in its category. Known for its mustang mach-e signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "coche",
+                    "lujo",
+                    "rendimiento mustang mach-e",
+                    "funciones de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Ford Mustang Mach-E destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de mustang mach-e, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "汽车",
+                    "豪华",
+                    "mustang mach-e 性能",
+                    "先进的安全功能",
+                    "用户友好界面",
+                    "创新设计",
+                    "最佳效率"
+                ],
+                "text": "Ford Mustang Mach-E 在其类别中脱颖而出，是一个卓越的选择。以其 mustang mach-e 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Ford Mustang Mach-E",
+                "description": "Ford Mustang Mach-E est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Ford",
+                    "Mustang Mach-E",
+                    "voiture",
+                    "luxe",
+                    "performance mustang mach-e",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Ford Mustang Mach-E se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de mustang mach-e, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "explorer",
+            "en": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "car",
+                    "luxury",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "автомобиль",
+                    "роскошь",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "автомобіль",
+                    "розкіш",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "samochód",
+                    "luksus",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "Auto",
+                    "Luxus",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "аўтамабіль",
+                    "раскоша",
+                    "explorer performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Explorer stands out as an exceptional choice in its category. Known for its explorer signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "coche",
+                    "lujo",
+                    "rendimiento explorer",
+                    "funciones de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Ford Explorer destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de explorer, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "汽车",
+                    "豪华",
+                    "explorer 性能",
+                    "先进的安全功能",
+                    "用户友好界面",
+                    "创新设计",
+                    "最佳效率"
+                ],
+                "text": "Ford Explorer 在其类别中脱颖而出，是一个卓越的选择。以其 explorer 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Ford Explorer",
+                "description": "Ford Explorer est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Ford",
+                    "Explorer",
+                    "voiture",
+                    "luxe",
+                    "performance explorer",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Ford Explorer se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives d'explorer, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "escape",
+            "en": {
+                "title": "Ford Escape",
+                "description": "Ford Escape is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "car",
+                    "luxury",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Ford Escape",
+                "description": "Ford Escape — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "автомобиль",
+                    "роскошь",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Ford Escape",
+                "description": "Ford Escape — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "автомобіль",
+                    "розкіш",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Ford Escape",
+                "description": "Ford Escape to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "samochód",
+                    "luksus",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Ford Escape",
+                "description": "Ford Escape ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "Auto",
+                    "Luxus",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Ford Escape",
+                "description": "Ford Escape — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "аўтамабіль",
+                    "раскоша",
+                    "escape performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Escape stands out as an exceptional choice in its category. Known for its escape signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Ford Escape",
+                "description": "Ford Escape es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "coche",
+                    "lujo",
+                    "rendimiento escape",
+                    "funciones de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Ford Escape destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de escape, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Ford Escape",
+                "description": "Ford Escape 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "汽车",
+                    "豪华",
+                    "escape 性能",
+                    "先进的安全功能",
+                    "用户友好界面",
+                    "创新设计",
+                    "最佳效率"
+                ],
+                "text": "Ford Escape 在其类别中脱颖而出，是一个卓越的选择。以其 escape 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Ford Escape",
+                "description": "Ford Escape est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Ford",
+                    "Escape",
+                    "voiture",
+                    "luxe",
+                    "performance escape",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Ford Escape se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives d'escape, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        },
+        {
+            "slug": "mustang",
+            "en": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "car",
+                    "luxury",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ru": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "автомобиль",
+                    "роскошь",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "ua": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "автомобіль",
+                    "розкіш",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "pl": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "samochód",
+                    "luksus",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "de": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "Auto",
+                    "Luxus",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "be": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "аўтамабіль",
+                    "раскоша",
+                    "mustang performance",
+                    "advanced safety features",
+                    "user-friendly interface",
+                    "innovative design",
+                    "optimal efficiency"
+                ],
+                "text": "The Ford Mustang stands out as an exceptional choice in its category. Known for its mustang signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+            },
+            "es": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "coche",
+                    "lujo",
+                    "rendimiento mustang",
+                    "funciones de seguridad avanzadas",
+                    "interfaz fácil de usar",
+                    "diseño innovador",
+                    "eficiencia óptima"
+                ],
+                "text": "El Ford Mustang destaca como una elección excepcional en su categoría. Conocido por sus características distintivas de mustang, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Entre los aspectos más destacados se incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
+            },
+            "zh": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang 是一款备受好评的汽车型号，提供出色的性能和豪华。",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "汽车",
+                    "豪华",
+                    "mustang 性能",
+                    "先进的安全功能",
+                    "用户友好界面",
+                    "创新设计",
+                    "最佳效率"
+                ],
+                "text": "Ford Mustang 在其类别中脱颖而出，是一个卓越的选择。以其 mustang 的标志性功能而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+            },
+            "fr": {
+                "title": "Ford Mustang",
+                "description": "Ford Mustang est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "keywords": [
+                    "Ford",
+                    "Mustang",
+                    "voiture",
+                    "luxe",
+                    "performance mustang",
+                    "fonctionnalités de sécurité avancées",
+                    "interface conviviale",
+                    "design innovant",
+                    "efficacité optimale"
+                ],
+                "text": "La Ford Mustang se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques distinctives de mustang, ce modèle combine technologie de pointe, confort et performance. Axé sur la sécurité et la fiabilité, il convient aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Parmi les points forts figurent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+            }
+        }
+    ]
+}

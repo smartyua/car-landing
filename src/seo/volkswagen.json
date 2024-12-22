@@ -1,0 +1,909 @@
+{
+    "title": "Volkswagen",
+    "headTitle": {
+        "en": "Volkswagen cars for sale at US auctions",
+        "ru": "Автомобили Volkswagen на продажу на аукционах в США",
+        "ua": "Автомобілі Volkswagen на продаж на аукціонах в США",
+        "pl": "Samochody Volkswagen na sprzedaż na aukcjach w USA",
+        "de": "Volkswagen-Autos zum Verkauf auf US-Auktionen",
+        "be": "Аўтамабілі Volkswagen на продаж на аўкцыёнах у ЗША",
+        "es": "Coches Volkswagen en venta en subastas de EE. UU.",
+        "fr": "Voitures Volkswagen à vendre aux enchères aux États-Unis",
+        "zh": "大众汽车在美国拍卖中出售"
+    },
+    "description": {
+        "en": "Volkswagen cars are known for their solid build quality, safety features, and efficient performance. Popular models like the Jetta, Passat, and Tiguan are excellent options for those looking for affordable and reliable used vehicles at US auctions. With a reputation for longevity and low maintenance costs, Volkswagen vehicles offer great value for anyone in the market for a dependable used car.",
+        "ru": "Автомобили Volkswagen известны своей прочной конструкцией, безопасностью и эффективностью. Популярные модели, такие как Jetta, Passat и Tiguan, являются отличным выбором для тех, кто ищет доступные и надежные подержанные автомобили на аукционах в США.",
+        "ua": "Автомобілі Volkswagen відомі своєю міцною конструкцією, безпекою та ефективністю. Популярні моделі, такі як Jetta, Passat і Tiguan, є чудовим вибором для тих, хто шукає доступні та надійні вживані авто на аукціонах в США.",
+        "pl": "Samochody Volkswagen są znane z solidnej jakości wykonania, funkcji bezpieczeństwa i wydajności. Popularne modele, takie jak Jetta, Passat i Tiguan, to doskonały wybór dla osób szukających przystępnych i niezawodnych samochodów używanych na amerykańskich aukcjach.",
+        "de": "Volkswagen-Fahrzeuge sind bekannt für ihre solide Bauqualität, Sicherheitsmerkmale und effiziente Leistung. Beliebte Modelle wie Jetta, Passat und Tiguan sind ausgezeichnete Optionen für diejenigen, die nach erschwinglichen und zuverlässigen Gebrauchtwagen auf US-Auktionen suchen.",
+        "be": "Аўтамабілі Volkswagen вядомыя сваёй трывалай канструкцыяй, бяспекай і эфектыўнасцю. Папулярныя мадэлі, такія як Jetta, Passat і Tiguan, з'яўляюцца выдатным выбарам для тых, хто шукае даступныя і надзейныя б/у аўтамабілі на аўкцыёнах у ЗША.",
+        "es": "Los coches Volkswagen son conocidos por su sólida calidad de construcción, características de seguridad y rendimiento eficiente. Modelos populares como el Jetta, Passat y Tiguan son excelentes opciones para aquellos que buscan vehículos usados asequibles y fiables en subastas de EE. UU.",
+        "fr": "Les voitures Volkswagen sont connues pour leur qualité de construction solide, leurs caractéristiques de sécurité et leurs performances efficaces. Les modèles populaires comme la Jetta, la Passat et la Tiguan sont d'excellentes options pour ceux qui recherchent des véhicules d'occasion abordables et fiables aux enchères aux États-Unis.",
+        "zh": "大众汽车以其坚固的建造质量、安全功能和高效性能而闻名。像捷达、帕萨特和途观这样的热门车型是那些在美国拍卖中寻找经济实惠且可靠的二手车辆的人的绝佳选择。凭借其长寿和低维护成本的声誉，大众汽车为市场上寻找可靠二手车的任何人提供了极高的价值。"
+    },
+    "models": [
+        {
+            "slug": "id-4",
+            "en": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen ID.4",
+                "description": "Volkswagen ID.4 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众ID.4",
+                "description": "大众ID.4是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "ID.4",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "id-4 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "id-3",
+            "en": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen ID.3",
+                "description": "Volkswagen ID.3 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众ID.3",
+                "description": "大众ID.3是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "ID.3",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "id-3 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "id-6",
+            "en": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen ID.6",
+                "description": "Volkswagen ID.6 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众ID.6",
+                "description": "大众ID.6是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "ID.6",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "id-6 highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "jetta",
+            "en": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen Jetta",
+                "description": "Volkswagen Jetta est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "Jetta",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Jetta offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众捷达",
+                "description": "大众捷达是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "捷达",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "jetta highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众捷达 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value jetta's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "passat",
+            "en": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen Passat",
+                "description": "Volkswagen Passat est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "Passat",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Passat offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众帕萨特",
+                "description": "大众帕萨特是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "帕萨特",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "passat highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众帕萨特 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value passat's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        },
+        {
+            "slug": "tiguan",
+            "en": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan is a top-rated car model offering great performance and luxury.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "car",
+                    "luxury",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ru": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "автомобиль",
+                    "роскошь",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "ua": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "автомобіль",
+                    "розкіш",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "pl": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "samochód",
+                    "luksus",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "de": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "Auto",
+                    "Luxus",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "be": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "аўтамабіль",
+                    "раскоша",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "es": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "coche",
+                    "lujo",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "fr": {
+                "title": "Volkswagen Tiguan",
+                "description": "Volkswagen Tiguan est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "keywords": [
+                    "Volkswagen",
+                    "Tiguan",
+                    "voiture",
+                    "luxe",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "Volkswagen Tiguan offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            },
+            "zh": {
+                "title": "大众途观",
+                "description": "大众途观是一款性能出色且豪华的顶级车型。",
+                "keywords": [
+                    "大众",
+                    "途观",
+                    "汽车",
+                    "豪华",
+                    "advanced features",
+                    "value for money",
+                    "tiguan highlights",
+                    "best in class",
+                    "luxury design"
+                ],
+                "text": "大众途观 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value tiguan's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+            }
+        }
+    ]
+}
