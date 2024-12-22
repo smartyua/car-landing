@@ -1,0 +1,27 @@
+
+{
+  "en": {
+    "title": "Experience Luxury and Power with the Lexus GX",
+    "description": "Discover the unparalleled performance and sophistication of the Lexus GX, a leader in luxury SUVs.",
+    "text": "The Lexus GX stands out with its striking design and robust performance capabilities. Engineered for those who demand top-tier luxury along with versatile power, the GX features a 4.6-liter V8 engine that delivers smooth, assertive acceleration. A plush interior enveloped in premium materials and advanced technology ensures a ride in pure comfort and style. With ample seating for up to seven passengers and advanced safety features, the Lexus GX is more than equipped to handle everyday commutes and adventurous road trips alike.\n\nNot only does the GX provide supreme comfort and exceptional performance, but it also excels in driving dynamics with its full-time four-wheel drive and available Adaptive Variable Suspension. This allows for a custom driving experience, providing optimal stability and control in varying terrains and conditions. The meticulously designed cabin features state-of-the-art connectivity and entertainment systems, making the Lexus GX a perfect blend of functionality and luxury.",
+    "advantages": ["Robust V8 engine", "Luxurious interior", "Advanced technological features", "Adaptive Variable Suspension", "Full-time four-wheel drive"],
+    "competitors": ["Audi Q7", "BMW X5", "Mercedes-Benz GLE"],
+    "keywords": ["Lexus GX", "luxury SUV", "V8 engine", "four-wheel drive", "high performance", "sophisticated SUV", "luxury vehicle"]
+  },
+  "ru": {
+    "title": "Исследуйте роскошь и мощь с Lexus GX",
+    "description": "Откройте для себя непревзойденные характеристики и изысканность Lexus GX, лидера среди роскошных внедорожников.",
+    "text": "Lexus GX выделяется благодаря своему эффектному дизайну и мощным техническим характеристикам. Разработанный для людей, требующих высшего уровня роскоши и мощности, GX оснащен 4,6-литровым двигателем V8, обеспечивающим плавное и уверенное ускорение. Роскошный интерьер, выполненный из премиальных материалов и передовых технологий, обеспечивает комфортную и стильную поездку. С просторным салоном на семь пассажиров и продвинутыми функциями безопасности Lexus GX способен справиться как с ежедневными поездками, так и с приключенческими автопутешествиями.\n\nGX не только предоставляет высший комфорт и исключительные характеристики, но и выделяется динамикой вождения благодаря постоянному полному приводу и доступной адаптивной переменной подвеске. Это позволяет настроить уникальное вождение, обеспечивая оптимальную устойчивость и контроль на различных местностях и в разных условиях. Тщательно спроектированный салон с современными системами связи и развлечений делает Lexus GX идеальным сочетанием функциональности и роскоши.",
+    "advantages": ["Мощный двигатель V8", "Роскошный интерьер", "Передовые технологии", "Адаптивная переменная подвеска", "Постоянный полный привод"],
+    "competitors": ["Audi Q7", "BMW X5", "Mercedes-Benz GLE"],
+    "keywords": ["Lexus GX", "роскошный внедорожник", "двигатель V8", "полный привод", "высокая производительность", "изысканный внедорожник", "роскошный автомобиль"]
+  },
+  "ua": {
+    "title": "Відкрийте для себе розкіш і потужність з Lexus GX",
+    "description": "Дізнайтеся про неперевершені характеристики та витонченість Lexus GX, лідера серед розкішних позашляховиків.",
+    "text": "Lexus GX вирізняється своїм привабливим дизайном та потужними технічними характеристиками. Створений для тих, хто вимагає найвищого рівня розкоші разом з універсальною потужністю, GX оснащений 4.6-літровим двигуном V8, що забезпечує гладке та впевнене прискорення. Розкішний інтер'єр, оброблений преміальними матеріалами та передовими технологіями, забезпечує комфортну та стильну поїздку. З просторим салоном на сім пасажирів та передовими функціями безпеки Lexus GX більш ніж здатний впоратися як з повсякденними поїздками, так і з пригодницькими автоподорожами.\n\nНе тільки GX забезпечує верховий комфорт та виняткові характеристики, але і виділяється динамікою водіння завдяки постійному повному приводу та доступній адаптивній змінній підвісці. Це дозволяє налаштувати унікальне водіння, забезпечуючи оптимальну стабільність і контроль у різних ландшафтах та умовах. Ретельно спроектований салон з сучасними системами зв'язку і розваг робить Lexus GX ідеальним поєднанням функціональності та розкоші.",
+    "advantages": ["Потужний двигун V8", "Розкішний інтер'єр", "Передові технологічні особливості", "Адаптивна змінна підвіска", "Постійний повний привід"],
+    "competitors": ["Audi Q7", "BMW X5", "Mercedes-Benz GLE"],
+    "keywords": ["Lexus GX", "роскошний позашляховик", "двигун V8", "повний привід", "висока продуктивність", "витончений позашляховик", "роскошний автомобіль"]
+  }
+}

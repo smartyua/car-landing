@@ -26,7 +26,10 @@ const translate = {
   _HOME_BIG_TEXT5:
     'If you participate in an auction independently, you must understand that many cars are sold after accidents, and it’s essential to know which damages are critical for a particular model and which are not. Most commonly, damages include impacts, fires, or water exposure. Of course, you can travel overseas on your own, but it’s quite expensive, you may face visa issues, and why do it when our specialists can find you a model "turnkey"?',
   _HOME_BIG_TEXT6:
-    'Don’t worry if you don’t currently have enough money for a car. We offer the opportunity to buy a car from the USA in Poland in installments or leasing. The first payment is only 25% of the vehicle’s value, and the remaining payments are calculated individually, depending on the repayment term.'
+    'Don’t worry if you don’t currently have enough money for a car. We offer the opportunity to buy a car from the USA in Poland in installments or leasing. The first payment is only 25% of the vehicle’s value, and the remaining payments are calculated individually, depending on the repayment term.',
+
+  _COMPETITORS: `Competitors`,
+  _ADVANTAGES: `Advantages`
 };
 
 export default translate;

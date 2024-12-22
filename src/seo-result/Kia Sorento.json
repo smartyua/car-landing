@@ -1,0 +1,81 @@
+
+{
+  "en": {
+    "title": "Discover the Kia Sorento: Exceptional Versatility and Performance",
+    "description": "Explore the Kia Sorento, the ideal SUV for both adventure and family life with advanced features and superior comfort.",
+    "text": "The Kia Sorento stands out in the crowded SUV market with its blend of style, functionality, and advanced technology. Offering a spacious interior, the SUV can comfortably accommodate up to seven passengers, making it perfect for family outings or road trips. Powered by a choice of engines, including a fuel-efficient four-cylinder or a more powerful V6, the Sorento provides a balanced ride with great handling characteristics. Safety is also a priority, with standard features including multiple airbags, adaptive cruise control, and an advanced driver-assist system. The infotainment system is user-friendly with seamless connectivity to keep you entertained and connected on every journey.",
+    "advantages": [
+      "Spacious three-row seating",
+      "Advanced safety features",
+      "User-friendly infotainment system",
+      "High fuel efficiency",
+      "Attractive pricing"
+    ],
+    "competitors": [
+      "Toyota Highlander",
+      "Honda Pilot",
+      "Ford Explorer",
+      "Chevrolet Traverse"
+    ],
+    "keywords": [
+      "Kia Sorento",
+      "SUV",
+      "family car",
+      "safety features",
+      "advanced technology",
+      "fuel efficiency"
+    ]
+  },
+  "ru": {
+    "title": "Познакомьтесь с Kia Sorento: Исключительная универсальность и производительность",
+    "description": "Изучите Kia Sorento — идеальный внедорожник как для приключений, так и для семейной жизни, с передовыми функциями и превосходным комфортом.",
+    "text": "Kia Sorento выделяется на фоне множества других внедорожников своим стилем, функциональностью и передовыми технологиями. Предлагая просторный интерьер, внедорожник может комфортабельно разместить до семи пассажиров, что делает его идеальным для семейных поездок или путешествий. В зависимости от выбранной конфигурации, Sorento оснащается эффективным четырехцилиндровым двигателем или более мощным V6, обеспечивая сбалансированное управление и отличные характеристики. Безопасность также является приоритетом благодаря таким стандартным функциям, как множество подушек безопасности, адаптивный круиз-контроль и продвинутая система помощи водителю. Информационно-развлекательная система удобна в использовании и обеспечивает безупречную связь, чтобы вы были развлечены и на связи в каждой поездке.",
+    "advantages": [
+      "Просторное трехрядное сиденье",
+      "Передовые функции безопасности",
+      "Удобная информационно-развлекательная система",
+      "Высокая экономия топлива",
+      "Привлекательное ценообразование"
+    ],
+    "competitors": [
+      "Toyota Highlander",
+      "Honda Pilot",
+      "Ford Explorer",
+      "Chevrolet Traverse"
+    ],
+    "keywords": [
+      "Kia Sorento",
+      "внедорожник",
+      "семейный автомобиль",
+      "системы безопасности",
+      "передовые технологии",
+      "экономичность топлива"
+    ]
+  },
+  "ua": {
+    "title": "Знайомтесь з Kia Sorento: Виняткова універсальність та продуктивність",
+    "description": "Дослідіть Kia Sorento — ідеальний позашляховик для пригод та сімейного життя з передовими функціями та неперевершеним комфортом.",
+    "text": "Kia Sorento вирізняється на тлі численних позашляховиків своїм стилем, функціональністю та передовими технологіями. Маючи просторий інтер'єр, позашляховик може комфортно розмістити до семи пасажирів, що робить його ідеальним для сімейних подорожей або поїздок. Залежно від обраної конфігурації, Sorento оснащений ефективним чотирициліндровим двигуном або потужнішим V6, забезпечуючи збалансоване керування та відмінні характеристики. Безпека також є пріоритетом завдяки стандартним функціям, як багато подушок безпеки, адаптивний круїз-контроль та продвинута система допомоги водію. Інформаційно-розважальна система зручна у використанні та забезпечує бездоганне з'єднання, щоб ви були розважені та на зв'язку в кожній подорожі.",
+    "advantages": [
+      "Просторе трьохрядне сидіння",
+      "Передові функції безпеки",
+      "Зручна інформаційно-розважальна система",
+      "Висока економія палива",
+      "Привабливе ціноутворення"
+    ],
+    "competitors": [
+      "Toyota Highlander",
+      "Honda Pilot",
+      "Ford Explorer",
+      "Chevrolet Traverse"
+    ],
+    "keywords": [
+      "Kia Sorento",
+      "позашляховик",
+      "сімейний автомобіль",
+      "системи безпеки",
+      "передові технології",
+      "економічність палива"
+    ]
+  }
+}

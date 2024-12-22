@@ -1,0 +1,69 @@
+
+{
+    "en": {
+        "title": "Experience Futuristic Travel with the Volkswagen ID.6 Electric SUV!",
+        "description": "Discover the new Volkswagen ID.6, blending performance, comfort and sustainability in an all-electric SUV design.",
+        "text": "The Volkswagen ID.6 is engineered for the future. With two electric motors, this spacious SUV boasts all-wheel drive capabilities and achieves acceleration from 0 to 100 km/h in just 6.6 seconds. It offers a strong balance of power and efficiency, equipped with a large battery pack that provides a range of up to 436 kilometers on a single charge. The interior of the ID.6 is designed with luxury and technology in mind, featuring a minimalist layout with advanced touchscreen interfaces and customizable ambient lighting.\n\nSafety and sustainability are also integral to Volkswagen ID.6's design. It includes state-of-the-art safety features like autonomous driving capabilities, collision warning, and emergency braking. The materials used in the interiors are sustainably sourced, making the ID.6 a smart choice for eco-conscious drivers. With its spacious interior, it also sets new standards in comfort, making it perfect for family trips and long drives.",
+        "advantages": [
+            "Exceptional electric range",
+            "Advanced safety technology",
+            "Luxurious and sustainable interior materials",
+            "Spacious design ideal for families"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Audi Q4 e-tron"
+        ],
+        "keywords": [
+            "Volkswagen ID.6",
+            "electric SUV",
+            "sustainable vehicle",
+            "luxury electric cars"
+        ]
+    },
+    "ru": {
+        "title": "Путешествуйте в будущее с электрическим кроссовером Volkswagen ID.6!",
+        "description": "Ознакомьтесь с новым Volkswagen ID.6, сочетающим производительность, комфорт и устойчивость в дизайне электрического внедорожника.",
+        "text": "Volkswagen ID.6 разработан для будущего. Обладая двумя электродвигателями, этот просторный внедорожник предлагает полный привод и способен разгоняться от 0 до 100 км/ч всего за 6.6 секунд. Автомобиль отличается отличным балансом мощности и эффективности, оснащен крупным аккумулятором, который обеспечивает запас хода до 436 километров на одной зарядке. Салон ID.6 оформлен с учетом роскоши и технологий, предлагая минималистичный дизайн с передовыми сенсорными интерфейсами и настраиваемой атмосферной подсветкой.\n\nБезопасность и устойчивость также неотъемлемы для конструкции Volkswagen ID.6. В нем предусмотрены передовые функции безопасности, такие как возможности автономного вождения, системы предупреждения о столкновениях и аварийного торможения. Материалы салона изготовлены из устойчивых источников, что делает ID.6 разумным выбором для экологически осознанных водителей. Благодаря просторному салону он также устанавливает новые стандарты комфорта, идеально подходя для семейных поездок и длительных вождений.",
+        "advantages": [
+            "Исключительный запас хода на электричестве",
+            "Передовые технологии безопасности",
+            "Роскошные и устойчивые материалы салона",
+            "Просторный дизайн, идеальный для семей"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Audi Q4 e-tron"
+        ],
+        "keywords": [
+            "Volkswagen ID.6",
+            "электрический внедорожник",
+            "устойчивый автомобиль",
+            "роскошные электромобили"
+        ]
+    },
+    "ua": {
+        "title": "Мандрівка в майбутнє з електричним кросовером Volkswagen ID.6!",
+        "description": "Дізнайтеся про новий Volkswagen ID.6, який поєднує продуктивність, комфорт і сталість в дизайні електричного позашляховика.",
+        "text": "Volkswagen ID.6 розроблений для майбутнього. З двома електромоторами, цей просторий позашляховик пропонує повний привід та здатний розганятися від 0 до 100 км/год всього за 6.6 секунд. Автомобіль вирізняється відмінним балансом потужності та ефективності, оснащений великим акумулятором, що забезпечує запас ходу до 436 кілометрів на одному заряді. Салон ID.6 оформлений з урахуванням розкоші та технологій, пропонуючи мінімалістичний дизайн з передовими дотиковими інтерфейсами та налаштовуваним атмосферним освітленням.\n\nБезпека та сталість також є невід'ємною частиною конструкції Volkswagen ID.6. Він включає передові функції безпеки, такі як можливості автономного водіння, системи попередження про зіткнення та аварійного гальмування. Матеріали салону виготовлені із стійких джерел, що робить ID.6 розумним вибором для екологічно свідомих водіїв. Завдяки просторому салону він також встановлює нові стандарти комфорту, ідеально підходить для сімейних поїздок і тривалих водій.",
+        "advantages": [
+            "Винятковий запас ходу на електриці",
+            "Передові технології безпеки",
+            "Розкішні та сталі матеріали салону",
+            "Просторий дизайн, ідеальний для родин"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Audi Q4 e-tron"
+        ],
+        "keywords": [
+            "Volkswagen ID.6",
+            "електричний кросовер",
+            "сталий автомобіль",
+            "роскошні електромобілі"
+        ]
+    }
+}

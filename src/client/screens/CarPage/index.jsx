@@ -25,6 +25,66 @@ const scrollOption = {
 
 const handleScrollClick = () => scroll.scrollToTop(scrollOption);
 
+const renderAdvantages = (advantages: any, language: string) => {
+  return (
+    <div>
+      <h2>{translation('_ADVANTAGES', language)}</h2>
+      <ul>
+        {advantages.map(item => {
+          return <li key={item}>{item}</li>;
+        })}
+      </ul>
+    </div>
+  );
+};
+
+const renderCompetitors = (params: any): any => {
+  const { competitors = [], language } = params;
+  const { globalSEO } = metaValues;
+  const found = [];
+
+  Object.keys(globalSEO).forEach(brand => {
+    const { models } = globalSEO[brand];
+    const modelSearch = models.find(
+      x => x[language] && competitors.includes(x[language].title)
+    );
+
+    if (modelSearch) {
+      found.push({
+        language,
+        brand,
+        slug: modelSearch.slug,
+        model: modelSearch[language].title
+      });
+    }
+  });
+
+  return (
+    <div>
+      <h2>{translation('_COMPETITORS', language)}</h2>
+      <ul>
+        {competitors.map(item => {
+          const foundItem = found.find(x => x.model === item);
+
+          if (!foundItem) {
+            return <li key={item}>{item}</li>;
+          }
+
+          const link = `/${language}/${foundItem.brand}/${foundItem.slug}`;
+
+          return (
+            <li key={item}>
+              <Link to={link} onClick={handleScrollClick}>
+                {item}
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+};
+
 const CarScreen = (): any => {
   const params = useParams();
   const { brand = 'default' } = params;
@@ -79,8 +139,16 @@ const CarScreen = (): any => {
         </Link>
         &nbsp;→&nbsp;{model.title}
         <h1>{model.title}</h1>
+        {model.head && <h3>{model.head}</h3>}
         {!model.text && <div>{model.description}</div>}
         {model.text && <div>{model.text}</div>}
+        {model.advantages && renderAdvantages(model.advantages, language)}
+        {modelInfo.competitors &&
+          renderCompetitors({
+            competitors: modelInfo.competitors,
+            language,
+            model: model.title
+          })}
       </Section>
     </section>
   );

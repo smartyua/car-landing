@@ -1,4 +1,5 @@
 {
+    "slug": "byd",
     "title": "BYD",
     "headTitle": {
         "en": "BYD Electric Vehicles",
@@ -26,16 +27,16 @@
         {
             "slug": "byd-han",
             "en": {
-                "title": "BYD Han (en)",
-                "description": "A luxury electric sedan with cutting-edge technology and exceptional range. (en)",
+                "title": "BYD Han",
+                "description": "A luxury electric sedan with cutting-edge technology and exceptional range.",
                 "keywords": [
-                    "BYD (en)",
-                    "Han (en)",
-                    "luxury sedan (en)",
-                    "long range (en)",
-                    "innovation (en)"
+                    "BYD",
+                    "Han",
+                    "luxury sedan",
+                    "long range",
+                    "innovation"
                 ],
-                "text": "The BYD Han redefines luxury in the electric vehicle space, offering unparalleled range, safety, and advanced features. (en)"
+                "text": "The BYD Han redefines luxury in the electric vehicle space, offering unparalleled range, safety, and advanced features."
             },
             "be": {
                 "title": "BYD Хань",

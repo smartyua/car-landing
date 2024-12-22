@@ -1,4 +1,5 @@
 {
+    "slug": "audi",
     "title": "Audi Electric Vehicles",
     "headTitle": {
         "en": "Audi Electric Vehicles | Audi USA",
@@ -23,6 +24,177 @@
         "fr": "Découvrez la gamme complète des véhicules électriques Audi, alliant technologie de pointe, luxe et performances. Des modèles compacts aux SUV spacieux, Audi propose des innovations pour chaque conducteur."
     },
     "models": [
+        {
+            "slug": "audi-e-tron-gt",
+            "competitors": [
+                "Tesla Model S",
+                "Porsche Taycan",
+                "BMW i4",
+                "Mercedes-Benz EQS"
+            ],
+            "en": {
+                "title": "Audi e-tron GT",
+                "head": "Experience Innovation: Audi e-tron GT",
+                "description": "The Audi e-tron GT redefines electric luxury with unparalleled performance and cutting-edge technology.",
+                "text": "The Audi e-tron GT is the pinnacle of electric luxury and performance, combining Audi's hallmark sophistication with advanced electric mobility. Featuring a long driving range and ultra-fast charging, the e-tron GT is perfect for both urban commuting and grand touring. Its interior boasts premium materials, intuitive controls, and an immersive infotainment system. This electric sedan delivers exhilarating performance with instant torque, seamless acceleration, and a whisper-quiet drive.",
+                "advantages": [
+                    "Exceptional range and fast charging capabilities",
+                    "Luxurious interiors with cutting-edge features",
+                    "Thrilling performance with instant torque",
+                    "Advanced safety and driver assistance systems"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "luxury electric sedan",
+                    "high-performance EV",
+                    "advanced electric mobility"
+                ]
+            },
+            "ru": {
+                "title": "Audi e-tron GT",
+                "head": "Испытайте инновации: Audi e-tron GT",
+                "description": "Audi e-tron GT переопределяет электрическую роскошь с непревзойденной производительностью и передовыми технологиями.",
+                "text": "Audi e-tron GT является вершиной электрической роскоши и производительности, сочетая фирменную утонченность Audi с передовой электрической мобильностью. Обладая большим запасом хода и сверхбыстрой зарядкой, e-tron GT идеально подходит как для городских поездок, так и для дальних путешествий. Его интерьер отличается премиальными материалами, интуитивно понятными элементами управления и захватывающей информационно-развлекательной системой. Этот электрический седан обеспечивает захватывающую производительность с мгновенным крутящим моментом, плавным ускорением и бесшумной ездой.",
+                "advantages": [
+                    "Исключительный запас хода и возможности быстрой зарядки",
+                    "Роскошные интерьеры с передовыми функциями",
+                    "Захватывающая производительность с мгновенным крутящим моментом",
+                    "Передовые системы безопасности и помощи водителю"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "роскошный электрический седан",
+                    "высокопроизводительный электромобиль",
+                    "передовая электрическая мобильность"
+                ]
+            },
+            "ua": {
+                "title": "Audi e-tron GT",
+                "head": "Відчуйте інновації: Audi e-tron GT",
+                "description": "Audi e-tron GT переосмислює електричну розкіш з неперевершеною продуктивністю та передовими технологіями.",
+                "text": "Audi e-tron GT є вершиною електричної розкоші та продуктивності, поєднуючи фірмову витонченість Audi з передовою електричною мобільністю. Завдяки великому запасу ходу та надшвидкій зарядці, e-tron GT ідеально підходить як для міських поїздок, так і для далеких подорожей. Його інтер'єр відрізняється преміальними матеріалами, інтуїтивно зрозумілими елементами управління та захоплюючою інформаційно-розважальною системою. Цей електричний седан забезпечує захоплюючу продуктивність з миттєвим крутним моментом, плавним прискоренням та безшумною їздою.",
+                "advantages": [
+                    "Винятковий запас ходу та можливості швидкої зарядки",
+                    "Розкішні інтер'єри з передовими функціями",
+                    "Захоплююча продуктивність з миттєвим крутним моментом",
+                    "Передові системи безпеки та допомоги водієві"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "розкішний електричний седан",
+                    "високопродуктивний електромобіль",
+                    "передова електрична мобільність"
+                ]
+            },
+            "pl": {
+                "title": "Audi e-tron GT",
+                "head": "Doświadcz innowacji: Audi e-tron GT",
+                "description": "Audi e-tron GT redefiniuje luksus elektryczny dzięki niezrównanej wydajności i najnowocześniejszej technologii.",
+                "text": "Audi e-tron GT to szczyt luksusu i wydajności elektrycznej, łącząc charakterystyczną dla Audi wyrafinowanie z zaawansowaną mobilnością elektryczną. Dzięki długiemu zasięgowi i ultraszybkiemu ładowaniu, e-tron GT jest idealny zarówno do miejskich dojazdów, jak i długich podróży. Jego wnętrze charakteryzuje się wysokiej jakości materiałami, intuicyjnymi kontrolkami i immersyjnym systemem infotainment. Ten elektryczny sedan zapewnia ekscytującą wydajność dzięki natychmiastowemu momentowi obrotowemu, płynnemu przyspieszeniu i cichej jeździe.",
+                "advantages": [
+                    "Wyjątkowy zasięg i szybkie ładowanie",
+                    "Luksusowe wnętrza z najnowocześniejszymi funkcjami",
+                    "Ekscytująca wydajność z natychmiastowym momentem obrotowym",
+                    "Zaawansowane systemy bezpieczeństwa i wspomagania kierowcy"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "luksusowy elektryczny sedan",
+                    "wysokowydajny EV",
+                    "zaawansowana mobilność elektryczna"
+                ]
+            },
+            "de": {
+                "title": "Audi e-tron GT",
+                "head": "Erleben Sie Innovation: Audi e-tron GT",
+                "description": "Der Audi e-tron GT definiert elektrischen Luxus mit unvergleichlicher Leistung und modernster Technologie neu.",
+                "text": "Der Audi e-tron GT ist der Inbegriff von elektrischem Luxus und Leistung und kombiniert die typische Raffinesse von Audi mit fortschrittlicher Elektromobilität. Mit einer langen Reichweite und ultraschnellem Laden ist der e-tron GT sowohl für den Stadtverkehr als auch für lange Reisen perfekt geeignet. Sein Innenraum besticht durch hochwertige Materialien, intuitive Bedienelemente und ein immersives Infotainmentsystem. Diese elektrische Limousine bietet aufregende Leistung mit sofortigem Drehmoment, nahtloser Beschleunigung und einer flüsterleisen Fahrt.",
+                "advantages": [
+                    "Außergewöhnliche Reichweite und schnelle Ladefähigkeiten",
+                    "Luxuriöse Innenräume mit modernsten Funktionen",
+                    "Spannende Leistung mit sofortigem Drehmoment",
+                    "Fortschrittliche Sicherheits- und Fahrerassistenzsysteme"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "luxuriöse elektrische Limousine",
+                    "hochleistungsfähiges EV",
+                    "fortschrittliche Elektromobilität"
+                ]
+            },
+            "be": {
+                "title": "Audi e-tron GT",
+                "head": "Вопытайце інавацыі: Audi e-tron GT",
+                "description": "Audi e-tron GT пераасэнсоўвае электрычную раскошу з неперасягненай прадукцыйнасцю і перадавымі тэхналогіямі.",
+                "text": "Audi e-tron GT з'яўляецца вяршыняй электрычнай раскошы і прадукцыйнасці, спалучаючы фірменную вытанчанасць Audi з перадавой электрычнай мабільнасцю. Дзякуючы вялікаму запасу ходу і звышхуткай зарадцы, e-tron GT ідэальна падыходзіць як для гарадскіх паездак, так і для далёкіх падарожжаў. Яго інтэр'ер адрозніваецца прэміяльнымі матэрыяламі, інтуітыўна зразумелымі элементамі кіравання і захапляльнай інфармацыйна-забаўляльнай сістэмай. Гэты электрычны седан забяспечвае захапляльную прадукцыйнасць з імгненным крутоўным момантам, плаўным паскарэннем і бясшумнай яздой.",
+                "advantages": [
+                    "Выдатны запас ходу і магчымасці хуткай зарадкі",
+                    "Раскошныя інтэр'еры з перадавымі функцыямі",
+                    "Захапляльная прадукцыйнасць з імгненным крутоўным момантам",
+                    "Перадавыя сістэмы бяспекі і дапамогі кіроўцу"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "раскошны электрычны седан",
+                    "высокапрадукцыйны электрамабіль",
+                    "перадавая электрычная мабільнасць"
+                ]
+            },
+            "es": {
+                "title": "Audi e-tron GT",
+                "head": "Experimenta la Innovación: Audi e-tron GT",
+                "description": "El Audi e-tron GT redefine el lujo eléctrico con un rendimiento inigualable y tecnología de vanguardia.",
+                "text": "El Audi e-tron GT es la cúspide del lujo y rendimiento eléctrico, combinando la sofisticación característica de Audi con la movilidad eléctrica avanzada. Con una larga autonomía y carga ultrarrápida, el e-tron GT es perfecto tanto para el desplazamiento urbano como para los grandes viajes. Su interior cuenta con materiales premium, controles intuitivos y un sistema de infoentretenimiento envolvente. Este sedán eléctrico ofrece un rendimiento emocionante con par instantáneo, aceleración suave y una conducción silenciosa.",
+                "advantages": [
+                    "Autonomía excepcional y capacidades de carga rápida",
+                    "Interiores lujosos con características de vanguardia",
+                    "Rendimiento emocionante con par instantáneo",
+                    "Sistemas avanzados de seguridad y asistencia al conductor"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "sedán eléctrico de lujo",
+                    "EV de alto rendimiento",
+                    "movilidad eléctrica avanzada"
+                ]
+            },
+            "zh": {
+                "title": "Audi e-tron GT",
+                "head": "体验创新：奥迪e-tron GT",
+                "description": "奥迪e-tron GT以无与伦比的性能和尖端技术重新定义了电动豪华。",
+                "text": "奥迪e-tron GT是电动豪华和性能的巅峰之作，将奥迪的标志性精致与先进的电动出行相结合。具有长续航里程和超快速充电功能，e-tron GT非常适合城市通勤和长途旅行。其内饰采用优质材料，直观的控制和沉浸式信息娱乐系统。该电动轿车提供令人振奋的性能，具有即时扭矩、无缝加速和静音驾驶。",
+                "advantages": [
+                    "卓越的续航里程和快速充电能力",
+                    "豪华内饰和尖端功能",
+                    "即时扭矩带来的激动人心的性能",
+                    "先进的安全和驾驶辅助系统"
+                ],
+                "keywords": [
+                    "奥迪e-tron GT",
+                    "豪华电动轿车",
+                    "高性能电动车",
+                    "先进的电动出行"
+                ]
+            },
+            "fr": {
+                "title": "Audi e-tron GT",
+                "head": "Découvrez l'innovation : Audi e-tron GT",
+                "description": "L'Audi e-tron GT redéfinit le luxe électrique avec des performances inégalées et une technologie de pointe.",
+                "text": "L'Audi e-tron GT est le sommet du luxe et de la performance électriques, combinant le raffinement emblématique d'Audi avec une mobilité électrique avancée. Avec une autonomie exceptionnelle et une recharge ultra-rapide, l'e-tron GT est idéale pour les trajets urbains comme pour les longues distances. Son intérieur offre des matériaux haut de gamme, des commandes intuitives et un système d'infodivertissement immersif. Cette berline électrique offre des performances exaltantes avec un couple instantané, une accélération fluide et une conduite silencieuse.",
+                "advantages": [
+                    "Autonomie exceptionnelle et capacités de recharge rapide",
+                    "Intérieurs luxueux avec des fonctionnalités de pointe",
+                    "Performances exaltantes avec un couple instantané",
+                    "Systèmes avancés de sécurité et d'assistance à la conduite"
+                ],
+                "keywords": [
+                    "Audi e-tron GT",
+                    "berline électrique de luxe",
+                    "véhicule électrique haute performance",
+                    "mobilité électrique avancée"
+                ]
+            }
+        },
         {
             "slug": "audi-q4-e-tron-family",
             "en": {

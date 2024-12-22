@@ -1,0 +1,27 @@
+
+{
+  "en": {
+    "title": "Explore the Power and Luxury of the Dodge Durango",
+    "description": "Discover the robust features and superior performance of Dodge Durango, your ultimate SUV for both city and adventure.",
+    "text": "The Dodge Durango stands as a formidable player in the SUV market, combining power, performance, and versatility in one robust package. Equipped with an impressive engine lineup, including the potent V8 option, the Durango offers exhilarating acceleration and remarkable towing capacity, making it ideal for both everyday commutes and challenging adventures. Inside, the Durango boasts a spacious and luxurious cabin with up-to-date technology and safety features, ensuring a comfortable and secure ride for you and your passengers.",
+    "advantages": ["Powerful engine options, including a V8", "High towing capacity", "Luxurious and spacious interior", "Advanced safety and technology features"],
+    "competitors": ["Ford Explorer", "Chevrolet Traverse", "Honda Pilot", "Toyota Highlander"],
+    "keywords": ["Dodge Durango", "SUV", "luxury SUV", "V8 SUV", "high performance", "family SUV", "towing capacity"]
+  },
+  "ru": {
+    "title": "Исследуйте мощь и роскошь Dodge Durango",
+    "description": "Откройте для себя надежные характеристики и выдающуюся производительность Dodge Durango, вашего идеального SUV для города и приключений.",
+    "text": "Dodge Durango является весомым игроком на рынке SUV, сочетая мощь, производительность и универсальность в одном надежном пакете. Автомобиль оснащен впечатляющим набором двигателей, включая мощный вариант V8, Durango предлагает захватывающее ускорение и значительную грузоподъемность, что делает его идеальным как для ежедневных поездок, так и для сложных приключений. Внутри Durango похвастаться просторным и роскошным салоном с современными технологиями и функциями безопасности, обеспечивающими комфортную и безопасную поездку для вас и ваших пассажиров.",
+    "advantages": ["Мощные варианты двигателей, включая V8", "Высокая грузоподъемность", "Роскошный и просторный салон", "Передовые функции безопасности и технологии"],
+    "competitors": ["Ford Explorer", "Chevrolet Traverse", "Honda Pilot", "Toyota Highlander"],
+    "keywords": ["Dodge Durango", "SUV", "роскошный SUV", "SUV с V8", "высокая производительность", "семейный SUV", "грузоподъемность"]
+  },
+  "ua": {
+    "title": "Відкрийте потужність та розкіш Dodge Durango",
+    "description": "Дізнайтеся про надійні характеристики та виняткову продуктивність Dodge Durango, вашого ідеального SUV для міста та пригод.",
+    "text": "Dodge Durango стоїть як сильний гравець на ринку SUV, поєднуючи потужність, продуктивність та універсальність в одному надійному пакеті. Забезпечений вражаючим набором двигунів, включно з потужним варіантом V8, Durango пропонує захоплююче прискорення та вражаючу вантажопідйомність, що робить його ідеальним для щоденних поїздок та складних пригод. Усередині Durango може похвалитися просторим та розкішним салоном з сучасними технологіями та функціями безпеки, що забезпечують комфортабельну та безпечну поїздку для вас та ваших пасажирів.",
+    "advantages": ["Потужні варіанти двигунів, включаючи V8", "Висока вантажопідйомність", "Розкішний та просторий салон", "Сучасні функції безпеки та технології"],
+    "competitors": ["Ford Explorer", "Chevrolet Traverse", "Honda Pilot", "Toyota Highlander"],
+    "keywords": ["Dodge Durango", "SUV", "роскошний SUV", "SUV з V8", "висока продуктивність", "сімейний SUV", "вантажна здатність"]
+  }
+}

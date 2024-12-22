@@ -1,0 +1,211 @@
+{
+    "slug": "porsche",
+    "title": "Porsche",
+    "headTitle": {
+        "en": "Porsche Electric Vehicles | Porsche USA",
+        "ru": "Электромобили Porsche | Porsche USA",
+        "ua": "Електромобілі Porsche | Porsche USA",
+        "pl": "Samochody elektryczne Porsche | Porsche USA",
+        "de": "Porsche Elektrofahrzeuge | Porsche USA",
+        "be": "Электрамабілі Porsche | Porsche USA",
+        "es": "Vehículos Eléctricos Porsche | Porsche USA",
+        "zh": "探索奥迪电动车的完整阵容，将尖端技术与奢华性能完美结合。从紧凑型车型到宽敞的SUV，奥迪为每位驾驶者提供创新选择。",
+        "fr": "Véhicules électriques Porsche | Porsche USA"
+    },
+    "description": {
+        "en": "Porsche is not just a car; it is the embodiment of passion, engineering excellence, and innovation. Each Porsche is designed for drivers who value dynamics, style, and uncompromising quality. Since its founding in 1931, Porsche has become synonymous with sportsmanship and luxury, offering vehicles that perfectly combine power and elegance.",
+        "ru": "Porsche - это не просто автомобиль; это воплощение страсти, инженерного совершенства и инноваций. Каждый Porsche разрабатывается для водителей, ценящих динамику, стиль и непревзойденное качество. С момента своего основания в 1931 году Porsche стал синонимом спортивности и роскоши, предлагая автомобили, которые идеально сочетают в себе мощность и элегантность.",
+        "ua": "Porsche - це не просто автомобіль; це втілення страсті, інженерного відмінності та інновацій. Кожен Porsche розробляється для водіїв, які цінують динаміку, стиль та неперевершену якість. З моменту свого заснування в 1931 році Porsche став синонімом спортивності та розкіші, пропонуючи автомобілі, які ідеально поєднують в собі потужність та елегантність.",
+        "pl": "Porsche to nie tylko samochód; to ucieleśnienie pasji, doskonałości inżynieryjnej i innowacji. Każde Porsche jest zaprojektowane dla kierowców, którzy cenią dynamikę, styl i kompromisową jakość. Od momentu założenia w 1931 roku Porsche stało się synonimem sportu i luksusu, oferując pojazdy, które doskonale łączą w sobie moc i elegancję.",
+        "de": "Porsche ist nicht nur ein Auto; es ist die Verkörperung von Leidenschaft, Ingenieursexzellenz und Innovation. Jeder Porsche ist für Fahrer konzipiert, die Dynamik, Stil und kompromisslose Qualität schätzen. Seit seiner Gründung im Jahr 1931 ist Porsche zum Synonym für Sportlichkeit und Luxus geworden und bietet Fahrzeuge, die Kraft und Eleganz perfekt kombinieren.",
+        "be": "Porsche - гэта не проста аўтамабіль; гэта ўвасабленне паслугі, інжынернага выдатнасці і інавацый. Кожны Porsche разрабляецца для вадзіцеляў, якія цаняць дынаміку, стыль і неперавышаную якасць. З моманту свайго заснавання ў 1931 годзе Porsche стаў сінонімам спартыўнасці і роскошы, прапаноўваючы аўтамабілі, якія ідэальна сумяшчаюць у сабе магутнасць і элегантнасць.",
+        "es": "Porsche no es solo un automóvil; es la encarnación de la pasión, la excelencia en ingeniería y la innovación. Cada Porsche está diseñado para conductores que valoran la dinámica, el estilo y la calidad sin compromisos. Desde su fundación en 1931, Porsche se ha convertido en sinónimo de deportividad y lujo, ofreciendo vehículos que combinan a la perfección potencia y elegancia.",
+        "zh": "奥迪不仅仅是一辆汽车；它是激情、工程卓越和创新的体现。每辆奥迪都是为那些重视动力学、风格和无与伦比质量的驾驶员设计的。自1931年成立以来，奥迪已经成为体育精神和奢华的代名词，提供完美结合动力和优雅的车辆。",
+        "fr": "Porsche n'est pas seulement une voiture ; c'est l'incarnation de la passion, de l'excellence en ingénierie et de l'innovation. Chaque Porsche est conçue pour les conducteurs qui apprécient la dynamique, le style et la qualité sans compromis. Depuis sa fondation en 1931, Porsche est devenu synonyme de sportivité et de luxe, offrant des véhicules qui combinent parfaitement puissance et élégance."
+    },
+    "models": [
+        {
+            "slug": "taycan-ev",
+            "competitors": [
+                "Tesla Model S",
+                "Tesla Model S Plaid",
+                "Audi e-tron GT",
+                "Mercedes-Benz EQS",
+                "Lucid Air",
+                "BMW i7",
+                "Rivian R1S (Performance Package)"
+            ],
+            "en": {
+                "title": "Porsche Taycan",
+                "head": "Discover Innovation: Porsche Taycan",
+                "description": "The Porsche Taycan redefines electric performance with bold design, cutting-edge technology, and unmatched driving dynamics.",
+                "text": "The Porsche Taycan is a true revolution in the world of electric vehicles, combining Porsche's iconic elegance and power with sustainable mobility. With impressive range and ultra-fast charging capabilities, it is designed for discerning drivers. The interior reflects modern luxury with premium materials, an intuitive digital cockpit, and immersive infotainment technology. This electric sports sedan delivers exhilarating performance with rapid acceleration, instant torque, and exceptional handling.",
+                "advantages": [
+                    "Impressive range and ultra-fast charging",
+                    "Luxurious and modern design with premium materials",
+                    "Sporty performance with rapid acceleration",
+                    "Advanced technology for safety and connectivity"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "electric sports sedan",
+                    "high-performance vehicle",
+                    "sustainable mobility",
+                    "Porsche technology"
+                ]
+            },
+            "ru": {
+                "title": "Porsche Taycan",
+                "head": "Откройте для себя инновации: Porsche Taycan",
+                "description": "Porsche Taycan переопределяет электрическую производительность с дерзким дизайном, передовыми технологиями и непревзойденной динамикой вождения.",
+                "text": "Porsche Taycan - это настоящая революция в мире электромобилей, сочетая в себе культовую элегантность и мощь Porsche с устойчивой мобильностью. С впечатляющим запасом хода и сверхбыстрой зарядкой, он создан для взыскательных водителей. Интерьер отражает современную роскошь с премиальными материалами, интуитивно понятной цифровой кабиной и захватывающей информационно-развлекательной технологией. Этот электрический спортивный седан обеспечивает захватывающую производительность с быстрым ускорением, мгновенным крутящим моментом и исключительной управляемостью.",
+                "advantages": [
+                    "Впечатляющий запас хода и сверхбыстрая зарядка",
+                    "Роскошный и современный дизайн с премиальными материалами",
+                    "Спортивная производительность с быстрым ускорением",
+                    "Передовые технологии для безопасности и связи"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "электрический спортивный седан",
+                    "высокопроизводительный автомобиль",
+                    "устойчивая мобильность",
+                    "технологии Porsche"
+                ]
+            },
+            "ua": {
+                "title": "Porsche Taycan",
+                "head": "Відкрийте для себе інновації: Porsche Taycan",
+                "description": "Porsche Taycan переосмислює електричну продуктивність з сміливим дизайном, передовими технологіями та неперевершеною динамікою водіння.",
+                "text": "Porsche Taycan є справжньою революцією у світі електромобілів, поєднуючи культову елегантність і потужність Porsche з стійкою мобільністю. З вражаючим запасом ходу та надшвидкою зарядкою, він створений для вимогливих водіїв. Інтер'єр відображає сучасну розкіш з преміальними матеріалами, інтуїтивно зрозумілою цифровою кабіною та захоплюючою інформаційно-розважальною технологією. Цей електричний спортивний седан забезпечує захоплюючу продуктивність з швидким прискоренням, миттєвим крутним моментом та винятковою керованістю.",
+                "advantages": [
+                    "Вражаючий запас ходу та надшвидка зарядка",
+                    "Розкішний та сучасний дизайн з преміальними матеріалами",
+                    "Спортивна продуктивність з швидким прискоренням",
+                    "Передові технології для безпеки та зв'язку"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "електричний спортивний седан",
+                    "високопродуктивний автомобіль",
+                    "стійка мобільність",
+                    "технології Porsche"
+                ]
+            },
+            "pl": {
+                "title": "Porsche Taycan",
+                "head": "Odkryj innowacje: Porsche Taycan",
+                "description": "Porsche Taycan na nowo definiuje elektryczną wydajność dzięki odważnemu designowi, najnowocześniejszej technologii i niezrównanej dynamice jazdy.",
+                "text": "Porsche Taycan to prawdziwa rewolucja w świecie pojazdów elektrycznych, łącząca ikoniczną elegancję i moc Porsche z zrównoważoną mobilnością. Z imponującym zasięgiem i ultraszybkimi możliwościami ładowania, jest zaprojektowany dla wymagających kierowców. Wnętrze odzwierciedla nowoczesny luksus z najwyższej jakości materiałami, intuicyjnym cyfrowym kokpitem i wciągającą technologią infotainment. Ten elektryczny sedan sportowy zapewnia ekscytujące osiągi dzięki szybkiemu przyspieszeniu, natychmiastowemu momentowi obrotowemu i wyjątkowej obsłudze.",
+                "advantages": [
+                    "Imponujący zasięg i ultraszybkie ładowanie",
+                    "Luksusowy i nowoczesny design z najwyższej jakości materiałami",
+                    "Sportowe osiągi z szybkim przyspieszeniem",
+                    "Zaawansowana technologia dla bezpieczeństwa i łączności"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "elektryczny sedan sportowy",
+                    "pojazd wysokiej wydajności",
+                    "zrównoważona mobilność",
+                    "technologia Porsche"
+                ]
+            },
+            "de": {
+                "title": "Porsche Taycan",
+                "head": "Entdecken Sie Innovation: Porsche Taycan",
+                "description": "Der Porsche Taycan definiert elektrische Leistung mit mutigem Design, modernster Technologie und unvergleichlicher Fahrdynamik neu.",
+                "text": "Der Porsche Taycan ist eine wahre Revolution in der Welt der Elektrofahrzeuge und kombiniert die ikonische Eleganz und Kraft von Porsche mit nachhaltiger Mobilität. Mit beeindruckender Reichweite und ultraschnellen Ladefähigkeiten ist er für anspruchsvolle Fahrer konzipiert. Das Interieur spiegelt modernen Luxus mit hochwertigen Materialien, einem intuitiven digitalen Cockpit und immersiver Infotainment-Technologie wider. Diese elektrische Sportlimousine bietet aufregende Leistung mit schneller Beschleunigung, sofortigem Drehmoment und außergewöhnlichem Handling.",
+                "advantages": [
+                    "Beeindruckende Reichweite und ultraschnelles Laden",
+                    "Luxuriöses und modernes Design mit hochwertigen Materialien",
+                    "Sportliche Leistung mit schneller Beschleunigung",
+                    "Fortschrittliche Technologie für Sicherheit und Konnektivität"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "elektrische Sportlimousine",
+                    "Hochleistungsfahrzeug",
+                    "nachhaltige Mobilität",
+                    "Porsche Technologie"
+                ]
+            },
+            "be": {
+                "title": "Porsche Taycan",
+                "head": "Адкрыйце для сябе інавацыі: Porsche Taycan",
+                "description": "Porsche Taycan пераасэнсоўвае электрычную прадукцыйнасць з адважным дызайнам, перадавымі тэхналогіямі і неперасягненай дынамікай кіравання.",
+                "text": "Porsche Taycan - гэта сапраўдная рэвалюцыя ў свеце электрамабіляў, якая спалучае ў сабе знакавую элегантнасць і магутнасць Porsche з устойлівай мабільнасцю. З уражлівым запасам ходу і звышхуткай зарадкай, ён створаны для патрабавальных кіроўцаў. Інтэр'ер адлюстроўвае сучасную раскошу з прэміяльнымі матэрыяламі, інтуітыўна зразумелай лічбавай кабінай і захапляльнай інфармацыйна-забаўляльнай тэхналогіяй. Гэты электрычны спартыўны седан забяспечвае захапляльную прадукцыйнасць з хуткім паскарэннем, імгненным крутоўным момантам і выключнай кіравальнасцю.",
+                "advantages": [
+                    "Уражлівы запас ходу і звышхуткая зарадка",
+                    "Раскошны і сучасны дызайн з прэміяльнымі матэрыяламі",
+                    "Спартыўная прадукцыйнасць з хуткім паскарэннем",
+                    "Перадавыя тэхналогіі для бяспекі і сувязі"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "электрычны спартыўны седан",
+                    "высокапрадукцыйны аўтамабіль",
+                    "устойлівая мабільнасць",
+                    "тэхналогіі Porsche"
+                ]
+            },
+            "es": {
+                "title": "Porsche Taycan",
+                "head": "Descubre la Innovación: Porsche Taycan",
+                "description": "El Porsche Taycan redefine el rendimiento eléctrico con un diseño audaz, tecnología de vanguardia y una dinámica de conducción inigualable.",
+                "text": "El Porsche Taycan es una verdadera revolución en el mundo de los vehículos eléctricos, combinando la icónica elegancia y potencia de Porsche con la movilidad sostenible. Con una impresionante autonomía y capacidades de carga ultrarrápida, está diseñado para conductores exigentes. El interior refleja el lujo moderno con materiales premium, un habitáculo digital intuitivo y tecnología de infoentretenimiento envolvente. Este sedán deportivo eléctrico ofrece un rendimiento emocionante con una rápida aceleración, par instantáneo y manejo excepcional.",
+                "advantages": [
+                    "Impresionante autonomía y carga ultrarrápida",
+                    "Diseño lujoso y moderno con materiales premium",
+                    "Rendimiento deportivo con rápida aceleración",
+                    "Tecnología avanzada para seguridad y conectividad"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "sedán deportivo eléctrico",
+                    "vehículo de alto rendimiento",
+                    "movilidad sostenible",
+                    "tecnología Porsche"
+                ]
+            },
+            "zh": {
+                "title": "Porsche Taycan",
+                "head": "探索创新：保时捷Taycan",
+                "description": "保时捷Taycan以大胆的设计、尖端技术和无与伦比的驾驶动态重新定义了电动性能。",
+                "text": "保时捷Taycan是电动汽车世界中的真正革命，将保时捷标志性的优雅和动力与可持续的移动性相结合。凭借令人印象深刻的续航里程和超快速充电能力，它专为挑剔的驾驶者设计。内饰反映了现代奢华，采用优质材料、直观的数字驾驶舱和沉浸式信息娱乐技术。这款电动跑车提供令人振奋的性能，快速加速、瞬时扭矩和卓越的操控。",
+                "advantages": [
+                    "令人印象深刻的续航里程和超快速充电",
+                    "豪华现代的设计，采用优质材料",
+                    "运动性能，快速加速",
+                    "先进的安全和连接技术"
+                ],
+                "keywords": [
+                    "保时捷Taycan",
+                    "电动跑车",
+                    "高性能车辆",
+                    "可持续移动性",
+                    "保时捷技术"
+                ]
+            },
+            "fr": {
+                "title": "Porsche Taycan",
+                "head": "Découvrez l'Innovation: Porsche Taycan",
+                "description": "La Porsche Taycan redéfinit la performance électrique avec un design audacieux, une technologie de pointe et une dynamique de conduite inégalée.",
+                "text": "La Porsche Taycan est une véritable révolution dans le monde des véhicules électriques, combinant l'élégance et la puissance emblématiques de Porsche avec une mobilité durable. Avec une autonomie impressionnante et des capacités de charge ultra-rapides, elle est conçue pour les conducteurs exigeants. L'intérieur reflète le luxe moderne avec des matériaux haut de gamme, un cockpit numérique intuitif et une technologie d'infodivertissement immersive. Cette berline sportive électrique offre des performances exaltantes avec une accélération rapide, un couple instantané et une maniabilité exceptionnelle.",
+                "advantages": [
+                    "Autonomie impressionnante et charge ultra-rapide",
+                    "Design luxueux et moderne avec des matériaux haut de gamme",
+                    "Performances sportives avec une accélération rapide",
+                    "Technologie avancée pour la sécurité et la connectivité"
+                ],
+                "keywords": [
+                    "Porsche Taycan",
+                    "berline sportive électrique",
+                    "véhicule haute performance",
+                    "mobilité durable",
+                    "technologie Porsche"
+                ]
+            }
+        }
+    ]
+}

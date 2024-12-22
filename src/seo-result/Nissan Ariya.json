@@ -1,0 +1,27 @@
+
+{
+  "en": {
+    "title": "Nissan Ariya: Redefining Electric SUV Excellence",
+    "description": "Explore the future of driving with the all-electric Nissan Ariya. Experience innovation, efficiency, and luxury in one sleek package.",
+    "text": "The Nissan Ariya represents a significant leap forward in the electric vehicle (EV) market, blending advanced technology with practical performance. With a range of up to 300 miles on a single charge, it meets the needs of everyday commutes and adventurous road trips alike. The Ariya is equipped with the latest in EV technology, including a robust e-4ORCE all-wheel drive system and an intuitive dual-motor setup that delivers instant torque and impressive acceleration. Inside, the futuristic design is complemented by cutting-edge features, such as a head-up display and ProPILOT Assist 2.0, enhancing both safety and convenience.",
+    "advantages": ["Superior driving range", "Advanced e-4ORCE AWD system", "Cutting-edge interior technology", "Sleek, futuristic design"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Volkswagen ID.4"],
+    "keywords": ["Nissan Ariya", "electric SUV", "EV technology", "luxury electric vehicle", "advanced AWD"]
+  },
+  "ru": {
+    "title": "Nissan Ariya: Новое слово в классе электрических SUV",
+    "description": "Откройте для себя будущее вождения с полностью электрическим Nissan Ariya. Исследуйте инновации, эффективность и роскошь в одном элегантном пакете.",
+    "text": "Nissan Ariya является значительным шагом вперед в рынке электромобилей, сочетая передовые технологии с практичной производительностью. Автомобиль обладает запасом хода до 300 миль на одной зарядке, что идеально подходит как для ежедневных поездок, так и для приключенческих путешествий. Ariya оснащена последними достижениями в технологиях EV, включая мощную систему полного привода e-4ORCE и интуитивно понятную установку двух двигателей, которая обеспечивает мгновенный крутящий момент и впечатляющее ускорение. Внутри, передовой дизайн дополнен самыми современными функциями, такими как дисплей на лобовом стекле и ProPILOT Assist 2.0, повышающих безопасность и удобство.",
+    "advantages": ["Превосходный запас хода", "Передовая система e-4ORCE AWD", "Современные технологии интерьера", "Стильный, футуристический дизайн"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Volkswagen ID.4"],
+    "keywords": ["Nissan Ariya", "электрический SUV", "технологии EV", "роскошный электромобиль", "передовой полный привод"]
+  },
+  "ua": {
+    "title": "Nissan Ariya: Визначення відмінності електричних SUV",
+    "description": "Досліджуйте майбутнє керування з повністю електричним Nissan Ariya. Відчуйте інновації, ефективність та розкіш в одному стильному пакеті.",
+    "text": "Nissan Ariya є значним кроком вперед на ринку електромобілів, поєднуючи передові технології з практичними характеристиками. Автомобіль має запас ходу до 300 миль на одному заряджанні, що ідеально підходить як для щоденних поїздок, так і для пригодницьких подорожей. Ariya обладнана останніми досягненнями в технологіях EV, включаючи потужну систему повного приводу e-4ORCE та інтуїтивно зрозумілу установку двох двигунів, яка забезпечує миттєвий крутний момент та вражаюче прискорення. Усередині, передовий дизайн доповнений найсучаснішими функціями, такими як дисплей на вітровому склі та ProPILOT Assist 2.0, що підвищують безпеку та зручність.",
+    "advantages": ["Відмінний запас ходу", "Передова система e-4ORCE AWD", "Найсучасніші технології інтер'єру", "Стильний, футуристичний дизайн"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Volkswagen ID.4"],
+    "keywords": ["Nissan Ariya", "електричний SUV", "технології EV", "розкішний електромобіль", "передовий повний привід"]
+  }
+}

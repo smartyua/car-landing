@@ -1,4 +1,5 @@
 {
+    "slug": "chevrolet",
     "title": "Chevrolet",
     "headTitle": {
         "en": "Buy Chevrolet cars at US auctions - Auto Auction Mall",
@@ -465,6 +466,7 @@
             }
         },
         {
+            "slug": "tahoe",
             "en": {
                 "title": "Chevrolet Tahoe",
                 "description": "Chevrolet Tahoe is a top-rated car model offering great performance and luxury.",

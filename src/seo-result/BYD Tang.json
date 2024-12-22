@@ -1,0 +1,72 @@
+
+{
+  "en": {
+    "title": "Explore the All-New BYD Tang: The Future of Driving",
+    "description": "Discover the BYD Tang, a cutting-edge SUV blending performance, innovation, and sustainability.",
+    "text": "The BYD Tang redefines the electric vehicle landscape with its impressive array of features and unparalleled performance. Equipped with a robust electric powertrain, the Tang offers a striking balance of power and efficiency, delivering top-notch acceleration and a substantial range on a single charge. This SUV not only promises sustainability but also provides a luxurious, comfortable ride with its spacious interior and state-of-the-art technology integration. Safety is a priority with its advanced driver-assistance systems, ensuring a secure experience on the road.",
+    "advantages": [
+      "Superior electric range",
+      "High performance with quick acceleration",
+      "Advanced safety features",
+      "Spacious and luxurious interior"
+    ],
+    "competitors": [
+      "Tesla Model Y",
+      "NIO ES8",
+      "Volkswagen ID.4"
+    ],
+    "keywords": [
+      "BYD Tang",
+      "electric SUV",
+      "sustainable vehicles",
+      "advanced safety",
+      "luxury SUV"
+    ]
+  },
+  "ru": {
+    "title": "Познакомьтесь с новым BYD Tang: будущее вождения",
+    "description": "Откройте для себя BYD Tang, передовой внедорожник, сочетающий производительность, инновации и устойчивость.",
+    "text": "BYD Tang переопределяет пейзаж электромобилей благодаря впечатляющему набору функций и непревзойденной производительности. Оснащенный мощной электрической силовой установкой, Tang предлагает поразительный баланс мощности и эффективности, обеспечивая высококлассное ускорение и значительный запас хода на одной зарядке. Этот внедорожник не только обещает экологичность, но и обеспечивает роскошную, комфортабельную поездку благодаря его просторному интерьеру и современной интеграции технологий. Безопасность является приоритетом благодаря его передовым системам помощи водителю, обеспечивающим безопасный опыт на дороге.",
+    "advantages": [
+      "Высокий запас хода на электричестве",
+      "Высокая производительность с быстрым ускорением",
+      "Передовые функции безопасности",
+      "Просторный и роскошный интерьер"
+    ],
+    "competitors": [
+      "Tesla Model Y",
+      "NIO ES8",
+      "Volkswagen ID.4"
+    ],
+    "keywords": [
+      "BYD Tang",
+      "электрический внедорожник",
+      "устойчивые автомобили",
+      "передовая безопасность",
+      "роскошный внедорожник"
+    ]
+  },
+  "ua": {
+    "title": "Знайомтеся з новим BYD Tang: майбутнє водіння",
+    "description": "Відкрийте для себе BYD Tang, передовий позашляховик, який поєднує продуктивність, інновації та стійкість.",
+    "text": "BYD Tang перевизначає ландшафт електромобілів з його вражаючим набором функцій та неперевершеною продуктивністю. Оснащений потужною електричною силовою установкою, Tang пропонує вражаючий баланс потужності та ефективності, забезпечуючи вищий клас прискорення та значний запас ходу на одному заряді. Цей позашляховик не тільки обіцяє екологічність, але і забезпечує розкішну, комфортну поїздку завдяки його просторому інтер'єру та сучасній інтеграції технологій. Безпека є пріоритетом завдяки його передовим системам допомоги водію, забезпечуючи безпечний досвід на дорозі.",
+    "advantages": [
+      "Великий запас ходу на електриці",
+      "Висока продуктивність з швидким прискоренням",
+      "Передові функції безпеки",
+      "Просторий та розкішний інтер'єр"
+    ],
+    "competitors": [
+      "Tesla Model Y",
+      "NIO ES8",
+      "Volkswagen ID.4"
+    ],
+    "keywords": [
+      "BYD Tang",
+      "електричний позашляховик",
+      "стійкі автомобілі",
+      "передова безпека",
+      "роскошний позашляховик"
+    ]
+  }
+}

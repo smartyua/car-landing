@@ -1,4 +1,5 @@
 {
+    "slug": "tesla",
     "title": "Tesla",
     "headTitle": {
         "en": "Tesla cars for sale at US car auctions",
@@ -25,510 +26,704 @@
     "models": [
         {
             "slug": "model-3",
+            "competitors": [
+                "BMW i4",
+                "Audi e-tron GT",
+                "Polestar 2",
+                "Mercedes-Benz EQC"
+            ],
             "en": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 is a top-rated car model offering great performance and luxury.",
+                "head": "Tesla Model 3: Unleash the Future of Driving",
+                "description": "Discover the blend of style, performance, and sustainability with the Tesla Model 3.",
+                "text": "Tesla Model 3 represents a significant leap forward in the realm of electric vehicles. Offering an impressive range of up to 358 miles on a single charge, the Model 3 is designed for efficiency and speed, boasting acceleration from 0 to 60 mph in just 3.1 seconds. The minimalist interior is centered around a 15-inch touchscreen that controls most of the car's functions, marrying technology with simplicity. Safety is also a top priority, with numerous standard features including collision warning, emergency braking, and a robust set of driver assistance technologies known as Autopilot.",
                 "keywords": [
                     "Tesla",
                     "Model 3",
-                    "car",
-                    "luxury",
                     "advanced features",
                     "value for money",
                     "model-3 highlights",
                     "best in class",
                     "luxury design"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "advantages": [
+                    "Superior electric range",
+                    "Exceptional acceleration and performance",
+                    "Advanced Autopilot features",
+                    "Minimalist and futuristic interior design",
+                    "High safety ratings"
+                ]
             },
             "ru": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Откройте для себя будущее вождения",
+                "description": "Ознакомьтесь с сочетанием стиля, производительности и устойчивости с Tesla Model 3.",
+                "text": "Tesla Model 3 представляет собой значительный прогресс в мире электромобилей. С впечатляющим запасом хода до 575 километров на одной зарядке, Model 3 создан для эффективности и скорости, с разгоном от 0 до 100 км/ч всего за 3,1 секунды. Минималистичный интерьер ориентирован на 15-дюймовый сенсорный экран, управляющий большинством функций автомобиля, сочетая технологии с простотой. Также в приоритете безопасность, с множеством стандартных функций, включая предупреждение о столкновении, аварийное торможение и набор технологий помощи водителю под названием Autopilot.",
+                "advantages": [
+                    "Лучший запас хода среди электромобилей",
+                    "Исключительное ускорение и производительность",
+                    "Расширенные функции Autopilot",
+                    "Минималистичный и футуристический дизайн интерьера",
+                    "Высокие показатели безопасности"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "электромобиль",
+                    "экологичные автомобили",
+                    "продвинутый автопилот",
+                    "электромобиль большой запас хода"
+                ]
             },
             "ua": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Розкрийте майбутнє водіння",
+                "description": "Дізнайтеся про поєднання стилю, продуктивності та стійкості з Tesla Model 3.",
+                "text": "Tesla Model 3 представляє собою значний прогрес у світі електромобілів. З вражаючим запасом ходу до 575 кілометрів на одному заряді, Model 3 створений для ефективності та швидкості, з прискоренням від 0 до 100 км/год всього за 3,1 секунди. Мінімалістичний інтер'єр орієнтований на 15-дюймовий сенсорний екран, що керує більшістю функцій автомобіля, поєднуючи технології з простотою. Також в пріоритеті безпека, з численними стандартними функціями, включаючи попередження про зіткнення, аварійне гальмування та набір технологій допомоги водію під назвою Autopilot.",
+                "advantages": [
+                    "Найкращий запас ходу серед електромобілів",
+                    "Виняткове прискорення та продуктивність",
+                    "Розширені функції Autopilot",
+                    "Мінімалістичний та футуристичний дизайн інтер'єру",
+                    "Високі показники безпеки"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "електромобіль",
+                    "екологічні автомобілі",
+                    "продвинутий автопілот",
+                    "електромобіль великий запас ходу"
+                ]
             },
             "pl": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Odkryj przyszłość jazdy",
+                "description": "Odkryj połączenie stylu, wydajności i zrównoważonego rozwoju z modelem Tesla Model 3.",
+                "text": "Tesla Model 3 stanowi znaczący postęp w dziedzinie pojazdów elektrycznych. Oferując imponujący zasięg do 575 kilometrów na jednym ładowaniu, Model 3 został zaprojektowany z myślą o efektywności i prędkości, oferując przyspieszenie od 0 do 100 km/h w zaledwie 3,1 sekundy. Minimalistyczny wystrój wnętrza skupia się wokół 15-calowego ekranu dotykowego, który kontroluje większość funkcji samochodu, łącząc technologię z prostotą. Bezpieczeństwo jest również priorytetem, z licznymi standardowymi funkcjami, w tym ostrzeżeniem o kolizji, hamowaniem awaryjnym i rozbudowanym zestawem technologii wspomagających kierowcę znanych jako Autopilot.",
+                "advantages": [
+                    "Najlepszy zasięg elektryczny",
+                    "Wyjątkowe przyspieszenie i wydajność",
+                    "Zaawansowane funkcje Autopilota",
+                    "Minimalistyczny i futurystyczny design wnętrza",
+                    "Wysokie oceny bezpieczeństwa"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "samochód elektryczny",
+                    "samochody ekologiczne",
+                    "zaawansowany autopilot",
+                    "samochód elektryczny duży zasięg"
+                ]
             },
             "de": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Entfesseln Sie die Zukunft des Fahrens",
+                "description": "Entdecken Sie die Kombination aus Stil, Leistung und Nachhaltigkeit mit dem Tesla Model 3.",
+                "text": "Das Tesla Model 3 stellt einen bedeutenden Fortschritt im Bereich der Elektrofahrzeuge dar. Mit einer beeindruckenden Reichweite von bis zu 575 Kilometern pro Ladung ist das Model 3 auf Effizienz und Geschwindigkeit ausgelegt und bietet eine Beschleunigung von 0 auf 100 km/h in nur 3,1 Sekunden. Das minimalistische Interieur konzentriert sich auf einen 15-Zoll-Touchscreen, der die meisten Funktionen des Autos steuert und Technologie mit Einfachheit verbindet. Sicherheit hat ebenfalls oberste Priorität, mit zahlreichen serienmäßigen Funktionen, darunter Kollisionswarnung, Notbremsung und ein umfangreiches Set von Fahrerassistenztechnologien namens Autopilot.",
+                "advantages": [
+                    "Überragende elektrische Reichweite",
+                    "Außergewöhnliche Beschleunigung und Leistung",
+                    "Fortgeschrittene Autopilot-Funktionen",
+                    "Minimalistisches und futuristisches Interieur-Design",
+                    "Hohe Sicherheitsbewertungen"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "Elektroauto",
+                    "umweltfreundliche Autos",
+                    "fortgeschrittener Autopilot",
+                    "Elektroauto mit großer Reichweite"
+                ]
             },
             "be": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Адкрыць будучыню ваджэння",
+                "description": "Адчуйце сумесь стылю, прадукцыі і стійкасці з Tesla Model 3.",
+                "text": "Tesla Model 3 прадстаўляе значны крок наперад у сферы электрамабіляў. Прапаноўваючы ўражальны запас ходу да 575 кіламетраў на аднаму заряду, Model 3 створаны для эфектыўнасці і хуткасці, з прышвыдкаваннем ад 0 да 100 км/гад усё толькі за 3,1 секунды. Мінімалістычны інтэр'ер арыентаваны на 15-дюймовы сэнсарны экран, які кіруе большасцю функцый аўтамабіля, злучаючы тэхналогіі з простатай. Таксама ў прыярытэце бяспека, з шматлікімі стандартнымі функцыямі, уключаючы папярэджанне аб затрымце, аварыйнае гальмаванне і набор тэхналогій дапамогі вадзіцелю пад назвай Autopilot.",
+                "advantages": [
+                    "Лепшы запас ходу сярод электрамабіляў",
+                    "Выдатнае прышвыдкаванне і прадукцыя",
+                    "Расшыраныя функцыі Autopilot",
+                    "Мінімалістычны і футурыстычны дызайн інтэр'ера",
+                    "Высокія паказчыкі бяспекі"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "электрамабіль",
+                    "экалагічныя аўтамабілі",
+                    "прадвіжаны аўтапілот",
+                    "электрамабіль вялікі запас ходу"
+                ]
             },
             "es": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3: Desata el futuro de la conducción",
+                "description": "Descubre la combinación de estilo, rendimiento y sostenibilidad con el Tesla Model 3.",
+                "text": "El Tesla Model 3 representa un avance significativo en el mundo de los vehículos eléctricos. Con un impresionante rango de hasta 575 kilómetros con una sola carga, el Model 3 está diseñado para la eficiencia y la velocidad, con una aceleración de 0 a 100 km/h en solo 3,1 segundos. El interior minimalista se centra en una pantalla táctil de 15 pulgadas que controla la mayoría de las funciones del automóvil, combinando tecnología con simplicidad. La seguridad también es una prioridad, con numerosas características estándar que incluyen advertencia de colisión, frenado de emergencia y un robusto conjunto de tecnologías de asistencia al conductor conocidas como Autopilot.",
+                "advantages": [
+                    "Rango eléctrico superior",
+                    "Aceleración y rendimiento excepcionales",
+                    "Funciones avanzadas de Autopilot",
+                    "Diseño interior minimalista y futurista",
+                    "Altas calificaciones de seguridad"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "coche eléctrico",
+                    "coches ecológicos",
+                    "autopilot avanzado",
+                    "coche eléctrico de gran autonomía"
+                ]
             },
             "zh": {
                 "title": "特斯拉 Model 3",
-                "description": "特斯拉 Model 3 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Model 3",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "特斯拉 Model 3：释放驾驶的未来",
+                "description": "探索特斯拉 Model 3 的风格、性能和可持续性的完美融合。",
+                "text": "特斯拉 Model 3 在电动汽车领域迈出了重要的一步。单次充电的令人印象深刻的续航里程高达 575 英里，Model 3 旨在提高效率和速度，加速从 0 到 60 英里/小时仅需 3.1 秒。极简主义的内饰围绕着一个 15 英寸触摸屏展开，控制着大部分汽车功能，将技术与简单相结合。安全性也是首要任务，包括碰撞警告、紧急制动和一套强大的驾驶员辅助技术，称为 Autopilot。",
+                "advantages": [
+                    "卓越的电动续航里程",
+                    "卓越的加速性能",
+                    "先进的 Autopilot 功能",
+                    "极简主义和未来主义的内饰设计",
+                    "高安全评级"
                 ],
-                "text": "特斯拉 Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "特斯拉 Model 3",
+                    "电动汽车",
+                    "环保汽车",
+                    "先进的自动驾驶",
+                    "电动汽车大续航里程"
+                ]
             },
             "fr": {
                 "title": "Tesla Model 3",
-                "description": "Tesla Model 3 est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Model 3",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "model-3 highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model 3 : Libérez l'avenir de la conduite",
+                "description": "Découvrez la combinaison de style, de performance et de durabilité avec la Tesla Model 3.",
+                "text": "La Tesla Model 3 représente une avancée significative dans le monde des véhicules électriques. Avec une autonomie impressionnante allant jusqu'à 575 kilomètres avec une seule charge, la Model 3 est conçue pour l'efficacité et la vitesse, avec une accélération de 0 à 100 km/h en seulement 3,1 secondes. L'intérieur minimaliste est centré autour d'un écran tactile de 15 pouces qui contrôle la plupart des fonctions de la voiture, combinant technologie et simplicité. La sécurité est également une priorité, avec de nombreuses fonctionnalités standard, y compris l'avertissement de collision, le freinage d'urgence et un ensemble robuste de technologies d'assistance au conducteur connues sous le nom d'Autopilot.",
+                "advantages": [
+                    "Autonomie électrique supérieure",
+                    "Accélération et performance exceptionnelles",
+                    "Fonctionnalités avancées d'Autopilot",
+                    "Design intérieur minimaliste et futuriste",
+                    "Hautes notes de sécurité"
                 ],
-                "text": "Tesla Model 3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model 3",
+                    "voiture électrique",
+                    "voitures écologiques",
+                    "autopilot avancé",
+                    "voiture électrique grande autonomie"
+                ]
             }
         },
         {
             "slug": "model-s",
+            "competitors": [
+                "Audi e-tron GT",
+                "Porsche Taycan",
+                "Mercedes-Benz EQS"
+            ],
             "en": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Explore the Luxury and Innovation of Tesla Model S",
+                "description": "The Tesla Model S sets the standard for electric vehicles with exceptional range, performance, and cutting-edge technology.",
+                "text": "The Tesla Model S, an exemplar of modern electric vehicle technology, stands out with its impressive blend of performance, luxury, and environmentally friendly features. With a remarkable range of up to 405 miles on a single charge, the Model S reaffirms Tesla's commitment to sustainability without compromising on power or style. The car's acceleration prowess is also noteworthy, being able to sprint from 0 to 60 mph in just 2.3 seconds, thanks to its high-capacity battery and dual-motor setup.\n\nThe interior of the Model S is equally compelling, boasting a minimalist yet sophisticated design dominated by a 17-inch touchscreen that controls most of the car's functions. Advanced safety features, including autopilot capabilities and the latest in driver-assist technology, make Tesla Model S a top choice for safety-conscious drivers. The continuous updates and improvements via over-the-air software updates ensure that each Model S gets better with time.",
+                "advantages": [
+                    "Exceptional electric range",
+                    "Rapid acceleration",
+                    "Advanced safety features",
+                    "High-tech and luxurious interior",
+                    "Continuous software updates"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "electric luxury car",
+                    "long range EV",
+                    "advanced safety",
+                    "high-performance EV"
+                ]
             },
             "ru": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Исследуйте роскошь и инновации Tesla Model S",
+                "description": "Tesla Model S задает стандарты для электромобилей благодаря исключительной дальности, производительности и передовым технологиям.",
+                "text": "Tesla Model S, эталон современных электромобилей, выделяется впечатляющим сочетанием производительности, роскоши и экологически чистых технологий. С замечательной дальностью хода до 405 миль на одной зарядке, Model S подтверждает приверженность Tesla к устойчивости, не жертвуя при этом мощностью или стилем. Также стоит отметить возможности ускорения автомобиля, который способен разогнаться от 0 до 60 миль/ч всего за 2.3 секунды благодаря мощной батарее и двойной моторной установке.\n\nИнтерьер Model S также впечатляет, предлагая минималистичный, но изысканный дизайн, который доминируется 17-дюймовым сенсорным экраном, управляющим большинством функций автомобиля. Продвинутые функции безопасности, включая возможности автопилота и последние технологии помощи водителю, делают Tesla Model S привлекательным выбором для безопасности. Постоянные обновления и улучшения через обновления программного обеспечения 'по воздуху' обеспечивают постоянное улучшение каждой Model S.",
+                "advantages": [
+                    "Исключительная дальность хода",
+                    "Быстрое ускорение",
+                    "Продвинутые функции безопасности",
+                    "Высокотехнологичный и роскошный интерьер",
+                    "Постоянные обновления программного обеспечения"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "электрический роскошный автомобиль",
+                    "ЭВ с большой дальностью",
+                    "продвинутая безопасность",
+                    "высокопроизводительный ЭМ"
+                ]
             },
             "ua": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model S: Розкрийте розкіш та інновації",
+                "description": "Tesla Model S встановлює стандарти для електромобілів завдяки винятковій дальності, продуктивності та передовим технологіям.",
+                "text": "Tesla Model S, еталон сучасних електромобілів, виділяється вражаючим поєднанням продуктивності, розкоші та екологічно чистих технологій. З чудовою дальністю ходу до 405 миль на одному заряді, Model S підтверджує прихильність Tesla до стійкості, не жертвуючи при цьому потужністю чи стилем. Також варто відзначити можливості прискорення автомобіля, який здатний розігнатися від 0 до 60 миль/год всього за 2.3 секунди завдяки потужній батареї та подвійній моторній установці.\n\nІнтер'єр Model S також вражає, пропонуючи мінімалістичний, але вишуканий дизайн, який домінує 17-дюймовий сенсорний екран, що керує більшістю функцій автомобіля. Просунуті функції безпеки, включаючи можливості автопілота та останні технології допомоги водію, роблять Tesla Model S привабливим вибором для безпеки. Постійні оновлення та покращення через оновлення програмного забезпечення 'по повітрю' забезпечують постійне покращення кожної Model S.",
+                "advantages": [
+                    "Виняткова дальність ходу",
+                    "Швидке прискорення",
+                    "Просунуті функції безпеки",
+                    "Високотехнологічний та розкішний інтер'єр",
+                    "Постійні оновлення програмного забезпечення"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "електричний розкішний автомобіль",
+                    "ЕВ з великою дальністю",
+                    "просунута безпека",
+                    "високопродуктивний ЕМ"
+                ]
             },
             "pl": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model S: Odkryj luksus i innowacje",
+                "description": "Tesla Model S wyznacza standardy dla pojazdów elektrycznych dzięki wyjątkowemu zasięgowi, wydajności i nowoczesnej technologii.",
+                "text": "Tesla Model S, wzór nowoczesnej technologii pojazdów elektrycznych, wyróżnia się imponującym połączeniem wydajności, luksusu i przyjaznych dla środowiska cech. Z imponującym zasięgiem do 405 mil na jednym ładowaniu, Model S potwierdza zaangażowanie Tesli w zrównoważony rozwój bez kompromisów w zakresie mocy czy stylu. Warto również zwrócić uwagę na zdolności przyspieszenia samochodu, który może przyspieszyć od 0 do 60 mph w zaledwie 2,3 sekundy, dzięki wysokowydajnej baterii i podwójnemu silnikowi.\n\nWnętrze Modelu S jest równie imponujące, oferując minimalistyczny, ale wyrafinowany design zdominowany przez 17-calowy ekran dotykowy, który kontroluje większość funkcji samochodu. Zaawansowane funkcje bezpieczeństwa, w tym możliwości autopilota i najnowsze technologie wspomagające kierowcę, czynią Tesla Model S najlepszym wyborem dla kierowców dbających o bezpieczeństwo. Ciągłe aktualizacje i ulepszenia poprzez aktualizacje oprogramowania over-the-air zapewniają, że każdy Model S staje się lepszy z czasem.",
+                "advantages": [
+                    "Wyjątkowy zasięg elektryczny",
+                    "Szybkie przyspieszenie",
+                    "Zaawansowane funkcje bezpieczeństwa",
+                    "Wysokotechnologiczne i luksusowe wnętrze",
+                    "Ciągłe aktualizacje oprogramowania"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "elektryczny luksusowy samochód",
+                    "długi zasięg EV",
+                    "zaawansowane bezpieczeństwo",
+                    "wysokowydajny EV"
+                ]
             },
             "de": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Entdecken Sie den Luxus und die Innovation des Tesla Model S",
+                "description": "Der Tesla Model S setzt den Standard für Elektrofahrzeuge mit außergewöhnlicher Reichweite, Leistung und modernster Technologie.",
+                "text": "Der Tesla Model S, ein Vorbild moderner Elektrofahrzeugtechnologie, zeichnet sich durch seine beeindruckende Mischung aus Leistung, Luxus und umweltfreundlichen Merkmalen aus. Mit einer bemerkenswerten Reichweite von bis zu 405 Meilen mit einer einzigen Ladung bekräftigt der Model S Teslas Engagement für Nachhaltigkeit, ohne Kompromisse bei Leistung oder Stil einzugehen. Auch die Beschleunigungsfähigkeit des Autos ist bemerkenswert, da es dank seiner Hochleistungsbatterie und dem Dual-Motor-Setup in nur 2,3 Sekunden von 0 auf 60 mph sprinten kann.\n\nDas Interieur des Model S ist ebenso überzeugend und bietet ein minimalistisches, aber dennoch anspruchsvolles Design, das von einem 17-Zoll-Touchscreen dominiert wird, der die meisten Funktionen des Autos steuert. Fortschrittliche Sicherheitsfunktionen, einschließlich Autopilot-Fähigkeiten und der neuesten Fahrerassistenztechnologie, machen den Tesla Model S zu einer Top-Wahl für sicherheitsbewusste Fahrer. Die kontinuierlichen Updates und Verbesserungen über Over-the-Air-Software-Updates stellen sicher, dass jeder Model S mit der Zeit besser wird.",
+                "advantages": [
+                    "Außergewöhnliche elektrische Reichweite",
+                    "Schnelle Beschleunigung",
+                    "Fortschrittliche Sicherheitsfunktionen",
+                    "High-Tech und luxuriöses Interieur",
+                    "Kontinuierliche Software-Updates"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "elektrisches Luxusauto",
+                    "Langstrecken-EV",
+                    "fortschrittliche Sicherheit",
+                    "hochleistungs-EV"
+                ]
             },
             "be": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Адкрыйце раскошу і інавацыі Tesla Model S",
+                "description": "Tesla Model S усталёўвае стандарты для электрамабіляў дзякуючы выключнаму запасу ходу, прадукцыйнасці і перадавым тэхналогіям.",
+                "text": "Tesla Model S, узор сучаснай тэхналогіі электрамабіляў, вылучаецца ўражлівым спалучэннем прадукцыйнасці, раскошы і экалагічна чыстых функцый. З выдатным запасам ходу да 405 міль на адной зарадцы, Model S пацвярджае прыхільнасць Tesla да ўстойлівасці без кампрамісаў у магутнасці або стылі. Таксама варта адзначыць здольнасці паскарэння аўтамабіля, які можа разагнацца ад 0 да 60 міль/гадзіну ўсяго за 2,3 секунды дзякуючы магутнай батарэі і двайному маторнаму ўсталёўцы.\n\nІнтэр'ер Model S таксама ўражвае, прапаноўваючы мінімалістычны, але вытанчаны дызайн, які дамінуе 17-цалевы сэнсарны экран, які кіруе большасцю функцый аўтамабіля. Прасунутыя функцыі бяспекі, уключаючы магчымасці аўтапілота і апошнія тэхналогіі дапамогі вадзіцелю, робяць Tesla Model S прывабным выбарам для бяспекі. Пастаянныя абнаўленні і паляпшэнні праз абнаўленні праграмнага забеспячэння 'па паветры' забяспечваюць пастаяннае паляпшэнне кожнай Model S.",
+                "advantages": [
+                    "Выключны запас ходу",
+                    "Хуткае паскарэнне",
+                    "Прасунутыя функцыі бяспекі",
+                    "Высокатэхналагічны і раскошны інтэр'ер",
+                    "Пастаянныя абнаўленні праграмнага забеспячэння"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "электрычны раскошны аўтамабіль",
+                    "ЭВ з вялікім запасам ходу",
+                    "прасунутая бяспека",
+                    "высокапрадукцыйны ЭМ"
+                ]
             },
             "es": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Descubre el Lujo y la Innovación del Tesla Model S",
+                "description": "El Tesla Model S establece el estándar para los vehículos eléctricos con un alcance excepcional, rendimiento y tecnología de vanguardia.",
+                "text": "El Tesla Model S, un ejemplo de la tecnología moderna de vehículos eléctricos, se destaca por su impresionante combinación de rendimiento, lujo y características ecológicas. Con un alcance notable de hasta 405 millas con una sola carga, el Model S reafirma el compromiso de Tesla con la sostenibilidad sin comprometer la potencia o el estilo. La capacidad de aceleración del coche también es digna de mención, siendo capaz de acelerar de 0 a 60 mph en solo 2.3 segundos, gracias a su batería de alta capacidad y configuración de motor dual.\n\nEl interior del Model S es igualmente atractivo, con un diseño minimalista pero sofisticado dominado por una pantalla táctil de 17 pulgadas que controla la mayoría de las funciones del coche. Las características avanzadas de seguridad, incluidas las capacidades de piloto automático y la última tecnología de asistencia al conductor, hacen del Tesla Model S una opción principal para los conductores conscientes de la seguridad. Las actualizaciones y mejoras continuas a través de actualizaciones de software por aire aseguran que cada Model S mejore con el tiempo.",
+                "advantages": [
+                    "Alcance eléctrico excepcional",
+                    "Aceleración rápida",
+                    "Características avanzadas de seguridad",
+                    "Interior de alta tecnología y lujo",
+                    "Actualizaciones continuas de software"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "coche de lujo eléctrico",
+                    "EV de largo alcance",
+                    "seguridad avanzada",
+                    "EV de alto rendimiento"
+                ]
             },
             "zh": {
                 "title": "特斯拉 Model S",
-                "description": "特斯拉 Model S 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Model S",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "探索特斯拉 Model S 的奢华与创新",
+                "description": "特斯拉 Model S 以卓越的续航里程、性能和尖端技术树立了电动汽车的标准。",
+                "text": "特斯拉 Model S 是现代电动汽车技术的典范，以其令人印象深刻的性能、奢华和环保特性脱颖而出。单次充电的续航里程高达 405 英里，Model S 重申了特斯拉对可持续发展的承诺，同时不牺牲动力或风格。该车的加速能力也值得注意，得益于其高容量电池和双电机设置，从 0 到 60 英里/小时的加速仅需 2.3 秒。\n\nModel S 的内饰同样引人注目，拥有极简而精致的设计，以 17 英寸触摸屏为主，控制着大部分汽车功能。包括自动驾驶功能和最新的驾驶辅助技术在内的高级安全功能，使特斯拉 Model S 成为注重安全的驾驶者的首选。通过空中软件更新的持续更新和改进，确保每辆 Model S 随着时间的推移变得更好。",
+                "advantages": [
+                    "卓越的电动续航里程",
+                    "快速加速",
+                    "高级安全功能",
+                    "高科技和豪华内饰",
+                    "持续的软件更新"
                 ],
-                "text": "特斯拉 Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "特斯拉 Model S",
+                    "电动豪华车",
+                    "长续航电动汽车",
+                    "高级安全",
+                    "高性能电动汽车"
+                ]
             },
             "fr": {
                 "title": "Tesla Model S",
-                "description": "Tesla Model S est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Model S",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "model-s highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Découvrez le Luxe et l'Innovation de la Tesla Model S",
+                "description": "La Tesla Model S établit la norme pour les véhicules électriques avec une autonomie exceptionnelle, des performances et une technologie de pointe.",
+                "text": "La Tesla Model S, un exemple de la technologie moderne des véhicules électriques, se distingue par son impressionnante combinaison de performances, de luxe et de caractéristiques respectueuses de l'environnement. Avec une autonomie remarquable allant jusqu'à 405 miles avec une seule charge, la Model S réaffirme l'engagement de Tesla en faveur de la durabilité sans compromettre la puissance ou le style. Les prouesses d'accélération de la voiture sont également remarquables, étant capable de passer de 0 à 60 mph en seulement 2,3 secondes, grâce à sa batterie haute capacité et à son système à double moteur.\n\nL'intérieur de la Model S est tout aussi convaincant, avec un design minimaliste mais sophistiqué dominé par un écran tactile de 17 pouces qui contrôle la plupart des fonctions de la voiture. Les fonctionnalités de sécurité avancées, y compris les capacités de pilote automatique et la dernière technologie d'assistance au conducteur, font de la Tesla Model S un choix de premier ordre pour les conducteurs soucieux de la sécurité. Les mises à jour et améliorations continues via les mises à jour logicielles par voie hertzienne garantissent que chaque Model S s'améliore avec le temps.",
+                "advantages": [
+                    "Autonomie électrique exceptionnelle",
+                    "Accélération rapide",
+                    "Fonctionnalités de sécurité avancées",
+                    "Intérieur high-tech et luxueux",
+                    "Mises à jour logicielles continues"
                 ],
-                "text": "Tesla Model S offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-s's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model S",
+                    "voiture électrique de luxe",
+                    "EV longue autonomie",
+                    "sécurité avancée",
+                    "EV haute performance"
+                ]
             }
         },
         {
             "slug": "model-x",
+            "competitors": [
+                "Audi e-tron",
+                "Jaguar I-Pace",
+                "Mercedes-Benz EQC"
+            ],
             "en": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: A Pioneering Electric SUV",
+                "description": "Explore the future of driving with Tesla Model X, blending superior performance with innovative technology.",
+                "text": "Tesla Model X stands out as a leader in the electric vehicle market with its impressive blend of performance, technology, and sustainability. Boasting an unparalleled acceleration that goes from 0 to 60 mph in just 2.6 seconds, the Model X sets itself apart in the SUV category. Additionally, it offers a remarkable range of up to 351 miles on a single charge, ensuring that you can travel long distances with ease. The vehicle also features the latest in autopilot capabilities, enhancing safety and convenience for all occupants.",
+                "advantages": [
+                    "Exceptional electric range per charge",
+                    "Advanced autopilot and safety features",
+                    "Superior acceleration and performance",
+                    "Spacious interior with seating for up to seven adults",
+                    "Futuristic falcon wing doors"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model X",
+                    "electric SUV",
+                    "advanced autopilot",
+                    "long range EV",
+                    "luxury electric vehicle"
+                ]
             },
             "ru": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Пионерский электрический внедорожник",
+                "description": "Исследуйте будущее вождения с Tesla Model X, сочетая превосходную производительность с инновационными технологиями.",
+                "text": "Tesla Model X выделяется как лидер на рынке электромобилей благодаря впечатляющему сочетанию производительности, технологий и устойчивости. Обладая непревзойденным ускорением от 0 до 60 миль/ч всего за 2,6 секунды, Model X выделяется в категории внедорожников. Кроме того, он предлагает замечательный запас хода до 351 мили на одной зарядке, что обеспечивает возможность путешествовать на дальние расстояния с легкостью. Автомобиль также оснащен новейшими возможностями автопилота, повышающими безопасность и удобство для всех пассажиров.",
+                "advantages": [
+                    "Исключительный запас хода на одной зарядке",
+                    "Продвинутые функции автопилота и безопасности",
+                    "Превосходное ускорение и производительность",
+                    "Просторный салон с местами для семи взрослых",
+                    "Футуристические двери типа 'крыло сокола'"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "электрический внедорожник",
+                    "продвинутый автопилот",
+                    "дальний запас хода EV",
+                    "роскошный электрический автомобиль"
+                ]
             },
             "ua": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Розкрийте майбутнє водіння",
+                "description": "Досліджуйте майбутнє водіння з Tesla Model X, поєднуючи чудову продуктивність з інноваційними технологіями.",
+                "text": "Tesla Model X виділяється як лідер на ринку електромобілів завдяки вражаючому поєднанню продуктивності, технологій та стійкості. Завдяки неперевершеному прискоренню від 0 до 60 миль/год всього за 2,6 секунди, Model X виділяється в категорії позашляховиків. Крім того, він пропонує чудовий запас ходу до 351 милі на одній зарядці, що забезпечує можливість подорожувати на великі відстані з легкістю. Автомобіль також оснащений новітніми можливостями автопілота, що підвищують безпеку та зручність для всіх пасажирів.",
+                "advantages": [
+                    "Винятковий запас ходу на одній зарядці",
+                    "Просунуті функції автопілота та безпеки",
+                    "Чудове прискорення та продуктивність",
+                    "Просторий салон з місцями для семи дорослих",
+                    "Футуристичні двері типу 'крило сокола'"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "електричний позашляховик",
+                    "просунутий автопілот",
+                    "великий запас ходу EV",
+                    "розкішний електромобіль"
+                ]
             },
             "pl": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Odkryj przyszłość jazdy",
+                "description": "Odkryj przyszłość jazdy z Tesla Model X, łącząc doskonałe osiągi z innowacyjną technologią.",
+                "text": "Tesla Model X wyróżnia się jako lider na rynku pojazdów elektrycznych dzięki imponującemu połączeniu osiągów, technologii i zrównoważonego rozwoju. Posiadając niezrównane przyspieszenie od 0 do 60 mph w zaledwie 2,6 sekundy, Model X wyróżnia się w kategorii SUV. Dodatkowo oferuje imponujący zasięg do 351 mil na jednym ładowaniu, co zapewnia możliwość pokonywania długich dystansów z łatwością. Pojazd wyposażony jest również w najnowsze możliwości autopilota, zwiększając bezpieczeństwo i wygodę dla wszystkich pasażerów.",
+                "advantages": [
+                    "Wyjątkowy zasięg na jednym ładowaniu",
+                    "Zaawansowane funkcje autopilota i bezpieczeństwa",
+                    "Doskonałe przyspieszenie i osiągi",
+                    "Przestronne wnętrze z miejscami dla siedmiu dorosłych",
+                    "Futurystyczne drzwi typu 'falcon wing'"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "elektryczny SUV",
+                    "zaawansowany autopilot",
+                    "długi zasięg EV",
+                    "luksusowy pojazd elektryczny"
+                ]
             },
             "de": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Entdecken Sie den Luxus und die Innovation des Tesla Model X",
+                "description": "Erleben Sie die Zukunft des Fahrens mit dem Tesla Model X, das überlegene Leistung mit innovativer Technologie verbindet.",
+                "text": "Der Tesla Model X zeichnet sich als führendes Fahrzeug auf dem Elektrofahrzeugmarkt durch seine beeindruckende Mischung aus Leistung, Technologie und Nachhaltigkeit aus. Mit einer unvergleichlichen Beschleunigung von 0 auf 60 mph in nur 2,6 Sekunden setzt sich der Model X in der SUV-Kategorie ab. Darüber hinaus bietet er eine bemerkenswerte Reichweite von bis zu 351 Meilen mit einer einzigen Ladung, was sicherstellt, dass Sie lange Strecken mühelos zurücklegen können. Das Fahrzeug verfügt auch über die neuesten Autopilot-Funktionen, die die Sicherheit und den Komfort für alle Insassen erhöhen.",
+                "advantages": [
+                    "Außergewöhnliche elektrische Reichweite pro Ladung",
+                    "Fortschrittliche Autopilot- und Sicherheitsfunktionen",
+                    "Überlegene Beschleunigung und Leistung",
+                    "Geräumiges Interieur mit Platz für bis zu sieben Erwachsene",
+                    "Futuristische Falcon Wing Türen"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "elektrischer SUV",
+                    "fortschrittlicher Autopilot",
+                    "Langstrecken-EV",
+                    "luxuriöses Elektrofahrzeug"
+                ]
             },
             "be": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Адкрыйце будучыню ваджэння",
+                "description": "Даследуйце будучыню ваджэння з Tesla Model X, спалучаючы выдатную прадукцыйнасць з інавацыйнымі тэхналогіямі.",
+                "text": "Tesla Model X вылучаецца як лідар на рынку электрамабіляў дзякуючы ўражліваму спалучэнню прадукцыйнасці, тэхналогій і ўстойлівасці. З непераўзыдзеным паскарэннем ад 0 да 60 міль/гадзіну ўсяго за 2,6 секунды, Model X вылучаецца ў катэгорыі SUV. Акрамя таго, ён прапануе выдатны запас ходу да 351 мілі на адной зарадцы, што забяспечвае магчымасць падарожнічаць на вялікія адлегласці з лёгкасцю. Аўтамабіль таксама абсталяваны найноўшымі магчымасцямі аўтапілота, павышаючы бяспеку і зручнасць для ўсіх пасажыраў.",
+                "advantages": [
+                    "Выдатны запас ходу на адной зарадцы",
+                    "Прасунутыя функцыі аўтапілота і бяспекі",
+                    "Выдатнае паскарэнне і прадукцыйнасць",
+                    "Прасторны салон з месцамі для сямі дарослых",
+                    "Футурыстычныя дзверы тыпу 'крылы сокала'"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "электрычны SUV",
+                    "прасунуты аўтапілот",
+                    "доўгі запас ходу EV",
+                    "раскошны электрычны аўтамабіль"
+                ]
             },
             "es": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X: Desata el futuro de la conducción",
+                "description": "Explora el futuro de la conducción con el Tesla Model X, combinando un rendimiento superior con tecnología innovadora.",
+                "text": "El Tesla Model X se destaca como líder en el mercado de vehículos eléctricos con su impresionante combinación de rendimiento, tecnología y sostenibilidad. Con una aceleración inigualable que va de 0 a 60 mph en solo 2.6 segundos, el Model X se distingue en la categoría de SUV. Además, ofrece una autonomía notable de hasta 351 millas con una sola carga, asegurando que puedas viajar largas distancias con facilidad. El vehículo también cuenta con las últimas capacidades de piloto automático, mejorando la seguridad y conveniencia para todos los ocupantes.",
+                "advantages": [
+                    "Autonomía eléctrica excepcional por carga",
+                    "Funciones avanzadas de piloto automático y seguridad",
+                    "Aceleración y rendimiento superiores",
+                    "Interior espacioso con capacidad para hasta siete adultos",
+                    "Puertas futuristas tipo ala de halcón"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "SUV eléctrico",
+                    "piloto automático avanzado",
+                    "EV de largo alcance",
+                    "vehículo eléctrico de lujo"
+                ]
             },
             "zh": {
-                "title": "特斯拉 Model X",
-                "description": "特斯拉 Model X 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Model X",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Tesla Model X",
+                "head": "Tesla Model X: A Pioneering Electric SUV",
+                "description": "探索特斯拉 Model X 的未来驾驶体验，融合卓越性能与创新技术。",
+                "text": "特斯拉 Model X 以其令人印象深刻的性能、技术和可持续性在电动汽车市场中脱颖而出。其无与伦比的加速性能可在仅 2.6 秒内从 0 加速到 60 英里/小时，使 Model X 在 SUV 类别中独树一帜。此外，它在单次充电后提供高达 351 英里的显著续航里程，确保您可以轻松长途旅行。该车辆还配备了最新的自动驾驶功能，增强了所有乘员的安全性和便利性。",
+                "advantages": [
+                    "每次充电的卓越电动续航里程",
+                    "先进的自动驾驶和安全功能",
+                    "卓越的加速性能",
+                    "宽敞的内部空间，可容纳多达七名成人",
+                    "未来感十足的鹰翼门"
                 ],
-                "text": "特斯拉 Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "奥迪 e-tron",
+                    "捷豹 I-Pace",
+                    "奔驰 EQC"
+                ],
+                "keywords": [
+                    "特斯拉 Model X",
+                    "电动 SUV",
+                    "先进的自动驾驶",
+                    "长续航电动汽车",
+                    "豪华电动汽车"
+                ]
             },
             "fr": {
                 "title": "Tesla Model X",
-                "description": "Tesla Model X est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Model X",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "model-x highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model X : Découvrez le Luxe et l'Innovation du Tesla Model X",
+                "description": "Explorez l'avenir de la conduite avec le Tesla Model X, alliant performance supérieure et technologie innovante.",
+                "text": "Le Tesla Model X se distingue comme un leader sur le marché des véhicules électriques grâce à son impressionnante combinaison de performance, de technologie et de durabilité. Avec une accélération inégalée de 0 à 60 mph en seulement 2,6 secondes, le Model X se démarque dans la catégorie des SUV. De plus, il offre une autonomie remarquable allant jusqu'à 351 miles avec une seule charge, garantissant que vous pouvez parcourir de longues distances en toute simplicité. Le véhicule est également doté des dernières capacités de pilote automatique, améliorant la sécurité et la commodité pour tous les occupants.",
+                "advantages": [
+                    "Autonomie électrique exceptionnelle par charge",
+                    "Fonctionnalités avancées de pilote automatique et de sécurité",
+                    "Accélération et performance supérieures",
+                    "Intérieur spacieux avec des sièges pour jusqu'à sept adultes",
+                    "Portes futuristes de type 'falcon wing'"
                 ],
-                "text": "Tesla Model X offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-x's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi e-tron",
+                    "Jaguar I-Pace",
+                    "Mercedes-Benz EQC"
+                ],
+                "keywords": [
+                    "Tesla Model X",
+                    "SUV électrique",
+                    "pilote automatique avancé",
+                    "EV longue autonomie",
+                    "véhicule électrique de luxe"
+                ]
             }
         },
         {
             "slug": "model-y",
+            "competitors": [
+                "Audi Q4 e-tron",
+                "Ford Mustang Mach-E",
+                "Volvo XC40 Recharge",
+                "Jaguar I-PACE"
+            ],
             "en": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Discover the Future with Tesla Model Y – A Blend of Power and Sustainability",
+                "description": "Explore the innovative Tesla Model Y, an electric SUV designed for efficiency, performance, and luxury.",
+                "text": "Tesla Model Y stands as a benchmark in the electric vehicle industry, offering a unique blend of performance, utility, and cutting-edge technology. With its impressive range of up to 326 miles on a single charge and the capability to accelerate from 0 to 60 mph in as little as 3.5 seconds, the Model Y is an exceptional choice for both daily commuting and long-distance travel. Inside, the vehicle showcases a minimalist yet luxurious interior equipped with a state-of-the-art 15-inch touchscreen, comprehensive autopilot features, and advanced safety systems.\n\nThe Tesla Model Y is built with sustainability in mind, using energy-efficient components and a battery that supports fast charging—achieving an 80% charge in only 45 minutes with a supercharger. Its spacious cabin and flexible seating arrangements can comfortably accommodate up to seven passengers, making it an ideal car for families and groups.",
+                "advantages": [
+                    "Exceptional electric range and fast charging capabilities",
+                    "Advanced autopilot and safety features",
+                    "Luxurious and spacious interior",
+                    "High-performance metrics compared to traditional SUVs",
+                    "Eco-friendly design with minimal environmental impact"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "electric SUV",
+                    "sustainable vehicles",
+                    "luxury electric cars",
+                    "autopilot features"
+                ]
             },
             "ru": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Откройте для себя будущее с Tesla Model Y – Синтез мощности и экологичности",
+                "description": "Познакомьтесь с инновационным электрическим SUV Tesla Model Y, созданным для эффективности, производительности и роскоши.",
+                "text": "Tesla Model Y устанавливает стандарты в индустрии электромобилей, предлагая уникальное сочетание производительности, удобства и передовых технологий. Благодаря впечатляющему запасу хода до 326 миль на одной зарядке и способности разгоняться от 0 до 60 миль/ч всего за 3,5 секунды, Model Y является превосходным выбором как для ежедневных поездок, так и для дальних путешествий. В салоне автомобиль демонстрирует минималистичный, но роскошный интерьер, оснащенный современным 15-дюймовым тачскрином, комплексными возможностями автопилота и передовыми системами безопасности.\n\nTesla Model Y разработана с учетом устойчивости, использует энергоэффективные компоненты и аккумулятор, поддерживающий быструю зарядку — до 80% всего за 45 минут с использованием суперзарядки. Просторный салон и гибкие варианты расположения сидений позволяют комфортно разместить до семи пассажиров, что делает ее идеальным автомобилем для семей и групп.",
+                "advantages": [
+                    "Выдающийся запас хода и возможности быстрой зарядки",
+                    "Передовые функции автопилота и системы безопасности",
+                    "Роскошный и просторный интерьер",
+                    "Высокие показатели производительности по сравнению с традиционными внедорожниками",
+                    "Экологичный дизайн с минимальным воздействием на окружающую среду"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "competitors": [
+                    "Audi Q4 e-tron",
+                    "Ford Mustang Mach-E",
+                    "Volvo XC40 Recharge",
+                    "Jaguar I-PACE"
+                ],
+                "keywords": [
+                    "Tesla Model Y",
+                    "электрический SUV",
+                    "экологичные автомобили",
+                    "роскошные электромобили",
+                    "функции автопилота"
+                ]
             },
             "ua": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Відкрийте для себе майбутнє з Tesla Model Y – Поєднання потужності та сталості",
+                "description": "Дослідіть інноваційний електричний SUV Tesla Model Y, розроблений для ефективності, продуктивності та розкоші.",
+                "text": "Tesla Model Y встановлює стандарти у промисловості електромобілів, пропонуючи унікальне поєднання продуктивності, зручності та передових технологій. Завдяки вражаючому запасу ходу до 326 миль на одному заряді та здатності прискорюватися від 0 до 60 миль/год за всього 3.5 секунди, Model Y є винятковим вибором як для щоденних поїздок, так і для далеких подорожей. У салоні автомобіль демонструє мінімалістичний, але розкішний інтер'єр, обладнаний сучасним 15-дюймовим тачскріном, комплексними можливостями автопілота та передовими системами безпеки.\n\nTesla Model Y створена з думкою про сталість, використовує енергоефективні компоненти та акумулятор, який підтримує швидку зарядку — до 80% всього за 45 хвилин з використанням суперзаряджання. Просторий салон і гнучкі варіанти розташування сидінь дозволяють комфортно розмістити до семи пасажирів, що робить її ідеальним автомобілем для сімей і груп.",
+                "advantages": [
+                    "Вражаючий запас ходу та можливості швидкої зарядки",
+                    "Передові функції автопілота та системи безпеки",
+                    "Розкішний і просторий інтер'єр",
+                    "Високі показники продуктивності порівняно з традиційними позашляховиками",
+                    "Екологічний дизайн з мінімальним впливом на довкілля"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "електричний SUV",
+                    "екологічні автомобілі",
+                    "роскошні електромобілі",
+                    "функції автопілота"
+                ]
             },
             "pl": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Model Y: Odkryj przyszłość – połączenie mocy i zrównoważonego rozwoju",
+                "description": "Poznaj innowacyjny Tesla Model Y, elektryczny SUV zaprojektowany z myślą o wydajności, osiągach i luksusie.",
+                "text": "Tesla Model Y jest punktem odniesienia w branży pojazdów elektrycznych, oferując unikalne połączenie wydajności, użyteczności i najnowocześniejszej technologii. Dzięki imponującemu zasięgowi do 526 km na jednym ładowaniu i zdolności przyspieszenia od 0 do 100 km/h w zaledwie 3,5 sekundy, Model Y jest doskonałym wyborem zarówno do codziennych dojazdów, jak i długodystansowych podróży. Wewnątrz pojazd prezentuje minimalistyczne, ale luksusowe wnętrze wyposażone w nowoczesny 15-calowy ekran dotykowy, kompleksowe funkcje autopilota i zaawansowane systemy bezpieczeństwa.\n\nTesla Model Y jest zbudowany z myślą o zrównoważonym rozwoju, wykorzystując energooszczędne komponenty i baterię wspierającą szybkie ładowanie – osiągając 80% naładowania w zaledwie 45 minut za pomocą superładowarki. Przestronna kabina i elastyczne układy siedzeń mogą wygodnie pomieścić do siedmiu pasażerów, co czyni go idealnym samochodem dla rodzin i grup.",
+                "advantages": [
+                    "Wyjątkowy zasięg elektryczny i możliwości szybkiego ładowania",
+                    "Zaawansowane funkcje autopilota i systemy bezpieczeństwa",
+                    "Luksusowe i przestronne wnętrze",
+                    "Wysokie osiągi w porównaniu do tradycyjnych SUV-ów",
+                    "Ekologiczny design z minimalnym wpływem na środowisko"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "elektryczny SUV",
+                    "zrównoważone pojazdy",
+                    "luksusowe samochody elektryczne",
+                    "funkcje autopilota"
+                ]
             },
             "de": {
                 "title": "Tesla Model Y",
@@ -548,361 +743,459 @@
             },
             "be": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Адкрыйце будучыню з Tesla Model Y – Спалучэнне магутнасці і ўстойлівасці",
+                "description": "Даследуйце інавацыйны электрычны SUV Tesla Model Y, створаны для эфектыўнасці, прадукцыйнасці і раскошы.",
+                "text": "Tesla Model Y усталёўвае стандарты ў індустрыі электрамабіляў, прапаноўваючы унікальнае спалучэнне прадукцыйнасці, утыліты і перадавых тэхналогій. З уражлівым запасам ходу да 326 міль на адной зарадцы і здольнасцю разганяцца ад 0 да 60 міль/гадзіну ўсяго за 3,5 секунды, Model Y з'яўляецца выдатным выбарам як для штодзённых паездак, так і для далёкіх падарожжаў. Унутры аўтамабіль дэманструе мінімалістычны, але раскошны інтэр'ер, абсталяваны сучасным 15-цалевым сэнсарным экранам, комплекснымі магчымасцямі аўтапілота і перадавымі сістэмамі бяспекі.\n\nTesla Model Y створана з улікам устойлівасці, выкарыстоўвае энергаэфектыўныя кампаненты і акумулятар, які падтрымлівае хуткую зарадку — да 80% усяго за 45 хвілін з выкарыстаннем суперзарадкі. Прасторны салон і гнуткія варыянты размяшчэння сядзенняў дазваляюць камфортна размясціць да сямі пасажыраў, што робіць яе ідэальным аўтамабілем для сем'яў і груп.",
+                "advantages": [
+                    "Выдатны запас ходу і магчымасці хуткай зарадкі",
+                    "Перадавыя функцыі аўтапілота і сістэмы бяспекі",
+                    "Раскошны і прасторны інтэр'ер",
+                    "Высокія паказчыкі прадукцыйнасці ў параўнанні з традыцыйнымі SUV",
+                    "Экалагічны дызайн з мінімальным уздзеяннем на навакольнае асяроддзе"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "электрычны SUV",
+                    "устойлівыя аўтамабілі",
+                    "раскошныя электрамабілі",
+                    "функцыі аўтапілота"
+                ]
             },
             "es": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Descubre el Futuro con Tesla Model Y – Una Combinación de Potencia y Sostenibilidad",
+                "description": "Explora el innovador Tesla Model Y, un SUV eléctrico diseñado para la eficiencia, el rendimiento y el lujo.",
+                "text": "Tesla Model Y se destaca como un referente en la industria de vehículos eléctricos, ofreciendo una combinación única de rendimiento, utilidad y tecnología de vanguardia. Con su impresionante autonomía de hasta 326 millas con una sola carga y la capacidad de acelerar de 0 a 60 mph en tan solo 3.5 segundos, el Model Y es una opción excepcional tanto para el uso diario como para viajes de larga distancia. En el interior, el vehículo presenta un interior minimalista pero lujoso equipado con una pantalla táctil de 15 pulgadas de última generación, características completas de piloto automático y sistemas de seguridad avanzados.\n\nEl Tesla Model Y está construido pensando en la sostenibilidad, utilizando componentes energéticamente eficientes y una batería que admite carga rápida, logrando una carga del 80% en solo 45 minutos con un supercargador. Su espaciosa cabina y las configuraciones de asientos flexibles pueden acomodar cómodamente hasta siete pasajeros, lo que lo convierte en un automóvil ideal para familias y grupos.",
+                "advantages": [
+                    "Autonomía eléctrica excepcional y capacidades de carga rápida",
+                    "Funciones avanzadas de piloto automático y seguridad",
+                    "Interior lujoso y espacioso",
+                    "Métricas de alto rendimiento en comparación con los SUV tradicionales",
+                    "Diseño ecológico con un impacto ambiental mínimo"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "SUV eléctrico",
+                    "vehículos sostenibles",
+                    "coches eléctricos de lujo",
+                    "funciones de piloto automático"
+                ]
             },
             "zh": {
-                "title": "特斯拉 Model Y",
-                "description": "特斯拉 Model Y 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Model Y",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Tesla Model Y",
+                "head": "探索未来驾驶体验，特斯拉 Model Y – 动力与可持续性的完美结合",
+                "description": "探索创新的特斯拉 Model Y，这是一款为效率、性能和豪华设计的电动 SUV。",
+                "text": "特斯拉 Model Y 在电动汽车行业中树立了标杆，提供了性能、实用性和尖端技术的独特结合。其单次充电的续航里程高达 326 英里，并且能够在短短 3.5 秒内从 0 加速到 60 英里/小时，Model Y 是日常通勤和长途旅行的理想选择。车内展示了极简但豪华的内饰，配备了最先进的 15 英寸触摸屏、全面的自动驾驶功能和先进的安全系统。\n\n特斯拉 Model Y 以可持续性为设计理念，使用节能组件和支持快速充电的电池——使用超级充电器仅需 45 分钟即可达到 80% 的充电量。其宽敞的车厢和灵活的座椅布局可以舒适地容纳多达七名乘客，是家庭和团体的理想汽车。",
+                "advantages": [
+                    "卓越的电动续航里程和快速充电能力",
+                    "先进的自动驾驶和安全功能",
+                    "豪华宽敞的内饰",
+                    "与传统 SUV 相比的高性能指标",
+                    "环保设计，对环境影响最小"
                 ],
-                "text": "特斯拉 Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "特斯拉 Model Y",
+                    "电动 SUV",
+                    "可持续车辆",
+                    "豪华电动汽车",
+                    "自动驾驶功能"
+                ]
             },
             "fr": {
                 "title": "Tesla Model Y",
-                "description": "Tesla Model Y est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Model Y",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "model-y highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Découvrez le Futur avec Tesla Model Y – Un Mélange de Puissance et de Durabilité",
+                "description": "Explorez l'innovant Tesla Model Y, un SUV électrique conçu pour l'efficacité, la performance et le luxe.",
+                "text": "Le Tesla Model Y se distingue comme une référence dans l'industrie des véhicules électriques, offrant un mélange unique de performance, d'utilité et de technologie de pointe. Avec son autonomie impressionnante allant jusqu'à 326 miles avec une seule charge et la capacité d'accélérer de 0 à 60 mph en seulement 3,5 secondes, le Model Y est un choix exceptionnel pour les trajets quotidiens et les voyages longue distance. À l'intérieur, le véhicule présente un intérieur minimaliste mais luxueux équipé d'un écran tactile de 15 pouces à la pointe de la technologie, de fonctionnalités complètes d'autopilot et de systèmes de sécurité avancés.\n\nLe Tesla Model Y est conçu dans un souci de durabilité, utilisant des composants économes en énergie et une batterie qui prend en charge la charge rapide—atteignant 80% de charge en seulement 45 minutes avec un superchargeur. Son habitacle spacieux et ses configurations de sièges flexibles peuvent accueillir confortablement jusqu'à sept passagers, en faisant une voiture idéale pour les familles et les groupes.",
+                "advantages": [
+                    "Autonomie électrique exceptionnelle et capacités de charge rapide",
+                    "Fonctionnalités avancées d'autopilot et de sécurité",
+                    "Intérieur luxueux et spacieux",
+                    "Performances élevées par rapport aux SUV traditionnels",
+                    "Conception écologique avec un impact environnemental minimal"
                 ],
-                "text": "Tesla Model Y offers a perfect blend of performance, design, and innovation. Ideal for drivers who value model-y's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Model Y",
+                    "SUV électrique",
+                    "véhicules durables",
+                    "voitures électriques de luxe",
+                    "fonctionnalités d'autopilot"
+                ]
             }
         },
         {
             "slug": "roadster",
+            "competitors": [
+                "Porsche Taycan Turbo",
+                "Audi e-tron GT",
+                "Jaguar I-PACE"
+            ],
             "en": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Experience the Future: The New Tesla Roadster",
+                "description": "Discover unparalleled speed and innovation with the Tesla Roadster, the electric supercar reshaping the automotive landscape.",
+                "text": "The Tesla Roadster is set to redefine the concept of an electric sports car with its eye-popping acceleration, achieving 0 to 60 mph in just 1.9 seconds. Not only does it boast record-breaking speeds, but it also offers a stunning range of over 620 miles on a single charge, thanks to its advanced battery technology. The Roadster combines cutting-edge technology with luxurious design, featuring a sleek, aerodynamic body that enhances its performance and efficiency.\nEquipped with Tesla's latest autonomous driving capabilities, the Roadster promises not just a thrilling ride but a safe and comfortable one. With four seats, it is surprisingly practical for a sports car, making it an ideal choice for those seeking both performance and usability.",
+                "advantages": [
+                    "Exceptional acceleration and top speed",
+                    "Unmatched electric range",
+                    "Advanced autonomous driving features",
+                    "Superior interior comfort and design",
+                    "High practicality for a sports car"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "electric supercar",
+                    "luxury sports car",
+                    "fastest electric car",
+                    "long range electric vehicle"
+                ]
             },
             "ru": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Испытайте будущее: Новый Tesla Roadster",
+                "description": "Откройте для себя непревзойденную скорость и инновации с Tesla Roadster, электрическим суперкаром, который меняет автомобильный ландшафт.",
+                "text": "Tesla Roadster призван переопределить концепцию электрического спортивного автомобиля с его захватывающим ускорением, достигающим 0 до 60 миль/ч всего за 1,9 секунды. Он не только обладает рекордной скоростью, но и предлагает впечатляющий запас хода более 620 миль на одной зарядке благодаря передовой технологии аккумуляторов. Roadster сочетает передовые технологии с роскошным дизайном, имея гладкий, аэродинамический кузов, который улучшает его производительность и эффективность.\nОснащенный новейшими возможностями автономного вождения от Tesla, Roadster обещает не только захватывающую поездку, но и безопасную и комфортную. С четырьмя сиденьями он удивительно практичен для спортивного автомобиля, что делает его идеальным выбором для тех, кто ищет как производительность, так и удобство.",
+                "advantages": [
+                    "Исключительное ускорение и максимальная скорость",
+                    "Непревзойденный электрический запас хода",
+                    "Передовые функции автономного вождения",
+                    "Превосходный комфорт и дизайн интерьера",
+                    "Высокая практичность для спортивного автомобиля"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "электрический суперкар",
+                    "роскошный спортивный автомобиль",
+                    "самый быстрый электрический автомобиль",
+                    "электромобиль с большим запасом хода"
+                ]
             },
             "ua": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Відчуйте майбутнє: Новий Tesla Roadster",
+                "description": "Відкрийте для себе неперевершену швидкість та інновації з Tesla Roadster, електричним суперкаром, що змінює автомобільний ландшафт.",
+                "text": "Tesla Roadster має на меті переосмислити концепцію електричного спортивного автомобіля з його захоплюючим прискоренням, досягаючи 0 до 60 миль/год всього за 1,9 секунди. Він не тільки має рекордну швидкість, але й пропонує вражаючий запас ходу понад 620 миль на одній зарядці завдяки передовій технології акумуляторів. Roadster поєднує передові технології з розкішним дизайном, маючи гладкий, аеродинамічний кузов, що підвищує його продуктивність та ефективність.\nОснащений новітніми можливостями автономного водіння від Tesla, Roadster обіцяє не тільки захоплюючу поїздку, але й безпечну та комфортну. З чотирма сидіннями він дивовижно практичний для спортивного автомобіля, що робить його ідеальним вибором для тих, хто шукає як продуктивність, так і зручність.",
+                "advantages": [
+                    "Виняткове прискорення та максимальна швидкість",
+                    "Неперевершений електричний запас ходу",
+                    "Передові функції автономного водіння",
+                    "Превосходний комфорт і дизайн інтер'єру",
+                    "Висока практичність для спортивного автомобіля"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "електричний суперкар",
+                    "розкішний спортивний автомобіль",
+                    "найшвидший електричний автомобіль",
+                    "електромобіль з великим запасом ходу"
+                ]
             },
             "pl": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Roadster: Doświadcz przyszłości",
+                "description": "Odkryj niezrównaną prędkość i innowacje z Tesla Roadster, elektrycznym supercarem, który zmienia krajobraz motoryzacyjny.",
+                "text": "Tesla Roadster ma na celu zdefiniowanie na nowo koncepcji elektrycznego samochodu sportowego dzięki oszałamiającemu przyspieszeniu, osiągając 0 do 60 mph w zaledwie 1,9 sekundy. Nie tylko oferuje rekordowe prędkości, ale także imponujący zasięg ponad 620 mil na jednym ładowaniu, dzięki zaawansowanej technologii baterii. Roadster łączy najnowocześniejszą technologię z luksusowym designem, charakteryzując się eleganckim, aerodynamicznym nadwoziem, które zwiększa jego wydajność i efektywność.\nWyposażony w najnowsze możliwości autonomicznej jazdy Tesla, Roadster obiecuje nie tylko ekscytującą jazdę, ale także bezpieczną i komfortową. Z czterema siedzeniami jest zaskakująco praktyczny jak na samochód sportowy, co czyni go idealnym wyborem dla tych, którzy szukają zarówno wydajności, jak i użyteczności.",
+                "advantages": [
+                    "Wyjątkowe przyspieszenie i maksymalna prędkość",
+                    "Niezrównany zasięg elektryczny",
+                    "Zaawansowane funkcje autonomicznej jazdy",
+                    "Wyjątkowy komfort i design wnętrza",
+                    "Wysoka praktyczność jak na samochód sportowy"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "elektryczny supercar",
+                    "luksusowy samochód sportowy",
+                    "najszybszy samochód elektryczny",
+                    "długodystansowy pojazd elektryczny"
+                ]
             },
             "de": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Erleben Sie die Zukunft: Der neue Tesla Roadster",
+                "description": "Entdecken Sie unvergleichliche Geschwindigkeit und Innovation mit dem Tesla Roadster, dem elektrischen Supersportwagen, der die Automobilwelt neu gestaltet.",
+                "text": "Der Tesla Roadster wird das Konzept eines elektrischen Sportwagens mit seiner atemberaubenden Beschleunigung neu definieren und erreicht 0 bis 60 mph in nur 1,9 Sekunden. Er bietet nicht nur rekordverdächtige Geschwindigkeiten, sondern auch eine beeindruckende Reichweite von über 620 Meilen mit einer einzigen Ladung, dank seiner fortschrittlichen Batterietechnologie. Der Roadster kombiniert modernste Technologie mit luxuriösem Design und verfügt über eine schlanke, aerodynamische Karosserie, die seine Leistung und Effizienz verbessert.\nAusgestattet mit den neuesten autonomen Fahrfähigkeiten von Tesla verspricht der Roadster nicht nur eine aufregende Fahrt, sondern auch eine sichere und komfortable. Mit vier Sitzen ist er für einen Sportwagen überraschend praktisch und macht ihn zur idealen Wahl für diejenigen, die sowohl Leistung als auch Benutzerfreundlichkeit suchen.",
+                "advantages": [
+                    "Außergewöhnliche Beschleunigung und Höchstgeschwindigkeit",
+                    "Unübertroffene elektrische Reichweite",
+                    "Fortschrittliche autonome Fahrfunktionen",
+                    "Überlegener Innenkomfort und Design",
+                    "Hohe Praktikabilität für einen Sportwagen"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "elektrischer Supersportwagen",
+                    "luxuriöser Sportwagen",
+                    "schnellstes Elektroauto",
+                    "Langstrecken-Elektrofahrzeug"
+                ]
             },
             "be": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Адкрыйце будучыню: Новы Tesla Roadster",
+                "description": "Адкрыйце для сябе непераўзыдзеную хуткасць і інавацыі з Tesla Roadster, электрычным суперкарам, які змяняе аўтамабільны ландшафт.",
+                "text": "Tesla Roadster мае на мэце пераасэнсаваць канцэпцыю электрычнага спартыўнага аўтамабіля з яго захапляльным паскарэннем, дасягаючы 0 да 60 міль/гадзіну ўсяго за 1,9 секунды. Ён не толькі мае рэкордную хуткасць, але і прапануе ўражлівы запас ходу больш за 620 міль на адной зарадцы дзякуючы перадавой тэхналогіі акумулятараў. Roadster спалучае перадавыя тэхналогіі з раскошным дызайнам, маючы гладкі, аэрадынамічны кузаў, які павышае яго прадукцыйнасць і эфектыўнасць.\nАснашчаны найноўшымі магчымасцямі аўтаномнага кіравання ад Tesla, Roadster абяцае не толькі захапляльную паездку, але і бяспечную і камфортную. З чатырма сядзеннямі ён дзіўна практычны для спартыўнага аўтамабіля, што робіць яго ідэальным выбарам для тых, хто шукае як прадукцыйнасць, так і зручнасць.",
+                "advantages": [
+                    "Выдатнае паскарэнне і максімальная хуткасць",
+                    "Непераўзыдзены электрычны запас ходу",
+                    "Перадавыя функцыі аўтаномнага кіравання",
+                    "Выдатны камфорт і дызайн інтэр'ера",
+                    "Высокая практычнасць для спартыўнага аўтамабіля"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "электрычны суперкар",
+                    "раскошны спартыўны аўтамабіль",
+                    "самы хуткі электрычны аўтамабіль",
+                    "электрамабіль з вялікім запасам ходу"
+                ]
             },
             "es": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Experimenta el Futuro: El Nuevo Tesla Roadster",
+                "description": "Descubre una velocidad y una innovación sin igual con el Tesla Roadster, el superdeportivo eléctrico que está remodelando el panorama automotriz.",
+                "text": "El Tesla Roadster está destinado a redefinir el concepto de un coche deportivo eléctrico con su impresionante aceleración, alcanzando de 0 a 60 mph en solo 1.9 segundos. No solo presume de velocidades récord, sino que también ofrece una impresionante autonomía de más de 620 millas con una sola carga, gracias a su avanzada tecnología de baterías. El Roadster combina tecnología de vanguardia con un diseño lujoso, presentando un cuerpo aerodinámico y elegante que mejora su rendimiento y eficiencia.\nEquipado con las últimas capacidades de conducción autónoma de Tesla, el Roadster promete no solo un viaje emocionante, sino también seguro y cómodo. Con cuatro asientos, es sorprendentemente práctico para un coche deportivo, lo que lo convierte en una opción ideal para aquellos que buscan tanto rendimiento como usabilidad.",
+                "advantages": [
+                    "Aceleración y velocidad máxima excepcionales",
+                    "Autonomía eléctrica inigualable",
+                    "Funciones avanzadas de conducción autónoma",
+                    "Superior comodidad y diseño interior",
+                    "Alta practicidad para un coche deportivo"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "superdeportivo eléctrico",
+                    "coche deportivo de lujo",
+                    "coche eléctrico más rápido",
+                    "vehículo eléctrico de largo alcance"
+                ]
             },
             "zh": {
                 "title": "特斯拉 Roadster",
-                "description": "特斯拉 Roadster 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Roadster",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "体验未来：全新特斯拉 Roadster",
+                "description": "发现特斯拉 Roadster 的无与伦比的速度和创新，这款电动超级跑车正在重塑汽车格局。",
+                "text": "特斯拉 Roadster 将重新定义电动跑车的概念，其令人瞠目的加速性能可在短短 1.9 秒内从 0 加速到 60 英里/小时。它不仅拥有创纪录的速度，还凭借其先进的电池技术提供超过 620 英里的惊人续航里程。Roadster 将尖端技术与豪华设计相结合，采用流线型的空气动力学车身，提升其性能和效率。\n配备特斯拉最新的自动驾驶功能，Roadster 不仅承诺带来刺激的驾驶体验，还能保证安全和舒适。拥有四个座位，它在跑车中出奇地实用，是那些寻求性能和实用性的理想选择。",
+                "advantages": [
+                    "卓越的加速性能和最高速度",
+                    "无与伦比的电动续航里程",
+                    "先进的自动驾驶功能",
+                    "优越的内饰舒适性和设计",
+                    "对于跑车来说具有很高的实用性"
                 ],
-                "text": "特斯拉 Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "特斯拉 Roadster",
+                    "电动超级跑车",
+                    "豪华跑车",
+                    "最快的电动汽车",
+                    "长续航电动汽车"
+                ]
             },
             "fr": {
                 "title": "Tesla Roadster",
-                "description": "Tesla Roadster est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Roadster",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "roadster highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Découvrez le Futur: La Nouvelle Tesla Roadster",
+                "description": "Découvrez une vitesse et une innovation inégalées avec la Tesla Roadster, la supercar électrique qui redéfinit le paysage automobile.",
+                "text": "La Tesla Roadster est prête à redéfinir le concept de voiture de sport électrique avec son accélération époustouflante, atteignant 0 à 100 km/h en seulement 1,9 seconde. Non seulement elle offre des vitesses record, mais elle propose également une autonomie impressionnante de plus de 1000 km sur une seule charge, grâce à sa technologie de batterie avancée. La Roadster combine technologie de pointe et design luxueux, avec une carrosserie élégante et aérodynamique qui améliore ses performances et son efficacité.\nÉquipée des dernières capacités de conduite autonome de Tesla, la Roadster promet non seulement une conduite palpitante mais aussi sûre et confortable. Avec quatre sièges, elle est étonnamment pratique pour une voiture de sport, ce qui en fait un choix idéal pour ceux qui recherchent à la fois performance et utilité.",
+                "advantages": [
+                    "Accélération et vitesse de pointe exceptionnelles",
+                    "Autonomie électrique inégalée",
+                    "Fonctionnalités avancées de conduite autonome",
+                    "Confort et design intérieur supérieur",
+                    "Grande praticité pour une voiture de sport"
                 ],
-                "text": "Tesla Roadster offers a perfect blend of performance, design, and innovation. Ideal for drivers who value roadster's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Roadster",
+                    "supercar électrique",
+                    "voiture de sport de luxe",
+                    "voiture électrique la plus rapide",
+                    "véhicule électrique longue autonomie"
+                ]
             }
         },
         {
             "slug": "cybertruck",
+            "competitors": [
+                "Ford F-150 Lightning",
+                "Rivian R1T",
+                "GMC Hummer EV"
+            ],
             "en": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Revolutionize Your Drive",
+                "description": "Explore the futuristic design and superior performance of the Tesla Cybertruck, the electric pickup that's reshaping automotive standards.",
+                "text": "The Tesla Cybertruck is engineered with an ultra-hard 30X cold-rolled stainless-steel skin and Tesla armor glass for extreme durability and protection. With its unique angular design, this pickup truck is not only visually groundbreaking but built to withstand the harshest environments. It offers multiple electric motor configurations, including single, dual, and tri-motor setups, capable of reaching 0-60 mph in as little as 2.9 seconds with a range of over 500 miles on a single charge. The Cybertruck also integrates full self-driving capabilities, adapting to your lifestyle and driving needs.",
+                "advantages": [
+                    "Exceptional durability with ultra-hard stainless steel and armor glass",
+                    "Impressive acceleration and range",
+                    "Advanced autonomous driving technology",
+                    "Versatile utility with a large cargo hold and adaptable air suspension",
+                    "Sustainable electric performance reduces carbon footprint"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "electric pickup",
+                    "futuristic truck",
+                    "advanced technology",
+                    "sustainable driving"
+                ]
             },
             "ru": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Революционизируйте свою поездку",
+                "description": "Исследуйте футуристический дизайн и превосходную производительность Tesla Cybertruck, электрического пикапа, который меняет стандарты автомобильной промышленности.",
+                "text": "Tesla Cybertruck спроектирован с использованием ультрапрочной холоднокатаной нержавеющей стали 30X и стекла Tesla Armor для обеспечения экстремальной прочности и защиты. Благодаря уникальному угловатому дизайну этот пикап не только визуально революционен, но и создан для выдерживания самых суровых условий. Он предлагает несколько конфигураций электродвигателей, включая одно-, двух- и трехмоторные установки, способные разгоняться от 0 до 60 миль/ч всего за 2,9 секунды с запасом хода более 500 миль на одной зарядке. Cybertruck также интегрирует полные возможности автономного вождения, адаптируясь к вашему образу жизни и потребностям вождения.",
+                "advantages": [
+                    "Исключительная прочность благодаря ультрапрочной нержавеющей стали и бронестеклу",
+                    "Впечатляющее ускорение и запас хода",
+                    "Передовые технологии автономного вождения",
+                    "Универсальная утилитарность с большим грузовым отсеком и адаптируемой пневмоподвеской",
+                    "Устойчивые электрические характеристики снижают углеродный след"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "электрический пикап",
+                    "футуристический грузовик",
+                    "передовые технологии",
+                    "устойчивое вождение"
+                ]
             },
             "ua": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Революціонізуйте свою поїздку",
+                "description": "Досліджуйте футуристичний дизайн і чудову продуктивність Tesla Cybertruck, електричного пікапа, який змінює стандарти автомобільної промисловості.",
+                "text": "Tesla Cybertruck спроектований з використанням ультраміцної холоднокатаної нержавіючої сталі 30X і скла Tesla Armor для забезпечення екстремальної міцності та захисту. Завдяки унікальному кутовому дизайну цей пікап не тільки візуально революційний, але й створений для витримування найсуворіших умов. Він пропонує кілька конфігурацій електродвигунів, включаючи одно-, дво- та тримоторні установки, здатні розганятися від 0 до 60 миль/год всього за 2,9 секунди з запасом ходу понад 500 миль на одній зарядці. Cybertruck також інтегрує повні можливості автономного водіння, адаптуючись до вашого способу життя та потреб у водінні.",
+                "advantages": [
+                    "Виняткова міцність завдяки ультраміцній нержавіючій сталі та броньованому склу",
+                    "Вражаюче прискорення та запас ходу",
+                    "Передові технології автономного водіння",
+                    "Універсальна утилітарність з великим вантажним відсіком та адаптованою пневмопідвіскою",
+                    "Стійка електрична продуктивність зменшує вуглецевий слід"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "електричний пікап",
+                    "футуристичний вантажівка",
+                    "передові технології",
+                    "стійке водіння"
+                ]
             },
             "pl": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Zrewolucjonizuj swoją jazdę",
+                "description": "Poznaj futurystyczny design i doskonałe osiągi Tesla Cybertruck, elektrycznego pickupa, który zmienia standardy motoryzacyjne.",
+                "text": "Tesla Cybertruck jest zaprojektowany z ultra-twardą zimnowalcowaną stalą nierdzewną 30X i szkłem Tesla Armor dla ekstremalnej trwałości i ochrony. Dzięki unikalnemu kanciastemu designowi, ten pickup nie tylko wizualnie przełamuje schematy, ale jest również zbudowany, aby wytrzymać najtrudniejsze warunki. Oferuje wiele konfiguracji silników elektrycznych, w tym jedno-, dwu- i trój-silnikowe, zdolne do osiągnięcia 0-60 mph w zaledwie 2,9 sekundy z zasięgiem ponad 500 mil na jednym ładowaniu. Cybertruck integruje również pełne możliwości autonomicznej jazdy, dostosowując się do Twojego stylu życia i potrzeb związanych z jazdą.",
+                "advantages": [
+                    "Wyjątkowa trwałość dzięki ultra-twardej stali nierdzewnej i szkłu pancerzowemu",
+                    "Imponujące przyspieszenie i zasięg",
+                    "Zaawansowana technologia autonomicznej jazdy",
+                    "Wszechstronna użyteczność z dużym ładownością i adaptacyjnym zawieszeniem pneumatycznym",
+                    "Zrównoważona wydajność elektryczna zmniejsza ślad węglowy"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "elektryczny pickup",
+                    "futurystyczna ciężarówka",
+                    "zaawansowana technologia",
+                    "zrównoważona jazda"
+                ]
             },
             "de": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Revolutionieren Sie Ihre Fahrt",
+                "description": "Erleben Sie das futuristische Design und die überlegene Leistung des Tesla Cybertruck, dem elektrischen Pickup, der die Automobilstandards neu definiert.",
+                "text": "Der Tesla Cybertruck ist mit einer ultra-harten 30X kaltgewalzten Edelstahlhaut und Tesla-Panzerglas für extreme Haltbarkeit und Schutz konstruiert. Mit seinem einzigartigen kantigen Design ist dieser Pickup nicht nur visuell bahnbrechend, sondern auch für die härtesten Umgebungen gebaut. Er bietet mehrere Konfigurationen von Elektromotoren, einschließlich Einzel-, Doppel- und Dreifachmotoren, die in nur 2,9 Sekunden von 0 auf 60 mph beschleunigen können und eine Reichweite von über 500 Meilen mit einer einzigen Ladung haben. Der Cybertruck integriert auch vollständige Selbstfahrfähigkeiten und passt sich Ihrem Lebensstil und Ihren Fahrbedürfnissen an.",
+                "advantages": [
+                    "Außergewöhnliche Haltbarkeit mit ultra-hartem Edelstahl und Panzerglas",
+                    "Beeindruckende Beschleunigung und Reichweite",
+                    "Fortschrittliche autonome Fahrtechnologie",
+                    "Vielseitige Nutzbarkeit mit großem Laderaum und anpassbarer Luftfederung",
+                    "Nachhaltige elektrische Leistung reduziert den CO2-Fußabdruck"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "elektrischer Pickup",
+                    "futuristischer Truck",
+                    "fortschrittliche Technologie",
+                    "nachhaltiges Fahren"
+                ]
             },
             "be": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Рэвалюцыянізуйце сваю паездку",
+                "description": "Даследуйце футурыстычны дызайн і выдатную прадукцыйнасць Tesla Cybertruck, электрычнага пікапа, які змяняе стандарты аўтамабільнай прамысловасці.",
+                "text": "Tesla Cybertruck спраектаваны з выкарыстаннем ультратрывалай халоднакатанай нержавеючай сталі 30X і шкла Tesla Armor для забеспячэння экстрэмальнай трываласці і абароны. Дзякуючы унікальнаму вуглаватаму дызайну, гэты пікап не толькі візуальна рэвалюцыйны, але і створаны для вытрымання самых суровых умоў. Ён прапануе некалькі канфігурацый электрарухавікоў, уключаючы адна-, двух- і трохматорныя ўстаноўкі, здольныя разганяцца ад 0 да 60 міль/гадзіну ўсяго за 2,9 секунды з запасам ходу больш за 500 міль на адной зарадцы. Cybertruck таксама інтэгруе поўныя магчымасці аўтаномнага кіравання, адаптуючыся да вашага ладу жыцця і патрэб у кіраванні.",
+                "advantages": [
+                    "Выдатная трываласць дзякуючы ультратрывалай нержавеючай сталі і браняванаму шклу",
+                    "Уражлівае паскарэнне і запас ходу",
+                    "Перадавыя тэхналогіі аўтаномнага кіравання",
+                    "Універсальная ўтылітарнасць з вялікім грузавым адсекам і адаптыўнай пнеўмападвескай",
+                    "Устойлівыя электрычныя характарыстыкі зніжаюць вугляродны след"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "электрычны пікап",
+                    "футурыстычны грузавік",
+                    "перадавыя тэхналогіі",
+                    "устойлівае кіраванне"
+                ]
             },
             "es": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck: Revoluciona tu Conducción",
+                "description": "Explora el diseño futurista y el rendimiento superior del Tesla Cybertruck, la camioneta eléctrica que está redefiniendo los estándares automotrices.",
+                "text": "El Tesla Cybertruck está diseñado con una piel de acero inoxidable 30X ultra dura y vidrio blindado Tesla para una durabilidad y protección extremas. Con su diseño angular único, esta camioneta no solo es visualmente innovadora, sino que está construida para soportar los entornos más duros. Ofrece múltiples configuraciones de motores eléctricos, incluyendo configuraciones de uno, dos y tres motores, capaces de alcanzar de 0 a 60 mph en tan solo 2.9 segundos con un alcance de más de 500 millas con una sola carga. El Cybertruck también integra capacidades de conducción autónoma completa, adaptándose a tu estilo de vida y necesidades de conducción.",
+                "advantages": [
+                    "Durabilidad excepcional con acero inoxidable ultra duro y vidrio blindado",
+                    "Aceleración y alcance impresionantes",
+                    "Tecnología avanzada de conducción autónoma",
+                    "Utilidad versátil con un gran espacio de carga y suspensión de aire adaptable",
+                    "Rendimiento eléctrico sostenible que reduce la huella de carbono"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "camioneta eléctrica",
+                    "camioneta futurista",
+                    "tecnología avanzada",
+                    "conducción sostenible"
+                ]
             },
             "zh": {
-                "title": "特斯拉 Cybertruck",
-                "description": "特斯拉 Cybertruck 是一款性能出色、豪华的高评分车型。",
-                "keywords": [
-                    "特斯拉",
-                    "Cybertruck",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Tesla Cybertruck",
+                "head": "特斯拉 Cybertruck：革新您的驾驶体验",
+                "description": "探索特斯拉 Cybertruck 的未来设计和卓越性能，这款电动皮卡正在重塑汽车标准。",
+                "text": "特斯拉 Cybertruck 采用超硬 30X 冷轧不锈钢外壳和特斯拉装甲玻璃设计，具有极高的耐用性和保护性。凭借其独特的棱角设计，这款皮卡不仅在视觉上具有突破性，而且能够承受最恶劣的环境。它提供多种电动机配置，包括单电机、双电机和三电机配置，能够在短短 2.9 秒内从 0 加速到 60 英里/小时，单次充电续航里程超过 500 英里。Cybertruck 还集成了全自动驾驶功能，适应您的生活方式和驾驶需求。",
+                "advantages": [
+                    "超硬不锈钢和装甲玻璃的卓越耐用性",
+                    "令人印象深刻的加速和续航里程",
+                    "先进的自动驾驶技术",
+                    "具有大货舱和可调空气悬架的多功能实用性",
+                    "可持续的电动性能减少碳足迹"
                 ],
-                "text": "特斯拉 Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "特斯拉 Cybertruck",
+                    "电动皮卡",
+                    "未来卡车",
+                    "先进技术",
+                    "可持续驾驶"
+                ]
             },
             "fr": {
                 "title": "Tesla Cybertruck",
-                "description": "Tesla Cybertruck est un modèle de voiture haut de gamme offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Tesla",
-                    "Cybertruck",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "cybertruck highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Tesla Cybertruck : Révolutionnez votre conduite",
+                "description": "Découvrez le design futuriste et les performances supérieures du Tesla Cybertruck, le pickup électrique qui redéfinit les standards automobiles.",
+                "text": "Le Tesla Cybertruck est conçu avec une peau en acier inoxydable 30X ultra-dur et un verre blindé Tesla pour une durabilité et une protection extrêmes. Avec son design angulaire unique, ce pickup est non seulement révolutionnaire visuellement, mais aussi construit pour résister aux environnements les plus difficiles. Il offre plusieurs configurations de moteurs électriques, y compris des configurations à un, deux et trois moteurs, capables d'atteindre 0-60 mph en seulement 2,9 secondes avec une autonomie de plus de 500 miles sur une seule charge. Le Cybertruck intègre également des capacités de conduite autonome complète, s'adaptant à votre style de vie et à vos besoins de conduite.",
+                "advantages": [
+                    "Durabilité exceptionnelle avec de l'acier inoxydable ultra-dur et du verre blindé",
+                    "Accélération et autonomie impressionnantes",
+                    "Technologie avancée de conduite autonome",
+                    "Utilité polyvalente avec un grand espace de chargement et une suspension pneumatique adaptable",
+                    "Performance électrique durable réduisant l'empreinte carbone"
                 ],
-                "text": "Tesla Cybertruck offers a perfect blend of performance, design, and innovation. Ideal for drivers who value cybertruck's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Tesla Cybertruck",
+                    "pickup électrique",
+                    "camion futuriste",
+                    "technologie avancée",
+                    "conduite durable"
+                ]
             }
         }
     ]

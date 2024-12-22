@@ -17,6 +17,7 @@ import volkswagenSeo from './seo/volkswagen.json';
 import byd from './seo/byd.json';
 import nio from './seo/nio.json';
 import xpeng from './seo/xpeng.json';
+import porsche from './seo/porsche.json';
 import geely from './seo/geely.json';
 import liAutoXiang from './seo/li-auto-li-xiang.json';
 
@@ -24,6 +25,7 @@ const globalSEO = {
   audi: audiSeo,
   byd,
   xpeng,
+  porsche,
   nio,
   geely,
   'li-auto-li-xiang': liAutoXiang,

@@ -1,4 +1,5 @@
 {
+    "slug": "bmw",
     "title": "BMW",
     "headTitle": {
         "en": "BMW Used Cars at US Auctions",
@@ -25,6 +26,12 @@
     "models": [
         {
             "slug": "bmw-i4",
+            "competitors": [
+                "Tesla Model 3",
+                "Audi e-tron GT",
+                "Porsche Taycan",
+                "Mercedes-Benz EQE"
+            ],
             "en": {
                 "title": "BMW i4",
                 "description": "The BMW i4 is a stylish and eco-friendly electric car perfect for urban commuting.",
