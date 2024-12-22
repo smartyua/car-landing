@@ -1,0 +1,189 @@
+{
+    "slug": "rivian",
+    "title": "Rivian",
+    "headTitle": {
+        "en": "Rivian Electric Vehicles | Rivian USA",
+        "ru": "Электромобили Rivian | Rivian USA",
+        "ua": "Електромобілі Rivian | Rivian USA",
+        "pl": "Samochody elektryczne Rivian | Rivian USA",
+        "be": "Электрамабілі Rivian | Rivian USA",
+        "es": "Vehículos eléctricos Rivian | Rivian USA",
+        "zh": "奥迪电动汽车 | 奥迪美国",
+        "fr": "Véhicules électriques Porsche | Porsche USA"
+    },
+    "description": {
+        "en": "Rivian is a trailblazer in the world of electric vehicles, dedicated to redefining adventure and sustainability. Combining rugged capability with advanced technology, Rivian vehicles are built for drivers who seek innovation without compromising on performance or environmental responsibility. With a focus on durability and versatility, Rivian crafts vehicles ready for the toughest terrains and most demanding lifestyles.",
+        "ru": "Rivian - это первопроходец в мире электромобилей, посвятивший себя переосмыслению приключений и устойчивости. Сочетая грубую мощность с передовой технологией, автомобили Rivian созданы для водителей, которые ищут инновации, не жертвуя производительностью или экологической ответственностью. С акцентом на прочность и универсальность, Rivian создает автомобили, готовые к самым сложным местностям и наиболее требовательным образам жизни.",
+        "ua": "Rivian - це першопрохідець у світі електромобілів, який присвятив себе переосмисленню пригод та стійкості. Поєднуючи грубу потужність з передовою технологією, автомобілі Rivian створені для водіїв, які шукають інновацій, не жертвуючи продуктивністю або екологічною відповідальністю. З акцентом на міцність і універсальність, Rivian створює автомобілі, готові до найважчих місць і найбільш вимогливих образів життя.",
+        "pl": "Rivian to pionier w świecie pojazdów elektrycznych, który poświęca się ponownemu zdefiniowaniu przygody i zrównoważoności. Łącząc zdolności terenowe z zaawansowaną technologią, pojazdy Rivian są przeznaczone dla kierowców, którzy szukają innowacji, nie rezygnując z wydajności ani odpowiedzialności za środowisko. Skupiając się na wytrzymałości i wszechstronności, Rivian tworzy pojazdy gotowe do pokonywania najtrudniejszych terenów i najbardziej wymagających stylów życia.",
+        "de": "Rivian ist ein Wegbereiter in der Welt der Elektrofahrzeuge, der sich der Neugestaltung von Abenteuer und Nachhaltigkeit verschrieben hat. Rivian-Fahrzeuge kombinieren robuste Leistung mit fortschrittlicher Technologie und sind für Fahrer konzipiert, die Innovationen suchen, ohne dabei auf Leistung oder Umweltverträglichkeit zu verzichten. Mit einem Schwerpunkt auf Haltbarkeit und Vielseitigkeit fertigt Rivian Fahrzeuge, die für die härtesten Gelände und anspruchsvollsten Lebensstile bereit sind.",
+        "be": "Rivian - гэта першапраходцаў у сусьветзе электрамабіляў, які прысьвячае сябе пераацэнцыяўненню прыгод і стойлівасці. Паеднуючы грубую магутнасць з перадавой тэхналогіяй, машыны Rivian створаны для вадзіцеляў, якія шукаюць інавацыі, не пагінуўшы прадукцыйнасці ці экалагічнай адказнасці. З акцэнтам на моц і універсальнасць, Rivian стварае машыны, гатовыя да самых цяжкіх мясцовасцяў і найбольш патрабавальных стыляў жыцця.",
+        "es": "Rivian es un pionero en el mundo de los vehículos eléctricos, dedicado a redefinir la aventura y la sostenibilidad. Combinando capacidad robusta con tecnología avanzada, los vehículos Rivian están diseñados para conductores que buscan innovación sin comprometer el rendimiento o la responsabilidad ambiental. Con un enfoque en la durabilidad y la versatilidad, Rivian crea vehículos listos para los terrenos más difíciles y los estilos de vida más exigentes.",
+        "zh": "奥迪是电动汽车世界的先驱，致力于重新定义冒险和可持续性。奥迪车辆将强大的能力与先进技术相结合，为寻求创新而不愿牺牲性能或环境责任的驾驶员打造。奥迪专注于耐用性和多功能性，为最严峻的地形和最苛刻的生活方式打造车辆。",
+        "fr": "Porsche est un pionnier dans le monde des véhicules électriques, dédié à redéfinir l'aventure et la durabilité. En combinant des capacités robustes avec une technologie avancée, les véhicules Porsche sont conçus pour les conducteurs qui recherchent l'innovation sans compromettre les performances ou la responsabilité environnementale. Avec un accent sur la durabilité et la polyvalence, Porsche crée des véhicules prêts pour les terrains les plus difficiles et les modes de vie les plus exigeants."
+    },
+    "models": [
+        {
+            "slug": "taycan-ev",
+            "competitors": [
+                "Tesla Model X",
+                "Mercedes-Benz EQS SUV",
+                "BMW iX",
+                "Audi Q8 e-tron",
+                "Porsche Cayenne E-Hybrid"
+            ],
+            "en": {
+                "title": "Rivian R1S",
+                "head": "Discover Innovation: Rivian R1S",
+                "description": "The Rivian R1S is an all-electric SUV designed for adventure enthusiasts, blending durability, power, and sustainability. With a spacious interior, advanced off-road capabilities, and cutting-edge electric technology, the R1S redefines what it means to explore without limits.",
+                "text": "The Rivian R1S is an all-electric SUV designed for adventure enthusiasts, blending durability, power, and sustainability. With a spacious interior, advanced off-road capabilities, and cutting-edge electric technology, the R1S redefines what it means to explore without limits.",
+                "advantages": [
+                    "Rugged design",
+                    "Advanced off-road capabilities",
+                    "Spacious interior",
+                    "Cutting-edge electric technology"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S electric SUV",
+                    "Rivian R1S all-electric SUV",
+                    "Rivian R1S electric vehicle",
+                    "Rivian R1S electric car"
+                ]
+            },
+            "ru": {
+                "title": "Rivian R1S",
+                "head": "Откройте для себя инновации: Rivian R1S",
+                "description": "Rivian R1S - это полностью электрический внедорожник, разработанный для любителей приключений, сочетающий в себе прочность, мощность и устойчивость. С просторным интерьером, передовыми внедорожными возможностями и передовой электрической технологией R1S переопределяет понятие исследования без ограничений.",
+                "text": "Rivian R1S - это полностью электрический внедорожник, разработанный для любителей приключений, сочетающий в себе прочность, мощность и устойчивость. С просторным интерьером, передовыми внедорожными возможностями и передовой электрической технологией R1S переопределяет понятие исследования без ограничений.",
+                "advantages": [
+                    "Прочный дизайн",
+                    "Продвинутые внедорожные возможности",
+                    "Просторный интерьер",
+                    "Передовая электрическая технология"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S электрический внедорожник",
+                    "Rivian R1S полностью электрический внедорожник",
+                    "Rivian R1S электромобиль",
+                    "Rivian R1S электрический автомобиль"
+                ]
+            },
+            "ua": {
+                "title": "Rivian R1S",
+                "head": "Відкрийте для себе інновації: Rivian R1S",
+                "description": "Rivian R1S - це повністю електричний позашляховик, розроблений для любителів пригод, який поєднує в собі міцність, потужність і стійкість. З просторим інтер'єром, передовими позашляховими можливостями та передовою електричною технологією R1S переосмислює поняття дослідження без обмежень.",
+                "text": "Rivian R1S - це повністю електричний позашляховик, розроблений для любителів пригод, який поєднує в собі міцність, потужність і стійкість. З просторим інтер'єром, передовими позашляховими можливостями та передовою електричною технологією R1S переосмислює поняття дослідження без обмежень.",
+                "advantages": [
+                    "Міцний дизайн",
+                    "Передові позашляхові можливості",
+                    "Просторий інтер'єр",
+                    "Передова електрична технологія"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S електричний позашляховик",
+                    "Rivian R1S повністю електричний позашляховик",
+                    "Rivian R1S електромобіль",
+                    "Rivian R1S електричний автомобіль"
+                ]
+            },
+            "de": {
+                "title": "Rivian R1S",
+                "head": "Entdecken Sie Innovation: Rivian R1S",
+                "description": "Der Rivian R1S ist ein vollelektrischer SUV, der für Abenteuerliebhaber entwickelt wurde und Haltbarkeit, Leistung und Nachhaltigkeit vereint. Mit einem geräumigen Innenraum, fortschrittlichen Offroad-Fähigkeiten und modernster Elektrotechnik definiert der R1S, was grenzenlose Erkundung bedeutet.",
+                "text": "Der Rivian R1S ist ein vollelektrischer SUV, der für Abenteuerliebhaber entwickelt wurde. Er kombiniert Haltbarkeit, Leistung und Nachhaltigkeit. Mit einem geräumigen Innenraum, fortschrittlichen Offroad-Fähigkeiten und modernster Elektrotechnik setzt der R1S neue Maßstäbe für Abenteuer ohne Grenzen.",
+                "advantages": [
+                    "Robustes Design",
+                    "Fortschrittliche Offroad-Fähigkeiten",
+                    "Geräumiger Innenraum",
+                    "Modernste Elektrotechnik"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S elektrischer SUV",
+                    "Rivian R1S vollelektrischer SUV",
+                    "Rivian R1S Elektrofahrzeug",
+                    "Rivian R1S elektrisches Auto"
+                ]
+            },
+            "es": {
+                "title": "Rivian R1S",
+                "head": "Descubre la innovación: Rivian R1S",
+                "description": "El Rivian R1S es un SUV totalmente eléctrico diseñado para entusiastas de la aventura, combinando durabilidad, potencia y sostenibilidad. Con un interior espacioso, capacidades avanzadas todoterreno y tecnología eléctrica de vanguardia, el R1S redefine lo que significa explorar sin límites.",
+                "text": "El Rivian R1S es un SUV totalmente eléctrico diseñado para entusiastas de la aventura. Combina durabilidad, potencia y sostenibilidad. Con un interior espacioso, capacidades avanzadas todoterreno y tecnología eléctrica de vanguardia, el R1S redefine el significado de las aventuras sin límites.",
+                "advantages": [
+                    "Diseño robusto",
+                    "Capacidades todoterreno avanzadas",
+                    "Interior espacioso",
+                    "Tecnología eléctrica de vanguardia"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S SUV eléctrico",
+                    "Rivian R1S SUV totalmente eléctrico",
+                    "Rivian R1S vehículo eléctrico",
+                    "Rivian R1S coche eléctrico"
+                ]
+            },
+            "zh": {
+                "title": "Rivian R1S",
+                "head": "发现创新：Rivian R1S",
+                "description": "Rivian R1S 是一款为冒险爱好者设计的全电动 SUV，融合了耐用性、动力和可持续性。宽敞的内部空间、先进的越野能力和尖端电动技术重新定义了无限探索的意义。",
+                "text": "Rivian R1S 是一款为冒险爱好者设计的全电动 SUV。它融合了耐用性、动力和可持续性。宽敞的内部空间、先进的越野能力和尖端电动技术使 R1S 成为无限冒险的理想之选。",
+                "advantages": [
+                    "坚固设计",
+                    "先进的越野能力",
+                    "宽敞的内部空间",
+                    "尖端的电动技术"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S 电动 SUV",
+                    "Rivian R1S 全电动 SUV",
+                    "Rivian R1S 电动车辆",
+                    "Rivian R1S 电动汽车"
+                ]
+            },
+            "fr": {
+                "title": "Rivian R1S",
+                "head": "Découvrez l'innovation : Rivian R1S",
+                "description": "Le Rivian R1S est un SUV entièrement électrique conçu pour les amateurs d'aventure, alliant durabilité, puissance et durabilité. Avec un intérieur spacieux, des capacités tout-terrain avancées et une technologie électrique de pointe, le R1S redéfinit ce que signifie explorer sans limites.",
+                "text": "Le Rivian R1S est un SUV entièrement électrique conçu pour les amateurs d'aventure. Il allie durabilité, puissance et durabilité. Avec un intérieur spacieux, des capacités tout-terrain avancées et une technologie électrique de pointe, le R1S est parfait pour des aventures sans limites.",
+                "advantages": [
+                    "Design robuste",
+                    "Capacités tout-terrain avancées",
+                    "Intérieur spacieux",
+                    "Technologie électrique de pointe"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S SUV électrique",
+                    "Rivian R1S SUV tout électrique",
+                    "Rivian R1S véhicule électrique",
+                    "Rivian R1S voiture électrique"
+                ]
+            },
+            "be": {
+                "title": "Rivian R1S",
+                "head": "Адкрыйце інавацыі: Rivian R1S",
+                "description": "Rivian R1S — гэта цалкам электрычны пазадарожнік, створаны для аматараў прыгод, які спалучае трываласць, магутнасць і ўстойлівасць. З прасторным інтэр'ерам, перадавымі пазадарожнымі магчымасцямі і сучаснымі электратэхналогіямі R1S пераасэнсоўвае паняцце неабмежаваных прыгод.",
+                "text": "Rivian R1S — гэта цалкам электрычны пазадарожнік, створаны для аматараў прыгод. Ён спалучае трываласць, магутнасць і ўстойлівасць. З прасторным інтэр'ерам, перадавымі пазадарожнымі магчымасцямі і сучаснымі электратэхналогіямі R1S — ідэальны выбар для неабмежаваных прыгод.",
+                "advantages": [
+                    "Трывалы дызайн",
+                    "Перадавыя пазадарожныя магчымасці",
+                    "Прасторны інтэр'ер",
+                    "Сучасныя электратэхналогіі"
+                ],
+                "keywords": [
+                    "Rivian R1S",
+                    "Rivian R1S электрычны пазадарожнік",
+                    "Rivian R1S цалкам электрычны пазадарожнік",
+                    "Rivian R1S электрамабіль",
+                    "Rivian R1S электрычны аўтамабіль"
+                ]
+            }
+        }
+    ]
+}

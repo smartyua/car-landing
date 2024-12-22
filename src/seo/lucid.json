@@ -1,0 +1,219 @@
+{
+    "slug": "lucid",
+    "title": "Lucid",
+    "headTitle": {
+        "en": "Lucid Electric Vehicles | Lucid USA",
+        "ru": "Электромобили Lucid | Lucid USA",
+        "ua": "Електромобілі Lucid | Lucid USA",
+        "pl": "Samochody elektryczne Lucid | Lucid USA",
+        "be": "Электрамабілі Lucid | Lucid USA",
+        "es": "Vehículos eléctricos Lucid | Lucid USA",
+        "zh": "Lucid 电动汽车 | Lucid USA",
+        "fr": "Véhicules électriques Lucid | Lucid USA"
+    },
+    "description": {
+        "en": "Discover the future of electric vehicles with Lucid. Explore the luxury, performance, and sustainability of Lucid electric cars.",
+        "ru": "Откройте для себя будущее электромобилей с Lucid. Исследуйте роскошь, производительность и устойчивость электромобилей Lucid.",
+        "ua": "Дізнайтеся про майбутнє електромобілів з Lucid. Досліджуйте розкіш, продуктивність та стійкість електромобілів Lucid.",
+        "pl": "Odkryj przyszłość samochodów elektrycznych z Lucid. Poznaj luksus, wydajność i zrównoważenie samochodów elektrycznych Lucid.",
+        "de": "Entdecken Sie die Zukunft der Elektrofahrzeuge mit Lucid. Erforschen Sie den Luxus, die Leistung und die Nachhaltigkeit von Lucid Elektroautos.",
+        "be": "Адкрыйце будучыню электрамабіляў з Lucid. Даследуйце роскош, продукцыйнасць і ўстойлівасць электрамабіляў Lucid.",
+        "es": "Descubre el futuro de los vehículos eléctricos con Lucid. Explora el lujo, el rendimiento y la sostenibilidad de los coches eléctricos Lucid.",
+        "zh": "通过 Lucid 探索电动汽车的未来。探索 Lucid 电动汽车的豪华、性能和可持续性。",
+        "fr": "Découvrez l'avenir des véhicules électriques avec Lucid. Explorez le luxe, les performances et la durabilité des voitures électriques Lucid."
+    },
+    "models": [
+        {
+            "slug": "lucid-air",
+            "competitors": [
+                "Tesla Model S",
+                "BMW i7",
+                "Mercedes-Benz EQS",
+                "Audi e-tron GT",
+                "Porsche Taycan",
+                "Rivian R1S",
+                "Volvo XC90 Recharge"
+            ],
+            "en": {
+                "title": "Lucid Air",
+                "head": "Redefine Luxury: Lucid Air",
+                "description": "The Lucid Air is a groundbreaking luxury electric sedan, offering exceptional range, innovative technology, and elegant design.",
+                "text": "The Lucid Air represents a new era of luxury electric vehicles, delivering industry-leading range, rapid charging, and unparalleled performance. Its spacious and refined interior features premium materials and advanced technology, including a state-of-the-art infotainment system. With a design that balances sophistication and aerodynamics, the Lucid Air offers a dynamic driving experience that is both sustainable and exhilarating.",
+                "advantages": [
+                    "Class-leading range and fast charging",
+                    "Luxurious interior with cutting-edge features",
+                    "Sophisticated aerodynamic design",
+                    "Unmatched performance with electric precision",
+                    "Advanced safety and connectivity technologies"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "luxury electric sedan",
+                    "long-range EV",
+                    "innovative technology",
+                    "premium electric car"
+                ]
+            },
+            "de": {
+                "title": "Lucid Air",
+                "head": "Luxus neu definieren: Lucid Air",
+                "description": "Der Lucid Air ist eine bahnbrechende Luxus-Elektrolimousine, die außergewöhnliche Reichweite, innovative Technologie und elegantes Design bietet.",
+                "text": "Der Lucid Air repräsentiert eine neue Ära der Luxus-Elektrofahrzeuge und bietet branchenführende Reichweite, schnelles Laden und unvergleichliche Leistung. Sein geräumiges und raffiniertes Interieur verfügt über hochwertige Materialien und fortschrittliche Technologie, einschließlich eines hochmodernen Infotainmentsystems. Mit einem Design, das Raffinesse und Aerodynamik in Einklang bringt, bietet der Lucid Air ein dynamisches Fahrerlebnis, das sowohl nachhaltig als auch aufregend ist.",
+                "advantages": [
+                    "Klassenbeste Reichweite und schnelles Laden",
+                    "Luxuriöses Interieur mit modernsten Funktionen",
+                    "Raffiniertes aerodynamisches Design",
+                    "Unvergleichliche Leistung mit elektrischer Präzision",
+                    "Fortschrittliche Sicherheits- und Konnektivitätstechnologien"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "Luxus-Elektrolimousine",
+                    "Langstrecken-EV",
+                    "innovative Technologie",
+                    "Premium-Elektroauto"
+                ]
+            },
+            "ua": {
+                "title": "Lucid Air",
+                "head": "Переосмислення розкоші: Lucid Air",
+                "description": "Lucid Air — це революційний розкішний електричний седан, який пропонує винятковий запас ходу, інноваційні технології та елегантний дизайн.",
+                "text": "Lucid Air представляє нову еру розкішних електромобілів, забезпечуючи провідний у галузі запас ходу, швидку зарядку та неперевершену продуктивність. Його просторий і вишуканий інтер'єр оснащений преміальними матеріалами та передовими технологіями, включаючи сучасну інформаційно-розважальну систему. Дизайн Lucid Air поєднує в собі витонченість та аеродинаміку, забезпечуючи динамічний досвід водіння, який є як стійким, так і захоплюючим.",
+                "advantages": [
+                    "Лідируючий у класі запас ходу та швидка зарядка",
+                    "Розкішний інтер'єр з передовими функціями",
+                    "Витончений аеродинамічний дизайн",
+                    "Неперевершена продуктивність з електричною точністю",
+                    "Передові технології безпеки та підключення"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "розкішний електричний седан",
+                    "електромобіль з великим запасом ходу",
+                    "інноваційні технології",
+                    "преміальний електромобіль"
+                ]
+            },
+            "ru": {
+                "title": "Lucid Air",
+                "head": "Переосмысление роскоши: Lucid Air",
+                "description": "Lucid Air — это революционный роскошный электрический седан, предлагающий исключительный запас хода, инновационные технологии и элегантный дизайн.",
+                "text": "Lucid Air представляет новую эру роскошных электромобилей, обеспечивая лидирующий в отрасли запас хода, быструю зарядку и непревзойденную производительность. Его просторный и изысканный интерьер оснащен премиальными материалами и передовыми технологиями, включая современную информационно-развлекательную систему. С дизайном, который сочетает в себе утонченность и аэродинамику, Lucid Air предлагает динамичный опыт вождения, который является как устойчивым, так и захватывающим.",
+                "advantages": [
+                    "Лидирующий в классе запас хода и быстрая зарядка",
+                    "Роскошный интерьер с передовыми функциями",
+                    "Утонченный аэродинамический дизайн",
+                    "Непревзойденная производительность с электрической точностью",
+                    "Передовые технологии безопасности и подключения"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "роскошный электрический седан",
+                    "электромобиль с большим запасом хода",
+                    "инновационные технологии",
+                    "премиальный электромобиль"
+                ]
+            },
+            "pl": {
+                "title": "Lucid Air",
+                "head": "Zdefiniuj luksus na nowo: Lucid Air",
+                "description": "Lucid Air to przełomowy luksusowy elektryczny sedan, oferujący wyjątkowy zasięg, innowacyjną technologię i elegancki design.",
+                "text": "Lucid Air reprezentuje nową erę luksusowych pojazdów elektrycznych, dostarczając wiodący w branży zasięg, szybkie ładowanie i niezrównane osiągi. Jego przestronne i wyrafinowane wnętrze charakteryzuje się wysokiej jakości materiałami i zaawansowaną technologią, w tym nowoczesnym systemem infotainment. Dzięki projektowi, który łączy wyrafinowanie i aerodynamikę, Lucid Air oferuje dynamiczne doświadczenie jazdy, które jest zarówno zrównoważone, jak i ekscytujące.",
+                "advantages": [
+                    "Wiodący w klasie zasięg i szybkie ładowanie",
+                    "Luksusowe wnętrze z nowoczesnymi funkcjami",
+                    "Wyrafinowany aerodynamiczny design",
+                    "Niezrównane osiągi z precyzją elektryczną",
+                    "Zaawansowane technologie bezpieczeństwa i łączności"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "luksusowy elektryczny sedan",
+                    "długozasięgowy EV",
+                    "innowacyjna technologia",
+                    "premium elektryczny samochód"
+                ]
+            },
+            "es": {
+                "title": "Lucid Air",
+                "head": "Redefinir el Lujo: Lucid Air",
+                "description": "El Lucid Air es un sedán eléctrico de lujo revolucionario, que ofrece una autonomía excepcional, tecnología innovadora y diseño elegante.",
+                "text": "El Lucid Air representa una nueva era en los vehículos eléctricos de lujo, ofreciendo una autonomía líder en la industria, carga rápida y un rendimiento incomparable. Su interior espacioso y refinado cuenta con materiales de primera calidad y tecnología avanzada, incluido un sistema de infoentretenimiento de última generación. Con un diseño que equilibra la sofisticación y la aerodinámica, el Lucid Air ofrece una experiencia de conducción dinámica que es sostenible y emocionante.",
+                "advantages": [
+                    "Autonomía líder en su clase y carga rápida",
+                    "Interior lujoso con características de última generación",
+                    "Diseño aerodinámico sofisticado",
+                    "Rendimiento inigualable con precisión eléctrica",
+                    "Tecnologías avanzadas de seguridad y conectividad"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "sedán eléctrico de lujo",
+                    "EV de largo alcance",
+                    "tecnología innovadora",
+                    "coche eléctrico premium"
+                ]
+            },
+            "zh": {
+                "title": "Lucid Air",
+                "head": "重新定义奢华：Lucid Air",
+                "description": "Lucid Air 是一款开创性的豪华电动轿车，提供卓越的续航里程、创新技术和优雅设计。",
+                "text": "Lucid Air 代表了豪华电动车的新时代，提供业界领先的续航里程、快速充电和无与伦比的性能。其宽敞而精致的内饰采用优质材料和先进技术，包括最先进的信息娱乐系统。Lucid Air 的设计结合了优雅和空气动力学，为驾驶者带来了可持续且令人振奋的动态驾驶体验。",
+                "advantages": [
+                    "业界领先的续航里程和快速充电",
+                    "豪华内饰，配备尖端功能",
+                    "精致的空气动力学设计",
+                    "无与伦比的性能与电动精度",
+                    "先进的安全和互联技术"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "豪华电动轿车",
+                    "长续航电动车",
+                    "创新技术",
+                    "高端电动车"
+                ]
+            },
+            "fr": {
+                "title": "Lucid Air",
+                "head": "Redéfinir le Luxe : Lucid Air",
+                "description": "La Lucid Air est une berline électrique de luxe révolutionnaire, offrant une autonomie exceptionnelle, une technologie innovante et un design élégant.",
+                "text": "La Lucid Air représente une nouvelle ère dans le domaine des véhicules électriques de luxe, offrant une autonomie leader sur le marché, une recharge rapide et des performances inégalées. Son intérieur spacieux et raffiné est doté de matériaux haut de gamme et de technologies avancées, notamment un système d'infodivertissement de pointe. Avec un design qui équilibre sophistication et aérodynamisme, la Lucid Air offre une expérience de conduite dynamique, durable et exaltante.",
+                "advantages": [
+                    "Autonomie leader sur le marché et recharge rapide",
+                    "Intérieur luxueux avec des fonctionnalités de pointe",
+                    "Design aérodynamique sophistiqué",
+                    "Performances inégalées avec précision électrique",
+                    "Technologies avancées de sécurité et de connectivité"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "berline électrique de luxe",
+                    "EV longue autonomie",
+                    "technologie innovante",
+                    "voiture électrique haut de gamme"
+                ]
+            },
+            "be": {
+                "title": "Lucid Air",
+                "head": "Пераасэнсаванне раскошы: Lucid Air",
+                "description": "Lucid Air — гэта рэвалюцыйны раскошны электрычны седан, які прапануе выключны запас ходу, інавацыйныя тэхналогіі і элегантны дызайн.",
+                "text": "Lucid Air увасабляе новую эру раскошных электрамабіляў, прапаноўваючы лідзіруючы ў індустрыі запас ходу, хуткую зарадку і неперасягненую прадукцыйнасць. Яго прасторны і вытанчаны інтэр'ер выкананы з прэміяльных матэрыялаў і абсталяваны перадавымі тэхналогіямі, уключаючы сучасную інфармацыйна-забаўляльную сістэму. Дызайн Lucid Air спалучае ў сабе вытанчанасць і аэрадынаміку, забяспечваючы дынамічны вопыт кіравання, які з'яўляецца як устойлівым, так і захапляльным.",
+                "advantages": [
+                    "Лідзіруючы запас ходу і хуткая зарадка",
+                    "Раскошны інтэр'ер з перадавымі функцыямі",
+                    "Вытанчаны аэрадынамічны дызайн",
+                    "Неперасягненая прадукцыйнасць з электрычнай дакладнасцю",
+                    "Перадавыя тэхналогіі бяспекі і сувязі"
+                ],
+                "keywords": [
+                    "Lucid Air",
+                    "раскошны электрычны седан",
+                    "электрамабіль з вялікім запасам ходу",
+                    "інавацыйныя тэхналогіі",
+                    "прэміум электрамабіль"
+                ]
+            }
+        }
+    ]
+}

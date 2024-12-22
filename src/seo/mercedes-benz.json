@@ -25,6 +25,192 @@
     },
     "models": [
         {
+            "slug": "mercedes-eqs-suv",
+            "competitors": [
+                "Tesla Model S",
+                "Audi e-tron GT",
+                "Porsche Taycan",
+                "Lucid Air"
+            ],
+            "en": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Redefining Electric Luxury",
+                "description": "Explore the groundbreaking features of the all-new Mercedes EQS, a unique blend of luxury, technology, and performance.",
+                "text": "The Mercedes-Benz EQS sets a new standard for electric vehicles with its sophisticated design and cutting-edge technology. As the first all-electric luxury saloon from Mercedes-EQ, the EQS boasts an impressive range of up to 770 km (WLTP), made possible by its powerful 108 kWh battery. Its 0-100 km/h acceleration in just 4.3 seconds illustrates the vehicle's remarkable performance capabilities.\n\nInside, the EQS is equally impressive, featuring the MBUX Hyperscreen that spans almost the entire width of the interior - a true technological masterpiece. The vehicle ensures a smooth and serene driving experience thanks to its automatic driving functions and exceptional sound insulation. With advanced air filtration systems, the EQS also sets high standards in cabin air quality, prioritizing passenger health and comfort.",
+                "advantages": [
+                    "Exceptional electric range",
+                    "Innovative MBUX Hyperscreen",
+                    "Luxurious interior design",
+                    "Advanced driver-assistance features",
+                    "Superior air filtration system"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "electric vehicle",
+                    "luxury electric car",
+                    "Mercedes electric",
+                    "advanced car technology"
+                ]
+            },
+            "ru": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Новое слово в мире электрических люксовых автомобилей",
+                "description": "Познакомьтесь с уникальными особенностями новинки Mercedes EQS, где роскошь переплетается с технологиями и производительностью.",
+                "text": "Mercedes-Benz EQS устанавливает новые стандарты для электромобилей благодаря изысканному дизайну и передовым технологиям. Будучи первым полностью электрическим люксовым седаном от Mercedes-EQ, EQS может похвастаться впечатляющим запасом хода до 770 км (по стандарту WLTP), что обеспечивается мощным аккумулятором на 108 кВтч. Ускорение с 0 до 100 км/ч за 4,3 секунды подтверждает выдающиеся возможности автомобиля.\n\nВнутри EQS не менее впечатляет, оснащенный гиперскрином MBUX, который занимает почти всю ширину интерьера - это истинный шедевр технологий. Автомобиль обеспечивает плавное и тихое вождение благодаря функциям автоматического вождения и исключительной звукоизоляции. Современные системы фильтрации воздуха также ставят EQS в число лидеров по качеству воздуха в салоне, ставя на первое место здоровье и комфорт пассажиров.",
+                "advantages": [
+                    "Исключительный запас хода",
+                    "Инновационный гиперскрин MBUX",
+                    "Роскошный интерьер",
+                    "Передовые функции помощи водителю",
+                    "Высокоэффективная система очистки воздуха"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "электромобиль",
+                    "люксовый электромобиль",
+                    "электрический Mercedes",
+                    "передовые автомобильные технологии"
+                ]
+            },
+            "ua": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Переосмислення електричної розкоші",
+                "description": "Дізнайтеся про переваги повністю нового Mercedes EQS, де розкіш поєднується з технологіями та продуктивністю.",
+                "text": "Mercedes-Benz EQS встановлює нові стандарти для електромобілів завдяки своєму витонченому дизайну та передовим технологіям. Будучи першим повністю електричним розкішним седаном від Mercedes-EQ, EQS може похвалитися вражаючим запасом ходу до 770 км (за стандартом WLTP), що забезпечується потужною батареєю на 108 кВтг. Прискорення з 0 до 100 км/год за 4.3 секунди підкреслює видатні можливості автомобіля.\n\nВнутрішнє оздоблення EQS не менш вражаюче, з гіперекраном MBUX, який охоплює майже весь простір інтер'єру - справжній шедевр технологій. Автомобіль забезпечує плавне та тихе водіння завдяки функціям автоматичного водіння та винятковій шумоізоляції. Сучасні системи фільтрації повітря також ставлять EQS до лідерів за якістю повітря в салоні, акцентуючи увагу на здоров'ї та комфорті пасажирів.",
+                "advantages": [
+                    "Вражаючий запас ходу",
+                    "Інноваційний гіперекран MBUX",
+                    "Розкішний інтер'єр",
+                    "Передові функції допомоги водію",
+                    "Високоефективна система фільтрації повітря"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "електромобіль",
+                    "люксовий електромобіль",
+                    "електричний Mercedes",
+                    "передові автотехнології"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Redefiniowanie elektrycznego luksusu",
+                "description": "Odkryj przełomowe funkcje całkowicie nowego Mercedesa EQS, unikatowego połączenia luksusu, technologii i wydajności.",
+                "text": "Mercedes-Benz EQS ustanawia nowy standard dla pojazdów elektrycznych dzięki swojemu wyrafinowanemu designowi i najnowocześniejszej technologii. Jako pierwszy w pełni elektryczny luksusowy sedan od Mercedes-EQ, EQS może pochwalić się imponującym zasięgiem do 770 km (WLTP), możliwym dzięki potężnej baterii o pojemności 108 kWh. Przyspieszenie od 0 do 100 km/h w zaledwie 4,3 sekundy ilustruje niezwykłe możliwości wydajności pojazdu.\n\nWnętrze EQS jest równie imponujące, z wyświetlaczem MBUX Hyperscreen, który obejmuje niemal całą szerokość wnętrza - prawdziwe arcydzieło technologiczne. Pojazd zapewnia płynne i spokojne doświadczenie jazdy dzięki swoim funkcjom automatycznego prowadzenia i wyjątkowej izolacji dźwiękowej. Zaawansowane systemy filtracji powietrza sprawiają, że EQS również ustanawia wysokie standardy jakości powietrza w kabinie, priorytetem jest zdrowie i komfort pasażerów.",
+                "advantages": [
+                    "Wyjątkowy zasięg elektryczny",
+                    "Innowacyjny ekran MBUX Hyperscreen",
+                    "Luksusowy design wnętrza",
+                    "Zaawansowane funkcje wspomagania kierowcy",
+                    "Nadzwyczajny system filtracji powietrza"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "samochód elektryczny",
+                    "luksusowy samochód elektryczny",
+                    "Mercedes elektryczny",
+                    "zaawansowana technologia samochodowa"
+                ]
+            },
+            "de": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Elektrischer Luxus neu definiert",
+                "description": "Entdecken Sie die wegweisenden Funktionen des brandneuen Mercedes EQS, einer einzigartigen Kombination aus Luxus, Technologie und Leistung.",
+                "text": "Der Mercedes-Benz EQS setzt neue Maßstäbe für Elektrofahrzeuge mit seinem anspruchsvollen Design und modernster Technologie. Als erster vollelektrischer Luxus-Saloon von Mercedes-EQ verfügt der EQS über eine beeindruckende Reichweite von bis zu 770 km (WLTP), ermöglicht durch seinen leistungsstarken 108 kWh-Akku. Seine Beschleunigung von 0 auf 100 km/h in nur 4,3 Sekunden verdeutlicht die bemerkenswerten Leistungsfähigkeiten des Fahrzeugs.\n\nIm Inneren ist der EQS ebenso beeindruckend und verfügt über den MBUX Hyperscreen, der fast die gesamte Breite des Innenraums einnimmt - ein wahres technologisches Meisterwerk. Das Fahrzeug sorgt für ein sanftes und ruhiges Fahrerlebnis dank seiner automatischen Fahrfunktionen und der außergewöhnlichen Schallisolierung. Mit fortschrittlichen Luftfiltersystemen setzt der EQS auch hohe Standards in der Luftqualität im Innenraum und priorisiert die Gesundheit und den Komfort der Passagiere.",
+                "advantages": [
+                    "Außergewöhnliche elektrische Reichweite",
+                    "Innovativer MBUX Hyperscreen"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "Elektrofahrzeug",
+                    "Luxus-Elektroauto",
+                    "elektrischer Mercedes",
+                    "fortschrittliche Fahrzeugtechnologie"
+                ]
+            },
+            "es": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Redefiniendo el lujo eléctrico",
+                "description": "Descubre las características innovadoras del nuevo Mercedes EQS, una combinación única de lujo, tecnología y rendimiento.",
+                "text": "El Mercedes-Benz EQS establece un nuevo estándar para los vehículos eléctricos con su diseño sofisticado y tecnología de vanguardia. Como la primera berlina de lujo totalmente eléctrica de Mercedes-EQ, el EQS presume de una impresionante autonomía de hasta 770 km (WLTP), posible gracias a su potente batería de 108 kWh. Su aceleración de 0 a 100 km/h en solo 4,3 segundos ilustra las notables capacidades de rendimiento del vehículo.\n\nEn el interior, el EQS es igualmente impresionante, con el MBUX Hyperscreen que abarca casi toda la anchura del interior, una verdadera obra maestra tecnológica. El vehículo garantiza una experiencia de conducción suave y serena gracias a sus funciones de conducción automática y su excepcional aislamiento acústico. Con sistemas avanzados de filtración de aire, el EQS también establece altos estándares en la calidad del aire de la cabina, priorizando la salud y la comodidad de los pasajeros.",
+                "advantages": [
+                    "Autonomía eléctrica excepcional",
+                    "Innovador MBUX Hyperscreen",
+                    "Diseño interior de lujo",
+                    "Funciones avanzadas de asistencia al conductor",
+                    "Sistema de filtración de aire superior"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "vehículo eléctrico",
+                    "coche eléctrico de lujo",
+                    "Mercedes eléctrico",
+                    "tecnología automotriz avanzada"
+                ]
+            },
+            "be": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS: Новая глава ў свеце электрычных люксовых аўтамабіляў",
+                "description": "Пазнаёмцеся з унікальнымі асаблівасцямі новага Mercedes EQS, дзе раскоша спалучаецца з тэхналогіямі і прадукцыйнасцю.",
+                "text": "Mercedes-Benz EQS усталёўвае новыя стандарты для электрамабіляў дзякуючы вытанчанаму дызайну і перадавым тэхналогіям. Будучы першым цалкам электрычным люксовым седанам ад Mercedes-EQ, EQS можа пахваліцца ўражлівым запасам ходу да 770 км (па стандарце WLTP), што забяспечваецца магутным акумулятарам на 108 кВт·г. Паскарэнне з 0 да 100 км/г за 4,3 секунды пацвярджае выдатныя магчымасці аўтамабіля.\n\nУнутры EQS не менш уражвае, абсталяваны гіперэкранам MBUX, які займае амаль усю шырыню інтэр'еру - гэта сапраўдны шэдэўр тэхналогій. Аўтамабіль забяспечвае плаўнае і ціхае кіраванне дзякуючы функцыям аўтаматычнага кіравання і выключнай гукаізаляцыі. Сучасныя сістэмы фільтрацыі паветра таксама ставяць EQS у лік лідараў па якасці паветра ў салоне, ставячы на першае месца здароўе і камфорт пасажыраў.",
+                "advantages": [
+                    "Выдатны запас ходу",
+                    "Інавацыйны гіперэкран MBUX",
+                    "Раскошны інтэр'ер",
+                    "Перадавыя функцыі дапамогі кіроўцу",
+                    "Высокаэфектыўная сістэма ачысткі паветра"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "электрамабіль",
+                    "люксовы электрамабіль",
+                    "электрычны Mercedes",
+                    "перадавыя аўтамабільныя тэхналогіі"
+                ]
+            },
+            "fr": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "Mercedes-Benz EQS : Redéfinition du luxe électrique",
+                "description": "Découvrez les fonctionnalités révolutionnaires de la toute nouvelle Mercedes EQS, une combinaison unique de luxe, de technologie et de performances.",
+                "text": "La Mercedes-Benz EQS établit une nouvelle norme pour les véhicules électriques avec son design sophistiqué et sa technologie de pointe. Premier berline de luxe entièrement électrique de Mercedes-EQ, l'EQS bénéficie d'une impressionnante autonomie allant jusqu'à 770 km (WLTP), rendue possible par sa puissante batterie de 108 kWh. Son accélération de 0 à 100 km/h en seulement 4,3 secondes illustre les remarquables capacités de performance du véhicule.\n\nÀ l'intérieur, l'EQS est tout aussi impressionnante, avec le MBUX Hyperscreen qui s'étend sur presque toute la largeur de l'intérieur - un véritable chef-d'œuvre technologique. Le véhicule garantit une expérience de conduite fluide et sereine grâce à ses fonctions de conduite automatique et son isolation acoustique exceptionnelle. Avec des systèmes de filtration d'air avancés, l'EQS établit également des normes élevées en matière de qualité de l'air dans la cabine, en privilégiant la santé et le confort des passagers.",
+                "advantages": [
+                    "Autonomie électrique exceptionnelle",
+                    "MBUX Hyperscreen innovant",
+                    "Design intérieur luxueux",
+                    "Fonctionnalités avancées d'aide à la conduite",
+                    "Système de filtration d'air supérieur"
+                ],
+                "keywords": [
+                    "Mercedes EQS",
+                    "véhicule électrique",
+                    "voiture électrique de luxe",
+                    "Mercedes électrique",
+                    "technologie automobile avancée"
+                ]
+            },
+            "zh": {
+                "title": "Mercedes-Benz EQS SUV",
+                "head": "梅赛德斯-奔驰 EQS：重新定义电动豪华",
+                "description": "探索全新梅赛德斯 EQS 的突破性功能，这是豪华、技术和性能的独特结合。",
+                "text": "梅赛德斯-奔驰 EQS 以其精致的设计和尖端技术为电动汽车设立了新的标准。作为梅赛德斯-EQ推出的首款全电动豪华轿车，EQS拥有令人印象深刻的最大续航里程高达 770 公里（WLTP），这得益于其强大的 108 kWh 电池。其 0-100 公里/小时的加速时间仅为 4.3 秒，展示了车辆卓越的性能能力。\n\nEQS 内部同样令人印象深刻，配备了几乎覆盖整个内部宽度的 MBUX Hyperscreen - 这是一项真正的技术杰作。该车通过其自动驾驶功能和卓越的隔音确保平稳宁静的驾驶体验。EQS 还通过先进的空气过滤系统在舱内空气质量方面设定了高标准，优先考虑乘客的健康和舒适。",
+                "advantages": [
+                    "卓越的电动续航里程",
+                    "创新的 MBUX Hyperscreen",
+                    "豪华内饰设计",
+                    "先进的驾驶辅助功能",
+                    "卓越的空气过滤系统"
+                ],
+                "keywords": [
+                    "梅赛德斯 EQS",
+                    "电动汽车",
+                    "豪华电动车",
+                    "梅赛德斯电动",
+                    "先进汽车技术"
+                ]
+            }
+        },
+        {
             "slug": "mercedes-eqc",
             "en": {
                 "title": "Mercedes EQC",

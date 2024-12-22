@@ -19,6 +19,10 @@ import nio from './seo/nio.json';
 import xpeng from './seo/xpeng.json';
 import porsche from './seo/porsche.json';
 import geely from './seo/geely.json';
+import rivian from './seo/rivian.json';
+import jaguar from './seo/jaguar.json';
+import volvo from './seo/volvo.json';
+import lucid from './seo/lucid.json';
 import liAutoXiang from './seo/li-auto-li-xiang.json';
 
 const globalSEO = {
@@ -27,7 +31,10 @@ const globalSEO = {
   xpeng,
   porsche,
   nio,
+  lucid,
   geely,
+  jaguar,
+  rivian,
   'li-auto-li-xiang': liAutoXiang,
   bmw: bmwSeo,
   chevrolet: chevroletSeo,
@@ -43,6 +50,7 @@ const globalSEO = {
   subaru: subaruSeo,
   tesla: teslaSeo,
   toyota: toyotaSeo,
+  volvo,
   volkswagen: volkswagenSeo
 };
 
@@ -74,86 +82,7 @@ const values = {
     es: 'coche de EE.UU., la entrega de coches de EE.UU., la compra de un coche de EE.UU., coches llave en mano de EE.UU., coches baratos de EE.UU., coches americanos a Polonia, las costumbres de coches de EE.UU., coche de EE.UU. a Varsovia, comprar un coche de EE.UU. subasta, coche de EE.UU. entrega',
     zh: '美国汽车，美国汽车交付，从美国购买汽车，美国汽车交钥匙，廉价汽车从美国，美国汽国汽车到波兰，美国汽车清关，美国汽车到华沙，从美国拍卖购买汽车，美国汽车交付',
     fr: "voitures des États-Unis, livraison de voitures des États-Unis, achat de voitures d'Amérique, voitures des États-Unis clés en main, voitures bon marché des États-Unis, voitures américaines en Pologne, dédouanement de voitures des États-Unis, voitures des États-Unis à Varsovie, acheter une voiture aux enchères américaines, livraison de voitures des États-Unis"
-  },
-
-  popularCarBrands: [
-    {
-      title: 'Audi',
-      slug: 'audi'
-    },
-    { title: 'BMW', slug: 'bmw' },
-    { title: 'BYD', slug: 'byd' },
-    {
-      title: 'Chevrolet',
-      slug: 'chevrolet'
-    },
-    {
-      title: 'Dodge',
-      slug: 'dodge',
-      image: 'headDodge'
-    },
-    {
-      title: 'Ford',
-      slug: 'ford',
-      image: 'headMustang'
-    },
-    {
-      title: 'Geely',
-      slug: 'geely'
-    },
-    {
-      title: 'Honda',
-      slug: 'honda'
-    },
-    {
-      title: 'Hyundai',
-      slug: 'hyundai'
-    },
-    {
-      title: 'Jeep',
-      slug: 'jeep'
-    },
-    {
-      title: 'Kia',
-      slug: 'kia'
-    },
-    {
-      title: 'NIO',
-      slug: 'nio'
-    },
-
-    { title: 'Lexus', slug: 'lexus' },
-    { title: 'Li Auto (Li Xiang)', slug: 'li-auto-li-xiang' },
-    {
-      title: 'MercedesBenz',
-      slug: 'mercedesbenz'
-    },
-    {
-      title: 'Nissan',
-      slug: 'nissan'
-    },
-    {
-      title: 'Subaru',
-      slug: 'subaru'
-    },
-    {
-      title: 'Tesla',
-      slug: 'tesla',
-      image: 'headTesla'
-    },
-    {
-      title: 'Toyota',
-      slug: 'toyota'
-    },
-    {
-      title: 'Volkswagen',
-      slug: 'volkswagen'
-    },
-    {
-      title: 'XPeng',
-      slug: 'xpeng'
-    }
-  ]
+  }
 };
 
 export const languages = values.languages;

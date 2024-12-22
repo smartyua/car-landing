@@ -196,6 +196,191 @@
             }
         },
         {
+            "slug": "audi-q8-e-tron",
+            "competitors": [
+                "Tesla Model X",
+                "Mercedes-Benz EQS SUV",
+                "BMW iX",
+                "Rivian R1S",
+                "Volvo XC90 Recharge"
+            ],
+            "en": {
+                "title": "Audi Q8 e-tron",
+                "head": "Experience Luxury: Audi Q8 e-tron",
+                "description": "The Audi Q8 e-tron is a premium all-electric SUV that combines elegance, advanced technology, and dynamic performance.",
+                "text": "The Audi Q8 e-tron redefines luxury in the electric SUV market with its sophisticated design and cutting-edge features. It offers an exceptional driving range, ultra-fast charging, and an interior crafted with premium materials for maximum comfort. Equipped with advanced driver assistance systems and intuitive infotainment technology, the Q8 e-tron ensures a safe and enjoyable journey for both city and long-distance driving.",
+                "advantages": [
+                    "Elegant and modern design",
+                    "Exceptional driving range with fast charging capabilities",
+                    "Luxurious interior with advanced technology",
+                    "Dynamic performance with precise handling",
+                    "Comprehensive safety and driver assistance systems"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "electric SUV",
+                    "luxury electric vehicle",
+                    "advanced technology",
+                    "Audi electric car"
+                ]
+            },
+            "de": {
+                "title": "Audi Q8 e-tron",
+                "head": "Erleben Sie Luxus: Audi Q8 e-tron",
+                "description": "Der Audi Q8 e-tron ist ein Premium-Elektro-SUV, das Eleganz, fortschrittliche Technologie und dynamische Leistung vereint.",
+                "text": "Der Audi Q8 e-tron definiert Luxus im Markt für Elektro-SUVs neu mit seinem raffinierten Design und modernsten Funktionen. Er bietet eine außergewöhnliche Reichweite, ultraschnelles Laden und ein Interieur aus hochwertigen Materialien für maximalen Komfort. Ausgestattet mit fortschrittlichen Fahrerassistenzsystemen und intuitiver Infotainment-Technologie sorgt der Q8 e-tron für eine sichere und angenehme Fahrt, sowohl in der Stadt als auch auf langen Strecken.",
+                "advantages": [
+                    "Elegantes und modernes Design",
+                    "Außergewöhnliche Reichweite mit Schnellladefunktion",
+                    "Luxuriöses Interieur mit fortschrittlicher Technologie",
+                    "Dynamische Leistung mit präzisem Handling",
+                    "Umfassende Sicherheits- und Fahrerassistenzsysteme"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "Elektro-SUV",
+                    "Luxus-Elektrofahrzeug",
+                    "moderne Technologie",
+                    "Audi Elektroauto"
+                ]
+            },
+            "ru": {
+                "title": "Audi Q8 e-tron",
+                "head": "Испытайте роскошь: Audi Q8 e-tron",
+                "description": "Audi Q8 e-tron — это премиальный электрический внедорожник, сочетающий элегантность, передовые технологии и динамичную производительность.",
+                "text": "Audi Q8 e-tron переосмысливает понятие роскоши в сегменте электрических внедорожников благодаря утонченному дизайну и современным функциям. Он предлагает впечатляющий запас хода, сверхбыструю зарядку и интерьер, выполненный из премиальных материалов для максимального комфорта. Оснащенный передовыми системами помощи водителю и интуитивно понятной информационно-развлекательной системой, Q8 e-tron гарантирует безопасное и комфортное путешествие, как в городе, так и на дальние расстояния.",
+                "advantages": [
+                    "Элегантный и современный дизайн",
+                    "Впечатляющий запас хода и быстрая зарядка",
+                    "Роскошный интерьер с современными технологиями",
+                    "Динамичная производительность и точное управление",
+                    "Продвинутые системы безопасности и помощи водителю"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "электрический внедорожник",
+                    "премиальный электромобиль",
+                    "передовые технологии",
+                    "электромобиль Audi"
+                ]
+            },
+            "ua": {
+                "title": "Audi Q8 e-tron",
+                "head": "Відчуйте розкіш: Audi Q8 e-tron",
+                "description": "Audi Q8 e-tron — це преміальний електричний позашляховик, який поєднує елегантність, передові технології та динамічну продуктивність.",
+                "text": "Audi Q8 e-tron переосмислює поняття розкоші у сегменті електричних позашляховиків завдяки витонченому дизайну та сучасним функціям. Він пропонує вражаючий запас ходу, надшвидке заряджання та інтер'єр із преміальних матеріалів для максимального комфорту. Оснащений передовими системами допомоги водію та інтуїтивно зрозумілою інформаційно-розважальною системою, Q8 e-tron забезпечує безпечну та комфортну подорож як у місті, так і на далекі відстані.",
+                "advantages": [
+                    "Елегантний та сучасний дизайн",
+                    "Вражаючий запас ходу та швидке заряджання",
+                    "Розкішний інтер'єр із сучасними технологіями",
+                    "Динамічна продуктивність та точне керування",
+                    "Передові системи безпеки та допомоги водію"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "електричний позашляховик",
+                    "преміальний електромобіль",
+                    "передові технології",
+                    "електромобіль Audi"
+                ]
+            },
+            "pl": {
+                "title": "Audi Q8 e-tron",
+                "head": "Doświadcz luksusu: Audi Q8 e-tron",
+                "description": "Audi Q8 e-tron to luksusowy elektryczny SUV łączący elegancję, zaawansowaną technologię i dynamiczne osiągi.",
+                "text": "Audi Q8 e-tron redefiniuje luksus w segmencie elektrycznych SUV-ów dzięki wyrafinowanemu designowi i nowoczesnym funkcjom. Oferuje imponujący zasięg, ultraszybkie ładowanie oraz wnętrze wykonane z najwyższej jakości materiałów, zapewniające maksymalny komfort. Wyposażony w zaawansowane systemy wspomagania kierowcy i intuicyjny system informacyjno-rozrywkowy, Q8 e-tron gwarantuje bezpieczną i komfortową podróż zarówno w mieście, jak i na dłuższych trasach.",
+                "advantages": [
+                    "Elegancki i nowoczesny design",
+                    "Imponujący zasięg i szybkie ładowanie",
+                    "Luksusowe wnętrze z zaawansowaną technologią",
+                    "Dynamiczne osiągi i precyzyjne prowadzenie",
+                    "Zaawansowane systemy bezpieczeństwa i wsparcia kierowcy"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "elektryczny SUV",
+                    "luksusowy pojazd elektryczny",
+                    "zaawansowana technologia",
+                    "elektryczny samochód Audi"
+                ]
+            },
+            "es": {
+                "title": "Audi Q8 e-tron",
+                "head": "Experimenta el lujo: Audi Q8 e-tron",
+                "description": "El Audi Q8 e-tron es un SUV eléctrico premium que combina elegancia, tecnología avanzada y un rendimiento dinámico.",
+                "text": "El Audi Q8 e-tron redefine el lujo en el mercado de SUV eléctricos con su diseño sofisticado y características de vanguardia. Ofrece una autonomía excepcional, carga ultrarrápida y un interior elaborado con materiales premium para un máximo confort. Equipado con sistemas avanzados de asistencia al conductor y tecnología de infoentretenimiento intuitiva, el Q8 e-tron garantiza un viaje seguro y placentero tanto en la ciudad como en trayectos largos.",
+                "advantages": [
+                    "Diseño elegante y moderno",
+                    "Autonomía excepcional con capacidades de carga rápida",
+                    "Interior lujoso con tecnología avanzada",
+                    "Rendimiento dinámico con manejo preciso",
+                    "Sistemas completos de seguridad y asistencia al conductor"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "SUV eléctrico",
+                    "vehículo eléctrico de lujo",
+                    "tecnología avanzada",
+                    "coche eléctrico Audi"
+                ]
+            },
+            "zh": {
+                "title": "Audi Q8 e-tron",
+                "head": "体验奢华：奥迪Q8 e-tron",
+                "description": "奥迪Q8 e-tron是一款高端全电动SUV，融合了优雅、先进技术和动态性能。",
+                "text": "奥迪Q8 e-tron通过其精致的设计和尖端功能重新定义了电动SUV市场的奢华。它提供出色的续航里程、超快速充电和采用优质材料打造的内饰，为乘客提供最大舒适性。配备先进的驾驶辅助系统和直观的信息娱乐技术，Q8 e-tron确保城市和长途驾驶的安全和愉快旅程。",
+                "advantages": [
+                    "优雅和现代设计",
+                    "出色的续航里程和快速充电能力",
+                    "豪华内饰与先进技术",
+                    "动态性能和精准操控",
+                    "全面的安全和驾驶辅助系统"
+                ],
+                "keywords": [
+                    "奥迪Q8 e-tron",
+                    "电动SUV",
+                    "豪华电动车",
+                    "先进技术",
+                    "奥迪电动汽车"
+                ]
+            },
+            "fr": {
+                "title": "Audi Q8 e-tron",
+                "head": "Découvrez le luxe : Audi Q8 e-tron",
+                "description": "L'Audi Q8 e-tron est un SUV électrique premium qui allie élégance, technologie avancée et performances dynamiques.",
+                "text": "L'Audi Q8 e-tron redéfinit le luxe sur le marché des SUV électriques avec son design sophistiqué et ses fonctionnalités de pointe. Il offre une autonomie exceptionnelle, une charge ultra-rapide et un intérieur conçu avec des matériaux de qualité supérieure pour un confort maximal. Équipé de systèmes avancés d'aide à la conduite et d'une technologie d'infodivertissement intuitive, le Q8 e-tron assure un voyage sûr et agréable, que ce soit en ville ou sur de longues distances.",
+                "advantages": [
+                    "Design élégant et moderne",
+                    "Autonomie exceptionnelle avec des capacités de charge rapide",
+                    "Intérieur luxueux avec une technologie avancée",
+                    "Performances dynamiques avec une maniabilité précise",
+                    "Systèmes complets de sécurité et d'assistance à la conduite"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "SUV électrique"
+                ]
+            },
+            "be": {
+                "title": "Audi Q8 e-tron",
+                "head": "Вопытайце роскош: Audi Q8 e-tron",
+                "description": "Audi Q8 e-tron — гэта прэміум электрычны пазашляховік, які аб'ядноўвае элегантнасць, перадавыя тэхналогіі і дынамічную прадукцыю.",
+                "text": "Audi Q8 e-tron пераасэнсоўвае паняцце роскошы на рынку электрычных пазашляховікаў з дапамогай вытанчанага дызайну і сучасных функцый. Ён прапануе ўражаючы запас ходу, сверххуткае заряджанне і інтэр'ер, выкананы з прэміум-матэрыялаў для максімальнага камфорту. Аснашчаны перадавымі сістэмамі дапамогі вадзіцелю і інтуітыўна зразумелай інфармацыйна-забаўляльнай сістэмай, Q8 e-tron забяспечвае бяспечную і камфортную падарож, як у горадзе, так і на доўгія адлегласці.",
+                "advantages": [
+                    "Элегантны і сучасны дызайн",
+                    "Уражаючы запас ходу і хуткае заряджанне",
+                    "Раскошны інтэр'ер з сучаснымі тэхналогіямі"
+                ],
+                "keywords": [
+                    "Audi Q8 e-tron",
+                    "электрычны пазашляховік",
+                    "преміум электрамабіль",
+                    "перадавыя тэхналогіі",
+                    "электрамабіль Audi"
+                ]
+            }
+        },
+        {
             "slug": "audi-q4-e-tron-family",
             "en": {
                 "title": "Audi Q4 e-tron® Family",

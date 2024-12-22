@@ -25,6 +25,575 @@
     },
     "models": [
         {
+            "slug": "bmw-i7",
+            "competitors": [
+                "Tesla Model S",
+                "Mercedes-Benz EQS",
+                "Lucid Air",
+                "Audi e-tron GT",
+                "Porsche Taycan",
+                "Rivian R1S",
+                "Volvo XC90 Recharge"
+            ],
+            "en": {
+                "title": "BMW i7",
+                "head": "Experience Electric Luxury: BMW i7",
+                "description": "The BMW i7 is the pinnacle of electric luxury, combining cutting-edge technology, sustainable performance, and unparalleled elegance.",
+                "text": "The BMW i7 redefines modern luxury with its all-electric powertrain, offering a dynamic and sustainable driving experience. Featuring an opulent interior crafted from premium materials, the i7 is equipped with the latest infotainment and driver assistance technologies. Whether for business or leisure, the i7 delivers zero-emission mobility with the comfort and sophistication expected from BMW's flagship sedan.",
+                "advantages": [
+                    "All-electric powertrain with impressive range",
+                    "Luxurious interior with premium materials",
+                    "State-of-the-art infotainment and safety features",
+                    "Sustainable mobility with dynamic performance",
+                    "Flagship design combining elegance and innovation"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "electric luxury sedan",
+                    "sustainable driving",
+                    "BMW flagship electric vehicle",
+                    "premium EV"
+                ]
+            },
+            "ru": {
+                "title": "BMW i7",
+                "head": "Испытайте электрическую роскошь: BMW i7",
+                "description": "BMW i7 — это вершина электрической роскоши, сочетающая передовые технологии, устойчивую производительность и непревзойденную элегантность.",
+                "text": "BMW i7 переопределяет современную роскошь с его полностью электрической силовой установкой, предлагая динамичный и устойчивый опыт вождения. С роскошным интерьером, выполненным из премиальных материалов, i7 оснащен новейшими информационно-развлекательными и системами помощи водителю. Независимо от того, для бизнеса или отдыха, i7 обеспечивает мобильность без выбросов с комфортом и утонченностью, ожидаемыми от флагманского седана BMW.",
+                "advantages": [
+                    "Полностью электрическая силовая установка с впечатляющим запасом хода",
+                    "Роскошный интерьер с премиальными материалами",
+                    "Современные информационно-развлекательные и системы безопасности",
+                    "Устойчивая мобильность с динамичной производительностью",
+                    "Флагманский дизайн, сочетающий элегантность и инновации"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "электрический роскошный седан",
+                    "устойчивое вождение",
+                    "флагманский электрический автомобиль BMW",
+                    "премиальный электромобиль"
+                ]
+            },
+            "ua": {
+                "title": "BMW i7",
+                "head": "Відчуйте електричну розкіш: BMW i7",
+                "description": "BMW i7 — це вершина електричної розкіші, яка поєднує передові технології, стійку продуктивність та неперевершену елегантність.",
+                "text": "BMW i7 переосмислює сучасну розкіш з його повністю електричною силовою установкою, пропонуючи динамічний та стійкий досвід водіння. З розкішним інтер'єром, виконаним з преміальних матеріалів, i7 оснащений новітніми інформаційно-розважальними та системами допомоги водію. Незалежно від того, для бізнесу чи відпочинку, i7 забезпечує мобільність без викидів з комфортом та вишуканістю, очікуваними від флагманського седана BMW.",
+                "advantages": [
+                    "Повністю електрична силова установка з вражаючим запасом ходу",
+                    "Розкішний інтер'єр з преміальними матеріалами",
+                    "Сучасні інформаційно-розважальні та системи безпеки",
+                    "Стійка мобільність з динамічною продуктивні"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "електричний розкішний седан",
+                    "стійке водіння",
+                    "флагманський електромобіль BMW",
+                    "преміум електромобіль"
+                ]
+            },
+            "de": {
+                "title": "BMW i7",
+                "head": "Erleben Sie elektrische Luxus: BMW i7",
+                "description": "Der BMW i7 ist der Inbegriff von elektrischem Luxus und vereint modernste Technologie, nachhaltige Leistung und unvergleichliche Eleganz.",
+                "text": "Der BMW i7 definiert modernen Luxus mit seinem vollelektrischen Antrieb neu und bietet ein dynamisches und nachhaltiges Fahrerlebnis. Mit einem opulenten Interieur aus hochwertigen Materialien ausgestattet, verfügt der i7 über die neuesten Infotainment- und Fahrerassistenztechnologien. Ob für Geschäft oder Freizeit, der i7 bietet emissionsfreie Mobilität mit dem Komfort und der Raffinesse, die von BMWs Flaggschiff-Limousine erwartet werden.",
+                "advantages": [
+                    "Vollelektrischer Antrieb mit beeindruckender Reichweite",
+                    "Luxuriöses Interieur mit hochwertigen Materialien",
+                    "Modernste Infotainment- und Sicherheitsfunktionen",
+                    "Nachhaltige Mobilität mit dynamischer Leistung",
+                    "Flaggschiff-Design, das Eleganz und Innovation vereint"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "elektrische Luxuslimousine",
+                    "nachhaltiges Fahren",
+                    "BMW Flaggschiff-Elektrofahrzeug",
+                    "Premium-EV"
+                ]
+            },
+            "pl": {
+                "title": "BMW i7",
+                "head": "Doświadcz elektrycznego luksusu: BMW i7",
+                "description": "BMW i7 to szczyt elektrycznego luksusu, łączący najnowocześniejszą technologię, zrównoważoną wydajność i niezrównaną elegancję.",
+                "text": "BMW i7 redefiniuje nowoczesny luksus dzięki swojemu w pełni elektrycznemu układowi napędowemu, oferując dynamiczne i zrównoważone doświadczenie jazdy. Wyposażony w luksusowe wnętrze wykonane z najwyższej jakości materiałów, i7 posiada najnowsze technologie infotainment i systemy wspomagania kierowcy. Niezależnie od tego, czy jest to podróż służbowa, czy rekreacyjna, i7 zapewnia mobilność bez emisji spalin z komfortem i wyrafinowaniem oczekiwanym od flagowego sedana BMW.",
+                "advantages": [
+                    "W pełni elektryczny układ napędowy z imponującym zasięgiem",
+                    "Luksusowe wnętrze z najwyższej jakości materiałów",
+                    "Najnowocześniejsze funkcje infotainment i bezpieczeństwa",
+                    "Zrównoważona mobilność z dynamiczną wydajnością",
+                    "Flagowy design łączący elegancję i innowacyjność"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "elektryczny luksusowy sedan",
+                    "zrównoważona jazda",
+                    "flagowy elektryczny pojazd BMW",
+                    "premium EV"
+                ]
+            },
+            "es": {
+                "title": "BMW i7",
+                "head": "Experimenta el Lujo Eléctrico: BMW i7",
+                "description": "El BMW i7 es la cúspide del lujo eléctrico, combinando tecnología de vanguardia, rendimiento sostenible y una elegancia inigualable.",
+                "text": "El BMW i7 redefine el lujo moderno con su sistema de propulsión totalmente eléctrico, ofreciendo una experiencia de conducción dinámica y sostenible. Con un interior lujoso elaborado con materiales premium, el i7 está equipado con las últimas tecnologías de infoentretenimiento y asistencia al conductor. Ya sea para negocios o placer, el i7 proporciona movilidad sin emisiones con la comodidad y sofisticación esperadas del sedán insignia de BMW.",
+                "advantages": [
+                    "Sistema de propulsión totalmente eléctrico con una impresionante autonomía",
+                    "Interior lujoso con materiales premium",
+                    "Funciones avanzadas de infoentretenimiento y seguridad",
+                    "Movilidad sostenible con rendimiento dinámico",
+                    "Diseño insignia que combina elegancia e innovación"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "sedán de lujo eléctrico",
+                    "conducción sostenible",
+                    "vehículo eléctrico insignia de BMW",
+                    "EV premium"
+                ]
+            },
+            "zh": {
+                "title": "宝马i7",
+                "head": "体验电动奢华：宝马i7",
+                "description": "宝马i7是电动奢华的巅峰之作，结合了尖端技术、可持续性能和无与伦比的优雅。",
+                "text": "宝马i7通过其全电动动力系统重新定义了现代奢华，提供了动态且可持续的驾驶体验。其豪华内饰采用优质材料打造，并配备了最新的信息娱乐和驾驶辅助技术。无论是商务还是休闲，i7都以零排放的方式提供出行，同时具备宝马旗舰轿车的舒适性和精致感。",
+                "advantages": [
+                    "全电动动力系统，续航能力出色",
+                    "豪华内饰，采用优质材料",
+                    "先进的信息娱乐和安全功能",
+                    "可持续的移动方式，动态性能",
+                    "结合优雅与创新的旗舰设计"
+                ],
+                "keywords": [
+                    "宝马i7",
+                    "电动豪华轿车",
+                    "可持续驾驶",
+                    "宝马旗舰电动车",
+                    "高端电动车"
+                ]
+            },
+            "fr": {
+                "title": "BMW i7",
+                "head": "Découvrez le Luxe Électrique : BMW i7",
+                "description": "La BMW i7 est le summum du luxe électrique, alliant technologie de pointe, performances durables et élégance inégalée.",
+                "text": "La BMW i7 redéfinit le luxe moderne grâce à sa motorisation entièrement électrique, offrant une expérience de conduite dynamique et durable. Dotée d'un intérieur somptueux fabriqué à partir de matériaux haut de gamme, la i7 est équipée des dernières technologies d'infodivertissement et d'assistance à la conduite. Que ce soit pour le travail ou les loisirs, la i7 offre une mobilité sans émissions avec le confort et le raffinement attendus d'une berline phare de BMW.",
+                "advantages": [
+                    "Motorisation entièrement électrique avec une autonomie impressionnante",
+                    "Intérieur luxueux avec des matériaux haut de gamme",
+                    "Technologies de pointe en matière de divertissement et de sécurité",
+                    "Mobilité durable avec des performances dynamiques",
+                    "Design emblématique alliant élégance et innovation"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "berline de luxe électrique",
+                    "conduite durable",
+                    "véhicule électrique phare de BMW",
+                    "EV haut de gamme"
+                ]
+            },
+            "be": {
+                "title": "BMW i7",
+                "head": "Адкрыйце электрычную раскошу: BMW i7",
+                "description": "BMW i7 — гэта вяршыня электрычнай раскошы, якая спалучае перадавыя тэхналогіі, устойлівую прадукцыйнасць і неперасягненую элегантнасць.",
+                "text": "BMW i7 пераасэнсоўвае сучасную раскошу дзякуючы поўнасцю электрычнаму прываду, прапаноўваючы дынамічнае і ўстойлівае кіраванне. Яго раскошны інтэр'ер, выкананы з прэміяльных матэрыялаў, абсталяваны найноўшымі інфармацыйна-забаўляльнымі сістэмамі і тэхналогіямі дапамогі кіроўцу. Незалежна ад мэты паездкі — бізнес ці адпачынак, i7 забяспечвае мабільнасць без выкідаў з камфортам і вытанчанасцю, якія чакаюцца ад флагманскага седана BMW.",
+                "advantages": [
+                    "Поўнасцю электрычны прывад з уражлівым запасам ходу",
+                    "Раскошны інтэр'ер з прэміяльных матэрыялаў",
+                    "Сучасныя сістэмы забавак і бяспекі",
+                    "Устойлівая мабільнасць і дынамічная прадукцыйнасць",
+                    "Флагманскі дызайн, які аб'ядноўвае элегантнасць і інавацыі"
+                ],
+                "keywords": [
+                    "BMW i7",
+                    "электрычны раскошны седан",
+                    "устойлівае кіраванне",
+                    "флагманскі электрамабіль BMW",
+                    "прэміум электрамабіль"
+                ]
+            }
+        },
+        {
+            "slug": "bmw-ix3",
+            "competitors": [
+                "Audi Q4 e-tron",
+                "Mercedes-Benz EQB",
+                "Volvo XC40 Recharge",
+                "Tesla Model Y",
+                "Jaguar I-Pace"
+            ],
+            "en": {
+                "title": "BMW iX3",
+                "head": "The Next Generation: BMW iX3",
+                "description": "The BMW iX3 is a fully electric SUV offering BMW's signature driving dynamics, luxurious comfort, and cutting-edge technology.",
+                "text": "The BMW iX3 is a trailblazer in the world of electric SUVs, delivering the perfect blend of efficiency, luxury, and performance. Equipped with an advanced electric powertrain, the iX3 offers impressive range and quick charging capabilities, making it ideal for both urban commutes and long-distance travel. Its sleek design is complemented by a premium interior featuring high-quality materials and innovative technology, ensuring a refined driving experience. The iX3 embodies BMW’s commitment to sustainability without compromising on the joy of driving.",
+                "advantages": [
+                    "Advanced electric powertrain with impressive range",
+                    "Luxurious interior with innovative technology",
+                    "Dynamic performance and smooth handling",
+                    "Eco-friendly design with reduced emissions",
+                    "Versatile for city and long-distance driving"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "electric SUV",
+                    "luxury EV",
+                    "sustainable driving",
+                    "BMW electric vehicle"
+                ]
+            },
+            "de": {
+                "title": "BMW iX3",
+                "head": "Die nächste Generation: BMW iX3",
+                "description": "Der BMW iX3 ist ein vollelektrisches SUV, das BMWs charakteristische Fahrdynamik, luxuriösen Komfort und modernste Technologie bietet.",
+                "text": "Der BMW iX3 ist ein Vorreiter in der Welt der elektrischen SUVs und bietet die perfekte Kombination aus Effizienz, Luxus und Leistung. Ausgestattet mit einem fortschrittlichen elektrischen Antriebsstrang bietet der iX3 eine beeindruckende Reichweite und schnelle Ladefähigkeiten, was ihn ideal für städtische Pendelfahrten und Langstreckenreisen macht. Sein elegantes Design wird durch ein hochwertiges Interieur mit innovativer Technologie ergänzt, das ein raffiniertes Fahrerlebnis gewährleistet. Der iX3 verkörpert BMWs Engagement für Nachhaltigkeit, ohne dabei den Fahrspaß zu beeinträchtigen.",
+                "advantages": [
+                    "Fortschrittlicher elektrischer Antriebsstrang mit beeindruckender Reichweite",
+                    "Luxuriöses Interieur mit innovativer Technologie",
+                    "Dynamische Leistung und sanftes Handling",
+                    "Umweltfreundliches Design mit reduzierten Emissionen",
+                    "Vielseitig für Stadt- und Langstreckenfahrten"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "elektrisches SUV",
+                    "Luxus-EV",
+                    "nachhaltiges Fahren",
+                    "BMW Elektrofahrzeug"
+                ]
+            },
+            "pl": {
+                "title": "BMW iX3",
+                "head": "Następne pokolenie: BMW iX3",
+                "description": "BMW iX3 to w pełni elektryczne SUV oferujące charakterystyczną dynamikę jazdy BMW, luksusowy komfort i najnowocześniejszą technologię.",
+                "text": "BMW iX3 jest pionierem w świecie elektrycznych SUV-ów, oferując idealne połączenie efektywności, luksusu i wydajności. Wyposażony w zaawansowany napęd elektryczny, iX3 oferuje imponujący zasięg i szybkie możliwości ładowania, co czyni go idealnym zarówno do jazdy miejskiej, jak i długodystansowej. Jego elegancki design uzupełnia luksusowe wnętrze z wysokiej jakości materiałów i innowacyjną technologią, zapewniając rafinowane doświadczenie jazdy. iX3 jest ucieleśnieniem zaangażowania BMW w zrównoważoność, nie rezygnując z radości z jazdy.",
+                "advantages": [
+                    "Zaawansowany napęd elektryczny z imponującym zasięgiem",
+                    "Luksusowe wnętrze z innowacyjną technologią",
+                    "Dynamiczne osiągi i płynne prowadzenie",
+                    "Ekologiczny design z ograniczonymi emisjami",
+                    "Uniwersalny do jazdy miejskiej i długodystansowej"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "elektryczne SUV",
+                    "luksusowy EV",
+                    "zrównoważona jazda",
+                    "elektryczny pojazd BMW"
+                ]
+            },
+            "ru": {
+                "title": "BMW iX3",
+                "head": "Следующее поколение: BMW iX3",
+                "description": "BMW iX3 - это полностью электрический внедорожник, предлагающий характерную динамику вождения BMW, роскошный комфорт и передовые технологии.",
+                "text": "BMW iX3 является пионером в мире электрических внедорожников, предлагая идеальное сочетание эффективности, роскоши и производительности. Оснащенный передовой электрической силовой установкой, iX3 предлагает впечатляющий запас хода и быструю возможность зарядки, что делает его идеальным как для городских поездок, так и для дальних поездок. Его элегантный дизайн дополняется премиальным интерьером с использованием высококачественных материалов и инновационной технологией, обеспечивая изысканное водительское впечатление. iX3 воплощает обязательства BMW по отношению к устойчивому развитию, не жертвуя радостью вождения.",
+                "advantages": [
+                    "Передовая электрическая силовая установка с впечатляющим запасом хода",
+                    "Роскошный интерьер с инновационной технологией",
+                    "Динамичные характеристики и плавное управление",
+                    "Экологичный дизайн с сниженными выбросами"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "электрический внедорожник",
+                    "роскошный EV",
+                    "устойчивое вождение",
+                    "электромобиль BMW"
+                ]
+            },
+            "ua": {
+                "title": "BMW iX3",
+                "head": "Відчуйте нове покоління: BMW iX3",
+                "description": "BMW iX3 — це повністю електричний позашляховик, що пропонує фірмову динаміку водіння BMW, розкішний комфорт та передові технології.",
+                "text": "BMW iX3 є новатором у світі електричних позашляховиків, забезпечуючи ідеальне поєднання ефективності, розкоші та продуктивності. Оснащений передовою електричною силовою установкою, iX3 пропонує вражаючий запас ходу та швидкі можливості зарядки, що робить його ідеальним як для міських поїздок, так і для далеких подорожей. Його елегантний дизайн доповнюється преміальним інтер'єром з високоякісних матеріалів та інноваційними технологіями, що забезпечує вишуканий досвід водіння. iX3 втілює прихильність BMW до сталого розвитку без компромісів щодо задоволення від водіння.",
+                "advantages": [
+                    "Передова електрична силова установка з вражаючим запасом ходу",
+                    "Розкішний інтер'єр з інноваційними технологіями",
+                    "Динамічна продуктивність та плавне керування",
+                    "Екологічний дизайн зі зниженими викидами",
+                    "Універсальність для міських та далеких поїздок"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "електричний позашляховик",
+                    "розкішний електромобіль",
+                    "сталий розвиток",
+                    "електромобіль BMW"
+                ]
+            },
+            "be": {
+                "title": "BMW iX3",
+                "head": "The Next Generation: BMW iX3",
+                "description": "The BMW iX3 is a fully electric SUV offering BMW's signature driving dynamics, luxurious comfort, and cutting-edge technology.",
+                "text": "The BMW iX3 is a trailblazer in the world of electric SUVs, delivering the perfect blend of efficiency, luxury, and performance. Equipped with an advanced electric powertrain, the iX3 offers impressive range and quick charging capabilities, making it ideal for both urban commutes and long-distance travel. Its sleek design is complemented by a premium interior featuring high-quality materials and innovative technology, ensuring a refined driving experience. The iX3 embodies BMW’s commitment to sustainability without compromising on the joy of driving.",
+                "advantages": [
+                    "Advanced electric powertrain with impressive range",
+                    "Luxurious interior with innovative technology",
+                    "Dynamic performance and smooth handling",
+                    "Eco-friendly design with reduced emissions"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "electric SUV",
+                    "luxury EV",
+                    "sustainable driving",
+                    "BMW electric vehicle"
+                ]
+            },
+            "es": {
+                "title": "BMW iX3",
+                "head": "La Nueva Generación: BMW iX3",
+                "description": "El BMW iX3 es un SUV completamente eléctrico que ofrece la dinámica de conducción característica de BMW, confort de lujo y tecnología de vanguardia.",
+                "text": "El BMW iX3 es un pionero en el mundo de los SUV eléctricos, ofreciendo la combinación perfecta de eficiencia, lujo y rendimiento. Equipado con un avanzado sistema de propulsión eléctrica, el iX3 ofrece una autonomía impresionante y capacidades de carga rápida, lo que lo hace ideal tanto para desplazamientos urbanos como para viajes largos. Su diseño elegante se complementa con un interior premium que incluye materiales de alta calidad y tecnología innovadora, garantizando una experiencia de conducción refinada. El iX3 encarna el compromiso de BMW con la sostenibilidad sin comprometer el placer de conducir.",
+                "advantages": [
+                    "Sistema de propulsión eléctrica avanzada con impresionante autonomía",
+                    "Interior lujoso con tecnología innovadora",
+                    "Rendimiento dinámico y manejo suave",
+                    "Diseño ecológico con emisiones reducidas",
+                    "Versátil para conducción en ciudad y largas distancias"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "SUV eléctrico",
+                    "EV de lujo",
+                    "conducción sostenible",
+                    "vehículo eléctrico BMW"
+                ]
+            },
+            "zh": {
+                "title": "宝马iX3",
+                "head": "下一代：宝马iX3",
+                "description": "宝马iX3是一款全电动SUV，提供宝马标志性的驾驶动态、豪华舒适感和尖端技术。",
+                "text": "宝马iX3在电动SUV领域是一个开拓者，将效率、豪华和性能完美结合。配备先进的电力驱动系统，iX3提供令人印象深刻的续航里程和快速充电能力，非常适合城市通勤和长途旅行。其流线型设计与采用高品质材料和创新技术的高端内饰相得益彰，确保精致的驾驶体验。iX3体现了宝马对可持续发展的承诺，同时不妥协驾驶乐趣。",
+                "advantages": [
+                    "先进的电力驱动系统，续航里程令人印象深刻",
+                    "豪华内饰，配备创新技术",
+                    "动态性能和平稳操控",
+                    "环保设计，减少排放",
+                    "适合城市和长途驾驶的多功能性"
+                ],
+                "keywords": [
+                    "宝马iX3",
+                    "电动SUV",
+                    "豪华电动车",
+                    "可持续驾驶",
+                    "宝马电动车"
+                ]
+            },
+            "fr": {
+                "title": "BMW iX3",
+                "head": "La Prochaine Génération : BMW iX3",
+                "description": "La BMW iX3 est un SUV entièrement électrique offrant la dynamique de conduite caractéristique de BMW, un confort luxueux et une technologie de pointe.",
+                "text": "La BMW iX3 est un précurseur dans le monde des SUV électriques, offrant le mélange parfait d'efficacité, de luxe et de performances. Équipée d'un système de propulsion électrique avancé, l'iX3 offre une autonomie impressionnante et des capacités de recharge rapide, idéale pour les trajets urbains et les voyages longue distance. Son design élégant est complété par un intérieur premium doté de matériaux haut de gamme et de technologies innovantes, garantissant une expérience de conduite raffinée. L'iX3 incarne l'engagement de BMW envers la durabilité sans compromettre le plaisir de conduire.",
+                "advantages": [
+                    "Système de propulsion électrique avancé avec autonomie impressionnante",
+                    "Intérieur luxueux avec technologie innovante",
+                    "Performances dynamiques et maniabilité fluide",
+                    "Design écologique avec émissions réduites",
+                    "Polyvalence pour la conduite en ville et les longs trajets"
+                ],
+                "keywords": [
+                    "BMW iX3",
+                    "SUV électrique",
+                    "EV de luxe",
+                    "conduite durable",
+                    "véhicule électrique BMW"
+                ]
+            }
+        },
+        {
+            "slug": "bmw-ix",
+            "competitors": [
+                "Tesla Model X",
+                "Audi Q8 e-tron",
+                "Mercedes-Benz EQS SUV",
+                "Rivian R1S",
+                "Volvo XC90 Recharge"
+            ],
+            "en": {
+                "title": "BMW iX",
+                "head": "Experience Innovation: BMW iX",
+                "description": "The BMW iX is a cutting-edge all-electric SUV that combines sustainable innovation, luxurious comfort, and dynamic performance.",
+                "text": "The BMW iX is the epitome of modern electric mobility, offering a perfect blend of advanced technology and luxury. With a spacious interior crafted from premium materials, a long electric range, and fast-charging capabilities, the iX is designed for both urban commutes and long journeys. Equipped with advanced driver assistance systems and state-of-the-art infotainment technology, the BMW iX delivers an unparalleled driving experience.",
+                "advantages": [
+                    "Innovative and sustainable design",
+                    "Exceptional driving range with fast charging capabilities",
+                    "Luxurious and spacious interior",
+                    "Advanced safety and connectivity features",
+                    "Dynamic performance with electric precision"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "electric SUV",
+                    "luxury electric vehicle",
+                    "sustainable innovation",
+                    "BMW electric car"
+                ]
+            },
+            "de": {
+                "title": "BMW iX",
+                "head": "Erleben Sie Innovation: BMW iX",
+                "description": "Der BMW iX ist ein hochmoderner vollelektrischer SUV, der nachhaltige Innovation, luxuriösen Komfort und dynamische Leistung vereint.",
+                "text": "Der BMW iX verkörpert moderne Elektromobilität und bietet die perfekte Kombination aus fortschrittlicher Technologie und Luxus. Mit einem geräumigen Innenraum aus hochwertigen Materialien, einer langen elektrischen Reichweite und Schnellladefunktionen ist der iX für Stadtfahrten und lange Reisen gleichermaßen geeignet. Ausgestattet mit fortschrittlichen Fahrerassistenzsystemen und modernster Infotainment-Technologie bietet der BMW iX ein unvergleichliches Fahrerlebnis.",
+                "advantages": [
+                    "Innovatives und nachhaltiges Design",
+                    "Außergewöhnliche Reichweite mit Schnellladefunktion",
+                    "Luxuriöser und geräumiger Innenraum",
+                    "Fortschrittliche Sicherheits- und Konnektivitätsfunktionen",
+                    "Dynamische Leistung mit elektrischer Präzision"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "elektrischer SUV",
+                    "Luxus-Elektrofahrzeug",
+                    "nachhaltige Innovation",
+                    "BMW Elektroauto"
+                ]
+            },
+            "ru": {
+                "title": "BMW iX",
+                "head": "Испытайте инновации: BMW iX",
+                "description": "BMW iX — это современный электрический внедорожник, сочетающий устойчивые инновации, роскошный комфорт и динамичную производительность.",
+                "text": "BMW iX представляет собой вершину современной электромобильности, предлагая идеальное сочетание передовых технологий и роскоши. Просторный салон, выполненный из премиальных материалов, впечатляющий запас хода и возможность быстрой зарядки делают iX идеальным выбором как для городских поездок, так и для дальних путешествий. Оснащенный передовыми системами помощи водителю и современной информационно-развлекательной системой, BMW iX обеспечивает непревзойденный опыт вождения.",
+                "advantages": [
+                    "Инновационный и устойчивый дизайн",
+                    "Впечатляющий запас хода с возможностью быстрой зарядки",
+                    "Роскошный и просторный салон",
+                    "Передовые системы безопасности и связи",
+                    "Динамичная производительность с электрической точностью"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "электрический внедорожник",
+                    "премиальный электромобиль",
+                    "устойчивые инновации",
+                    "электромобиль BMW"
+                ]
+            },
+            "ua": {
+                "title": "BMW iX",
+                "head": "Відчуйте інновації: BMW iX",
+                "description": "BMW iX — це сучасний електричний позашляховик, який поєднує стійкі інновації, розкішний комфорт і динамічну продуктивність.",
+                "text": "BMW iX є втіленням сучасної електромобільності, пропонуючи ідеальне поєднання передових технологій та розкоші. Просторий інтер'єр, виконаний із преміальних матеріалів, вражаючий запас ходу та можливість швидкої зарядки роблять iX ідеальним вибором як для міських поїздок, так і для далеких подорожей. Оснащений передовими системами допомоги водію та сучасною інформаційно-розважальною системою, BMW iX забезпечує неперевершений досвід водіння.",
+                "advantages": [
+                    "Інноваційний та стійкий дизайн",
+                    "Вражаючий запас ходу з можливістю швидкої зарядки",
+                    "Розкішний та просторий інтер'єр",
+                    "Передові системи безпеки та зв'язку",
+                    "Динамічна продуктивність з електричною точністю"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "електричний позашляховик",
+                    "преміальний електромобіль",
+                    "стійкі інновації",
+                    "електромобіль BMW"
+                ]
+            },
+            "pl": {
+                "title": "BMW iX",
+                "head": "Doświadcz innowacji: BMW iX",
+                "description": "BMW iX to nowoczesny elektryczny SUV łączący zrównoważone innowacje, luksusowy komfort i dynamiczne osiągi.",
+                "text": "BMW iX to szczyt nowoczesnej mobilności elektrycznej, oferujący idealne połączenie zaawansowanej technologii i luksusu. Przestronne wnętrze wykonane z najwyższej jakości materiałów, imponujący zasięg i funkcja szybkiego ładowania sprawiają, że iX to doskonały wybór zarówno do jazdy miejskiej, jak i na dłuższe podróże. Wyposażony w zaawansowane systemy wspomagania kierowcy i nowoczesny system informacyjno-rozrywkowy, BMW iX zapewnia niezrównane wrażenia z jazdy.",
+                "advantages": [
+                    "Innowacyjny i zrównoważony design",
+                    "Imponujący zasięg i szybkie ładowanie",
+                    "Luksusowe i przestronne wnętrze",
+                    "Zaawansowane systemy bezpieczeństwa i łączności",
+                    "Dynamiczne osiągi z precyzją elektryczną"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "elektryczny SUV",
+                    "luksusowy pojazd elektryczny",
+                    "zrównoważone innowacje",
+                    "elektryczny samochód BMW"
+                ]
+            },
+            "fr": {
+                "title": "BMW iX",
+                "head": "Découvrez l'innovation : BMW iX",
+                "description": "Le BMW iX est un SUV tout électrique à la pointe de la technologie, combinant innovation durable, confort luxueux et performances dynamiques.",
+                "text": "Le BMW iX incarne la mobilité électrique moderne, offrant un mélange parfait de technologie avancée et de luxe. Avec un intérieur spacieux fabriqué à partir de matériaux haut de gamme, une autonomie électrique impressionnante et des capacités de charge rapide, le iX est conçu pour les trajets urbains comme pour les longs voyages. Équipé de systèmes avancés d'assistance à la conduite et d'une technologie d'infodivertissement de pointe, le BMW iX offre une expérience de conduite inégalée.",
+                "advantages": [
+                    "Design innovant et durable",
+                    "Autonomie exceptionnelle avec recharge rapide",
+                    "Intérieur spacieux et luxueux",
+                    "Fonctionnalités avancées de sécurité et de connectivité",
+                    "Performances dynamiques avec précision électrique"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "SUV électrique",
+                    "véhicule électrique de luxe",
+                    "innovation durable",
+                    "voiture électrique BMW"
+                ]
+            },
+            "es": {
+                "title": "BMW iX",
+                "head": "Descubre la innovación: BMW iX",
+                "description": "El BMW iX es un SUV totalmente eléctrico de vanguardia que combina innovación sostenible, confort de lujo y rendimiento dinámico.",
+                "text": "El BMW iX es la cúspide de la movilidad eléctrica moderna, ofreciendo una combinación perfecta de tecnología avanzada y lujo. Con un interior espacioso elaborado con materiales de primera calidad, una impresionante autonomía eléctrica y capacidades de carga rápida, el iX está diseñado tanto para desplazamientos urbanos como para viajes largos. Equipado con sistemas avanzados de asistencia al conductor y tecnología de infoentretenimiento de última generación, el BMW iX ofrece una experiencia de conducción incomparable.",
+                "advantages": [
+                    "Diseño innovador y sostenible",
+                    "Autonomía excepcional con capacidades de carga rápida",
+                    "Interior espacioso y lujoso",
+                    "Funciones avanzadas de seguridad y conectividad",
+                    "Rendimiento dinámico con precisión eléctrica"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "SUV eléctrico",
+                    "vehículo eléctrico de lujo",
+                    "innovación sostenible",
+                    "coche eléctrico BMW"
+                ]
+            },
+            "zh": {
+                "title": "BMW iX",
+                "head": "体验创新：BMW iX",
+                "description": "BMW iX 是一款尖端全电动 SUV，结合了可持续创新、豪华舒适和动态性能。",
+                "text": "BMW iX 是现代电动出行的典范，提供先进技术与豪华的完美结合。 配备由优质材料制成的宽敞内饰、令人印象深刻的电动续航里程以及快速充电功能，iX 专为城市通勤和长途旅行而设计。 搭载先进的驾驶辅助系统和最先进的信息娱乐技术，BMW iX 带来了无与伦比的驾驶体验。",
+                "advantages": [
+                    "创新且可持续的设计",
+                    "卓越的续航里程和快速充电能力",
+                    "宽敞豪华的内饰",
+                    "先进的安全和互联功能",
+                    "电动精准的动态性能"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "电动 SUV",
+                    "豪华电动车",
+                    "可持续创新",
+                    "BMW 电动车"
+                ]
+            },
+            "be": {
+                "title": "BMW iX",
+                "head": "Адкрыйце інавацыі: BMW iX",
+                "description": "BMW iX — гэта сучасны электрычны пазадарожнік, які аб'ядноўвае ўстойлівыя інавацыі, раскошны камфорт і дынамічную прадукцыйнасць.",
+                "text": "BMW iX увасабляе сучасную электрычную мабільнасць, прапануючы ідэальнае спалучэнне перадавых тэхналогій і раскошы. Прасторны інтэр'ер, выкананы з прэміяльных матэрыялаў, уражлівы запас ходу і магчымасць хуткай зарадкі робяць iX ідэальным выбарам як для гарадскіх паездак, так і для далёкіх падарожжаў. Абсталяваны перадавымі сістэмамі дапамогі кіроўцу і сучаснай інфармацыйна-забаўляльнай сістэмай, BMW iX забяспечвае непераўзыдзены вопыт кіравання.",
+                "advantages": [
+                    "Інавацыйны і ўстойлівы дызайн",
+                    "Уражлівы запас ходу з магчымасцю хуткай зарадкі",
+                    "Раскошны і прасторны інтэр'ер",
+                    "Перадавыя сістэмы бяспекі і сувязі",
+                    "Дынамічная прадукцыйнасць з электрычнай дакладнасцю"
+                ],
+                "keywords": [
+                    "BMW iX",
+                    "электрычны пазадарожнік",
+                    "раскошны электрамабіль",
+                    "устойлівыя інавацыі",
+                    "электрамабіль BMW"
+                ]
+            }
+        },
+        {
             "slug": "bmw-i4",
             "competitors": [
                 "Tesla Model 3",

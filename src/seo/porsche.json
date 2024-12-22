@@ -33,7 +33,7 @@
                 "Mercedes-Benz EQS",
                 "Lucid Air",
                 "BMW i7",
-                "Rivian R1S (Performance Package)"
+                "Rivian R1S"
             ],
             "en": {
                 "title": "Porsche Taycan",
@@ -204,6 +204,196 @@
                     "véhicule haute performance",
                     "mobilité durable",
                     "technologie Porsche"
+                ]
+            }
+        },
+        {
+            "slug": "porsche-cayenne-e-hybrid",
+            "competitors": [
+                "BMW X5 xDrive45e",
+                "Audi Q8 e-tron",
+                "Mercedes-Benz GLE 350e",
+                "Volvo XC90 Recharge",
+                "Tesla Model X"
+            ],
+            "en": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Dynamic Efficiency: Porsche Cayenne E-Hybrid",
+                "description": "The Porsche Cayenne E-Hybrid combines the iconic Porsche performance with advanced hybrid technology for a thrilling and efficient drive.",
+                "text": "The Porsche Cayenne E-Hybrid is a remarkable SUV that blends exhilarating performance with eco-friendly efficiency. Its hybrid powertrain offers seamless integration of a powerful combustion engine and an electric motor, delivering impressive acceleration and reduced emissions. The spacious and luxurious interior is designed with premium materials and cutting-edge technology, ensuring both comfort and connectivity. Whether it's city driving or long-distance travel, the Cayenne E-Hybrid delivers the versatility and dynamism expected from Porsche.",
+                "advantages": [
+                    "Hybrid powertrain combining performance and efficiency",
+                    "Luxurious and spacious interior with advanced technology",
+                    "Exceptional handling and driving dynamics",
+                    "Reduced emissions with eco-friendly features",
+                    "Versatile for both city and long-distance driving"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "luxury hybrid SUV",
+                    "eco-friendly Porsche",
+                    "hybrid performance",
+                    "Porsche Cayenne hybrid technology"
+                ]
+            },
+            "ru": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Динамичная эффективность: Porsche Cayenne E-Hybrid",
+                "description": "Porsche Cayenne E-Hybrid сочетает в себе культовую производительность Porsche с передовыми гибридными технологиями для захватывающей и эффективной езды.",
+                "text": "Porsche Cayenne E-Hybrid - это замечательный внедорожник, который сочетает в себе захватывающую производительность с экологической эффективностью. Его гибридная силовая установка предлагает бесшовную интеграцию мощного двигателя внутреннего сгорания и электродвигателя, обеспечивая впечатляющее ускорение и сниженные выбросы. Просторный и роскошный интерьер выполнен из премиальных материалов и оснащен передовыми технологиями, обеспечивая комфорт и подключение. Будь то городская езда или дальние поездки, Cayenne E-Hybrid обеспечивает универсальность и динамичность, ожидаемые от Porsche.",
+                "advantages": [
+                    "Гибридная силовая установка, сочетающая производительность и эффективность",
+                    "Роскошный и просторный интерьер с передовыми технологиями",
+                    "Исключительная управляемость и динамика вождения",
+                    "Сниженные выбросы с экологичными функциями",
+                    "Универсальность для городской и дальних поездок"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "роскошный гибридный внедорожник",
+                    "экологичный Porsche",
+                    "гибридная производительность",
+                    "гибридные технологии Porsche Cayenne"
+                ]
+            },
+            "ua": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Динамічна ефективність: Porsche Cayenne E-Hybrid",
+                "description": "Porsche Cayenne E-Hybrid поєднує в собі культову продуктивність Porsche з передовими гібридними технологіями для захоплюючої та ефективної їзди.",
+                "text": "Porsche Cayenne E-Hybrid - це чудовий позашляховик, який поєднує захоплюючу продуктивність з екологічною ефективністю. Його гібридна силова установка пропонує безшовну інтеграцію потужного двигуна внутрішнього згоряння та електродвигуна, забезпечуючи вражаюче прискорення та знижені викиди. Просторий та розкішний інтер'єр виконаний з преміальних матеріалів та оснащений передовими технологіями, забезпечуючи комфорт та підключення. Незалежно від того, чи це міська їзда, чи далекі подорожі, Cayenne E-Hybrid забезпечує універсальність та динамічність, очікувані від Porsche.",
+                "advantages": [
+                    "Гібридна силова установка, що поєднує продуктивність та ефективність",
+                    "Розкішний та просторий інтер'єр з передовими технологіями",
+                    "Виняткова керованість та динаміка водіння",
+                    "Знижені викиди з екологічними функціями",
+                    "Універсальність для міської та далекої їзди"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "розкішний гібридний позашляховик",
+                    "екологічний Porsche",
+                    "гібридна продуктивність",
+                    "гібридні технології Porsche Cayenne"
+                ]
+            },
+            "pl": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Dynamiczna wydajność: Porsche Cayenne E-Hybrid",
+                "description": "Porsche Cayenne E-Hybrid łączy ikoniczne osiągi Porsche z zaawansowaną technologią hybrydową, zapewniając ekscytującą i wydajną jazdę.",
+                "text": "Porsche Cayenne E-Hybrid to niezwykły SUV, który łączy ekscytujące osiągi z ekologiczną wydajnością. Jego hybrydowy układ napędowy oferuje płynne połączenie mocnego silnika spalinowego i silnika elektrycznego, zapewniając imponujące przyspieszenie i zmniejszone emisje. Przestronne i luksusowe wnętrze zostało zaprojektowane z użyciem materiałów najwyższej jakości i nowoczesnej technologii, zapewniając zarówno komfort, jak i łączność. Niezależnie od tego, czy to jazda po mieście, czy długodystansowe podróże, Cayenne E-Hybrid oferuje wszechstronność i dynamikę, jakiej oczekuje się od Porsche.",
+                "advantages": [
+                    "Hybrydowy układ napędowy łączący osiągi i wydajność",
+                    "Luksusowe i przestronne wnętrze z zaawansowaną technologią",
+                    "Wyjątkowa obsługa i dynamika jazdy",
+                    "Zmniejszone emisje dzięki ekologicznym funkcjom",
+                    "Wszechstronność zarówno do jazdy po mieście, jak i na długie dystanse"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "luksusowy hybrydowy SUV",
+                    "ekologiczne Porsche",
+                    "wydajność hybrydowa",
+                    "technologia hybrydowa Porsche Cayenne"
+                ]
+            },
+            "de": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Dynamische Effizienz: Porsche Cayenne E-Hybrid",
+                "description": "Der Porsche Cayenne E-Hybrid kombiniert die ikonische Porsche-Performance mit fortschrittlicher Hybridtechnologie für eine aufregende und effiziente Fahrt.",
+                "text": "Der Porsche Cayenne E-Hybrid ist ein bemerkenswerter SUV, der aufregende Leistung mit umweltfreundlicher Effizienz verbindet. Sein Hybridantrieb bietet eine nahtlose Integration eines leistungsstarken Verbrennungsmotors und eines Elektromotors, was beeindruckende Beschleunigung und reduzierte Emissionen ermöglicht. Das geräumige und luxuriöse Interieur ist mit hochwertigen Materialien und modernster Technologie ausgestattet, um sowohl Komfort als auch Konnektivität zu gewährleisten. Ob Stadtverkehr oder Langstreckenfahrten, der Cayenne E-Hybrid bietet die Vielseitigkeit und Dynamik, die man von Porsche erwartet.",
+                "advantages": [
+                    "Hybridantrieb, der Leistung und Effizienz kombiniert",
+                    "Luxuriöses und geräumiges Interieur mit fortschrittlicher Technologie",
+                    "Außergewöhnliches Handling und Fahrdynamik",
+                    "Reduzierte Emissionen mit umweltfreundlichen Funktionen",
+                    "Vielseitig für Stadt- und Langstreckenfahrten"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "luxuriöser Hybrid-SUV",
+                    "umweltfreundlicher Porsche",
+                    "Hybridleistung",
+                    "Porsche Cayenne Hybridtechnologie"
+                ]
+            },
+            "be": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Дынамічная эфектыўнасць: Porsche Cayenne E-Hybrid",
+                "description": "Porsche Cayenne E-Hybrid спалучае ў сабе знакавую прадукцыйнасць Porsche з перадавымі гібрыднымі тэхналогіямі для захапляльнай і эфектыўнай язды.",
+                "text": "Porsche Cayenne E-Hybrid - гэта выдатны пазадарожнік, які спалучае захапляльную прадукцыйнасць з экалагічнай эфектыўнасцю. Яго гібрыдная сілавыстаноўка прапануе бясшвоўную інтэграцыю магутнага рухавіка ўнутранага згарання і электрарухавіка, забяспечваючы ўражлівае паскарэнне і зніжэнне выкідаў. Прасторны і раскошны інтэр'ер выкананы з прэміяльных матэрыялаў і аснашчаны перадавымі тэхналогіямі, забяспечваючы камфорт і падключэнне. Незалежна ад таго, ці гэта гарадская язда, ці далёкія паездкі, Cayenne E-Hybrid забяспечвае ўніверсальнасць і дынамічнасць, якія чакаюцца ад Porsche.",
+                "advantages": [
+                    "Гібрыдная сілавыстаноўка, якая спалучае прадукцыйнасць і эфектыўнасць",
+                    "Раскошны і прасторны інтэр'ер з перадавымі тэхналогіямі",
+                    "Выдатная кіравальнасць і дынаміка язды",
+                    "Зніжэнне выкідаў з экалагічнымі функцыямі",
+                    "Універсальнасць для гарадской і далёкай язды"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "раскошны гібрыдны пазадарожнік",
+                    "экалагічны Porsche",
+                    "гібрыдная прадукцыйнасць",
+                    "гібрыдныя тэхналогіі Porsche Cayenne"
+                ]
+            },
+            "fr": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Efficacité Dynamique: Porsche Cayenne E-Hybrid",
+                "description": "Le Porsche Cayenne E-Hybrid combine la performance emblématique de Porsche avec une technologie hybride avancée pour une conduite passionnante et efficace.",
+                "text": "Le Porsche Cayenne E-Hybrid est un SUV remarquable qui allie performance exaltante et efficacité écologique. Sa chaîne cinématique hybride offre une intégration transparente d'un puissant moteur à combustion et d'un moteur électrique, offrant une accélération impressionnante et des émissions réduites. L'intérieur spacieux et luxueux est conçu avec des matériaux haut de gamme et une technologie de pointe, assurant à la fois confort et connectivité. Que ce soit pour la conduite en ville ou les longs trajets, le Cayenne E-Hybrid offre la polyvalence et le dynamisme attendus de Porsche.",
+                "advantages": [
+                    "Chaîne cinématique hybride combinant performance et efficacité",
+                    "Intérieur luxueux et spacieux avec technologie avancée",
+                    "Maniabilité exceptionnelle et dynamique de conduite",
+                    "Réduction des émissions avec des caractéristiques écologiques",
+                    "Polyvalent pour la conduite en ville et les longs trajets"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "SUV hybride de luxe",
+                    "Porsche écologique",
+                    "performance hybride",
+                    "technologie hybride Porsche Cayenne"
+                ]
+            },
+            "zh": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "动态效率：保时捷Cayenne E-Hybrid",
+                "description": "保时捷Cayenne E-Hybrid结合了标志性的保时捷性能和先进的混合动力技术，带来令人兴奋且高效的驾驶体验。",
+                "text": "保时捷Cayenne E-Hybrid是一款卓越的SUV，将令人振奋的性能与环保效率相结合。其混合动力系统无缝集成了强大的内燃机和电动机，提供令人印象深刻的加速和减少的排放。宽敞豪华的内饰采用优质材料和尖端技术设计，确保舒适性和连接性。无论是城市驾驶还是长途旅行，Cayenne E-Hybrid都能提供保时捷所期望的多功能性和动态性能。",
+                "advantages": [
+                    "混合动力系统结合了性能和效率",
+                    "豪华宽敞的内饰，配备先进技术",
+                    "卓越的操控和驾驶动态",
+                    "环保功能减少排放",
+                    "适用于城市和长途驾驶的多功能性"
+                ],
+                "keywords": [
+                    "保时捷Cayenne E-Hybrid",
+                    "豪华混合动力SUV",
+                    "环保保时捷",
+                    "混合动力性能",
+                    "保时捷Cayenne混合动力技术"
+                ]
+            },
+            "es": {
+                "title": "Porsche Cayenne E-Hybrid",
+                "head": "Eficiencia Dinámica: Porsche Cayenne E-Hybrid",
+                "description": "El Porsche Cayenne E-Hybrid combina el icónico rendimiento de Porsche con tecnología híbrida avanzada para una conducción emocionante y eficiente.",
+                "text": "El Porsche Cayenne E-Hybrid es un SUV extraordinario que combina un rendimiento emocionante con eficiencia ecológica. Su tren motriz híbrido ofrece una integración perfecta entre un potente motor de combustión y un motor eléctrico, proporcionando una aceleración impresionante y reduciendo las emisiones. El interior espacioso y lujoso está diseñado con materiales premium y tecnología avanzada, asegurando comodidad y conectividad. Ya sea para conducir en la ciudad o para viajes de larga distancia, el Cayenne E-Hybrid ofrece la versatilidad y el dinamismo esperados de Porsche.",
+                "advantages": [
+                    "Tren motriz híbrido que combina rendimiento y eficiencia",
+                    "Interior lujoso y espacioso con tecnología avanzada",
+                    "Manejo excepcional y dinámica de conducción",
+                    "Emisiones reducidas con características ecológicas",
+                    "Versátil para conducción en ciudad y largas distancias"
+                ],
+                "keywords": [
+                    "Porsche Cayenne E-Hybrid",
+                    "SUV híbrido de lujo",
+                    "Porsche ecológico",
+                    "rendimiento híbrido",
+                    "tecnología híbrida Porsche Cayenne"
                 ]
             }
         }

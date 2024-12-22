@@ -1,0 +1,138 @@
+{
+    "slug": "jaguar",
+    "title": "Jaguar",
+    "headTitle": {
+        "en": "Jaguar Electric Vehicles | Jaguar USA",
+        "ru": "Электромобили Jaguar | Jaguar USA",
+        "ua": "Електромобілі Jaguar | Jaguar USA",
+        "pl": "Samochody elektryczne Jaguar | Jaguar USA",
+        "de": "Jaguar Elektrofahrzeuge | Jaguar USA",
+        "be": "Электрамабілі Jaguar | Jaguar USA",
+        "es": "Vehículos Eléctricos Jaguar | Jaguar USA",
+        "zh": "捷豹电动汽车 | 捷豹美国",
+        "fr": "Véhicules électriques Jaguar | Jaguar USA"
+    },
+    "description": {
+        "en": "Jaguar is synonymous with luxury, performance, and innovation. Known for their iconic designs and engineering excellence, Jaguar vehicles offer a driving experience like no other. Combining cutting-edge technology with timeless elegance, Jaguar remains a leader in the world of premium automobiles. Whether it’s a sporty sedan, a luxurious SUV, or an innovative electric vehicle, Jaguar delivers unmatched sophistication and driving pleasure.",
+        "ru": "Jaguar - это синоним роскоши, производительности и инноваций. Известные своими культовыми дизайнами и инженерным совершенством, автомобили Jaguar предлагают уникальный опыт вождения. Сочетая передовые технологии с вечной элегантностью, Jaguar остается лидером в мире премиальных автомобилей. Будь то спортивный седан, роскошный внедорожник или инновационный электромобиль, Jaguar предлагает непревзойденную изысканность и удовольствие от вождения.",
+        "ua": "Jaguar - це синонім розкіші, продуктивності та інновацій. Відомі своїми культовими дизайнами та інженерним вдосконаленням, автомобілі Jaguar пропонують унікальний досвід водіння. Поєднуючи передові технології з вічною елегантністю, Jaguar залишається лідером у світі преміальних автомобілів. Чи то спортивний седан, розкішний позашляховик або інноваційний електромобіль, Jaguar пропонує неперевершену вишуканість та задоволення від водіння.",
+        "pl": "Jaguar to synonim luksusu, wydajności i innowacji. Znane z kultowych projektów i doskonałości inżynieryjnej, pojazdy Jaguar oferują doświadczenie jazdy jak żaden inny. Łącząc najnowocześniejszą technologię z ponadczasową elegancją, Jaguar pozostaje liderem w świecie samochodów premium. Czy to sportowy sedan, luksusowy SUV czy innowacyjny pojazd elektryczny, Jaguar zapewnia niezrównaną wyrafinowanie i przyjemność z jazdy.",
+        "de": "Jaguar steht für Luxus, Leistung und Innovation. Bekannt für ihre ikonischen Designs und technische Exzellenz, bieten Jaguar-Fahrzeuge ein Fahrerlebnis wie kein anderes. Durch die Kombination modernster Technologie mit zeitloser Eleganz bleibt Jaguar ein führender Anbieter im Bereich Premium-Automobile. Ob sportliche Limousine, luxuriöses SUV oder innovatives Elektrofahrzeug, Jaguar bietet unübertroffene Raffinesse und Fahrvergnügen.",
+        "be": "Jaguar — гэта сінонім роскошы, прадукцыйнасці і інавацый. Вядомыя сваімі культавымі дызайнамі і інжынерным савершанствам, аўтамабілі Jaguar прапаноўваюць унікальны досвед вадзення. Сумяшчаючы перадавыя тэхналогіі з вечнай элегантнасцю, Jaguar застаецца лідэрам у сусветзе прэміум-аўтамабіляў. Ці гэта спартыўны седан, роскошны внедарожнік ці інавацыйны электрамабіль, Jaguar прапануе неперавершаную вышуканасць і задавальненне ад вадзення.",
+        "es": "Jaguar es sinónimo de lujo, rendimiento e innovación. Conocidos por sus diseños icónicos y excelencia en ingeniería, los vehículos Jaguar ofrecen una experiencia de conducción como ninguna otra. Combinando tecnología de vanguardia con elegancia atemporal, Jaguar sigue siendo un líder en el mundo de los automóviles premium. Ya sea un sedán deportivo, un lujoso SUV o un innovador vehículo eléctrico, Jaguar ofrece una sofisticación y un placer de conducción inigualables.",
+        "zh": "捷豹是奢华、性能和创新的代名词。以标志性设计和工程卓越而闻名，捷豹车辆提供了独一无二的驾驶体验。将尖端技术与永恒优雅相结合，捷豹仍然是高端汽车领域的领导者。无论是运动型轿车、豪华SUV还是创新的电动车辆，捷豹都提供无与伦比的精致感和驾驶乐趣。",
+        "fr": "Jaguar est synonyme de luxe, de performances et d'innovation. Connu pour ses designs emblématiques et son excellence en ingénierie, les véhicules Jaguar offrent une expérience de conduite unique. Alliant technologie de pointe et élégance intemporelle, Jaguar reste un leader dans le monde des automobiles haut de gamme. Que ce soit une berline sportive, un SUV luxueux ou un véhicule électrique innovant"
+    },
+    "models": [
+        {
+            "slug": "jaguar-i-pace",
+            "competitors": [
+                "Tesla Model Y",
+                "Audi e-tron",
+                "Mercedes-Benz EQC",
+                "BMW iX3",
+                "Volvo XC40 Recharge"
+            ],
+            "en": {
+                "title": "Jaguar I-Pace",
+                "head": "Electrify Your Drive: Jaguar I-Pace",
+                "description": "The Jaguar I-Pace is a revolutionary all-electric SUV, combining thrilling performance, modern luxury, and sustainable innovation.",
+                "text": "The Jaguar I-Pace is a groundbreaking electric SUV that blends exhilarating performance with eco-conscious innovation. Equipped with dual electric motors, the I-Pace delivers instant torque and all-wheel drive capability for dynamic handling. Its interior exudes luxury with high-quality materials and cutting-edge technology, including an intuitive infotainment system. With impressive range and fast-charging capabilities, the I-Pace redefines electric mobility for both urban and adventurous journeys.",
+                "advantages": [
+                    "Instant torque with dual electric motors",
+                    "Luxurious interior with advanced features",
+                    "All-wheel drive for superior handling",
+                    "Impressive range and fast-charging options",
+                    "Sustainable and innovative design"
+                ],
+                "keywords": [
+                    "Jaguar I-Pace",
+                    "electric SUV",
+                    "luxury electric car",
+                    "sustainable Jaguar",
+                    "I-Pace performance"
+                ]
+            },
+            "es": {
+                "title": "Jaguar I-Pace",
+                "head": "Electrifica tu Conducción: Jaguar I-Pace",
+                "description": "El Jaguar I-Pace es un SUV totalmente eléctrico revolucionario, que combina un rendimiento emocionante, lujo moderno e innovación sostenible.",
+                "text": "El Jaguar I-Pace es un SUV eléctrico pionero que mezcla un rendimiento emocionante con innovación ecológica. Equipado con dos motores eléctricos, el I-Pace ofrece un par instantáneo y tracción total para un manejo dinámico. Su interior desprende lujo con materiales de alta calidad y tecnología de última generación, incluido un sistema de infoentretenimiento intuitivo. Con una impresionante autonomía y capacidades de carga rápida, el I-Pace redefine la movilidad eléctrica tanto para viajes urbanos como aventureros.",
+                "advantages": [
+                    "Par instantáneo con dos motores eléctricos",
+                    "Interior lujoso con características avanzadas",
+                    "Tracción total para un manejo superior",
+                    "Impresionante autonomía y opciones de carga rápida",
+                    "Diseño sostenible e innovador"
+                ],
+                "keywords": [
+                    "Jaguar I-Pace",
+                    "SUV eléctrico",
+                    "coche eléctrico de lujo",
+                    "Jaguar sostenible",
+                    "rendimiento del I-Pace"
+                ]
+            },
+            "zh": {
+                "title": "捷豹I-Pace",
+                "head": "电动你的驾驶：捷豹I-Pace",
+                "description": "捷豹I-Pace是一款革命性的全电动SUV，结合了令人兴奋的性能、现代豪华和可持续创新。",
+                "text": "捷豹I-Pace是一款开创性的电动SUV，将令人兴奋的性能与环保创新完美结合。配备双电机，I-Pace提供瞬时扭矩和全轮驱动能力，实现动态操控。其内饰采用高品质材料和尖端技术设计，包括直观的信息娱乐系统。凭借令人印象深刻的续航里程和快速充电能力，I-Pace重新定义了城市和冒险旅程的电动出行。",
+                "advantages": [
+                    "双电机瞬时扭矩",
+                    "豪华内饰，配备先进功能",
+                    "全轮驱动，操控性卓越",
+                    "令人印象深刻的续航里程和快速充电选项",
+                    "可持续和创新设计"
+                ],
+                "keywords": [
+                    "捷豹I-Pace",
+                    "电动SUV",
+                    "豪华电动车",
+                    "可持续捷豹",
+                    "I-Pace性能"
+                ]
+            },
+            "fr": {
+                "title": "Jaguar I-Pace",
+                "head": "Électrisez Votre Conduite : Jaguar I-Pace",
+                "description": "Le Jaguar I-Pace est un SUV entièrement électrique révolutionnaire, combinant performances exaltantes, luxe moderne et innovation durable.",
+                "text": "Le Jaguar I-Pace est un SUV électrique novateur qui associe performances exaltantes et innovation écologique. Équipé de deux moteurs électriques, l'I-Pace offre un couple instantané et une transmission intégrale pour une maniabilité dynamique. Son intérieur respire le luxe avec des matériaux de haute qualité et une technologie de pointe, y compris un système d'infodivertissement intuitif. Avec une autonomie impressionnante et des capacités de recharge rapide, l'I-Pace redéfinit la mobilité électrique pour les trajets urbains et les aventures.",
+                "advantages": [
+                    "Couple instantané avec deux moteurs électriques",
+                    "Intérieur luxueux avec des fonctionnalités avancées",
+                    "Transmission intégrale pour une maniabilité supérieure",
+                    "Autonomie impressionnante et options de recharge rapide",
+                    "Conception durable et innovante"
+                ],
+                "keywords": [
+                    "Jaguar I-Pace",
+                    "SUV électrique",
+                    "voiture électrique de luxe",
+                    "Jaguar durable",
+                    "performances de l'I-Pace"
+                ]
+            },
+            "be": {
+                "title": "Jaguar I-Pace",
+                "head": "Электрыфікуйце сваё кіраванне: Jaguar I-Pace",
+                "description": "Jaguar I-Pace — гэта рэвалюцыйны цалкам электрычны пазадарожнік, які аб'ядноўвае захапляльную прадукцыйнасць, сучасны раскош і ўстойлівыя інавацыі.",
+                "text": "Jaguar I-Pace — гэта піянерам электрычных пазадарожнікаў, які спалучае захапляльную прадукцыйнасць з экалагічнымі інавацыямі. Аснашчаны двума электрарухавікамі, I-Pace забяспечвае імгненны крутоўны момант і поўны прывад для дынамічнага кіравання. Яго інтэр'ер выпраменьвае раскошу дзякуючы высакаякасным матэрыялам і перадавым тэхналогіям, уключаючы інтуітыўна зразумелую інфармацыйна-забаўляльную сістэму. З уражлівым запасам ходу і магчымасцямі хуткай зарадкі I-Pace пераасэнсоўвае электрамабільнасць як для гарадскіх паездак, так і для прыгод.",
+                "advantages": [
+                    "Імгненны крутоўны момант з двума электрарухавікамі",
+                    "Раскошны інтэр'ер з перадавымі функцыямі",
+                    "Поўны прывад для выдатнай кіравальнасці",
+                    "Уражлівы запас ходу і хуткая зарадка",
+                    "Устойлівы і інавацыйны дызайн"
+                ],
+                "keywords": [
+                    "Jaguar I-Pace",
+                    "электрычны пазадарожнік",
+                    "раскошны электрамабіль",
+                    "устойлівы Jaguar",
+                    "прадукцыйнасць I-Pace"
+                ]
+            }
+        }
+    ]
+}

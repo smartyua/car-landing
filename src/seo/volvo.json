@@ -1,0 +1,218 @@
+{
+    "slug": "volvo",
+    "title": "Volvo",
+    "headTitle": {
+        "en": "Volvo cars for sale at US auctions",
+        "ru": "Автомобили Volvo на продажу на аукционах в США",
+        "ua": "Автомобілі Volvo на продаж на аукціонах в США",
+        "pl": "Samochody Volvo na sprzedaż na aukcjach w USA",
+        "de": "Volvo-Autos zum Verkauf bei US-Auktionen",
+        "be": "Аўтамабілі Volvo на продаж на аўкцыёнах у ЗША",
+        "es": "Coches Volvo en venta en subastas de EE. UU.",
+        "fr": "Voitures Volvo à vendre aux enchères aux États-Unis",
+        "zh": "Volvo"
+    },
+    "description": {
+        "en": "Volvo cars are the embodiment of Scandinavian design, advanced safety, and sustainable innovation. Combining elegance with functionality, Volvo offers vehicles that provide unparalleled comfort, cutting-edge technology, and exceptional reliability. Whether it’s a sleek sedan, a versatile SUV, or a plug-in hybrid, every Volvo is crafted with precision and a deep commitment to safety and sustainability, making it a trusted choice for families and adventurers alike.",
+        "de": "Volvo-Autos sind die Verkörperung skandinavischer Gestaltung, fortschrittlicher Sicherheit und nachhaltiger Innovation. Volvo bietet Fahrzeuge, die Eleganz mit Funktionalität verbinden und unübertroffenen Komfort, modernste Technologie und außergewöhnliche Zuverlässigkeit bieten. Ob elegante Limousine, vielseitiges SUV oder Plug-in-Hybrid, jeder Volvo ist präzise gefertigt und tief verpflichtet zu Sicherheit und Nachhaltigkeit, was ihn zu einer vertrauenswürdigen Wahl für Familien und Abenteurer macht.",
+        "ru": "Автомобили Volvo — это воплощение скандинавского дизайна, передовых технологий безопасности и устойчивых инноваций. Сочетая элегантность с функциональностью, Volvo предлагает автомобили, обеспечивающие непревзойденный комфорт, передовые технологии и исключительную надежность. Будь то изящный седан, универсальный внедорожник или гибридный автомобиль с возможностью подзарядки, каждый Volvo создан с точностью и глубоким стремлением к безопасности и устойчивости, что делает его надежным выбором для семей и авантюристов.",
+        "ua": "Автомобілі Volvo — це втілення скандинавського дизайну, передових технологій безпеки та стійких інновацій. Поєднуючи елегантність з функціональністю, Volvo пропонує автомобілі, які забезпечують неперевершений комфорт, передові технології та виняткову надійність. Незалежно від того, чи це стильний седан, універсальний позашляховик чи гібридний автомобіль з можливістю підзарядки, кожен Volvo створений з точністю та глибоким прагненням до безпеки та стійкості, що робить його надійним вибором для сімей та авантюристів.",
+        "pl": "Samochody Volvo to kwintesencja skandynawskiego designu, zaawansowanego bezpieczeństwa i innowacji zrównoważonego rozwoju. Łącząc elegancję z funkcjonalnością, Volvo oferuje pojazdy zapewniające niezrównany komfort, najnowocześniejszą technologię i wyjątkową niezawodność. Niezależnie od tego, czy jest to elegancki sedan, wszechstronny SUV, czy hybryda plug-in, każdy samochód Volvo jest projektowany z precyzją i głębokim zaangażowaniem w bezpieczeństwo i zrównoważony rozwój, co czyni go zaufanym wyborem dla rodzin i poszukiwaczy przygód.",
+        "fr": "Les voitures Volvo incarnent le design scandinave, la sécurité avancée et l'innovation durable. Alliant élégance et fonctionnalité, Volvo propose des véhicules offrant un confort inégalé, une technologie de pointe et une fiabilité exceptionnelle. Qu'il s'agisse d'une berline élégante, d'un SUV polyvalent ou d'un hybride rechargeable, chaque Volvo est conçue avec précision et un engagement profond envers la sécurité et la durabilité, en faisant un choix de confiance pour les familles et les aventuriers.",
+        "es": "Los coches Volvo son la encarnación del diseño escandinavo, la seguridad avanzada y la innovación sostenible. Combinando elegancia con funcionalidad, Volvo ofrece vehículos que brindan un confort incomparable, tecnología de vanguardia y una fiabilidad excepcional. Ya sea un sedán elegante, un SUV versátil o un híbrido enchufable, cada Volvo está diseñado con precisión y un profundo compromiso con la seguridad y la sostenibilidad, lo que lo convierte en una opción confiable para familias y aventureros.",
+        "zh": "沃尔沃汽车是斯堪的纳维亚设计、先进安全性和可持续创新的体现。将优雅与功能相结合，沃尔沃提供的车辆具有无与伦比的舒适性、尖端技术和卓越的可靠性。无论是时尚轿车、多功能SUV还是插电式混合动力车，每辆沃尔沃都以精密和对安全与可持续发展的深刻承诺打造，是家庭和探险者的可靠选择。",
+        "be": "Аўтамабілі Volvo — гэта ўвасабленне скандынаўскага дызайну, перадавой бяспекі і ўстойлівых інавацый. Спалучаючы элегантнасць і функцыянальнасць, Volvo прапануе транспартныя сродкі, якія забяспечваюць непераўзыдзены камфорт, сучасныя тэхналогіі і выключную надзейнасць. Няхай гэта будзе стыльны седан, універсальны пазадарожнік або гібрыд, кожны Volvo ствараецца з дакладнасцю і глыбокай прыхільнасцю да бяспекі і ўстойлівасці, што робіць яго надзейным выбарам для сем'яў і аматараў прыгод."
+    },
+    "models": [
+        {
+            "slug": "volvo-xc90-recharge",
+            "competitors": [
+                "BMW iX",
+                "Audi Q8 e-tron",
+                "Tesla Model X",
+                "Mercedes-Benz EQS SUV",
+                "Rivian R1S"
+            ],
+            "en": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Redefining Sustainability: Volvo XC90 Recharge",
+                "description": "The Volvo XC90 Recharge is a luxurious plug-in hybrid SUV that combines cutting-edge technology, Scandinavian design, and eco-friendly innovation.",
+                "text": "The Volvo XC90 Recharge represents the perfect blend of sustainability and luxury. Its plug-in hybrid powertrain offers impressive efficiency and performance, making it suitable for both urban commutes and family road trips. The spacious interior is crafted with premium materials and designed with Volvo's hallmark Scandinavian simplicity. Equipped with advanced safety features and a state-of-the-art infotainment system, the XC90 Recharge provides a safe, comfortable, and connected driving experience.",
+                "advantages": [
+                    "Eco-friendly plug-in hybrid powertrain",
+                    "Scandinavian-inspired luxurious interior",
+                    "Advanced safety and connectivity features",
+                    "Ample space for families and cargo",
+                    "Impressive efficiency and performance"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "luxury plug-in hybrid SUV",
+                    "sustainable mobility",
+                    "Scandinavian design",
+                    "Volvo electric vehicle"
+                ]
+            },
+            "de": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Nachhaltigkeit neu definiert: Volvo XC90 Recharge",
+                "description": "Der Volvo XC90 Recharge ist ein luxuriöser Plug-in-Hybrid-SUV, der modernste Technologie, skandinavisches Design und umweltfreundliche Innovation kombiniert.",
+                "text": "Der Volvo XC90 Recharge vereint Nachhaltigkeit und Luxus perfekt. Sein Plug-in-Hybrid-Antrieb bietet beeindruckende Effizienz und Leistung, was ihn sowohl für Stadtfahrten als auch für Familienausflüge geeignet macht. Der geräumige Innenraum ist mit hochwertigen Materialien ausgestattet und zeigt das typische skandinavische Design von Volvo. Mit fortschrittlichen Sicherheitsfunktionen und einem modernen Infotainmentsystem sorgt der XC90 Recharge für eine sichere, komfortable und vernetzte Fahrt.",
+                "advantages": [
+                    "Umweltfreundlicher Plug-in-Hybrid-Antrieb",
+                    "Luxuriöser Innenraum im skandinavischen Stil",
+                    "Fortschrittliche Sicherheits- und Konnektivitätsfunktionen",
+                    "Viel Platz für Familien und Gepäck",
+                    "Beeindruckende Effizienz und Leistung"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "luxuriöser Plug-in-Hybrid-SUV",
+                    "nachhaltige Mobilität",
+                    "skandinavisches Design",
+                    "Volvo Elektrofahrzeug"
+                ]
+            },
+            "ru": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Переосмысление устойчивости: Volvo XC90 Recharge",
+                "description": "Volvo XC90 Recharge — это роскошный гибридный внедорожник с передовыми технологиями, скандинавским дизайном и экологическими инновациями.",
+                "text": "Volvo XC90 Recharge представляет собой идеальное сочетание устойчивости и роскоши. Его подключаемый гибридный силовой агрегат обеспечивает впечатляющую эффективность и производительность, что делает его подходящим как для городских поездок, так и для семейных путешествий. Просторный салон выполнен из премиальных материалов и оформлен в стиле скандинавской простоты Volvo. Оснащенный передовыми системами безопасности и современной информационно-развлекательной системой, XC90 Recharge обеспечивает безопасное, комфортное и связанное вождение.",
+                "advantages": [
+                    "Экологически чистый гибридный силовой агрегат",
+                    "Роскошный интерьер в скандинавском стиле",
+                    "Передовые функции безопасности и связи",
+                    "Достаточно места для семей и багажа",
+                    "Впечатляющая эффективность и производительность"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "роскошный гибридный внедорожник",
+                    "устойчивая мобильность",
+                    "скандинавский дизайн",
+                    "электромобиль Volvo"
+                ]
+            },
+            "ua": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Переосмислення стійкості: Volvo XC90 Recharge",
+                "description": "Volvo XC90 Recharge — це розкішний гібридний позашляховик із передовими технологіями, скандинавським дизайном та екологічними інноваціями.",
+                "text": "Volvo XC90 Recharge поєднує стійкість і розкіш. Його підключуваний гібридний двигун забезпечує вражаючу ефективність і продуктивність, що робить його ідеальним для міських поїздок та сімейних подорожей. Просторий салон виконаний із преміальних матеріалів та оформлений у стилі скандинавської простоти Volvo. Оснащений передовими системами безпеки та сучасною інформаційно-розважальною системою, XC90 Recharge забезпечує безпечне, комфортне та підключене водіння.",
+                "advantages": [
+                    "Екологічно чистий гібридний двигун",
+                    "Розкішний інтер'єр у скандинавському стилі",
+                    "Передові функції безпеки та зв'язку",
+                    "Достатньо місця для сімей та багажу",
+                    "Вражаюча ефективність і продуктивність"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "розкішний гібридний позашляховик",
+                    "стійка мобільність",
+                    "скандинавський дизайн",
+                    "електромобіль Volvo"
+                ]
+            },
+            "pl": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Redefinicja zrównoważonego rozwoju: Volvo XC90 Recharge",
+                "description": "Volvo XC90 Recharge to luksusowy hybrydowy SUV typu plug-in łączący zaawansowaną technologię, skandynawski design i innowacje ekologiczne.",
+                "text": "Volvo XC90 Recharge to idealne połączenie zrównoważonego rozwoju i luksusu. Jego hybrydowy układ napędowy typu plug-in zapewnia imponującą wydajność i osiągi, co czyni go doskonałym zarówno do miejskiej jazdy, jak i rodzinnych podróży. Przestronne wnętrze zostało wykonane z materiałów najwyższej jakości i zaprojektowane w skandynawskim stylu Volvo. Wyposażony w zaawansowane funkcje bezpieczeństwa i nowoczesny system informacyjno-rozrywkowy, XC90 Recharge zapewnia bezpieczną, wygodną i połączoną jazdę.",
+                "advantages": [
+                    "Ekologiczny hybrydowy układ napędowy typu plug-in",
+                    "Luksusowe wnętrze inspirowane skandynawskim stylem",
+                    "Zaawansowane funkcje bezpieczeństwa i łączności",
+                    "Duża przestrzeń dla rodzin i bagażu",
+                    "Imponująca wydajność i osiągi"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "luksusowy hybrydowy SUV typu plug-in",
+                    "zrównoważona mobilność",
+                    "skandynawski design",
+                    "elektryczny samochód Volvo"
+                ]
+            },
+            "fr": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Redéfinir la durabilité : Volvo XC90 Recharge",
+                "description": "Le Volvo XC90 Recharge est un SUV hybride rechargeable de luxe qui combine technologie de pointe, design scandinave et innovation écologique.",
+                "text": "Le Volvo XC90 Recharge incarne le parfait équilibre entre durabilité et luxe. Son groupe motopropulseur hybride rechargeable offre une efficacité et des performances impressionnantes, ce qui en fait un choix idéal pour les trajets urbains et les voyages en famille. L'intérieur spacieux est fabriqué à partir de matériaux haut de gamme et conçu avec la simplicité scandinave emblématique de Volvo. Équipé de fonctionnalités de sécurité avancées et d'un système d'infodivertissement à la pointe de la technologie, le XC90 Recharge garantit une expérience de conduite sûre, confortable et connectée.",
+                "advantages": [
+                    "Groupe motopropulseur hybride rechargeable respectueux de l'environnement",
+                    "Intérieur luxueux inspiré du design scandinave",
+                    "Fonctionnalités de sécurité et de connectivité avancées",
+                    "Espace généreux pour les familles et les bagages",
+                    "Efficacité et performances impressionnantes"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "SUV hybride rechargeable de luxe",
+                    "mobilité durable",
+                    "design scandinave",
+                    "véhicule électrique Volvo"
+                ]
+            },
+            "es": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Redefiniendo la sostenibilidad: Volvo XC90 Recharge",
+                "description": "El Volvo XC90 Recharge es un lujoso SUV híbrido enchufable que combina tecnología avanzada, diseño escandinavo e innovación ecológica.",
+                "text": "El Volvo XC90 Recharge representa el equilibrio perfecto entre sostenibilidad y lujo. Su tren motriz híbrido enchufable ofrece una eficiencia y un rendimiento impresionantes, lo que lo hace adecuado tanto para desplazamientos urbanos como para viajes familiares. El interior espacioso está elaborado con materiales de primera calidad y diseñado con la simplicidad escandinava característica de Volvo. Equipado con funciones avanzadas de seguridad y un sistema de infoentretenimiento de última generación, el XC90 Recharge garantiza una experiencia de conducción segura, cómoda y conectada.",
+                "advantages": [
+                    "Tren motriz híbrido enchufable ecológico",
+                    "Interior lujoso inspirado en el diseño escandinavo",
+                    "Funciones avanzadas de seguridad y conectividad",
+                    "Amplio espacio para familias y carga",
+                    "Eficiencia y rendimiento impresionantes"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "SUV híbrido enchufable de lujo",
+                    "movilidad sostenible",
+                    "diseño escandinavo",
+                    "vehículo eléctrico Volvo"
+                ]
+            },
+            "zh": {
+                "title": "沃尔沃XC90 Recharge",
+                "head": "重新定义可持续性：沃尔沃XC90 Recharge",
+                "description": "沃尔沃XC90 Recharge是一款豪华插电式混合动力SUV，结合了尖端技术、北欧设计和环保创新。",
+                "text": "沃尔沃XC90 Recharge完美融合了可持续性与奢华。其插电式混合动力系统提供了令人印象深刻的效率和性能，适合城市通勤和家庭旅行。宽敞的内饰采用优质材料打造，并展现了沃尔沃标志性的北欧简约风格。配备先进的安全功能和最先进的信息娱乐系统，XC90 Recharge为驾驶者提供安全、舒适和互联的驾驶体验。",
+                "advantages": [
+                    "环保插电式混合动力系统",
+                    "北欧风格的豪华内饰",
+                    "先进的安全与互联功能",
+                    "宽敞的家庭和行李空间",
+                    "卓越的效率和性能"
+                ],
+                "keywords": [
+                    "沃尔沃XC90 Recharge",
+                    "豪华插电式混合动力SUV",
+                    "可持续移动性",
+                    "北欧设计",
+                    "沃尔沃电动车"
+                ]
+            },
+            "be": {
+                "title": "Volvo XC90 Recharge",
+                "head": "Пераасэнсаванне ўстойлівасці: Volvo XC90 Recharge",
+                "description": "Volvo XC90 Recharge — гэта раскошны гібрыдны пазадарожнік, які спалучае перадавыя тэхналогіі, скандынаўскі дызайн і экалагічныя інавацыі.",
+                "text": "Volvo XC90 Recharge ідэальна спалучае ўстойлівасць і раскошу. Яго гібрыдны сілавы агрэгат з падключэннем забяспечвае ўражлівую эфектыўнасць і прадукцыйнасць, што робіць яго прыдатным як для гарадскіх паездак, так і для сямейных падарожжаў. Прасторны інтэр'ер выкананы з прэміяльных матэрыялаў і аформлены ў стылі скандынаўскай прастаты Volvo. Абсталяваны перадавымі сістэмамі бяспекі і сучаснай інфармацыйна-забаўляльнай сістэмай, XC90 Recharge гарантуе бяспечны, камфортны і звязаны вопыт кіравання.",
+                "advantages": [
+                    "Экалагічна чысты гібрыдны сілавы агрэгат",
+                    "Раскошны інтэр'ер у скандынаўскім стылі",
+                    "Перадавыя функцыі бяспекі і сувязі",
+                    "Дастаткова месца для сямей і багажу",
+                    "Уражлівая эфектыўнасць і прадукцыйнасць"
+                ],
+                "keywords": [
+                    "Volvo XC90 Recharge",
+                    "раскошны гібрыдны пазадарожнік",
+                    "устойлівая мабільнасць",
+                    "скандынаўскі дызайн",
+                    "электрамабіль Volvo"
+                ]
+            }
+        }
+    ]
+}

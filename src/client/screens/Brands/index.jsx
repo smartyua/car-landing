@@ -30,7 +30,7 @@ const BrandScreen = (): any => {
 
   const params = useParams();
   const { brand = 'default' } = params;
-  const { defaultTitle, globalSEO, popularCarBrands } = metaValues;
+  const { defaultTitle, globalSEO } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
   const { title, headTitle, description } =
     _.get(globalSEO, brand) || _.get(globalSEO, 'default');
@@ -47,7 +47,12 @@ const BrandScreen = (): any => {
     }
   });
 
-  const brandInfo = popularCarBrands.find(x => x.slug === brand);
+  const brandFind = Object.keys(globalSEO).find(key => {
+    const item = globalSEO[key];
+    return item.slug === brand;
+  });
+
+  const brandInfo = globalSEO[brandFind];
   const descriptionText = description[language];
   const kwText = models
     // $FlowFixMe
@@ -62,6 +67,8 @@ const BrandScreen = (): any => {
   const keywordsText = Array.from(new Set([...kwText]));
   const imageStyle =
     brandInfo && brandInfo.image ? styles[brandInfo.image] : '';
+
+  console.log(brandInfo);
 
   return (
     <section>

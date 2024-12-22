@@ -31,17 +31,18 @@ const Footer = (): any => {
     </span>
   );
 
-  const { popularCarBrands, globalSEO, languages, languageTitles } =
-    configValues;
+  const { globalSEO, languages, languageTitles } = configValues;
+  const globalSEOKeys = Object.keys(globalSEO).sort();
+
   const cols = 3;
-  const rows = Math.ceil(popularCarBrands.length / cols);
+  const rows = Math.ceil(globalSEOKeys.length / cols);
   const matrix = Array.from({ length: rows }, () => Array(cols).fill(null));
   let index = 0;
 
   for (let col = 0; col < cols; col++) {
     for (let row = 0; row < rows; row++) {
-      if (index < popularCarBrands.length) {
-        matrix[row][col] = popularCarBrands[index] || null;
+      if (index < globalSEOKeys.length) {
+        matrix[row][col] = globalSEOKeys[index] || null;
         index++;
       }
     }
@@ -61,7 +62,7 @@ const Footer = (): any => {
                       return null;
                     }
 
-                    const { models } = globalSEO[brand.slug];
+                    const { models } = globalSEO[brand];
                     const modelsText = models
                       .map(x =>
                         x[language] && x[language].title
@@ -70,12 +71,12 @@ const Footer = (): any => {
                       )
                       .filter(x => !!x);
 
-                    const link = `/${language}/${brand.slug}`;
+                    const link = `/${language}/${globalSEO[brand].slug}`;
                     return (
                       <div key={j} className={styles.brand}>
                         <div className={styles.brandTitle}>
                           <Link to={link} onClick={handleScrollClick}>
-                            {brand.title}
+                            {globalSEO[brand].title}
                           </Link>
                         </div>
                         <div className={styles.models}>
