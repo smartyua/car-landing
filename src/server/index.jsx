@@ -21,7 +21,6 @@ const { match } = require('node-match-path');
 
 dotenv.config();
 
-// eslint-disable-next-line security/detect-non-literal-require, import/no-dynamic-require
 const assets = require(process.env.RAZZLE_ASSETS_MANIFEST);
 const server = express();
 
