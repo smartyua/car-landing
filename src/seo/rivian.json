@@ -24,7 +24,7 @@
     },
     "models": [
         {
-            "slug": "taycan-ev",
+            "slug": "rivian-r1s",
             "competitors": [
                 "Tesla Model X",
                 "Mercedes-Benz EQS SUV",
@@ -182,6 +182,176 @@
                     "Rivian R1S цалкам электрычны пазадарожнік",
                     "Rivian R1S электрамабіль",
                     "Rivian R1S электрычны аўтамабіль"
+                ]
+            }
+        },
+        {
+            "slug": "rivian-r1t",
+            "competitors": [
+                "Tesla Cybertruck",
+                "Ford F-150 Lightning",
+                "GMC Hummer EV Pickup"
+            ],
+            "en": {
+                "title": "Rivian R1T",
+                "head": "Adventure-Ready Electric Truck: Rivian R1T",
+                "description": "The Rivian R1T is an all-electric adventure truck offering unmatched off-road capabilities, innovative technology, and sustainable design.",
+                "text": "The Rivian R1T is a powerful all-electric truck built for adventure and exploration. With a range of up to 400 miles, it provides the freedom to go anywhere while being eco-friendly. Its quad-motor all-wheel drive delivers exceptional off-road performance, while the luxurious and durable interior ensures comfort on every journey. The R1T is equipped with advanced driver assistance systems, a built-in gear tunnel for added utility, and a host of customization options. The Rivian R1T is the perfect electric truck for those who seek versatility, performance, and sustainability.",
+                "advantages": [
+                    "Up to 400 miles of range",
+                    "Quad-motor all-wheel drive",
+                    "Innovative storage and rugged design"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "electric truck",
+                    "adventure",
+                    "off-road"
+                ]
+            },
+            "ru": {
+                "title": "Rivian R1T",
+                "head": "Готовый к приключениям электрический пикап: Rivian R1T",
+                "description": "Rivian R1T — это полностью электрический пикап для приключений, предлагающий непревзойденные внедорожные возможности, инновационные технологии и устойчивый дизайн.",
+                "text": "Rivian R1T — это мощный полностью электрический пикап, созданный для приключений и исследований. С запасом хода до 640 км он обеспечивает свободу путешествий, оставаясь экологичным. Его система полного привода с четырьмя моторами обеспечивает исключительную внедорожную производительность, а роскошный и прочный интерьер гарантирует комфорт в каждой поездке. R1T оснащён передовыми системами помощи водителю, встроенным туннелем для хранения и множеством вариантов настройки. Rivian R1T — идеальный электрический пикап для тех, кто ищет универсальность, производительность и устойчивость.",
+                "advantages": [
+                    "Запас хода до 640 км",
+                    "Полный привод с четырьмя моторами",
+                    "Инновационные решения для хранения и прочный дизайн"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "электрический пикап",
+                    "приключения",
+                    "внедорожный"
+                ]
+            },
+            "ua": {
+                "title": "Rivian R1T",
+                "head": "Електричний пікап для пригод: Rivian R1T",
+                "description": "Rivian R1T — це повністю електричний пікап для пригод, що пропонує унікальні позашляхові можливості, інноваційні технології та стійкий дизайн.",
+                "text": "Rivian R1T — це потужний повністю електричний пікап, створений для подорожей та досліджень. Із запасом ходу до 640 км він забезпечує свободу пересування, залишаючись екологічним. Його система повного приводу з чотирма моторами гарантує виняткову позашляхову продуктивність, а розкішний і міцний інтер'єр забезпечує комфорт у кожній поїздці. R1T оснащений передовими системами допомоги водію, вбудованим тунелем для зберігання та безліччю варіантів налаштування. Rivian R1T — це ідеальний електричний пікап для тих, хто шукає універсальність, продуктивність та стійкість.",
+                "advantages": [
+                    "Запас ходу до 640 км",
+                    "Повний привід із чотирма моторами",
+                    "Інноваційні рішення для зберігання і міцний дизайн"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "електричний пікап",
+                    "пригода",
+                    "позашляховий"
+                ]
+            },
+            "be": {
+                "title": "Rivian R1T",
+                "head": "Электрычны пікап для прыгод: Rivian R1T",
+                "description": "Rivian R1T — гэта цалкам электрычны пікап для прыгод, які прапануе ўнікальныя пазадарожныя магчымасці, інавацыйныя тэхналогіі і ўстойлівы дызайн.",
+                "text": "Rivian R1T — гэта магутны цалкам электрычны пікап, створаны для падарожжаў і даследаванняў. З запасам ходу да 640 км ён забяспечвае свабоду перамяшчэння, застаючыся экалагічным. Яго сістэма поўнага прывада з чатырма маторамі гарантуе выключную пазадарожную прадукцыйнасць, а раскошны і трывалый інтэр'ер забяспечвае камфорт у кожнай паездцы. R1T абсталяваны перадавымі сістэмамі дапамогі кіроўцу, убудаваным тунэлем для захоўвання і мноствам варыянтаў налад. Rivian R1T — гэта ідэальны электрычны пікап для тых, хто шукае універсальнасць, прадукцыйнасць і ўстойлівасць.",
+                "advantages": [
+                    "Запас ходу да 640 км",
+                    "Поўны прывад з чатырма маторамі",
+                    "Інавацыйныя рашэнні для захоўвання і трываласць дызайну"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "электрычны пікап",
+                    "прыгоды",
+                    "пазадарожны"
+                ]
+            },
+            "de": {
+                "title": "Rivian R1T",
+                "head": "Abenteuerbereiter Elektro-Truck: Rivian R1T",
+                "description": "Der Rivian R1T ist ein vollelektrischer Abenteuer-Truck, der unvergleichliche Offroad-Fähigkeiten, innovative Technologie und ein nachhaltiges Design bietet.",
+                "text": "Der Rivian R1T ist ein leistungsstarker vollelektrischer Truck, der für Abenteuer und Entdeckungen gebaut wurde. Mit einer Reichweite von bis zu 640 km bietet er die Freiheit, überall hin zu reisen, und bleibt gleichzeitig umweltfreundlich. Sein Allradantrieb mit vier Motoren sorgt für außergewöhnliche Offroad-Leistung, während das luxuriöse und strapazierfähige Interieur Komfort auf jeder Reise garantiert. Der R1T ist mit fortschrittlichen Fahrerassistenzsystemen, einem integrierten Stauraumtunnel und zahlreichen Anpassungsmöglichkeiten ausgestattet. Der Rivian R1T ist der perfekte Elektro-Truck für alle, die Vielseitigkeit, Leistung und Nachhaltigkeit suchen.",
+                "advantages": [
+                    "Reichweite bis zu 640 km",
+                    "Allradantrieb mit vier Motoren",
+                    "Innovativer Stauraum und robustes Design"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "elektrischer Truck",
+                    "Abenteuer",
+                    "Offroad"
+                ]
+            },
+            "pl": {
+                "title": "Rivian R1T",
+                "head": "Elektryczny pickup gotowy na przygody: Rivian R1T",
+                "description": "Rivian R1T to w pełni elektryczny pickup przygodowy, oferujący wyjątkowe możliwości terenowe, nowoczesną technologię i zrównoważony design.",
+                "text": "Rivian R1T to potężny w pełni elektryczny pickup zaprojektowany z myślą o przygodach i eksploracji. Zasięg do 640 km zapewnia swobodę podróżowania, pozostając przy tym ekologicznym. Jego napęd na cztery koła z czterema silnikami gwarantuje wyjątkowe osiągi terenowe, a luksusowe i wytrzymałe wnętrze zapewnia komfort w każdej podróży. R1T jest wyposażony w zaawansowane systemy wspomagania kierowcy, wbudowany tunel bagażowy oraz wiele opcji personalizacji. Rivian R1T to idealny elektryczny pickup dla tych, którzy cenią wszechstronność, wydajność i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 640 km",
+                    "Napęd na cztery koła z czterema silnikami",
+                    "Innowacyjny schowek i wytrzymały design"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "elektryczny pickup",
+                    "przygoda",
+                    "terenowy"
+                ]
+            },
+            "es": {
+                "title": "Rivian R1T",
+                "head": "Camioneta eléctrica lista para la aventura: Rivian R1T",
+                "description": "La Rivian R1T es una camioneta completamente eléctrica que ofrece capacidades todoterreno incomparables, tecnología innovadora y un diseño sostenible.",
+                "text": "La Rivian R1T es una camioneta eléctrica potente diseñada para la aventura y la exploración. Con una autonomía de hasta 640 km, proporciona la libertad de viajar a cualquier lugar de manera ecológica. Su tracción total con cuatro motores ofrece un rendimiento todoterreno excepcional, mientras que el interior lujoso y resistente garantiza comodidad en cada viaje. La R1T está equipada con sistemas avanzados de asistencia al conductor, un túnel de almacenamiento integrado y una variedad de opciones de personalización. La Rivian R1T es la camioneta eléctrica perfecta para quienes buscan versatilidad, rendimiento y sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 640 km",
+                    "Tracción total con cuatro motores",
+                    "Almacenamiento innovador y diseño robusto"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "camioneta eléctrica",
+                    "aventura",
+                    "todoterreno"
+                ]
+            },
+            "fr": {
+                "title": "Rivian R1T",
+                "head": "Pick-up électrique prêt pour l'aventure : Rivian R1T",
+                "description": "Le Rivian R1T est un pick-up 100% électrique offrant des capacités tout-terrain inégalées, une technologie innovante et un design durable.",
+                "text": "Le Rivian R1T est un pick-up électrique puissant conçu pour l'aventure et l'exploration. Avec une autonomie allant jusqu'à 640 km, il offre la liberté de voyager partout tout en restant respectueux de l'environnement. Sa transmission intégrale à quatre moteurs offre des performances tout-terrain exceptionnelles, tandis que l'intérieur luxueux et robuste garantit un confort optimal à chaque trajet. Le R1T est équipé de systèmes avancés d'assistance à la conduite, d'un tunnel de rangement intégré et d'une multitude d'options de personnalisation. Le Rivian R1T est le pick-up électrique idéal pour ceux qui recherchent polyvalence, performance et durabilité.",
+                "advantages": [
+                    "Autonomie jusqu'à 640 km",
+                    "Transmission intégrale à quatre moteurs",
+                    "Rangement innovant et design robuste"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "pick-up électrique",
+                    "aventure",
+                    "tout-terrain"
+                ]
+            },
+            "zh": {
+                "title": "Rivian R1T",
+                "head": "冒险准备好的电动卡车：Rivian R1T",
+                "description": "Rivian R1T 是一款全电动冒险卡车，提供无与伦比的越野能力、创新技术和可持续设计。",
+                "text": "Rivian R1T 是一款强大的全电动卡车，专为冒险和探索而设计。最高续航里程达 640 公里，为您提供了无限的自由，同时保护环境。其四驱四电机系统提供卓越的越野性能，而豪华耐用的内饰确保每次旅行都能享受舒适。R1T 配备了先进的驾驶辅助系统、内置的储物隧道和多种定制选项。Rivian R1T 是寻求多功能性、性能和可持续性的理想电动卡车。",
+                "advantages": [
+                    "最高 640 公里续航里程",
+                    "四驱四电机系统",
+                    "创新储物和坚固设计"
+                ],
+                "keywords": [
+                    "Rivian",
+                    "R1T",
+                    "电动卡车",
+                    "冒险",
+                    "越野"
                 ]
             }
         }
