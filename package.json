@@ -1,5 +1,5 @@
 {
-  "name": "kylypko-app",
+  "name": "lease-app",
   "version": "1.0.0",
   "license": "MIT",
   "engines": {
@@ -10,17 +10,17 @@
     "post1": "npm i redux@4.2.1  --legacy-peer-deps",
     "post2": "npm i redux-thunk@2.4.2 --legacy-peer-deps",
     "post3": "npm i react-redux@8.1.3 --legacy-peer-deps",
-    "post4": "npm i  webpack-dev-server@4.15.1 --legacy-peer-deps",
-    "post5": "npm i  react-router-dom@6.8.1 --legacy-peer-deps",
+    "post4": "npm i webpack-dev-server@4.15.1 --legacy-peer-deps",
+    "post5": "npm i react-router-dom@6.8.1 --legacy-peer-deps",
     "postinstall": "npm run post1 && npm run post2 && npm run post3 && npm run post4",
-    "dev": "PORT=8080 razzle start",
-    "build": "PORT=8100 NODE_ENV=production razzle build --noninteractive",
-    "build:production": "PORT=8100 NODE_ENV=production razzle build --noninteractive",
+    "dev": "PORT=10000 razzle start",
+    "build": "PORT=10000 NODE_ENV=production razzle build --noninteractive",
+    "build:production": "PORT=10000 NODE_ENV=production razzle build --noninteractive",
     "export": "razzle export",
     "test:razzle": "razzle test --env=jsdom",
     "test": "cross-env NODE_ENV=test jest --config ./jest.config.js -u",
     "start": "node build/server.js",
-    "pm2start": "git pull && npm i --legacy-peer-deps && npm run build && pm2 restart kylypko.com"
+    "pm2start": "git pull && npm i --legacy-peer-deps && npm run build && pm2 restart auto-usa.pro"
   },
   "dependencies": {
     "@babel/plugin-proposal-function-bind": "^7.25.9",

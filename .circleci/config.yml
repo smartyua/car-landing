@@ -1,0 +1,50 @@
+version: 2
+jobs:
+  build:
+    branches:
+      only:
+        - master
+
+    docker:
+      - image: cimg/node:16.0
+
+    working_directory: ~/repo
+
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "03:d6:ec:74:54:68:c5:69:0d:0e:84:e1:05:8e:b9:65"
+      - checkout
+      - restore_cache: # special step to restore the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Setup Dependencies
+          command: npm i
+      - save_cache: # special step to save the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      # - run: # run lint
+      #     name: Run License checks
+      #     command: |
+      #       npm run license-checker
+      # - run: # run tests
+      #     name: Run Test
+      #     command: |
+      #       npm test
+      - run: # run build
+          name: Run Build
+          command: |
+            npm run build
+      - run:
+          name: Keyscan Github (HACK)
+          command: |
+            ssh-keyscan -H 194.28.86.148 >> ~/.ssh/known_hosts
+      - run:
+          name: Run APT-GET update
+          command: |
+            sudo apt-get update
+      - run:
+          name: Run Deploy
+          command: |
+            ssh root@194.28.86.148 "cd ../var/www/vhosts/auto-usa.top && nvm use && git checkout -- . && npm run pm2start"

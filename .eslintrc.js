@@ -28,8 +28,7 @@ module.exports = {
     'jsx-a11y',
     'promise',
     'unicorn',
-    'prettier',
-    'security'
+    'prettier'
   ],
   rules: {
     'flowtype/define-flow-type': 1,
