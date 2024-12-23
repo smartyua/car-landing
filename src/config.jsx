@@ -47,7 +47,7 @@ const globalSEO = {
   kia: kiaSeo,
   jeep: jeepSeo,
   lexus: lexusSeo,
-  mercedesbenz: mercedesSeo,
+  'mercedes-benz': mercedesSeo,
   nissan: nissanSeo,
   subaru: subaruSeo,
   tesla: teslaSeo,
