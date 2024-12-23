@@ -1,4 +1,4 @@
-# Car (lease/sale) landing SSR project
+# AUTO landing SSR project
 
 ## How to use
 
