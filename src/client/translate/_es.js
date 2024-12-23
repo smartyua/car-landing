@@ -26,7 +26,9 @@ const translate = {
   _HOME_BIG_TEXT5:
     'Si participas en una subasta de forma independiente, debes entender que muchos coches se venden después de accidentes, y es esencial saber qué daños son críticos para un modelo en particular y cuáles no. Los daños más comunes incluyen impactos, incendios o exposición al agua. Por supuesto, puedes viajar al extranjero por tu cuenta, pero es bastante caro, puedes enfrentar problemas de visa, y ¿por qué hacerlo cuando nuestros especialistas pueden encontrar un modelo "llave en mano" para ti?',
   _HOME_BIG_TEXT6:
-    'No te preocupes si actualmente no tienes suficiente dinero para un coche. Ofrecemos la oportunidad de comprar un coche de los EE. UU. en Polonia a plazos o leasing. El primer pago es solo el 25% del valor del vehículo, y los pagos restantes se calculan individualmente, dependiendo del plazo de reembolso.'
+    'No te preocupes si actualmente no tienes suficiente dinero para un coche. Ofrecemos la oportunidad de comprar un coche de los EE. UU. en Polonia a plazos o leasing. El primer pago es solo el 25% del valor del vehículo, y los pagos restantes se calculan individualmente, dependiendo del plazo de reembolso.',
+  _COMPETITORS: `Competidores`,
+  _ADVANTAGES: `Ventajas`
 };
 
 export default translate;

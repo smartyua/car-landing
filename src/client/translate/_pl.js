@@ -26,7 +26,9 @@ const translate = {
   _HOME_BIG_TEXT5:
     'Jeśli uczestniczysz w aukcji samodzielnie, musisz wiedzieć, że wiele pojazdów sprzedawanych jest po kolizjach i trzeba rozumieć, które uszkodzenia są krytyczne dla danego modelu, a które nie. Najczęściej występują uszkodzenia spowodowane kolizjami, pożarami czy zalaniami. Oczywiście możesz udać się za ocean osobiście, ale to kosztowne, mogą pojawić się problemy z wizą, a poza tym, po co to robić, skoro nasi specjaliści znajdą dla Ciebie idealny pojazd na zamówienie?',
   _HOME_BIG_TEXT6:
-    'Nie martw się, jeśli teraz nie masz wystarczających środków na zakup samochodu. Oferujemy możliwość zakupu samochodu w Polsce z USA na raty lub leasing. Pierwsza wpłata wynosi tylko 25% wartości pojazdu, a kolejne raty ustalane są indywidualnie, w zależności od okresu spłaty.'
+    'Nie martw się, jeśli teraz nie masz wystarczających środków na zakup samochodu. Oferujemy możliwość zakupu samochodu w Polsce z USA na raty lub leasing. Pierwsza wpłata wynosi tylko 25% wartości pojazdu, a kolejne raty ustalane są indywidualnie, w zależności od okresu spłaty.',
+  _COMPETITORS: `Konkurenci`,
+  _ADVANTAGES: `Zalety`
 };
 
 export default translate;

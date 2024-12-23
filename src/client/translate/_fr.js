@@ -26,7 +26,9 @@ const translate = {
   _HOME_BIG_TEXT5:
     'Si vous participez à une enchère indépendamment, vous devez comprendre que de nombreuses voitures sont vendues après des accidents, et il est essentiel de savoir quels dommages sont critiques pour un modèle particulier et lesquels ne le sont pas. Les dommages les plus courants incluent des impacts, des incendies ou une exposition à l’eau. Bien sûr, vous pouvez voyager à l’étranger par vous-même, mais c’est assez coûteux, vous pourriez rencontrer des problèmes de visa, et pourquoi le faire alors que nos spécialistes peuvent trouver un modèle "clé en main" pour vous ?',
   _HOME_BIG_TEXT6:
-    'Ne vous inquiétez pas si vous n’avez actuellement pas assez d’argent pour une voiture. Nous offrons la possibilité d’acheter une voiture des États-Unis en Pologne en plusieurs fois ou en leasing. Le premier paiement est seulement de 25% de la valeur du véhicule, et les paiements restants sont calculés individuellement, en fonction de la durée de remboursement.'
+    'Ne vous inquiétez pas si vous n’avez actuellement pas assez d’argent pour une voiture. Nous offrons la possibilité d’acheter une voiture des États-Unis en Pologne en plusieurs fois ou en leasing. Le premier paiement est seulement de 25% de la valeur du véhicule, et les paiements restants sont calculés individuellement, en fonction de la durée de remboursement.',
+  _COMPETITORS: `Concurrents`,
+  _ADVANTAGES: `Avantages`
 };
 
 export default translate;

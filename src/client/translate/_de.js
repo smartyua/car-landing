@@ -26,7 +26,9 @@ const translate = {
   _HOME_BIG_TEXT5:
     'Wenn Sie eigenständig an einer Auktion teilnehmen, sollten Sie verstehen, dass viele Fahrzeuge nach Unfällen verkauft werden und es wichtig ist zu wissen, welche Schäden für ein bestimmtes Modell kritisch sind und welche nicht. Am häufigsten treten Schäden durch Kollisionen, Brände oder Wassereinwirkung auf. Natürlich können Sie selbst über den Ozean reisen, aber das ist teuer, es können Probleme mit dem Visum auftreten, und warum sollten Sie das tun, wenn unsere Spezialisten das perfekte Modell für Sie finden können?',
   _HOME_BIG_TEXT6:
-    'Keine Sorge, wenn Sie derzeit nicht genug Geld für ein Auto haben. Bei uns können Sie ein Auto aus den USA in Polen in Raten oder Leasing kaufen. Die erste Zahlung beträgt nur 25% des Fahrzeugwerts, und die weiteren Raten werden individuell je nach Laufzeit der Restzahlung berechnet.'
+    'Keine Sorge, wenn Sie derzeit nicht genug Geld für ein Auto haben. Bei uns können Sie ein Auto aus den USA in Polen in Raten oder Leasing kaufen. Die erste Zahlung beträgt nur 25% des Fahrzeugwerts, und die weiteren Raten werden individuell je nach Laufzeit der Restzahlung berechnet.',
+  _COMPETITORS: 'Konkurrenten',
+  _ADVANTAGES: 'Vorteile'
 };
 
 export default translate;
