@@ -65,19 +65,19 @@ const Header = (props: any): any => {
     {
       title: 'DODGE',
       link: 'dodge'
-    },
-    {
-      title: 'MUSTANG',
-      link: 'mustang'
-    },
-    {
-      title: 'CAMARO',
-      link: 'camaro'
-    },
-    {
-      title: 'CORVETTE',
-      link: 'corvette'
     }
+    // {
+    //   title: 'MUSTANG',
+    //   link: 'mustang'
+    // },
+    // {
+    //   title: 'CAMARO',
+    //   link: 'camaro'
+    // },
+    // {
+    //   title: 'CORVETTE',
+    //   link: 'corvette'
+    // }
   ];
 
   if (pathname === '/404page') {
