@@ -1,0 +1,78 @@
+
+{
+    "en": {
+        "title": "Discover the New Toyota Corolla - Elegance Meets Efficiency",
+        "description": "Explore the Toyota Corolla's premium design, advanced safety features, and smart technology tailored for your comfort and convenience.",
+        "text": "Rediscover the joy of driving with the new Toyota Corolla. Offering unmatched reliability and a strikingly modern aesthetic, this latest model comes equipped with cutting-edge technologies and a powerful, fuel-efficient engine. The 2023 Toyota Corolla comes with a 1.8-liter four-cylinder engine, complemented by Toyota's innovative hybrid options, thereby ensuring performance is optimized without sacrificing fuel economy. Inside, the Corolla boasts a spacious interior, advanced infotainment system with seamless smartphone connectivity, and safety features like Toyota Safety Sense 2.0, which includes adaptive cruise control, lane departure alert, and more.",
+        "advantages": [
+            "Superior fuel efficiency",
+            "Advanced Safety Sense 2.0 technology",
+            "Spacious and comfortable interior",
+            "Sleek and modern design",
+            "High resale value"
+        ],
+        "competitors": [
+            "Honda Civic",
+            "Ford Focus",
+            "Hyundai Elantra",
+            "Mazda 3"
+        ],
+        "keywords": [
+            "Toyota Corolla",
+            "new Toyota car",
+            "fuel-efficient sedan",
+            "safe family car",
+            "modern sedan"
+        ]
+    },
+    "ru": {
+        "title": "Ознакомьтесь с новой Toyota Corolla - элегантность и эффективность",
+        "description": "Познакомьтесь с премиальным дизайном, передовыми функциями безопасности и современными технологиями Toyota Corolla, созданными для вашего комфорта и удобства.",
+        "text": "Откройте для себя радость от управления с новой Toyota Corolla. Предлагаем вам надежность и современный дизайн, новая модель оснащается передовыми технологиями и мощным, экономичным двигателем. Toyota Corolla 2023 года оснащена 1,8-литровым четырехцилиндровым двигателем, дополненным инновационными гибридными опциями Toyota, что обеспечивает оптимизацию производительности без потери экономичности топлива. В салоне автомобиля предусмотрены просторный интерьер, передовая информационно-развлекательная система с безшовной подключаемостью к смартфонам, а также функции безопасности, такие как Toyota Safety Sense 2.0, включающая адаптивный круиз-контроль, систему предупреждения о выходе из полосы и многое другое.",
+        "advantages": [
+            "Высокая экономия топлива",
+            "Передовая технология Safety Sense 2.0",
+            "Просторный и комфортабельный салон",
+            "Стильный и современный дизайн",
+            "Высокая остаточная стоимость"
+        ],
+        "competitors": [
+            "Honda Civic",
+            "Ford Focus",
+            "Hyundai Elantra",
+            "Mazda3"
+        ],
+        "keywords": [
+            "Toyota Corolla",
+            "новый автомобиль Toyota",
+            "экономичный седан",
+            "безопасный семейный автомобиль",
+            "современный седан"
+        ]
+    },
+    "ua": {
+        "title": "Відкрийте для себе нову Toyota Corolla - Елегантність та Ефективність",
+        "description": "Дізнайтеся більше про преміальний дизайн, передові функції безпеки та сучасні технології Toyota Corolla, створені для вашого комфорту і зручності.",
+        "text": "Відновіть радість від водіння з новою Toyota Corolla. Ця остання модель має неперевершену надійність і сучасний естетичний вигляд, оснащена новітніми технологіями і потужним, паливно-ефективним двигуном. Toyota Corolla 2023 року оснащена 1.8-літровим чотирициліндровим двигуном, доповненим інноваційними гібридними опціями Toyota, що забезпечує оптимізацію продуктивності без жертв паливною економією. Усередині Corolla має просторий інтер'єр, передову інформаційно-розважальну систему з безшовною сумісністю зі смартфонами, а також оснащена функціями безпеки, такими як Toyota Safety Sense 2.0, який включає адаптивний круїз-контроль, систему попередження про виїзд зі смуги та інше.",
+        "advantages": [
+            "Висока паливна ефективність",
+            "Передова технологія Safety Sense 2.0",
+            "Просторий і комфортний інтер'єр",
+            "Елегантний і сучасний дизайн",
+            "Висока залишкова вартість"
+        ],
+        "competitors": [
+            "Honda Civic",
+            "Ford Focus",
+            "Hyundai Elantra",
+            "Mazda3"
+        ],
+        "keywords": [
+            "Toyota Corolla",
+            "новий автомобіль Toyota",
+            "економічний седан",
+            "безпечний сімейний автомобіль",
+            "сучасний седан"
+        ]
+    }
+}

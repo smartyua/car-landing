@@ -1,0 +1,72 @@
+
+{
+    "en": {
+        "title": "Discover the Future of Driving with Li Auto Li ONE Electric SUV",
+        "description": "Explore the innovative features and unmatched performance of the Li Auto Li ONE, a leader in the electric SUV market.",
+        "text": "The Li Auto Li ONE Electric SUV sets a new standard in the electric vehicle industry, combining luxury, efficiency, and cutting-edge technology. Equipped with a range-extending hybrid system, the Li ONE offers an impressive electric-only range, supported by its gas generator, making longer trips without charging worries a reality. The interior of the Li ONE is designed with comfort and technology in mind, featuring a panoramic sunroof, advanced driver assistance systems, and a spacious cabin with premium materials. Its intelligent in-car system seamlessly integrates with your lifestyle, providing a smarter, more connected driving experience.",
+        "advantages": [
+            "Extended range with hybrid technology allows for longer trips without recharging",
+            "Spacious luxury interior equipped with the latest technology",
+            "Advanced safety features and driver assistance systems",
+            "Competitive pricing in the luxury electric SUV market"
+        ],
+        "competitors": [
+            "Tesla Model X",
+            "NIO ES8",
+            "BMW iX3"
+        ],
+        "keywords": [
+            "Li Auto Li ONE",
+            "electric SUV",
+            "luxury electric vehicle",
+            "range extender",
+            "electric vehicle technology"
+        ]
+    },
+    "ru": {
+        "title": "Откройте для себя будущее вождения с электрическим внедорожником Li Auto Li ONE",
+        "description": "Изучите инновационные функции и непревзойденные характеристики Li Auto Li ONE, лидера рынка электрических внедорожников.",
+        "text": "Электрический внедорожник Li Auto Li ONE устанавливает новый стандарт в индустрии электромобилей, сочетая в себе роскошь, эффективность и передовые технологии. Благодаря системе увеличения дальности хода на гибридной основе, Li ONE предлагает впечатляющий запас хода на электричестве, поддерживаемый его газогенератором, что делает реальностью более длительные поездки без забот о зарядке. Интерьер Li ONE разработан с учетом комфорта и технологий, включая панорамный люк, передовые системы помощи водителю и просторный салон с высококачественными материалами. Его интеллектуальная внутрисалонная система беспрепятственно интегрируется с вашим образом жизни, обеспечивая более умный и связанный опыт вождения.",
+        "advantages": [
+            "Увеличенный запас хода с гибридной технологией позволяет совершать более длительные поездки без перезарядки",
+            "Просторный роскошный интерьер, оснащенный современной техникой",
+            "Передовые функции безопасности и системы помощи водителю",
+            "Конкурентоспособные цены на рынке роскошных электрических внедорожников"
+        ],
+        "competitors": [
+            "Tesla Model X",
+            "NIO ES8",
+            "BMW iX3"
+        ],
+        "keywords": [
+            "Li Auto Li ONE",
+            "электрический внедорожник",
+            "роскошный электромобиль",
+            "увеличение дальности",
+            "технологии электромобилей"
+        ]
+    },
+    "ua": {
+        "title": "Відкрийте для себе майбутнє водіння з електричним позашляховиком Li Auto Li ONE",
+        "description": "Дізнайтеся про інноваційні функції та неперевершену продуктивність Li Auto Li ONE, лідера ринку електричних позашляховиків.",
+        "text": "Електричний позашляховик Li Auto Li ONE встановлює новий стандарт у галузі електромобілів, поєднуючи розкіш, ефективність і передові технології. Завдяки гібридній системі збільшення дальності ходу, Li ONE пропонує вражаючий запас ходу на електриці, підтримуваний його газогенератором, що робить можливими довші поїздки без турбот про зарядку. Інтер'єр Li ONE розроблений з урахуванням комфорту та технологій, включаючи панорамний дах, передові системи допомоги водію та просторий салон із високоякісними матеріалами. Його інтелектуальна система в салоні безперешкодно інтегрується з вашим способом життя, забезпечуючи розумніший та більш зв'язаний досвід водіння.",
+        "advantages": [
+            "Збільшений запас ходу з гібридною технологією дозволяє здійснювати довші поїздки без підзарядки",
+            "Просторий розкішний салон, оснащений сучасною технікою",
+            "Передові функції безпеки та системи допомоги водію",
+            "Конкурентоспроможні ціни на ринку розкішних електричних позашляховиків"
+        ],
+        "competitors": [
+            "Tesla Model X",
+            "NIO ES8",
+            "BMW iX3"
+        ],
+        "keywords": [
+            "Li Auto Li ONE",
+            "електричний позашляховик",
+            "розкішний електромобіль",
+            "підвищення дальності",
+            "технології електромобілів"
+        ]
+    }
+}

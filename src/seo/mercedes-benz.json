@@ -25,6 +25,176 @@
     },
     "models": [
         {
+            "slug": "mercedes-eqs",
+            "competitors": [
+                "Tesla Model S",
+                "BMW i7",
+                "Audi e-tron GT"
+            ],
+            "en": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Discover the Future of Electric Luxury with the Mercedes-Benz EQS",
+                "description": "The Mercedes-Benz EQS is a flagship electric sedan combining cutting-edge technology, unparalleled comfort, and impressive performance.",
+                "text": "The Mercedes-Benz EQS is a luxury electric sedan that redefines driving with its elegant design and advanced features. With a range of up to 453 miles and ultra-fast charging, it ensures long-distance travel with ease. The interior features the revolutionary MBUX Hyperscreen, premium materials, and advanced ambient lighting. Safety and convenience are prioritized with features like adaptive cruise control, lane-keeping assist, and augmented reality navigation. The Mercedes-Benz EQS is the pinnacle of electric innovation and luxury.",
+                "advantages": [
+                    "Range of up to 453 miles",
+                    "MBUX Hyperscreen for advanced infotainment",
+                    "Exceptional comfort and safety features"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "electric sedan",
+                    "luxury",
+                    "long range"
+                ]
+            },
+            "ru": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Откройте будущее электрической роскоши с Mercedes-Benz EQS",
+                "description": "Mercedes-Benz EQS — это флагманский электрический седан, который сочетает передовые технологии, непревзойденный комфорт и впечатляющую производительность.",
+                "text": "Mercedes-Benz EQS — это роскошный электрический седан, который переосмысливает вождение благодаря элегантному дизайну и современным технологиям. С запасом хода до 728 км и возможностью ультрабыстрой зарядки он обеспечивает легкость в дальних поездках. Интерьер оснащён революционным экраном MBUX Hyperscreen, премиальными материалами и современной подсветкой. Безопасность и удобство гарантируют адаптивный круиз-контроль, удержание полосы движения и дополненная реальность в навигации. Mercedes-Benz EQS — это вершина электрических инноваций и роскоши.",
+                "advantages": [
+                    "Запас хода до 728 км",
+                    "MBUX Hyperscreen для современных мультимедиа",
+                    "Исключительный комфорт и функции безопасности"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "электрический седан",
+                    "роскошь",
+                    "дальний запас хода"
+                ]
+            },
+            "ua": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Відкрийте майбутнє електричної розкоші з Mercedes-Benz EQS",
+                "description": "Mercedes-Benz EQS — це флагманський електричний седан, що поєднує передові технології, неперевершений комфорт та вражаючу продуктивність.",
+                "text": "Mercedes-Benz EQS — це розкішний електричний седан, який переосмислює водіння завдяки елегантному дизайну та сучасним технологіям. Із запасом ходу до 728 км і можливістю ультрашвидкої зарядки він забезпечує легкість у далеких поїздках. Інтер'єр оснащений революційним екраном MBUX Hyperscreen, преміальними матеріалами та сучасним освітленням. Безпеку та зручність гарантують адаптивний круїз-контроль, утримання смуги руху та доповнена реальність у навігації. Mercedes-Benz EQS — це вершина електричних інновацій і розкоші.",
+                "advantages": [
+                    "Запас ходу до 728 км",
+                    "MBUX Hyperscreen для сучасного мультимедіа",
+                    "Винятковий комфорт і функції безпеки"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "електричний седан",
+                    "розкіш",
+                    "великий запас ходу"
+                ]
+            },
+            "be": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Адкрыйце будучыню электрычнай раскошы з Mercedes-Benz EQS",
+                "description": "Mercedes-Benz EQS — гэта флагманскі электрычны седан, які спалучае перадавыя тэхналогіі, непераўзыдзены камфорт і ўражальную прадукцыйнасць.",
+                "text": "Mercedes-Benz EQS — гэта раскошны электрычны седан, які пераасэнсоўвае кіраванне дзякуючы элегантнаму дызайну і сучасным тэхналогіям. З запасам ходу да 728 км і магчымасцю ультрахуткай зарадкі ён забяспечвае лёгкасць у далёкіх паездках. Інтэр'ер аснашчаны рэвалюцыйным экранам MBUX Hyperscreen, прэміяльнымі матэрыяламі і сучасным асвятленнем. Бяспеку і зручнасць гарантуе адаптыўны круіз-кантроль, утрыманне паласы і дапоўненая рэальнасць у навігацыі. Mercedes-Benz EQS — гэта вяршыня электрычных інавацый і раскошы.",
+                "advantages": [
+                    "Запас ходу да 728 км",
+                    "MBUX Hyperscreen для сучаснага інтэрфейсу",
+                    "Выдатны камфорт і функцыі бяспекі"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "электрычны седан",
+                    "раскоша",
+                    "доўгі запас ходу"
+                ]
+            },
+            "de": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Entdecken Sie die Zukunft des elektrischen Luxus mit dem Mercedes-Benz EQS",
+                "description": "Der Mercedes-Benz EQS ist eine elektrische Luxuslimousine, die modernste Technologie, unübertroffenen Komfort und beeindruckende Leistung vereint.",
+                "text": "Der Mercedes-Benz EQS ist eine elektrische Luxuslimousine, die das Fahren durch elegantes Design und fortschrittliche Technologie neu definiert. Mit einer Reichweite von bis zu 728 km und ultraschneller Ladefähigkeit ermöglicht er müheloses Langstreckenreisen. Der Innenraum bietet das revolutionäre MBUX Hyperscreen, hochwertige Materialien und fortschrittliche Ambientebeleuchtung. Sicherheits- und Komfortmerkmale wie adaptiver Tempomat, Spurhalteassistent und AR-Navigation machen jede Fahrt sicher und angenehm. Der Mercedes-Benz EQS ist das Nonplusultra der elektrischen Innovation und des Luxus.",
+                "advantages": [
+                    "Reichweite bis zu 728 km",
+                    "MBUX Hyperscreen für fortschrittliche Infotainment",
+                    "Hervorragender Komfort und Sicherheitsmerkmale"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "elektrische Limousine",
+                    "Luxus",
+                    "lange Reichweite"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Odkryj przyszłość luksusu elektrycznego z Mercedes-Benz EQS",
+                "description": "Mercedes-Benz EQS to flagowy elektryczny sedan łączący nowoczesną technologię, niezrównany komfort i imponującą wydajność.",
+                "text": "Mercedes-Benz EQS to luksusowy elektryczny sedan, który redefiniuje jazdę dzięki eleganckiemu designowi i zaawansowanym funkcjom. Zasięg do 728 km i ultraszybkie ładowanie sprawiają, że doskonale nadaje się do dalekich podróży. Wnętrze wyposażone jest w rewolucyjny ekran MBUX Hyperscreen, materiały najwyższej jakości i zaawansowane oświetlenie ambientowe. Funkcje bezpieczeństwa, takie jak adaptacyjny tempomat, asystent pasa ruchu i nawigacja w rozszerzonej rzeczywistości, zapewniają spokojną jazdę. Mercedes-Benz EQS to szczyt innowacji elektrycznych i luksusu.",
+                "advantages": [
+                    "Zasięg do 728 km",
+                    "MBUX Hyperscreen dla nowoczesnych multimediów",
+                    "Wyjątkowy komfort i funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "elektryczny sedan",
+                    "luksus",
+                    "długi zasięg"
+                ]
+            },
+            "es": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Descubre el futuro del lujo eléctrico con el Mercedes-Benz EQS",
+                "description": "El Mercedes-Benz EQS es un sedán eléctrico insignia que combina tecnología de vanguardia, confort incomparable y un rendimiento impresionante.",
+                "text": "El Mercedes-Benz EQS es un sedán eléctrico de lujo que redefine la conducción con su diseño elegante y funciones avanzadas. Con una autonomía de hasta 728 km y capacidad de carga ultrarrápida, garantiza viajes de larga distancia con facilidad. El interior cuenta con la revolucionaria pantalla MBUX Hyperscreen, materiales de primera calidad e iluminación ambiental avanzada. Las características de seguridad y conveniencia, como el control de crucero adaptativo, el asistente de mantenimiento de carril y la navegación de realidad aumentada, priorizan la tranquilidad. El Mercedes-Benz EQS es la cúspide de la innovación eléctrica y el lujo.",
+                "advantages": [
+                    "Autonomía de hasta 728 km",
+                    "MBUX Hyperscreen para infotainment avanzado",
+                    "Excepcional confort y características de seguridad"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "sedán eléctrico",
+                    "lujo",
+                    "larga autonomía"
+                ]
+            },
+            "fr": {
+                "title": "Mercedes-Benz EQS",
+                "head": "Découvrez l'avenir du luxe électrique avec le Mercedes-Benz EQS",
+                "description": "Le Mercedes-Benz EQS est une berline électrique haut de gamme qui combine technologie de pointe, confort inégalé et performances impressionnantes.",
+                "text": "La Mercedes-Benz EQS est une berline électrique de luxe qui redéfinit la conduite avec son design élégant et ses fonctionnalités avancées. Avec une autonomie allant jusqu'à 728 km et une charge ultra-rapide, elle garantit des voyages longue distance en toute simplicité. L'intérieur est doté du révolutionnaire MBUX Hyperscreen, de matériaux haut de gamme et d'un éclairage d'ambiance avancé. La sécurité et le confort sont prioritaires avec des fonctionnalités telles que le régulateur de vitesse adaptatif, l'assistant de maintien de voie et la navigation en réalité augmentée. La Mercedes-Benz EQS est le summum de l'innovation électrique et du luxe.",
+                "advantages": [
+                    "Autonomie allant jusqu'à 728 km",
+                    "MBUX Hyperscreen pour un infotainment avancé",
+                    "Confort exceptionnel et fonctionnalités de sécurité"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQS",
+                    "berline électrique",
+                    "luxe",
+                    "grande autonomie"
+                ]
+            },
+            "zh": {
+                "title": "Mercedes-Benz EQS",
+                "head": "探索梅赛德斯-奔驰EQS的电动豪华未来",
+                "description": "梅赛德斯-奔驰EQS是一款旗舰级电动轿车，融合了尖端技术、无与伦比的舒适性和令人印象深刻的性能。",
+                "text": "梅赛德斯-奔驰EQS是一款豪华电动轿车，通过其优雅的设计和先进功能重新定义了驾驶体验。最高可达728公里的续航里程和超快充电功能，确保长途旅行轻松愉快。内饰采用了革命性的MBUX Hyperscreen、优质材料和先进的环境照明。安全和便利性得到优先考虑，例如自适应巡航控制、车道保持辅助和增强现实导航。梅赛德斯-奔驰EQS是电动创新和豪华的顶峰。",
+                "advantages": [
+                    "最高728公里续航里程",
+                    "MBUX Hyperscreen提供先进的信息娱乐",
+                    "卓越的舒适性和安全功能"
+                ],
+                "keywords": [
+                    "梅赛德斯-奔驰",
+                    "EQS",
+                    "电动轿车",
+                    "豪华",
+                    "长续航里程"
+                ]
+            }
+        },
+        {
             "slug": "mercedes-eqs-suv",
             "competitors": [
                 "Tesla Model S",
@@ -538,314 +708,341 @@
         },
         {
             "slug": "mercedes-eqb",
+            "competitors": [
+                "Tesla Model Y",
+                "Audi Q4 e-tron",
+                "Volvo XC40 Recharge"
+            ],
             "en": {
                 "title": "Mercedes EQB",
-                "description": "A family-friendly electric SUV with flexible seating and advanced features.",
+                "head": "Explore Spacious Electric Luxury with the Mercedes EQB",
+                "description": "The Mercedes EQB is an electric compact SUV offering exceptional space, advanced technology, and a luxurious driving experience.",
+                "text": "The Mercedes EQB is a fully electric SUV designed for families and adventurers. With seating for up to seven and a range of up to 260 miles, it provides versatility for everyday use and road trips. The interior features premium materials, the advanced MBUX infotainment system, and ambient lighting. Safety is prioritized with features like adaptive cruise control and lane-keeping assist. The Mercedes EQB is perfect for those seeking practicality without compromising on luxury or sustainability.",
+                "advantages": [
+                    "Seating for up to seven passengers",
+                    "Up to 260 miles of electric range",
+                    "Advanced MBUX infotainment and safety features"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "family SUV",
-                    "electric car",
-                    "flexible seating",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "electric SUV",
+                    "family car",
+                    "luxury"
+                ]
             },
             "ru": {
                 "title": "Mercedes EQB",
-                "description": "Семейный электрический внедорожник с гибкой компоновкой сидений и передовыми функциями.",
+                "head": "Исследуйте просторную электрическую роскошь с Mercedes EQB",
+                "description": "Mercedes EQB — это электрический компактный внедорожник, предлагающий исключительное пространство, передовые технологии и роскошный опыт вождения.",
+                "text": "Mercedes EQB — это полностью электрический внедорожник, разработанный для семей и любителей приключений. С местами для семи пассажиров и запасом хода до 420 км он обеспечивает универсальность для повседневного использования и дальних поездок. Интерьер отличается премиальными материалами, передовой системой MBUX и атмосферной подсветкой. Безопасность обеспечивается функциями, такими как адаптивный круиз-контроль и удержание полосы. Mercedes EQB — идеальный выбор для тех, кто ищет практичность без компромиссов в роскоши или устойчивости.",
+                "advantages": [
+                    "Семь мест для пассажиров",
+                    "Запас хода до 420 км",
+                    "Передовые функции MBUX и безопасности"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "семейный внедорожник",
-                    "электромобиль",
-                    "гибкая компоновка",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "электрический внедорожник",
+                    "семейный автомобиль",
+                    "роскошь"
+                ]
             },
             "ua": {
                 "title": "Mercedes EQB",
-                "description": "Сімейний електричний позашляховик із гнучкою компоновкою сидінь і передовими функціями.",
+                "head": "Досліджуйте простору електричну розкіш із Mercedes EQB",
+                "description": "Mercedes EQB — це електричний компактний позашляховик, що пропонує винятковий простір, передові технології та розкішний досвід водіння.",
+                "text": "Mercedes EQB — це повністю електричний позашляховик, створений для сімей і любителів пригод. Із місцями для семи пасажирів і запасом ходу до 420 км він забезпечує універсальність для повсякденного використання та далеких подорожей. Інтер'єр відрізняється преміальними матеріалами, передовою системою MBUX та атмосферним освітленням. Безпеку забезпечують функції, такі як адаптивний круїз-контроль і утримання смуги руху. Mercedes EQB — це ідеальний вибір для тих, хто шукає практичність без компромісів у розкоші або стійкості.",
+                "advantages": [
+                    "Сім місць для пасажирів",
+                    "Запас ходу до 420 км",
+                    "Передові функції MBUX та безпеки"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "сімейний позашляховик",
-                    "електромобіль",
-                    "гнучка компоновка",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Mercedes EQB",
-                "description": "Rodzinny elektryczny SUV z elastycznym układem siedzeń i zaawansowanymi funkcjami.",
-                "keywords": [
-                    "Mercedes",
-                    "EQB",
-                    "rodzinny SUV",
-                    "elektryczny samochód",
-                    "elastyczne siedzenia",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Mercedes EQB",
-                "description": "Ein familienfreundlicher Elektro-SUV mit flexiblem Sitzkonzept und fortschrittlichen Funktionen.",
-                "keywords": [
-                    "Mercedes",
-                    "EQB",
-                    "familienfreundlicher SUV",
-                    "elektrisches Auto",
-                    "flexibles Sitzen",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "електричний позашляховик",
+                    "сімейний автомобіль"
+                ]
             },
             "be": {
                 "title": "Mercedes EQB",
-                "description": "Сямейны электрычны пазадарожнік з гнуткай кампановкай сядзенняў і перадавымі функцыямі.",
+                "head": "Даследуйце прасторную электрычную раскошу з Mercedes EQB",
+                "description": "Mercedes EQB — гэта электрычны кампактны пазадарожнік, які прапануе выключную прастору, перадавыя тэхналогіі і раскошны вопыт кіравання.",
+                "text": "Mercedes EQB — гэта цалкам электрычны пазадарожнік, створаны для сем'яў і аматараў прыгод. З семью месцамі для пасажыраў і запасам ходу да 420 км ён забяспечвае ўніверсальнасць для штодзённага выкарыстання і далёкіх паездак. Інтэр'ер адрозніваецца прэміяльнымі матэрыяламі, сучаснай сістэмай MBUX і асвятленнем. Бяспека забяспечваецца функцыямі, такімі як адаптыўны круіз-кантроль і ўтрыманне паласы руху. Mercedes EQB — ідэальны выбар для тых, хто шукае практычнасць без кампрамісаў у раскошы ці ўстойлівасці.",
+                "advantages": [
+                    "Сем месцаў для пасажыраў",
+                    "Запас ходу да 420 км",
+                    "Сучасныя функцыі MBUX і бяспекі"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "сямейны пазадарожнік",
-                    "электрамабіль",
-                    "гнуткая кампановка",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
+                    "электрычны пазадарожнік",
+                    "сямейны аўтамабіль",
+                    "раскоша"
+                ]
+            },
+            "de": {
+                "title": "Mercedes EQB",
+                "head": "Erleben Sie geräumigen elektrischen Luxus mit dem Mercedes EQB",
+                "description": "Der Mercedes EQB ist ein elektrischer Kompakt-SUV, der außergewöhnlichen Platz, fortschrittliche Technologie und ein luxuriöses Fahrerlebnis bietet.",
+                "text": "Der Mercedes EQB ist ein vollelektrischer SUV, der für Familien und Abenteurer entwickelt wurde. Mit Platz für bis zu sieben Personen und einer Reichweite von bis zu 420 km bietet er Vielseitigkeit für den Alltag und lange Reisen. Das Interieur bietet hochwertige Materialien, das fortschrittliche MBUX-Infotainmentsystem und stimmungsvolle Beleuchtung. Sicherheitsfunktionen wie adaptiver Tempomat und Spurhalteassistent sorgen für ein sicheres Fahrerlebnis. Der Mercedes EQB ist perfekt für alle, die Praktikabilität ohne Kompromisse bei Luxus oder Nachhaltigkeit suchen.",
+                "advantages": [
+                    "Platz für bis zu sieben Personen",
+                    "Reichweite bis zu 420 km",
+                    "Fortschrittliche MBUX- und Sicherheitsfunktionen"
                 ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "elektrischer SUV",
+                    "Familienauto",
+                    "Luxus"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes EQB",
+                "head": "Poznaj przestronny luksus elektryczny z Mercedes EQB",
+                "description": "Mercedes EQB to elektryczny SUV kompaktowy oferujący wyjątkową przestrzeń, zaawansowaną technologię i luksusowe doświadczenie jazdy.",
+                "text": "Mercedes EQB to w pełni elektryczny SUV zaprojektowany z myślą o rodzinach i miłośnikach przygód. Z miejscami dla siedmiu pasażerów i zasięgiem do 420 km zapewnia wszechstronność zarówno na co dzień, jak i w długich podróżach. Wnętrze oferuje wysokiej jakości materiały, zaawansowany system MBUX i nastrojowe oświetlenie. Funkcje bezpieczeństwa, takie jak adaptacyjny tempomat i asystent pasa ruchu, zapewniają bezpieczną jazdę. Mercedes EQB to doskonały wybór dla tych, którzy szukają praktyczności bez kompromisów w luksusie i zrównoważonym rozwoju.",
+                "advantages": [
+                    "Miejsca dla siedmiu pasażerów",
+                    "Zasięg do 420 km",
+                    "Zaawansowane funkcje MBUX i bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Mercedes",
+                    "EQB",
+                    "elektryczny SUV",
+                    "samochód rodzinny",
+                    "luksus"
+                ]
             },
             "es": {
                 "title": "Mercedes EQB",
-                "description": "Un SUV eléctrico familiar con asientos flexibles y funciones avanzadas.",
+                "head": "Explora el lujo eléctrico espacioso con el Mercedes EQB",
+                "description": "El Mercedes EQB es un SUV compacto eléctrico que ofrece espacio excepcional, tecnología avanzada y una experiencia de conducción lujosa.",
+                "text": "El Mercedes EQB es un SUV totalmente eléctrico diseñado para familias y aventureros. Con capacidad para hasta siete pasajeros y una autonomía de hasta 420 km, ofrece versatilidad para el uso diario y viajes largos. El interior cuenta con materiales premium, el avanzado sistema de infoentretenimiento MBUX y una iluminación ambiental sofisticada. Las características de seguridad, como el control de crucero adaptativo y el asistente de mantenimiento de carril, priorizan la seguridad. El Mercedes EQB es perfecto para quienes buscan practicidad sin comprometer el lujo o la sostenibilidad.",
+                "advantages": [
+                    "Capacidad para siete pasajeros",
+                    "Autonomía de hasta 420 km",
+                    "Funciones avanzadas de MBUX y seguridad"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "SUV familiar",
-                    "coche eléctrico",
-                    "asientos flexibles",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "SUV eléctrico",
+                    "auto familiar",
+                    "lujo"
+                ]
             },
             "fr": {
                 "title": "Mercedes EQB",
-                "description": "Un SUV électrique familial avec des sièges flexibles et des fonctionnalités avancées.",
+                "head": "Explorez le luxe électrique spacieux avec le Mercedes EQB",
+                "description": "Le Mercedes EQB est un SUV compact électrique offrant un espace exceptionnel, une technologie avancée et une expérience de conduite luxueuse.",
+                "text": "Le Mercedes EQB est un SUV entièrement électrique conçu pour les familles et les aventuriers. Avec des places pour jusqu'à sept passagers et une autonomie allant jusqu'à 420 km, il offre une polyvalence pour une utilisation quotidienne et les longs trajets. L'intérieur propose des matériaux de qualité supérieure, le système d'infodivertissement MBUX avancé et un éclairage d'ambiance sophistiqué. Les fonctionnalités de sécurité, telles que le régulateur de vitesse adaptatif et l'assistant de maintien de voie, garantissent une conduite sûre. Le Mercedes EQB est parfait pour ceux qui recherchent la praticité sans compromettre le luxe ou la durabilité.",
+                "advantages": [
+                    "Places pour jusqu'à sept passagers",
+                    "Autonomie allant jusqu'à 420 km",
+                    "Fonctions avancées de MBUX et de sécurité"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQB",
-                    "SUV familial",
-                    "voiture électrique",
-                    "sièges flexibles",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "SUV électrique",
+                    "voiture familiale",
+                    "luxe"
+                ]
             },
             "zh": {
                 "title": "Mercedes EQB",
-                "description": "一款适合家庭使用的电动SUV，配备灵活座椅和先进功能。",
-                "keywords": [
-                    "Mercedes",
-                    "EQB",
-                    "家庭SUV",
-                    "电动汽车",
-                    "灵活座椅",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqb highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "探索梅赛德斯-奔驰 EQB 的宽敞电动豪华",
+                "description": "梅赛德斯-奔驰 EQB 将提供卓越空间、先进技术和豪华驾驶体验的电动紧凑型 SUV。",
+                "text": "梅赛德斯-奔驰 EQB 是一款专为家庭和冒险者设计的全电动 SUV。可容纳多达七名乘客，续航里程高达 420 公里，为日常使用和长途旅行提供了多样性。内饰采用优质材料，配备先进的 MBUX 信息娱乐系统和氛围照明。安全功能包括自适应巡航控制和车道保持辅助。梅赛德斯-奔驰 EQB 适合那些追求实用性而又不愿在豪华或可持续性方面妥协的人。",
+                "advantages": [
+                    "可容纳多达七名乘客",
+                    "高达 420 公里的续航里程",
+                    "先进的 MBUX 信息娱乐和安全功能"
                 ],
-                "text": "Mercedes EQB offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqb's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "梅赛德斯-奔驰",
+                    "EQB",
+                    "电动 SUV",
+                    "家庭汽车",
+                    "豪华"
+                ]
             }
         },
         {
             "slug": "mercedes-eqs",
+            "competitors": [
+                "Tesla Model S",
+                "BMW i7",
+                "Audi e-tron GT"
+            ],
             "en": {
                 "title": "Mercedes EQS",
-                "description": "A luxury electric sedan that redefines comfort and performance.",
+                "head": "Discover the Future of Electric Luxury with the Mercedes EQS",
+                "description": "The Mercedes EQS is a flagship electric sedan combining cutting-edge technology, unparalleled comfort, and impressive performance.",
+                "text": "The Mercedes EQS is a luxury electric sedan that redefines driving with its elegant design and advanced features. With a range of up to 453 miles and ultra-fast charging, it ensures long-distance travel with ease. The interior features the revolutionary MBUX Hyperscreen, premium materials, and advanced ambient lighting. Safety and convenience are prioritized with features like adaptive cruise control, lane-keeping assist, and augmented reality navigation. The Mercedes EQS is the pinnacle of electric innovation and luxury.",
+                "advantages": [
+                    "Range of up to 453 miles",
+                    "MBUX Hyperscreen for advanced infotainment",
+                    "Exceptional comfort and safety features"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "luxury EV",
-                    "sedan",
-                    "performance",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "electric sedan",
+                    "luxury",
+                    "long range"
+                ]
             },
             "ru": {
                 "title": "Mercedes EQS",
-                "description": "Роскошный электрический седан, переосмысливающий комфорт и производительность.",
+                "head": "Откройте будущее электрической роскоши с Mercedes EQS",
+                "description": "Mercedes EQS — это флагманский электрический седан, который сочетает передовые технологии, непревзойденный комфорт и впечатляющую производительность.",
+                "text": "Mercedes EQS — это роскошный электрический седан, который переосмысливает вождение благодаря элегантному дизайну и современным технологиям. С запасом хода до 728 км и возможностью ультрабыстрой зарядки он обеспечивает легкость в дальних поездках. Интерьер оснащён революционным экраном MBUX Hyperscreen, премиальными материалами и современной подсветкой. Безопасность и удобство гарантируют адаптивный круиз-контроль, удержание полосы движения и дополненная реальность в навигации. Mercedes EQS — это вершина электрических инноваций и роскоши.",
+                "advantages": [
+                    "Запас хода до 728 км",
+                    "MBUX Hyperscreen для современных мультимедиа",
+                    "Исключительный комфорт и функции безопасности"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "роскошный электромобиль",
-                    "седан",
-                    "производительность",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "электрический седан",
+                    "роскошь",
+                    "дальний запас хода"
+                ]
             },
             "ua": {
                 "title": "Mercedes EQS",
-                "description": "Розкішний електричний седан, що переосмислює комфорт і продуктивність.",
+                "head": "Відкрийте майбутнє електричної розкоші з Mercedes EQS",
+                "description": "Mercedes EQS — це флагманський електричний седан, що поєднує передові технології, неперевершений комфорт та вражаючу продуктивність.",
+                "text": "Mercedes EQS — це розкішний електричний седан, який переосмислює водіння завдяки елегантному дизайну та сучасним технологіям. Із запасом ходу до 728 км і можливістю ультрашвидкої зарядки він забезпечує легкість у далеких поїздках. Інтер'єр оснащений революційним екраном MBUX Hyperscreen, преміальними матеріалами та сучасним освітленням. Безпеку та зручність гарантують адаптивний круїз-контроль, утримання смуги руху та доповнена реальність у навігації. Mercedes EQS — це вершина електричних інновацій і розкоші.",
+                "advantages": [
+                    "Запас ходу до 728 км",
+                    "MBUX Hyperscreen для сучасного мультимедіа",
+                    "Винятковий комфорт і функції безпеки"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "розкішний електромобіль",
-                    "седан",
-                    "продуктивність",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Mercedes EQS",
-                "description": "Luksusowy elektryczny sedan, który na nowo definiuje komfort i osiągi.",
-                "keywords": [
-                    "Mercedes",
-                    "EQS",
-                    "luksusowy EV",
-                    "sedan",
-                    "osiągi",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Mercedes EQS",
-                "description": "Eine luxuriöse elektrische Limousine, die Komfort und Leistung neu definiert.",
-                "keywords": [
-                    "Mercedes",
-                    "EQS",
-                    "luxuriöses EV",
-                    "Limousine",
-                    "Leistung",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "електричний седан",
+                    "розкіш",
+                    "великий запас ходу"
+                ]
             },
             "be": {
                 "title": "Mercedes EQS",
-                "description": "Раскошны электрычны седан, які пераасэнсоўвае камфорт і прадукцыйнасць.",
+                "head": "Адкрыйце будучыню электрычнай раскошы з Mercedes EQS",
+                "description": "Mercedes EQS — гэта флагманскі электрычны седан, які спалучае перадавыя тэхналогіі, непераўзыдзены камфорт і ўражальную прадукцыйнасць.",
+                "text": "Mercedes EQS — гэта раскошны электрычны седан, які пераасэнсоўвае кіраванне дзякуючы элегантнаму дызайну і сучасным тэхналогіям. З запасам ходу да 728 км і магчымасцю ультрахуткай зарадкі ён забяспечвае лёгкасць у далёкіх паездках. Інтэр'ер аснашчаны рэвалюцыйным экранам MBUX Hyperscreen, прэміяльнымі матэрыяламі і сучасным асвятленнем. Бяспеку і зручнасць гарантуе адаптыўны круіз-кантроль, утрыманне паласы і дапоўненая рэальнасць у навігацыі. Mercedes EQS — гэта вяршыня электрычных інавацый і раскошы.",
+                "advantages": [
+                    "Запас ходу да 728 км",
+                    "MBUX Hyperscreen для сучаснага інтэрфейсу",
+                    "Выдатны камфорт і функцыі бяспекі"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "раскошны электрамабіль",
-                    "седан",
-                    "прадукцыйнасць",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
+                    "электрычны седан",
+                    "раскоша",
+                    "доўгі запас ходу"
+                ]
+            },
+            "de": {
+                "title": "Mercedes EQS",
+                "head": "Entdecken Sie die Zukunft des elektrischen Luxus mit dem Mercedes EQS",
+                "description": "Der Mercedes EQS ist eine elektrische Luxuslimousine, die modernste Technologie, unübertroffenen Komfort und beeindruckende Leistung vereint.",
+                "text": "Der Mercedes EQS ist eine elektrische Luxuslimousine, die das Fahren durch elegantes Design und fortschrittliche Technologie neu definiert. Mit einer Reichweite von bis zu 728 km und ultraschneller Ladefähigkeit ermöglicht er müheloses Langstreckenreisen. Der Innenraum bietet das revolutionäre MBUX Hyperscreen, hochwertige Materialien und fortschrittliche Ambientebeleuchtung. Sicherheits- und Komfortmerkmale wie adaptiver Tempomat, Spurhalteassistent und AR-Navigation machen jede Fahrt sicher und angenehm. Der Mercedes EQS ist das Nonplusultra der elektrischen Innovation und des Luxus.",
+                "advantages": [
+                    "Reichweite bis zu 728 km",
+                    "MBUX Hyperscreen für fortschrittliche Infotainment",
+                    "Hervorragender Komfort und Sicherheitsmerkmale"
                 ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "elektrische Limousine",
+                    "Luxus",
+                    "lange Reichweite"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes EQS",
+                "head": "Odkryj przyszłość luksusu elektrycznego z Mercedes EQS",
+                "description": "Mercedes EQS to flagowy elektryczny sedan łączący nowoczesną technologię, niezrównany komfort i imponującą wydajność.",
+                "text": "Mercedes EQS to luksusowy elektryczny sedan, który redefiniuje jazdę dzięki eleganckiemu designowi i zaawansowanym funkcjom. Zasięg do 728 km i ultraszybkie ładowanie sprawiają, że doskonale nadaje się do dalekich podróży. Wnętrze wyposażone jest w rewolucyjny ekran MBUX Hyperscreen, materiały najwyższej jakości i zaawansowane oświetlenie ambientowe. Funkcje bezpieczeństwa, takie jak adaptacyjny tempomat, asystent pasa ruchu i nawigacja w rozszerzonej rzeczywistości, zapewniają spokojną jazdę. Mercedes EQS to szczyt innowacji elektrycznych i luksusu.",
+                "advantages": [
+                    "Zasięg do 728 km",
+                    "MBUX Hyperscreen dla nowoczesnych multimediów",
+                    "Wyjątkowy komfort i funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Mercedes",
+                    "EQS",
+                    "elektryczny sedan",
+                    "luksus",
+                    "długi zasięg"
+                ]
             },
             "es": {
                 "title": "Mercedes EQS",
-                "description": "Una berlina eléctrica de lujo que redefine el confort y el rendimiento.",
+                "head": "Descubre el futuro del lujo eléctrico con el Mercedes EQS",
+                "description": "El Mercedes EQS es un sedán eléctrico insignia que combina tecnología de vanguardia, confort incomparable y un rendimiento impresionante.",
+                "text": "El Mercedes EQS es un sedán eléctrico de lujo que redefine la conducción con su diseño elegante y funciones avanzadas. Con una autonomía de hasta 728 km y capacidad de carga ultrarrápida, garantiza viajes de larga distancia con facilidad. El interior cuenta con la revolucionaria pantalla MBUX Hyperscreen, materiales de primera calidad e iluminación ambiental avanzada. Las características de seguridad y conveniencia, como el control de crucero adaptativo, el asistente de mantenimiento de carril y la navegación de realidad aumentada, priorizan la tranquilidad. El Mercedes EQS es la cúspide de la innovación eléctrica y el lujo.",
+                "advantages": [
+                    "Autonomía de hasta 728 km",
+                    "MBUX Hyperscreen para infotainment avanzado",
+                    "Excepcional confort y características de seguridad"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "EV de lujo",
-                    "berlina",
-                    "rendimiento",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "sedán eléctrico",
+                    "lujo",
+                    "larga autonomía"
+                ]
             },
             "fr": {
                 "title": "Mercedes EQS",
-                "description": "Une berline électrique de luxe qui redéfinit le confort et les performances.",
+                "head": "Découvrez l'avenir du luxe électrique avec le Mercedes EQS",
+                "description": "Le Mercedes EQS est une berline électrique haut de gamme qui combine technologie de pointe, confort inégalé et performances impressionnantes.",
+                "text": "La Mercedes EQS est une berline électrique de luxe qui redéfinit la conduite avec son design élégant et ses fonctionnalités avancées. Avec une autonomie allant jusqu'à 728 km et une charge ultra-rapide, elle assure des voyages longue distance en toute simplicité. L'intérieur est doté du révolutionnaire MBUX Hyperscreen, de matériaux haut de gamme et d'un éclairage d'ambiance avancé. La sécurité et la commodité sont prioritaires avec des fonctionnalités telles que le régulateur de vitesse adaptatif, l'assistant de maintien de voie et la navigation en réalité augmentée. La Mercedes EQS est le summum de l'innovation électrique et du luxe.",
+                "advantages": [
+                    "Autonomie allant jusqu'à 728 km",
+                    "MBUX Hyperscreen pour un infotainment avancé",
+                    "Confort exceptionnel et fonctionnalités de sécurité"
+                ],
                 "keywords": [
                     "Mercedes",
                     "EQS",
-                    "berline de luxe",
-                    "berline",
-                    "performance",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "berline électrique",
+                    "luxe",
+                    "longue autonomie"
+                ]
             },
             "zh": {
                 "title": "Mercedes EQS",
-                "description": "一款重新定义舒适性和性能的豪华电动轿车。",
-                "keywords": [
-                    "Mercedes",
-                    "EQS",
-                    "豪华电动车",
-                    "轿车",
-                    "性能",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqs highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "探索梅赛德斯-奔驰 EQS 的电动豪华未来",
+                "description": "梅赛德斯-奔驰 EQS 是一款旗舰级电动轿车，融合了尖端技术、无与伦比的舒适性和令人印象深刻的性能。",
+                "text": "梅赛德斯-奔驰 EQS 是一款豪华电动轿车，通过其优雅的设计和先进功能重新定义驾驶体验。最高续航里程达 728 公里，支持超快充电，确保长途旅行轻松愉快。内饰采用革命性的 MBUX Hyperscreen、高品质材料和先进氛围照明。安全和便利功能包括自适应巡航控制、车道保持辅助和增强现实导航。梅赛德斯-奔驰 EQS 是电动创新和豪华的巅峰之作。",
+                "advantages": [
+                    "最高续航里程达 728 公里",
+                    "MBUX Hyperscreen 提供先进的多媒体体验",
+                    "卓越的舒适性和安全功能"
                 ],
-                "text": "Mercedes EQS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqs's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "梅赛德斯-奔驰",
+                    "EQS",
+                    "电动轿车",
+                    "豪华",
+                    "长续航里程"
+                ]
             }
         },
         {

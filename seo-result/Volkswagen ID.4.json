@@ -1,0 +1,27 @@
+
+{
+  "en": {
+    "title": "Volkswagen ID.4: Redefining the Electric SUV",
+    "description": "Explore the innovative and sustainable future of driving with the new Volkswagen ID.4 electric SUV.",
+    "text": "The Volkswagen ID.4 is an electric SUV designed to provide both sustainability and performance in one package. With a spacious interior and a range of up to 250 miles per charge, the ID.4 is perfect for everything from daily commutes to longer road trips. Advanced features such as an intuitive infotainment system, state-of-the-art driver assistance technologies, and fast charging capabilities make the ID.4 a standout option in its class.\n\nEqually impressive are its environmental credentials. The Volkswagen ID.4 is built using sustainably sourced materials and features a zero-emissions powertrain, proving that eco-friendly vehicles can deliver the performance and comfort modern drivers demand.",
+    "advantages": ["Long range per charge", "Fast charging capabilities", "Zero emissions", "Intuitive technology features", "Spacious and comfortable interior"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Hyundai Ioniq 5", "Kia EV6"],
+    "keywords": ["Volkswagen ID.4", "electric SUV", "sustainable driving", "zero emissions", "advanced technology"]
+  },
+  "ru": {
+    "title": "Volkswagen ID.4: Переопределение электрического кроссовера",
+    "description": "Откройте для себя инновационное и экологически чистое будущее вождения с новым электрическим кроссовером Volkswagen ID.4.",
+    "text": "Volkswagen ID.4 - это электрический кроссовер, предназначенный для обеспечения устойчивости и производительности в одном пакете. С просторным салоном и запасом хода до 400 км на одной зарядке, ID.4 идеально подходит как для повседневных поездок, так и для дальних путешествий. Современные функции, такие как интуитивно понятная система инфотейнмента, передовые технологии помощи водителю и возможности быстрой зарядки, выделяют ID.4 среди конкурентов в его классе.\n\nНе менее впечатляющими являются его экологические характеристики. Volkswagen ID.4 создан с использованием устойчиво добытых материалов и оснащен электродвигателем без выбросов, доказывая, что экологичные автомобили могут обеспечивать производительность и комфорт, которые требуют современные водители.",
+    "advantages": ["Большой запас хода на одной зарядке", "Возможности быстрой зарядки", "Отсутствие выбросов", "Интуитивные технологии", "Просторный и комфортабельный салон"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Hyundai Ioniq 5", "Kia EV6"],
+    "keywords": ["Volkswagen ID.4", "электрический кроссовер", "устойчивое вождение", "нулевые выбросы", "передовые технологии"]
+  },
+  "ua": {
+    "title": "Volkswagen ID.4: Перевизначення електричного кросовера",
+    "description": "Дізнайтеся про інноваційне та екологічно чисте майбутнє керування з новим електричним кросовером Volkswagen ID.4.",
+    "text": "Volkswagen ID.4 - це електричний кросовер, призначений для забезпечення стійкості та продуктивності в одному пакеті. З просторим салоном та запасом ходу до 400 км на одному заряді, ID.4 ідеально підходить як для повсякденних поїздок, так і для далеких подорожей. Сучасні функції, такі як інтуїтивно зрозуміла система інфотейнменту, передові технології допомоги водію та можливості швидкої зарядки, виділяють ID.4 серед конкурентів у своєму класі.\n\nНе менш вражаючими є його екологічні характеристики. Volkswagen ID.4 створено з використанням стійко добутих матеріалів та оснащений електродвигуном без викидів, доводячи, що екологічні автомобілі можуть забезпечувати продуктивність та комфорт, які вимагають сучасні водії.",
+    "advantages": ["Великий запас ходу на одному заряді", "Можливості швидкої зарядки", "Відсутність викидів", "Інтуїтивні технології", "Просторий та комфортабельний салон"],
+    "competitors": ["Tesla Model Y", "Ford Mustang Mach-E", "Hyundai Ioniq 5", "Kia EV6"],
+    "keywords": ["Volkswagen ID.4", "електричний кросовер", "сталий режим керування", "нульові викиди", "передові технології"]
+  }
+}

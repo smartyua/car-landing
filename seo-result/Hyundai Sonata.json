@@ -1,0 +1,72 @@
+
+{
+  "en": {
+    "title": "Explore the New Hyundai Sonata - Elegance Meets Efficiency",
+    "description": "Discover the superior design and advanced features of the Hyundai Sonata, the ideal car for tech-savvy professionals.",
+    "text": "The Hyundai Sonata stands out with its sleek, aerodynamic silhouette and sophisticated interior, making it a top choice for those who appreciate style and comfort. Equipped with a 2.5-liter four-cylinder engine, the Sonata delivers a blend of power and fuel efficiency, achieving up to 38 mpg on the highway. Advanced safety features such as lane-keeping assist and adaptive cruise control come standard, ensuring peace of mind on every journey.\n\nInside, the Sonata boasts a high-tech cabin with features like a panoramic sunroof, wireless charging, and a 10.25-inch touchscreen display with navigation. The spacious interior offers ample room for passengers and luggage, making it perfect for family trips or business travels. Furthermore, the Sonata is fitted with Hyundai's SmartSense, a suite of driver-assistance technologies that enhance the driving experience and safety.",
+    "advantages": [
+      "Superior fuel efficiency",
+      "Cutting-edge safety features",
+      "Elegant and spacious interior",
+      "Advanced infotainment system"
+    ],
+    "competitors": [
+      "Toyota Camry",
+      "Honda Accord",
+      "Ford Fusion"
+    ],
+    "keywords": [
+      "Hyundai Sonata",
+      "efficient sedan",
+      "luxury features",
+      "safety technology",
+      "Hyundai SmartSense"
+    ]
+  },
+  "ru": {
+    "title": "Откройте для себя новую Hyundai Sonata - элегантность и эффективность",
+    "description": "Познакомьтесь с превосходным дизайном и передовыми функциями Hyundai Sonata, идеального автомобиля для технологичных профессионалов.",
+    "text": "Hyundai Sonata выделяется своим стройным, аэродинамическим силуэтом и изысканным интерьером, что делает ее желанным выбором для тех, кто ценит стиль и комфорт. Оснащенная 2.5-литровым четырехцилиндровым двигателем, Sonata обеспечивает мощность и экономичность, достигая до 38 миль на галлон на шоссе. Стандартные передовые функции безопасности, такие как поддержка сохранения полосы движения и адаптивный круиз-контроль, обеспечивают спокойствие на каждой поездке.\n\nВнутри Sonata имеет высокотехнологичный салон с такими функциями, как панорамный люк, беспроводная зарядка и 10.25-дюймовый сенсорный дисплей с навигацией. Просторный интерьер предлагает много места для пассажиров и багажа, что делает ее идеальной для семейных поездок или деловых поездок. Кроме того, Sonata оснащена системой SmartSense от Hyundai, комплексом технологий помощи водителю, которые повышают качество вождения и безопасность.",
+    "advantages": [
+      "Высокая топливная эффективность",
+      "Передовые функции безопасности",
+      "Элегантный и просторный интерьер",
+      "Передовая информационно-развлекательная система"
+    ],
+    "competitors": [
+      "Toyota Camry",
+      "Honda Accord",
+      "Ford Fusion"
+    ],
+    "keywords": [
+      "Hyundai Sonata",
+      "экономичный седан",
+      "роскошные функции",
+      "технологии безопасности",
+      "Hyundai SmartSense"
+    ]
+  },
+  "ua": {
+    "title": "Досліджуйте новий Hyundai Sonata - елегантність та ефективність",
+    "description": "Відкрийте для себе вишуканий дизайн та передові функції Hyundai Sonata, ідеальний автомобіль для технологічних фахівців.",
+    "text": "Hyundai Sonata вирізняється своєю стрункою аеродинамічною силуетом та вишуканим інтер'єром, що робить її вибором номер один для тих, хто цінує стиль і комфорт. Завдяки 2.5-літровому чотирициліндровому двигуну, Sonata забезпечує потужність і економічність, досягаючи до 38 миль на галон на шоссе. Стандартні передові функції безпеки, такі як допомога утримання смуги руху та адаптивний круїз-контроль, забезпечують спокій на кожній поїздці.\n\nВсередині Sonata має високотехнологічний салон із такими функціями, як панорамний дах, бездротова зарядка і 10.25-дюймовий сенсорний дисплей з навігацією. Просторий інтер'єр пропонує багато місця для пасажирів і багажу, що робить її ідеальною для сімейних поїздок чи ділових подорожей. Крім того, Sonata оснащена системою SmartSense від Hyundai, набором технологій допомоги водієві, які підвищують якість водіння та безпеку.",
+    "advantages": [
+      "Висока паливна ефективність",
+      "Передові функції безпеки",
+      "Елегантний і просторий інтер'єр",
+      "Передова інформаційно-розважальна система"
+    ],
+    "competitors": [
+      "Toyota Camry",
+      "Honda Accord",
+      "Ford Fusion"
+    ],
+    "keywords": [
+      "Hyundai Sonata",
+      "економний седан",
+      "роскоші функції",
+      "технології безпеки",
+      "Hyundai SmartSense"
+    ]
+  }
+}

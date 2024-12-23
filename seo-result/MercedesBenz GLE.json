@@ -1,0 +1,82 @@
+
+{
+    "en": {
+        "title": "Discover the Luxurious Mercedes-Benz GLE: A Blend of Style and Performance",
+        "description": "Explore the advanced features and superior design of the Mercedes-Benz GLE, the epitome of luxury SUVs.",
+        "text": "The Mercedes-Benz GLE sets new standards in the world of luxury SUVs, combining state-of-the-art technology with unparalleled comfort and design. Equipped with powerful engines ranging from the GLE 350’s 2.0L inline-4 turbo to the robust GLE 580’s 4.0L V8 biturbo, this vehicle promises both efficiency and performance. Inside, the GLE offers a spacious and opulent cabin with advanced features like the MBUX infotainment system, augmented reality navigation, and active safety technologies to ensure a smooth and safe driving experience.\n\nEach model of the GLE lineup is crafted with precision, featuring adaptive air suspension and enhanced driving dynamics to suit various terrains and preferences. Whether navigating busy city streets or embarking on a cross-country adventure, the GLE delivers exceptional comfort and unrivaled sophistication.",
+        "advantages": [
+            "Cutting-edge MBUX infotainment system",
+            "Variety of powerful engine options",
+            "Advanced safety features",
+            "Luxurious, spacious interior",
+            "Adaptive air suspension for superior ride quality"
+        ],
+        "competitors": [
+            "BMW X5",
+            "Audi Q7",
+            "Lexus RX",
+            "Volvo XC90"
+        ],
+        "keywords": [
+            "Mercedes-Benz GLE",
+            "luxury SUV",
+            "advanced safety",
+            "performance SUV",
+            "MBUX system",
+            "GLE configurations"
+        ]
+    },
+    "ru": {
+        "title": "Откройте для себя роскошный Mercedes-Benz GLE: Сочетание стиля и производительности",
+        "description": "Исследуйте продвинутые функции и превосходный дизайн Mercedes-Benz GLE, воплощение роскоши в классе SUV.",
+        "text": "Mercedes-Benz GLE устанавливает новые стандарты в мире роскошных SUV, сочетая передовые технологии с непревзойденным комфортом и дизайном. Автомобиль оснащен мощными двигателями от 2.0L inline-4 турбо в модели GLE 350 до мощного 4.0L V8 битурбо в GLE 580, что обеспечивает эффективность и производительность. Внутри GLE предлагает просторный и роскошный салон с передовыми функциями, такими как информационно-развлекательная система MBUX, навигация с дополненной реальностью и активные технологии безопасности, чтобы обеспечить плавное и безопасное вождение.\n\nКаждая модель линейки GLE создана с точностью, с адаптивной пневматической подвеской и улучшенной динамикой вождения, которая подходит для различных местностей и предпочтений. Будь то движение по загруженным городским улицам или путешествие через страну, GLE обеспечивает исключительный комфорт и непревзойденную изысканность.",
+        "advantages": [
+            "Информационно-развлекательная система MBUX",
+            "Разнообразие мощных вариантов двигателей",
+            "Продвинутые функции безопасности",
+            "Роскошный, просторный интерьер",
+            "Адаптивная пневматическая подвеска для высокого качества езды"
+        ],
+        "competitors": [
+            "BMW X5",
+            "Audi Q7",
+            "Lexus RX",
+            "Volvo XC90"
+        ],
+        "keywords": [
+            "Mercedes-Benz GLE",
+            "роскошный SUV",
+            "продвинутая безопасность",
+            "производительный SUV",
+            "система MBUX",
+            "конфигурации GLE"
+        ]
+    },
+    "ua": {
+        "title": "Дослідіть розкішний Mercedes-Benz GLE: Поєднання стилю та продуктивності",
+        "description": "Ознайомтеся з передовими функціями і вищим дизайном Mercedes-Benz GLE, втіленням розкоші у класі SUV.",
+        "text": "Mercedes-Benz GLE встановлює нові стандарти у світі розкішних SUV, поєднуючи сучасні технології з неперевершеним комфортом та дизайном. Автомобіль оснащений потужними двигунами від 2.0L inline-4 турбо у моделі GLE 350 до потужного 4.0L V8 бітурбо в GLE 580, що забезпечує ефективність та продуктивність. Усередині GLE пропонує просторий і розкішний салон із передовими функціями, такими як інформаційно-розважальна система MBUX, навігація з доповненою реальністю та активні технології безпеки, щоб забезпечити плавне і безпечне керування.\n\nКожна модель лінійки GLE створена з точністю, з адаптивн
+ою пневматичною підвіскою і покращеною динамікою водіння, яка підходить для різних місцевостей і уподобань. Чи то рух по завантаженим міським вулицям, чи подорож через країну, GLE забезпечує винятковий комфорт і неперевершену витонченість.",
+        "advantages": [
+            "Інформаційно-розважальна система MBUX",
+            "Різноманітність потужних варіантів двигунів",
+            "Передові функції безпеки",
+            "Розкішний, просторий салон",
+            "Адаптивна пневматична підвіска для вищої якості їзди"
+        ],
+        "competitors": [
+            "BMW X5",
+            "Audi Q7",
+            "Lexus RX",
+            "Volvo XC90"
+        ],
+        "keywords": [
+            "Mercedes-Benz GLE",
+            "роскошний SUV",
+            "передова безпека",
+            "продуктивний SUV",
+            "система MBUX",
+            "конфігурації GLE"
+        ]
+    }
+}

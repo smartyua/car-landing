@@ -1,0 +1,72 @@
+
+{
+    "en": {
+        "title": "Kia EV6: The Future of Electric Mobility",
+        "description": "Explore the all-new Kia EV6 - an electric crossover that combines performance, technology, and sustainability.",
+        "text": "The Kia EV6 marks an evolutionary step forward in electric vehicle technology. With a sleek, aerodynamic design and advanced electric powertrain, the EV6 offers both efficiency and impressive range. The model is available in several configurations, including options with all-wheel drive and an estimated range of up to 300 miles per charge. Interior features include a cutting-edge infotainment system, spacious seating, and high-quality materials throughout.\n\nSafety and performance go hand in hand with the Kia EV6. Equipped with an array of driver-assistance technologies, it ensures a safer driving experience. Performance is dynamic, with instant torque delivery and fast charging capabilities, allowing you to charge up to 80% in just 18 minutes with a high-speed charger.",
+        "advantages": [
+            "Long range on a single charge",
+            "Fast charging capabilities",
+            "High-tech, spacious interior",
+            "Advanced safety features"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Volkswagen ID.4"
+        ],
+        "keywords": [
+            "Kia EV6",
+            "electric crossover",
+            "long range EV",
+            "EV fast charging",
+            "EV6 performance"
+        ]
+    },
+    "ru": {
+        "title": "Kia EV6: Будущее электромобильности",
+        "description": "Познакомьтесь с совершенно новым Kia EV6 - электрическим кроссовером, сочетающим в себе производительность, технологии и устойчивость.",
+        "text": "Kia EV6 обозначает эволюционный шаг вперёд в технологии электромобилей. Благодаря элегантному, аэродинамическому дизайну и продвинутой электрической силовой установке, EV6 обеспечивает эффективность и впечатляющий запас хода. Модель доступна в нескольких конфигурациях, включая варианты с полным приводом и оценочным запасом хода до 300 миль на одной зарядке. Интерьер включает в себя передовую информационно-развлекательную систему, просторные сиденья и материалы высокого качества.\n\nБезопасность и производительность идут рука об руку с Kia EV6. Оснащенный массивом технологий помощи водителю, он обеспечивает более безопасный опыт вождения. Производительность динамичная, с мгновенной подачей крутящего момента и возможностями быстрой зарядки, позволяющими зарядить до 80% всего за 18 минут с помощью быстрого зарядного устройства.",
+        "advantages": [
+            "Большой запас хода на одной зарядке",
+            "Возможности быстрой зарядки",
+            "Высокотехнологичный, просторный интерьер",
+            "Передовые функции безопасности"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Volkswagen ID.4"
+        ],
+        "keywords": [
+            "Kia EV6",
+            "электрический кроссовер",
+            "электромобиль дальнего действия",
+            "быстрая зарядка EV",
+            "производительность EV6"
+        ]
+    },
+    "ua": {
+        "title": "Kia EV6: Майбутнє електромобільності",
+        "description": "Ознайомтеся з абсолютно новим Kia EV6 - електричним кросовером, що поєднує в собі продуктивність, технології та стійкість.",
+        "text": "Kia EV6 позначає еволюційний крок вперед у технології електромобілів. Завдяки витонченому, аеродинамічному дизайну та передовій електричній силовій установці, EV6 забезпечує ефективність та вражаючий запас ходу. Модель доступна у кількох конфігураціях, включаючи варіанти з повним приводом та оціночним запасом ходу до 300 миль на одному заряді. Інтер'єр включає передову інформаційно-розважальну систему, просторі сидіння і матеріали високої якості.\n\nБезпека та продуктивність ідуть рука об руку з Kia EV6. Оснащений масивом технологій допомоги водію, він забезпечує більш безпечний досвід водіння. Продуктивність динамічна, з миттєвою подачею крутного моменту та можливостями швидкої зарядки, що дозволяють зарядити до 80% всього за 18 хвилин за допомогою швидкісного зарядного пристрою.", 
+        "advantages": [
+            "Великий запас ходу на одному заряді",
+            "Можливості швидкої зарядки",
+            "Високотехнологічний, просторий інтер'єр",
+            "Передові функції безпеки"
+        ],
+        "competitors": [
+            "Tesla Model Y",
+            "Ford Mustang Mach-E",
+            "Volkswagen ID.4"
+        ],
+        "keywords": [
+            "Kia EV6",
+            "електричний кросовер",
+            "електромобіль далекого дії",
+            "швидка зарядка EV",
+            "продуктивність EV6"
+        ]
+    }
+}

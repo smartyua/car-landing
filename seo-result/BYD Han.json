@@ -1,0 +1,75 @@
+
+{
+    "en": {
+        "title": "Explore the Future of Driving with the BYD Han EV",
+        "description": "Uncover the blend of luxury, performance, and efficiency in the BYD Han Electric Vehicle. Ideal for the modern driver!",
+        "text": "The BYD Han stands out in the electric vehicle sector with its cutting-edge technology and sophisticated design. Powered by BYD’s Blade Battery, the Han EV boasts an impressive range of over 605 kilometers on a single charge according to the NEDC (New European Driving Cycle) standard, making it perfect for long journeys without range anxiety. Further, its acceleration prowess is exceptional, sprinting from 0 to 100 km/h in just 3.9 seconds, rivaling many traditional luxury sports cars. The interior is equally impressive, featuring eco-friendly materials and a panoramic sunroof, enhancing the overall driving experience with comfort and style.",
+        "advantages": [
+            "Extended driving range",
+            "Fast acceleration capabilities",
+            "Advanced Blade Battery technology",
+            "Premium interior with eco-friendly materials",
+            "Competitive pricing in luxury EV segment"
+        ],
+        "competitors": [
+            "Tesla Model S",
+            "Audi e-tron GT",
+            "Mercedes-Benz EQS"
+        ],
+        "keywords": [
+            "BYD Han", 
+            "electric vehicle", 
+            "luxury EV", 
+            "long range EV", 
+            "fast electric cars"
+        ]
+    },
+    "ru": {
+        "title": "Исследуйте будущее вождения с электромобилем BYD Han",
+        "description": "Откройте для себя сочетание роскоши, производительности и эффективности в электромобиле BYD Han. Идеален для современных водителей!",
+        "text": "BYD Han выделяется на рынке электромобилей своими передовыми технологиями и изысканным дизайном. Благодаря аккумулятору Blade Battery от BYD, Han EV может похвастаться впечатляющим запасом хода более 605 километров на одной зарядке по стандарту NEDC (Новый Европейский Цикл Вождения), что делает его идеальным для длительных поездок без беспокойства о дальности. Кроме того, автомобиль обладает впечатляющими способностями ускорения, разгоняясь от 0 до 100 км/ч всего за 3.9 секунды, что сравнимо с многими традиционными спортивными автомобилями класса люкс. Салон также впечатляет, в нем используются экологически чистые материалы и панорамная крыша, что улучшает общие ощущения от вождения за счет комфорта и стиля.",
+        "advantages": [
+            "Расширенный запас хода",
+            "Быстрые возможности ускорения",
+            "Передовая технология аккумулятора Blade Battery",
+            "Премиальный интерьер с экологичными материалами",
+            "Конкурентоспособные цены в сегменте роскошных электромобилей"
+        ],
+        "competitors": [
+            "Tesla Model S",
+            "Audi e-tron GT",
+            "Mercedes-Benz EQS"
+        ],
+        "keywords": [
+            "BYD Han",
+            "электромобиль",
+            "роскошный EV",
+            "электромобиль большой дальности",
+            "быстрые электромобили"
+        ]
+    },
+    "ua": {
+        "title": "Відкрийте для себе майбутнє водіння з електромобілем BYD Han",
+        "description": "Познайомтеся з поєднанням розкоші, продуктивності та ефективності в електромобілі BYD Han. Ідеальний для сучасних водіїв!",
+        "text": "BYD Han виділяється на ринку електромобілів завдяки своїм передовим технологіям і витонченому дизайну. Завдяки акумулятору Blade Battery від BYD, Han EV може похвалитися вражаючим запасом ходу понад 605 кілометрів на одному заряді за стандартом NEDC (Новий Європейський Цикл Водіння), що робить його ідеальним для довгих поїздок без турбот про дальність. Крім того, автомобіль має вражаючі можливості прискорення, розганяючись від 0 до 100 км/год всього за 3.9 секунди, що зрівнюється з багатьма традиційними спортивними автомобілями класу люкс. Салон також вражає, у ньому використовуються екологічно чисті матеріали та панорамний дах, що покращує загальні відчуття від водіння завдяки комфорту та стилю.",
+        "advantages": [
+            "Розширений запас ходу",
+            "Швидкі можливості прискорення",
+            "Передова технологія акумулятора Blade Battery",
+            "Преміальний інтер'єр з екологічними матеріалами",
+            "Конкурентоспосібні ціни в сегменті розкішних електромобілів"
+        ],
+        "competitors": [
+            "Tesla Model S",
+            "Audi e-tron GT",
+            "Mercedes-Benz EQS"
+        ],
+        "keywords": [
+            "BYD Han",
+            "електромобіль",
+            "розкішний EV",
+            "електромобіль великої дальності",
+            "швидкісні електромобілі"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+
+{
+  "ru": {
+    "title": "Обзор Lexus NX: Стильное сочетание роскоши и технологий",
+    "description": "Познакомьтесь с обновленным Lexus NX — автомобилем, устанавливающим стандарты в премиум-классе.",
+    "text": "Lexus NX является воплощением новаторства и роскоши в сегменте компактных кроссоверов. Обновленный дизайн модели включает элегантные светодиодные фары, а также усовершенствованную радиаторную решетку, которая придает автомобилю уникальный и узнаваемый вид. Интерьер Lexus NX предлагает высококачественные материалы обивки и передовые технологии, включая мультимедийную систему с сенсорным экраном. Модель оснащена выбором двигателей, включая мощный и экономичный гибридный вариант, что обеспечивает впечатляющую динамику вождения и уменьшение вредных выбросов.",
+    "advantages": [
+      "Премиальный интерьер и высококачественные материалы",
+      "Передовые технологии безопасности и мультимедиа",
+      "Эффективное сочетание мощности и экономичности",
+      "Уникальный и современный дизайн"
+    ],
+    "competitors": ["Audi Q5", "BMW X3", "Mercedes-Benz GLC"],
+    "keywords": ["Lexus NX", "премиум кроссовер", "новый Lexus NX", "Lexus NX характеристики", "купить Lexus NX"]
+  },
+  "en": {
+    "title": "Review of Lexus NX: Luxurious Blend of Style and Technology",
+    "description": "Discover the redesigned Lexus NX, setting standards in the premium segment.",
+    "text": "The Lexus NX epitomizes innovation and luxury in the compact crossover category. Its updated design features sleek LED headlights and a revamped grille that gives the car a distinctive and recognizable look. The interior of the Lexus NX offers premium upholstery materials and advanced technologies, including a touchscreen multimedia system. The model comes with a choice of engines, including a powerful yet fuel-efficient hybrid option, providing impressive driving dynamics and reduced emissions.",
+    "advantages": [
+      "Premium interior and high-quality materials",
+      "Advanced safety and multimedia technologies",
+      "Efficient combination of power and economy",
+      "Unique and modern design"
+    ],
+    "competitors": ["Audi Q5", "BMW X3", "Mercedes-Benz GLC"],
+    "keywords": ["Lexus NX", "premium crossover", "new Lexus NX", "Lexus NX features", "buy Lexus NX"]
+  },
+  "ua": {
+    "title": "Огляд Lexus NX: Розкішне поєднання стилю та технологій",
+    "description": "Знайомтеся з оновленим Lexus NX — автомобілем, який встановлює стандарти у преміум-класі.",
+    "text": "Lexus NX є втіленням новаторства та розкоші в сегменті компактних кросоверів. Оновлений дизайн моделі включає елегантні світлодіодні фари та удосконалену решітку радіатора, що надає автомобілю унікальний та впізнаваний вигляд. Інтер'єр Lexus NX пропонує високоякісні матеріали оббивки та передові технології, включаючи мультимедійну систему з сенсорним екраном. Модель оснащена вибором двигунів, включаючи потужний та економічний гібридний варіант, що забезпечує вражаючу динаміку водіння та зменшення шкідливих викидів.",
+    "advantages": [
+      "Преміальний інтер'єр та високоякісні матеріали",
+      "Передові технології безпеки та мультимедіа",
+      "Ефективне поєднання потужності та економічності",
+      "Унікальний та сучасний дизайн"
+    ],
+    "competitors": ["Audi Q5", "BMW X3", "Mercedes-Benz GLC"],
+    "keywords": ["Lexus NX", "преміум кросовер", "новий Lexus NX", "характеристики Lexus NX", "купити Lexus NX"]
+  }
+}
