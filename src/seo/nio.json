@@ -25,6 +25,176 @@
     },
     "models": [
         {
+            "slug": "nio-es6",
+            "competitors": [
+                "Tesla Model Y",
+                "BMW iX3",
+                "Audi Q4 e-tron"
+            ],
+            "en": {
+                "title": "NIO ES6",
+                "head": "Experience Versatile Electric Performance: NIO ES6",
+                "description": "The NIO ES6 is a premium all-electric SUV offering cutting-edge technology, impressive range, and outstanding versatility.",
+                "text": "The NIO ES6 is a luxury electric SUV designed for drivers seeking performance and modern features. With a range of up to 385 miles and fast-swappable battery technology, it ensures seamless travel and convenience. The interior offers premium materials, an intuitive digital cockpit, and advanced safety features, including autonomous driving assistance. Perfect for eco-conscious drivers who value innovation, the NIO ES6 sets a new standard in electric mobility.",
+                "advantages": [
+                    "Up to 385 miles of range",
+                    "Advanced battery-swapping technology",
+                    "Premium interior with cutting-edge features"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "electric SUV",
+                    "luxury",
+                    "performance"
+                ]
+            },
+            "ru": {
+                "title": "NIO ES6",
+                "head": "Многофункциональная электрическая производительность: NIO ES6",
+                "description": "NIO ES6 — это премиальный полностью электрический внедорожник, предлагающий передовые технологии, впечатляющий запас хода и универсальность.",
+                "text": "NIO ES6 — это роскошный электрический внедорожник, созданный для водителей, ценящих производительность и современные функции. С запасом хода до 620 км и возможностью быстрой замены батареи он обеспечивает удобство и непрерывность поездок. Интерьер выполнен из премиальных материалов, оснащён цифровой приборной панелью и современными функциями безопасности, включая автономное вождение. Идеальный выбор для экологически сознательных водителей, NIO ES6 задаёт новый стандарт в электрической мобильности.",
+                "advantages": [
+                    "Запас хода до 620 км",
+                    "Технология быстрой замены батареи",
+                    "Роскошный интерьер с передовыми функциями"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "электрический внедорожник",
+                    "роскошь",
+                    "производительность"
+                ]
+            },
+            "ua": {
+                "title": "NIO ES6",
+                "head": "Багатофункціональна електрична продуктивність: NIO ES6",
+                "description": "NIO ES6 — це преміальний повністю електричний позашляховик, що пропонує передові технології, вражаючий запас ходу та універсальність.",
+                "text": "NIO ES6 — це розкішний електричний позашляховик, створений для водіїв, які цінують продуктивність і сучасні функції. Із запасом ходу до 620 км і можливістю швидкої заміни батареї, він забезпечує зручність та безперервність подорожей. Інтер'єр виготовлений із преміальних матеріалів, оснащений цифровою панеллю приладів та сучасними функціями безпеки, включаючи автономне водіння. Ідеальний вибір для екологічно свідомих водіїв, NIO ES6 встановлює новий стандарт електричної мобільності.",
+                "advantages": [
+                    "Запас ходу до 620 км",
+                    "Технологія швидкої заміни батареї",
+                    "Розкішний інтер'єр із сучасними функціями"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "електричний позашляховик",
+                    "розкіш",
+                    "продуктивність"
+                ]
+            },
+            "be": {
+                "title": "NIO ES6",
+                "head": "Шматфункцыянальная электрычная прадукцыйнасць: NIO ES6",
+                "description": "NIO ES6 — гэта прэміяльны цалкам электрычны пазадарожнік, які прапануе перадавыя тэхналогіі, уражлівы запас ходу і ўніверсальнасць.",
+                "text": "NIO ES6 — гэта раскошны электрычны пазадарожнік, створаны для кіроўцаў, якія цэняць прадукцыйнасць і сучасныя функцыі. З запасам ходу да 620 км і магчымасцю хуткай замены батарэі ён забяспечвае зручнасць і бесперапыннасць паездак. Інтэр'ер выкананы з прэміяльных матэрыялаў, абсталяваны лічбавай панэллю прыбораў і сучаснымі функцыямі бяспекі, уключаючы аўтаномнае кіраванне. Ідэальны выбар для экалагічна свядомых кіроўцаў, NIO ES6 задае новы стандарт электрычнай мабільнасці.",
+                "advantages": [
+                    "Запас ходу да 620 км",
+                    "Тэхналогія хуткай замены батарэі",
+                    "Раскошны інтэр'ер з сучаснымі функцыямі"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "электрычны пазадарожнік",
+                    "раскоша",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "NIO ES6",
+                "head": "Vielseitige elektrische Leistung: NIO ES6",
+                "description": "Der NIO ES6 ist ein Premium-Elektro-SUV, das fortschrittliche Technologie, beeindruckende Reichweite und herausragende Vielseitigkeit bietet.",
+                "text": "Der NIO ES6 ist ein luxuriöser Elektro-SUV, der für Fahrer entwickelt wurde, die Wert auf Leistung und moderne Funktionen legen. Mit einer Reichweite von bis zu 620 km und einer schnellen Batteriewechseltechnologie bietet er Komfort und nahtloses Reisen. Der Innenraum verfügt über hochwertige Materialien, ein intuitives digitales Cockpit und fortschrittliche Sicherheitsfunktionen wie autonome Fahrunterstützung. Perfekt für umweltbewusste Fahrer, die Innovation schätzen, setzt der NIO ES6 neue Maßstäbe in der Elektromobilität.",
+                "advantages": [
+                    "Reichweite bis zu 620 km",
+                    "Fortschrittliche Batteriewechseltechnologie",
+                    "Hochwertiger Innenraum mit modernsten Funktionen"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "elektrischer SUV",
+                    "Luxus",
+                    "Leistung"
+                ]
+            },
+            "pl": {
+                "title": "NIO ES6",
+                "head": "Wszechstronna elektryczna wydajność: NIO ES6",
+                "description": "NIO ES6 to luksusowy, w pełni elektryczny SUV oferujący nowoczesną technologię, imponujący zasięg i wyjątkową wszechstronność.",
+                "text": "NIO ES6 to luksusowy elektryczny SUV zaprojektowany dla kierowców ceniących wydajność i nowoczesne funkcje. Zasięg do 620 km i technologia szybkiej wymiany baterii zapewniają komfort i płynność podróży. Wnętrze oferuje najwyższej jakości materiały, intuicyjny kokpit cyfrowy i zaawansowane funkcje bezpieczeństwa, takie jak autonomiczna pomoc w prowadzeniu. Idealny wybór dla ekologicznie świadomych kierowców, NIO ES6 ustanawia nowe standardy w dziedzinie elektromobilności.",
+                "advantages": [
+                    "Zasięg do 620 km",
+                    "Zaawansowana technologia wymiany baterii",
+                    "Luksusowe wnętrze z nowoczesnymi funkcjami"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "elektryczny SUV",
+                    "luksus",
+                    "wydajność"
+                ]
+            },
+            "es": {
+                "title": "NIO ES6",
+                "head": "Rendimiento eléctrico versátil: NIO ES6",
+                "description": "El NIO ES6 es un SUV totalmente eléctrico de lujo que ofrece tecnología avanzada, una autonomía impresionante y una versatilidad sobresaliente.",
+                "text": "El NIO ES6 es un SUV eléctrico de lujo diseñado para conductores que valoran el rendimiento y las características modernas. Con una autonomía de hasta 620 km y tecnología de intercambio rápido de baterías, garantiza viajes cómodos y sin interrupciones. El interior cuenta con materiales de primera calidad, un cockpit digital intuitivo y funciones avanzadas de seguridad, incluida la asistencia a la conducción autónoma. Perfecto para conductores conscientes del medio ambiente, el NIO ES6 establece un nuevo estándar en movilidad eléctrica.",
+                "advantages": [
+                    "Autonomía de hasta 620 km",
+                    "Tecnología avanzada de intercambio de baterías",
+                    "Interior de lujo con características modernas"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "SUV eléctrico",
+                    "lujo",
+                    "rendimiento"
+                ]
+            },
+            "fr": {
+                "title": "NIO ES6",
+                "head": "Performance électrique polyvalente : NIO ES6",
+                "description": "Le NIO ES6 est un SUV 100% électrique haut de gamme offrant une technologie de pointe, une autonomie impressionnante et une polyvalence exceptionnelle.",
+                "text": "Le NIO ES6 est un SUV électrique de luxe conçu pour les conducteurs recherchant des performances et des fonctionnalités modernes. Avec une autonomie allant jusqu'à 620 km et une technologie de changement rapide de batterie, il garantit des trajets confortables et ininterrompus. L'intérieur propose des matériaux haut de gamme, un cockpit numérique intuitif et des fonctionnalités de sécurité avancées telles que l'assistance à la conduite autonome. Parfait pour les conducteurs soucieux de l'environnement, le NIO ES6 établit une nouvelle norme en matière de mobilité électrique.",
+                "advantages": [
+                    "Autonomie jusqu'à 620 km",
+                    "Technologie avancée de changement de batterie",
+                    "Intérieur haut de gamme avec des fonctionnalités modernes"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ES6",
+                    "SUV électrique",
+                    "luxe",
+                    "performance"
+                ]
+            },
+            "zh": {
+                "title": "NIO ES6",
+                "head": "多功能电动性能：蔚来 ES6",
+                "description": "蔚来 ES6是一款高端全电动SUV，提供尖端技术、令人印象深刻的续航里程和出色的多功能性。",
+                "text": "蔚来 ES6是一款豪华电动SUV，专为追求性能和现代功能的驾驶员设计。最高续航里程达620公里，配备快速换电技术，确保旅行无缝便利。内饰采用优质材料，配备直观的数字化驾驶舱和先进的安全功能，包括自动驾驶辅助。完美适合注重创新的环保驾驶员，蔚来 ES6在电动出行领域树立了新的标准。",
+                "advantages": [
+                    "最高续航里程达620公里",
+                    "先进的换电技术",
+                    "豪华内饰，配备尖端功能"
+                ],
+                "keywords": [
+                    "蔚来",
+                    "ES6",
+                    "电动SUV",
+                    "豪华",
+                    "性能"
+                ]
+            }
+        },
+        {
             "slug": "nio-es8",
             "en": {
                 "title": "NIO ES8",
@@ -133,117 +303,6 @@
                     "conduite autonome"
                 ],
                 "text": "Le NIO ES8 est un SUV électrique haut de gamme, conçu pour offrir confort, performance et technologie avancée."
-            }
-        },
-        {
-            "slug": "nio-et7",
-            "en": {
-                "title": "NIO ET7",
-                "description": "A luxury electric sedan with cutting-edge autonomous driving features and exceptional range.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "luxury sedan",
-                    "autonomous driving",
-                    "long range"
-                ],
-                "text": "NIO ET7 redefines electric sedans with its advanced features, long-range capabilities, and luxurious interior. Perfect for executives and long-distance travelers."
-            },
-            "ru": {
-                "title": "NIO ET7",
-                "description": "Роскошный электрический седан с передовыми функциями автономного вождения и исключительным запасом хода.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "электрический седан",
-                    "автономное вождение",
-                    "дальний запас хода"
-                ],
-                "text": "NIO ET7 переосмысливает электрические седаны, предлагая передовые функции, длительный запас хода и роскошный интерьер."
-            },
-            "ua": {
-                "title": "NIO ET7",
-                "description": "Розкішний електричний седан з передовими функціями автономного водіння та винятковим запасом ходу.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "електричний седан",
-                    "автономне водіння",
-                    "дальний запас ходу"
-                ],
-                "text": "NIO ET7 переосмислює електричні седани завдяки передовим функціям, великому запасу ходу та розкішному інтер'єру."
-            },
-            "pl": {
-                "title": "NIO ET7",
-                "description": "Luksusowy sedan elektryczny z najnowocześniejszymi funkcjami autonomicznego prowadzenia i wyjątkowym zasięgiem.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "luksusowy sedan",
-                    "autonomiczne prowadzenie",
-                    "duży zasięg"
-                ],
-                "text": "NIO ET7 definiuje na nowo sedany elektryczne dzięki swoim zaawansowanym funkcjom, dużemu zasięgowi i luksusowemu wnętrzu."
-            },
-            "de": {
-                "title": "NIO ET7",
-                "description": "Ein luxuriöser Elektro-Sedan mit modernsten autonomen Fahrfunktionen und außergewöhnlicher Reichweite.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "Luxus-Sedan",
-                    "autonomes Fahren",
-                    "große Reichweite"
-                ],
-                "text": "Der NIO ET7 definiert Elektro-Sedans mit seinen fortschrittlichen Funktionen, großer Reichweite und luxuriösem Interieur neu."
-            },
-            "be": {
-                "title": "NIO ET7",
-                "description": "Раскошны электрычны седан з сучаснымі функцыямі аўтаномнага кіравання і выдатным запасам ходу.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "раскошны седан",
-                    "аўтаномнае кіраванне",
-                    "вялікі запас ходу"
-                ],
-                "text": "NIO ET7 пераўтварае электрычныя седаны сваімі прадвышэннемі функцыямі, вялікім запасам ходу і раскошным інтэр'ерам."
-            },
-            "es": {
-                "title": "NIO ET7",
-                "description": "Un sedán eléctrico de lujo con características de conducción autónoma de vanguardia y un rango excepcional.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "sedán de lujo",
-                    "conducción autónoma",
-                    "gran autonomía"
-                ],
-                "text": "NIO ET7 redefine los sedanes eléctricos con sus características avanzadas, capacidades de largo alcance e interior lujoso."
-            },
-            "zh": {
-                "title": "NIO ET7",
-                "description": "豪华电动轿车，配备尖端自动驾驶功能和出色的续航里程。",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "豪华轿车",
-                    "自动驾驶",
-                    "长续航里程"
-                ],
-                "text": "NIO ET7通过其先进功能、长续航能力和豪华内饰重新定义了电动轿车。"
-            },
-            "fr": {
-                "title": "NIO ET7",
-                "description": "Une berline électrique de luxe dotée de fonctionnalités de conduite autonome de pointe et d'une autonomie exceptionnelle.",
-                "keywords": [
-                    "NIO",
-                    "ET7",
-                    "berline de luxe",
-                    "conduite autonome",
-                    "grande autonomie"
-                ],
-                "text": "La NIO ET7 redéfinit les berlines électriques avec ses fonctionnalités avancées, ses capacités longue distance et son intérieur luxueux."
             }
         },
         {
@@ -358,114 +417,344 @@
             }
         },
         {
+            "slug": "nio-et7",
+            "competitors": [
+                "Tesla Model S",
+                "Mercedes-Benz EQS",
+                "BMW i7"
+            ],
+            "en": {
+                "title": "NIO ET7",
+                "head": "Redefining Electric Luxury Sedans: NIO ET7",
+                "description": "The NIO ET7 is a premium electric sedan offering cutting-edge technology, exceptional range, and luxurious comfort.",
+                "text": "The NIO ET7 is a flagship electric sedan designed to set new standards in luxury and performance. With a range of up to 620 miles (with the 150 kWh battery pack) and fast-swappable battery technology, it ensures convenience and sustainability. The interior boasts premium materials, an advanced AI-powered digital cockpit, and features such as NIO Autonomous Driving (NAD). The NIO ET7 combines state-of-the-art innovation, refined comfort, and outstanding performance, making it the ultimate choice for eco-conscious luxury drivers.",
+                "advantages": [
+                    "Up to 620 miles of range",
+                    "Advanced autonomous driving capabilities",
+                    "Luxurious interior with premium materials"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "electric sedan",
+                    "luxury",
+                    "performance"
+                ]
+            },
+            "ru": {
+                "title": "NIO ET7",
+                "head": "Переосмысление роскошных электрических седанов: NIO ET7",
+                "description": "NIO ET7 — это премиальный электрический седан, предлагающий передовые технологии, впечатляющий запас хода и роскошный комфорт.",
+                "text": "NIO ET7 — это флагманский электрический седан, созданный для установления новых стандартов в области роскоши и производительности. С запасом хода до 1000 км (с батареей 150 кВт·ч) и технологией быстрой замены батареи он обеспечивает удобство и устойчивость. Интерьер выполнен из премиальных материалов, оснащён продвинутой цифровой панелью на базе ИИ и такими функциями, как автономное вождение NIO (NAD). NIO ET7 сочетает в себе передовые инновации, изысканный комфорт и впечатляющую производительность, что делает его идеальным выбором для экологически сознательных водителей.",
+                "advantages": [
+                    "Запас хода до 1000 км",
+                    "Передовые функции автономного вождения",
+                    "Роскошный интерьер с премиальными материалами"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "электрический седан",
+                    "роскошь",
+                    "производительность"
+                ]
+            },
+            "ua": {
+                "title": "NIO ET7",
+                "head": "Переосмислення розкішних електричних седанів: NIO ET7",
+                "description": "NIO ET7 — це преміальний електричний седан, що пропонує передові технології, вражаючий запас ходу та розкішний комфорт.",
+                "text": "NIO ET7 — це флагманський електричний седан, створений для встановлення нових стандартів у сфері розкоші та продуктивності. Із запасом ходу до 1000 км (з батареєю 150 кВт·год) та технологією швидкої заміни батареї він забезпечує зручність та стійкість. Інтер'єр виконаний із преміальних матеріалів, оснащений просунутою цифровою панеллю на основі ШІ та такими функціями, як автономне водіння NIO (NAD). NIO ET7 поєднує в собі передові інновації, витончений комфорт та вражаючу продуктивність, що робить його ідеальним вибором для екологічно свідомих водіїв.",
+                "advantages": [
+                    "Запас ходу до 1000 км",
+                    "Передові автономні функції",
+                    "Розкішний інтер'єр із преміальними матеріалами"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "електричний седан",
+                    "розкіш",
+                    "продуктивність"
+                ]
+            },
+            "be": {
+                "title": "NIO ET7",
+                "head": "Пераасэнсаванне раскошных электрычных седанаў: NIO ET7",
+                "description": "NIO ET7 — гэта прэміяльны электрычны седан, які прапануе перадавыя тэхналогіі, уражлівы запас ходу і раскошны камфорт.",
+                "text": "NIO ET7 — гэта флагманскі электрычны седан, створаны для ўсталявання новых стандартаў у сферы раскошы і прадукцыйнасці. З запасам ходу да 1000 км (з батарэяй 150 кВт·г) і тэхналогіяй хуткай замены батарэі ён забяспечвае зручнасць і ўстойлівасць. Інтэр'ер выкананы з прэміяльных матэрыялаў, абсталяваны прасунутай лічбавай панэллю на аснове ШІ і такімі функцыямі, як аўтаномнае кіраванне NIO (NAD). NIO ET7 спалучае перадавыя інавацыі, вытанчаны камфорт і ўражлівую прадукцыйнасць, што робіць яго ідэальным выбарам для экалагічна свядомых кіроўцаў.",
+                "advantages": [
+                    "Запас ходу да 1000 км",
+                    "Перадавыя аўтаномныя функцыі",
+                    "Раскошны інтэр'ер з прэміяльнымі матэрыяламі"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "электрычны седан",
+                    "раскоша",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "NIO ET7",
+                "head": "Neudefinition von Luxus-Elektro-Limousinen: NIO ET7",
+                "description": "Der NIO ET7 ist eine Premium-Elektro-Limousine, die modernste Technologie, beeindruckende Reichweite und luxuriösen Komfort bietet.",
+                "text": "Der NIO ET7 ist eine Flaggschiff-Elektro-Limousine, die neue Maßstäbe in Sachen Luxus und Leistung setzt. Mit einer Reichweite von bis zu 1000 km (mit 150-kWh-Batteriepaket) und einer schnellen Batteriewechseltechnologie bietet er Komfort und Nachhaltigkeit. Der Innenraum verfügt über hochwertige Materialien, ein KI-gestütztes digitales Cockpit und Funktionen wie NIO Autonomous Driving (NAD). Der NIO ET7 kombiniert modernste Innovation, raffinierten Komfort und herausragende Leistung und ist die ultimative Wahl für umweltbewusste Luxusfahrer.",
+                "advantages": [
+                    "Reichweite bis zu 1000 km",
+                    "Fortschrittliche autonome Fahrfunktionen",
+                    "Luxuriöser Innenraum mit hochwertigen Materialien"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "elektrische Limousine",
+                    "Luxus",
+                    "Leistung"
+                ]
+            },
+            "pl": {
+                "title": "NIO ET7",
+                "head": "Redefinicja luksusowych elektrycznych sedanów: NIO ET7",
+                "description": "NIO ET7 to luksusowy elektryczny sedan oferujący nowoczesną technologię, imponujący zasięg i komfort najwyższej klasy.",
+                "text": "NIO ET7 to flagowy elektryczny sedan zaprojektowany w celu ustanowienia nowych standardów w zakresie luksusu i osiągów. Zasięg do 1000 km (z akumulatorem 150 kWh) i technologia szybkiej wymiany baterii zapewniają wygodę i zrównoważony rozwój. Wnętrze oferuje najwyższej jakości materiały, zaawansowany kokpit cyfrowy oparty na AI oraz funkcje takie jak autonomiczna jazda NIO (NAD). NIO ET7 łączy najnowocześniejsze innowacje, wyrafinowany komfort i wyjątkowe osiągi, czyniąc go idealnym wyborem dla ekologicznie świadomych kierowców luksusowych aut.",
+                "advantages": [
+                    "Zasięg do 1000 km",
+                    "Zaawansowane funkcje autonomiczne",
+                    "Luksusowe wnętrze z wysokiej jakości materiałami"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "elektryczny sedan",
+                    "luksus",
+                    "osiągi"
+                ]
+            },
+            "es": {
+                "title": "NIO ET7",
+                "head": "Redefiniendo los sedanes eléctricos de lujo: NIO ET7",
+                "description": "El NIO ET7 es un sedán eléctrico premium que ofrece tecnología de punta, autonomía excepcional y un confort lujoso.",
+                "text": "El NIO ET7 es un sedán eléctrico insignia diseñado para establecer nuevos estándares en lujo y rendimiento. Con una autonomía de hasta 1000 km (con paquete de baterías de 150 kWh) y tecnología de intercambio rápido de baterías, garantiza comodidad y sostenibilidad. El interior cuenta con materiales de primera calidad, un cockpit digital avanzado con inteligencia artificial y características como la conducción autónoma NIO (NAD). El NIO ET7 combina innovación de vanguardia, confort refinado y un rendimiento sobresaliente, siendo la elección definitiva para conductores de lujo conscientes del medio ambiente.",
+                "advantages": [
+                    "Autonomía de hasta 1000 km",
+                    "Funciones avanzadas de conducción autónoma",
+                    "Interior lujoso con materiales premium"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "sedán eléctrico",
+                    "lujo",
+                    "rendimiento"
+                ]
+            },
+            "fr": {
+                "title": "NIO ET7",
+                "head": "Redéfinir les berlines électriques de luxe : NIO ET7",
+                "description": "La NIO ET7 est une berline électrique premium offrant une technologie de pointe, une autonomie exceptionnelle et un confort luxueux.",
+                "text": "La NIO ET7 est une berline électrique phare conçue pour établir de nouvelles normes en matière de luxe et de performance. Avec une autonomie allant jusqu'à 1000 km (avec batterie de 150 kWh) et une technologie d'échange rapide de batterie, elle garantit confort et durabilité. L'intérieur offre des matériaux haut de gamme, un cockpit numérique avancé alimenté par l'IA et des fonctionnalités telles que la conduite autonome NIO (NAD). La NIO ET7 combine innovation de pointe, confort raffiné et performances exceptionnelles, en faisant le choix ultime pour les conducteurs soucieux de l'environnement.",
+                "advantages": [
+                    "Autonomie jusqu'à 1000 km",
+                    "Fonctionnalités avancées de conduite autonome",
+                    "Intérieur luxueux avec matériaux premium"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "berline électrique",
+                    "luxe",
+                    "performance"
+                ]
+            },
+            "zh": {
+                "title": "NIO ET7",
+                "head": "重新定义电动豪华轿车：蔚来 ET7",
+                "description": "蔚来 ET7是一款高端电动轿车，提供尖端技术、出色续航里程和豪华舒适性。",
+                "text": "蔚来 ET7是一款旗舰级电动轿车，旨在树立奢华和性能的新标准。最高续航里程可达1000公里（配备150千瓦时电池组），并配备快速换电技术，确保便利和可持续性。内饰采用优质材料，配备人工智能驱动的先进数字驾驶舱和蔚来自动驾驶（NAD）等功能。蔚来 ET7融合了尖端创新、精致舒适和出色性能，是环保豪华驾驶员的终极选择。",
+                "advantages": [
+                    "最高续航里程可达1000公里",
+                    "先进的自动驾驶功能",
+                    "豪华内饰，配备优质材料"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET7",
+                    "电动轿车",
+                    "豪华",
+                    "性能"
+                ]
+            }
+        },
+        {
             "slug": "nio-et5",
+            "competitors": [
+                "Tesla Model 3",
+                "Polestar 2",
+                "BMW i4"
+            ],
             "en": {
                 "title": "NIO ET5",
-                "description": "A compact electric sedan with innovative technology and a focus on efficiency.",
+                "head": "Sophisticated Electric Sedan: NIO ET5",
+                "description": "The NIO ET5 is a stylish and high-performance electric sedan combining cutting-edge technology, dynamic driving, and luxurious comfort.",
+                "text": "The NIO ET5 is a premium electric sedan designed for urban and long-distance driving. With a range of up to 435 miles (with the 100 kWh battery pack) and fast-swappable battery technology, it ensures unparalleled convenience and efficiency. Its interior features premium materials, an advanced AI-powered cockpit, and a panoramic sunroof for a bright and spacious feel. With advanced driver assistance systems and customizable comfort features, the NIO ET5 is the ultimate blend of technology, style, and performance.",
+                "advantages": [
+                    "Up to 435 miles of range",
+                    "Dynamic and stylish design",
+                    "Advanced AI-powered cockpit and safety features"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "compact sedan",
-                    "innovative",
-                    "efficient"
-                ],
-                "text": "NIO ET5 is a compact and efficient electric sedan designed for modern urban lifestyles. With its advanced features and affordability, it appeals to a wide range of drivers."
+                    "electric sedan",
+                    "performance",
+                    "luxury"
+                ]
             },
             "ru": {
                 "title": "NIO ET5",
-                "description": "Компактный электрический седан с инновационными технологиями и акцентом на эффективность.",
+                "head": "Изысканный электрический седан: NIO ET5",
+                "description": "NIO ET5 — это стильный и высокопроизводительный электрический седан, сочетающий передовые технологии, динамичное вождение и роскошный комфорт.",
+                "text": "NIO ET5 — это премиальный электрический седан, созданный для городской езды и дальних путешествий. С запасом хода до 700 км (с батареей 100 кВт·ч) и технологией быстрой замены батареи он обеспечивает непревзойдённое удобство и эффективность. Интерьер выполнен из премиальных материалов, оснащён продвинутой цифровой панелью на базе ИИ и панорамной крышей, создающей яркую и просторную атмосферу. Благодаря передовым системам помощи водителю и настраиваемым функциям комфорта, NIO ET5 идеально сочетает в себе технологии, стиль и производительность.",
+                "advantages": [
+                    "Запас хода до 700 км",
+                    "Динамичный и стильный дизайн",
+                    "Продвинутая цифровая панель и функции безопасности"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "компактный седан",
-                    "инновационный",
-                    "эффективный"
-                ],
-                "text": "NIO ET5 — это компактный и эффективный электрический седан, разработанный для современных городских условий."
+                    "электрический седан",
+                    "производительность",
+                    "роскошь"
+                ]
             },
             "ua": {
                 "title": "NIO ET5",
-                "description": "Компактний електричний седан з інноваційними технологіями та акцентом на ефективність.",
+                "head": "Вишуканий електричний седан: NIO ET5",
+                "description": "NIO ET5 — це стильний і високопродуктивний електричний седан, що поєднує передові технології, динамічне водіння та розкішний комфорт.",
+                "text": "NIO ET5 — це преміальний електричний седан, створений для міської їзди та далеких подорожей. Із запасом ходу до 700 км (з батареєю 100 кВт·год) та технологією швидкої заміни батареї, він забезпечує неперевершену зручність та ефективність. Інтер'єр виконаний із преміальних матеріалів, оснащений просунутою цифровою панеллю на основі ШІ та панорамним дахом, що створює яскраву та простору атмосферу. Завдяки передовим системам допомоги водієві та налаштовуваним функціям комфорту, NIO ET5 ідеально поєднує технології, стиль та продуктивність.",
+                "advantages": [
+                    "Запас ходу до 700 км",
+                    "Динамічний і стильний дизайн",
+                    "Сучасна цифрова панель і функції безпеки"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "компактний седан",
-                    "інноваційний",
-                    "ефективний"
-                ],
-                "text": "NIO ET5 - це компактний і ефективний електричний седан, розроблений для сучасних міських умов."
-            },
-            "pl": {
-                "title": "NIO ET5",
-                "description": "Kompaktowy sedan elektryczny z innowacyjną technologią i naciskiem na efektywność.",
-                "keywords": [
-                    "NIO",
-                    "ET5",
-                    "kompaktowy sedan",
-                    "innowacyjny",
-                    "efektywny"
-                ],
-                "text": "NIO ET5 to kompaktowy i wydajny sedan elektryczny zaprojektowany z myślą o nowoczesnym stylu życia miejskim."
-            },
-            "de": {
-                "title": "NIO ET5",
-                "description": "Ein kompakter Elektro-Sedan mit innovativer Technologie und Fokus auf Effizienz.",
-                "keywords": [
-                    "NIO",
-                    "ET5",
-                    "kompakter Sedan",
-                    "innovativ",
-                    "effizient"
-                ],
-                "text": "Der NIO ET5 ist ein kompakter und effizienter Elektro-Sedan, der für moderne urbane Lebensstile entwickelt wurde."
+                    "електричний седан",
+                    "продуктивність",
+                    "розкіш"
+                ]
             },
             "be": {
                 "title": "NIO ET5",
-                "description": "Кампактны электрычны седан з інавацыйнымі тэхналогіямі і акцэнтам на эфектыўнасць.",
+                "head": "Вытанчаны электрычны седан: NIO ET5",
+                "description": "NIO ET5 — гэта стыльны і высокапрадукцыйны электрычны седан, які спалучае перадавыя тэхналогіі, дынамічнае кіраванне і раскошны камфорт.",
+                "text": "NIO ET5 — гэта прэміяльны электрычны седан, створаны для гарадской язды і далёкіх падарожжаў. З запасам ходу да 700 км (з батарэяй 100 кВт·г) і тэхналогіяй хуткай замены батарэі ён забяспечвае неперасягнены камфорт і эфектыўнасць. Інтэр'ер выкананы з прэміяльных матэрыялаў, абсталяваны прасунутай лічбавай панэллю на аснове ШІ і панарамным дахам, што стварае яркую і прасторную атмасферу. Дзякуючы перадавым сістэмам дапамогі кіроўцу і наладжвальным функцыям камфорту, NIO ET5 ідэальна спалучае ў сабе тэхналогіі, стыль і прадукцыйнасць.",
+                "advantages": [
+                    "Запас ходу да 700 км",
+                    "Дынамічны і стыльны дызайн",
+                    "Сучасная лічбавая панэль і функцыі бяспекі"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "кампактны седан",
-                    "інавацыйны",
-                    "эфектыўны"
+                    "электрычны седан",
+                    "прадукцыйнасць",
+                    "раскоша"
+                ]
+            },
+            "de": {
+                "title": "NIO ET5",
+                "head": "Elegante Elektro-Limousine: NIO ET5",
+                "description": "Der NIO ET5 ist eine stilvolle und leistungsstarke Elektro-Limousine, die modernste Technologie, dynamisches Fahren und luxuriösen Komfort vereint.",
+                "text": "Der NIO ET5 ist eine Premium-Elektro-Limousine, die für Stadt- und Langstreckenfahrten konzipiert wurde. Mit einer Reichweite von bis zu 700 km (mit der 100-kWh-Batterie) und einer schnellen Batteriewechseltechnologie bietet er unvergleichliche Bequemlichkeit und Effizienz. Der Innenraum verfügt über hochwertige Materialien, ein fortschrittliches KI-gestütztes Cockpit und ein Panoramadach, das für ein helles und großzügiges Raumgefühl sorgt. Mit fortschrittlichen Fahrerassistenzsystemen und anpassbaren Komfortfunktionen ist der NIO ET5 die perfekte Kombination aus Technologie, Stil und Leistung.",
+                "advantages": [
+                    "Reichweite bis zu 700 km",
+                    "Dynamisches und stilvolles Design",
+                    "Fortschrittliches KI-gestütztes Cockpit und Sicherheitsfunktionen"
                 ],
-                "text": "NIO ET5 - гэта кампактны і эфектыўны электрычны седан, прызначаны для сучасных гарадскіх умоваў."
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "elektrische Limousine",
+                    "Leistung",
+                    "Luxus"
+                ]
+            },
+            "pl": {
+                "title": "NIO ET5",
+                "head": "Wyrafinowany elektryczny sedan: NIO ET5",
+                "description": "NIO ET5 to stylowy i wydajny elektryczny sedan łączący najnowocześniejszą technologię, dynamiczną jazdę i luksusowy komfort.",
+                "text": "NIO ET5 to luksusowy elektryczny sedan zaprojektowany z myślą o jeździe miejskiej i dalekodystansowej. Zasięg do 700 km (z akumulatorem 100 kWh) i technologia szybkiej wymiany baterii zapewniają niezrównaną wygodę i efektywność. Wnętrze oferuje najwyższej jakości materiały, zaawansowany kokpit cyfrowy oparty na AI oraz panoramiczny dach, który tworzy jasną i przestronną atmosferę. Dzięki zaawansowanym systemom wspomagania kierowcy i konfigurowalnym funkcjom komfortu, NIO ET5 to idealne połączenie technologii, stylu i wydajności.",
+                "advantages": [
+                    "Zasięg do 700 km",
+                    "Dynamiczny i stylowy design",
+                    "Zaawansowany kokpit cyfrowy i funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "elektryczny sedan",
+                    "wydajność",
+                    "luksus"
+                ]
             },
             "es": {
                 "title": "NIO ET5",
-                "description": "Un sedán eléctrico compacto con tecnología innovadora y un enfoque en la eficiencia.",
+                "head": "Sedán eléctrico sofisticado: NIO ET5",
+                "description": "El NIO ET5 es un sedán eléctrico elegante y de alto rendimiento que combina tecnología avanzada, conducción dinámica y un confort lujoso.",
+                "text": "El NIO ET5 es un sedán eléctrico premium diseñado para la conducción urbana y de larga distancia. Con una autonomía de hasta 700 km (con el paquete de baterías de 100 kWh) y tecnología de batería de cambio rápido, garantiza una comodidad y eficiencia sin igual. Su interior cuenta con materiales de primera calidad, un cockpit avanzado alimentado por IA y un techo solar panorámico para una sensación luminosa y espaciosa. Con sistemas avanzados de asistencia al conductor y características de confort personalizables, el NIO ET5 es la combinación definitiva de tecnología, estilo y rendimiento.",
+                "advantages": [
+                    "Autonomía de hasta 700 km",
+                    "Diseño dinámico y elegante",
+                    "Cockpit avanzado con IA y características de seguridad"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "sedán compacto",
-                    "innovador",
-                    "eficiente"
-                ],
-                "text": "NIO ET5 es un sedán eléctrico compacto y eficiente diseñado para estilos de vida urbanos modernos."
-            },
-            "zh": {
-                "title": "NIO ET5",
-                "description": "紧凑型电动轿车，拥有创新技术和注重效率。",
-                "keywords": [
-                    "NIO",
-                    "ET5",
-                    "紧凑型轿车",
-                    "创新",
-                    "高效"
-                ],
-                "text": "NIO ET5是一款紧凑高效的电动轿车，专为现代城市生活方式设计。"
+                    "sedán eléctrico",
+                    "rendimiento",
+                    "lujo"
+                ]
             },
             "fr": {
                 "title": "NIO ET5",
-                "description": "Une berline électrique compacte avec une technologie innovante et un accent sur l'efficacité.",
+                "head": "Berline électrique sophistiquée : NIO ET5",
+                "description": "La NIO ET5 est une berline électrique élégante et performante, combinant technologie de pointe, conduite dynamique et confort luxueux.",
+                "text": "La NIO ET5 est une berline électrique haut de gamme conçue pour la conduite urbaine et les longs trajets. Avec une autonomie allant jusqu'à 700 km (avec la batterie de 100 kWh) et une technologie de batterie échangeable rapidement, elle assure une commodité et une efficacité inégalées. Son intérieur dispose de matériaux de qualité supérieure, d'un cockpit avancé alimenté par l'IA et d'un toit panoramique pour une sensation lumineuse et spacieuse. Avec des systèmes avancés d'assistance à la conduite et des fonctionnalités de confort personnalisables, la NIO ET5 est le mélange ultime de technologie, de style et de performance.",
+                "advantages": [
+                    "Autonomie jusqu'à 700 km",
+                    "Design dynamique et élégant",
+                    "Cockpit avancé alimenté par l'IA et fonctionnalités de sécurité"
+                ],
                 "keywords": [
                     "NIO",
                     "ET5",
-                    "berline compacte",
-                    "innovant",
-                    "efficace"
+                    "berline électrique",
+                    "performance",
+                    "luxe"
+                ]
+
+            },
+            "zh": {
+                "title": "NIO ET5",
+                "head": "精致电动轿车：蔚来 ET5",
+                "description": "蔚来 ET5是一款时尚且高性能的电动轿车，融合了尖端技术、动态驾驶和豪华舒适性。",
+                "text": "蔚来 ET5是一款专为城市和长途驾驶设计的高端电动轿车。最高续航里程可达700公里（配备100千瓦时电池组），并配备快速换电技术，确保无与伦比的便利性和效率。其内饰采用优质材料，配备先进的人工智能驱动座舱和全景天窗，营造明亮宽敞的氛围。蔚来 ET5配备先进的驾驶辅助系统和可定制的舒适功能，是科技、风格和性能的终极融合。",
+                "advantages": [
+                    "最高续航里程可达700公里",
+                    "动态时尚设计",
+                    "先进的人工智能驱动座舱和安全功能"
                 ],
-                "text": "La NIO ET5 est une berline électrique compacte conçue pour les modes de vie urbains modernes, avec des fonctionnalités avancées et un prix abordable."
+                "keywords": [
+                    "NIO",
+                    "ET5",
+                    "电动轿车",
+                    "性能",
+                    "豪华"
+                ]
             }
         }
     ]

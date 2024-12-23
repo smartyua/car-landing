@@ -159,6 +159,176 @@
             }
         },
         {
+            "slug": "hyundai-ioniq-7",
+            "competitors": [
+                "Volkswagen ID.6",
+                "Tesla Model X",
+                "Kia EV9"
+            ],
+            "en": {
+                "title": "Hyundai Ioniq 7",
+                "head": "The Future of Electric Family SUVs: Hyundai Ioniq 7",
+                "description": "The Hyundai Ioniq 7 is a revolutionary all-electric family SUV offering cutting-edge technology, exceptional space, and sustainable mobility.",
+                "text": "The Hyundai Ioniq 7 is a large all-electric SUV designed for families and long-distance travelers. With a range of up to 300 miles and ultra-fast charging capabilities, it ensures seamless journeys with minimal downtime. The spacious and luxurious interior features premium materials, a high-tech infotainment system, and advanced safety features like autonomous driving assistance and collision avoidance. The Hyundai Ioniq 7 is the perfect choice for eco-conscious families seeking comfort, performance, and sustainability.",
+                "advantages": [
+                    "Up to 300 miles of range",
+                    "Spacious and luxurious interior",
+                    "Advanced autonomous and safety features"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "electric SUV",
+                    "family car",
+                    "sustainability"
+                ]
+            },
+            "ru": {
+                "title": "Hyundai Ioniq 7",
+                "head": "Будущее электрических семейных внедорожников: Hyundai Ioniq 7",
+                "description": "Hyundai Ioniq 7 — это революционный полностью электрический семейный внедорожник, предлагающий передовые технологии, простор и устойчивую мобильность.",
+                "text": "Hyundai Ioniq 7 — это большой электрический внедорожник, созданный для семей и дальних путешествий. С запасом хода до 480 км и возможностью ультрабыстрой зарядки он обеспечивает комфортные поездки с минимальными остановками. Просторный и роскошный интерьер оснащён премиальными материалами, высокотехнологичной мультимедийной системой и современными функциями безопасности, такими как автономное вождение и предотвращение столкновений. Hyundai Ioniq 7 — идеальный выбор для семей, заботящихся об экологии, которые ценят комфорт, производительность и устойчивость.",
+                "advantages": [
+                    "Запас хода до 480 км",
+                    "Просторный и роскошный интерьер",
+                    "Передовые автономные и функции безопасности"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "электрический внедорожник",
+                    "семейный автомобиль",
+                    "устойчивость"
+                ]
+            },
+            "ua": {
+                "title": "Hyundai Ioniq 7",
+                "head": "Майбутнє електричних сімейних позашляховиків: Hyundai Ioniq 7",
+                "description": "Hyundai Ioniq 7 — це революційний повністю електричний сімейний позашляховик, що пропонує передові технології, простір та стійку мобільність.",
+                "text": "Hyundai Ioniq 7 — це великий електричний позашляховик, створений для сімей та далеких подорожей. Із запасом ходу до 480 км і можливістю ультрашвидкої зарядки, він забезпечує комфортні поїздки з мінімальними зупинками. Просторий і розкішний інтер'єр оснащений преміальними матеріалами, високотехнологічною мультимедійною системою та сучасними функціями безпеки, такими як автономне водіння та запобігання зіткненням. Hyundai Ioniq 7 — це ідеальний вибір для родин, які цінують комфорт, продуктивність та стійкість.",
+                "advantages": [
+                    "Запас ходу до 480 км",
+                    "Просторий і розкішний інтер'єр",
+                    "Передові автономні функції та системи безпеки"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "електричний позашляховик",
+                    "сімейний автомобіль",
+                    "стійкість"
+                ]
+            },
+            "be": {
+                "title": "Hyundai Ioniq 7",
+                "head": "Будучыня электрычных сямейных пазадарожнікаў: Hyundai Ioniq 7",
+                "description": "Hyundai Ioniq 7 — гэта рэвалюцыйны цалкам электрычны сямейны пазадарожнік, які прапануе перадавыя тэхналогіі, прастор і ўстойлівую мабільнасць.",
+                "text": "Hyundai Ioniq 7 — гэта вялікі электрычны пазадарожнік, створаны для сем'яў і далёкіх падарожжаў. З запасам ходу да 480 км і магчымасцю ультрахуткай зарадкі ён забяспечвае камфортныя паездкі з мінімальнымі прыпынкамі. Прасторны і раскошны інтэр'ер абсталяваны прэміяльнымі матэрыяламі, высокатэхналагічнай мультымедыйнай сістэмай і сучаснымі функцыямі бяспекі, такімі як аўтаномнае кіраванне і прадухіленне сутыкненняў. Hyundai Ioniq 7 — гэта ідэальны выбар для сем'яў, якія цэняць камфорт, прадукцыйнасць і ўстойлівасць.",
+                "advantages": [
+                    "Запас ходу да 480 км",
+                    "Прасторны і раскошны інтэр'ер",
+                    "Сучасныя аўтаномныя функцыі і сістэмы бяспекі"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "электрычны пазадарожнік",
+                    "сямейны аўтамабіль",
+                    "устойлівасць"
+                ]
+            },
+            "de": {
+                "title": "Hyundai Ioniq 7",
+                "head": "Die Zukunft der elektrischen Familien-SUVs: Hyundai Ioniq 7",
+                "description": "Der Hyundai Ioniq 7 ist ein revolutionärer vollelektrischer Familien-SUV, der modernste Technologie, beeindruckenden Raum und nachhaltige Mobilität bietet.",
+                "text": "Der Hyundai Ioniq 7 ist ein großer vollelektrischer SUV, der für Familien und Langstreckenreisende entwickelt wurde. Mit einer Reichweite von bis zu 480 km und ultraschnellen Ladefunktionen ermöglicht er nahtlose Fahrten mit minimalen Unterbrechungen. Der geräumige und luxuriöse Innenraum bietet hochwertige Materialien, ein Hightech-Infotainmentsystem und fortschrittliche Sicherheitsfunktionen wie autonome Fahrassistenz und Kollisionsvermeidung. Der Hyundai Ioniq 7 ist die perfekte Wahl für umweltbewusste Familien, die Komfort, Leistung und Nachhaltigkeit schätzen.",
+                "advantages": [
+                    "Reichweite bis zu 480 km",
+                    "Geräumiger und luxuriöser Innenraum",
+                    "Fortschrittliche autonome und Sicherheitsfunktionen"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "elektrischer SUV",
+                    "Familienauto",
+                    "Nachhaltigkeit"
+                ]
+            },
+            "pl": {
+                "title": "Hyundai Ioniq 7",
+                "head": "Przyszłość elektrycznych SUV-ów rodzinnych: Hyundai Ioniq 7",
+                "description": "Hyundai Ioniq 7 to rewolucyjny, w pełni elektryczny SUV rodzinny, oferujący nowoczesną technologię, przestrzeń i zrównoważoną mobilność.",
+                "text": "Hyundai Ioniq 7 to duży, w pełni elektryczny SUV zaprojektowany dla rodzin i podróżników na długie dystanse. Zasięg do 480 km i ultraszybkie ładowanie zapewniają płynne podróże z minimalnymi przerwami. Przestronne i luksusowe wnętrze oferuje najwyższej jakości materiały, zaawansowany system multimedialny oraz nowoczesne funkcje bezpieczeństwa, takie jak asystent autonomicznej jazdy i system zapobiegania kolizjom. Hyundai Ioniq 7 to idealny wybór dla rodzin dbających o środowisko, które cenią komfort, wydajność i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 480 km",
+                    "Przestronne i luksusowe wnętrze",
+                    "Zaawansowane funkcje autonomiczne i bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "elektryczny SUV",
+                    "samochód rodzinny",
+                    "zrównoważony rozwój"
+                ]
+            },
+            "es": {
+                "title": "Hyundai Ioniq 7",
+                "head": "El futuro de los SUV familiares eléctricos: Hyundai Ioniq 7",
+                "description": "El Hyundai Ioniq 7 es un SUV familiar totalmente eléctrico revolucionario que ofrece tecnología avanzada, espacio excepcional y movilidad sostenible.",
+                "text": "El Hyundai Ioniq 7 es un SUV grande y totalmente eléctrico diseñado para familias y viajeros de largas distancias. Con una autonomía de hasta 480 km y capacidades de carga ultrarrápida, garantiza viajes sin interrupciones con tiempos de inactividad mínimos. El espacioso y lujoso interior cuenta con materiales de primera calidad, un sistema de infoentretenimiento de alta tecnología y funciones de seguridad avanzadas como asistencia de conducción autónoma y prevención de colisiones. El Hyundai Ioniq 7 es la elección perfecta para familias conscientes del medio ambiente que valoran la comodidad, el rendimiento y la sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 480 km",
+                    "Interior espacioso y lujoso",
+                    "Funciones avanzadas de autonomía y seguridad"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "SUV eléctrico",
+                    "coche familiar",
+                    "sostenibilidad"
+                ]
+            },
+            "fr": {
+                "title": "Hyundai Ioniq 7",
+                "head": "L'avenir des SUV familiaux électriques : Hyundai Ioniq 7",
+                "description": "Le Hyundai Ioniq 7 est un SUV familial entièrement électrique révolutionnaire offrant une technologie avancée, un espace exceptionnel et une mobilité durable.",
+                "text": "Le Hyundai Ioniq 7 est un grand SUV entièrement électrique conçu pour les familles et les longs trajets. Avec une autonomie allant jusqu'à 480 km et des capacités de charge ultra-rapide, il garantit des trajets sans interruption avec un temps d'arrêt minimal. L'intérieur spacieux et luxueux est doté de matériaux de haute qualité, d'un système d'infodivertissement de pointe et de fonctionnalités de sécurité avancées telles que l'assistance à la conduite autonome et la prévention des collisions. Le Hyundai Ioniq 7 est le choix parfait pour les familles soucieuses de l'environnement qui recherchent confort, performance et durabilité.",
+                "advantages": [
+                    "Autonomie jusqu'à 480 km",
+                    "Intérieur spacieux et luxueux",
+                    "Fonctionnalités avancées d'autonomie et de sécurité"
+                ],
+                "keywords": [
+                    "Hyundai",
+                    "Ioniq 7",
+                    "SUV électrique",
+                    "voiture familiale",
+                    "durabilité"
+                ]
+            },
+            "zh": {
+                "title": "现代 Ioniq 7",
+                "head": "电动家用 SUV 的未来：现代 Ioniq 7",
+                "description": "现代 Ioniq 7 是一款革命性的全电动家用 SUV，提供尖端技术、卓越空间和可持续的移动性。",
+                "text": "现代 Ioniq 7 是一款为家庭和长途旅行者设计的大型全电动 SUV。拥有长达 480 公里的续航里程和超快充电能力，确保无缝旅行，最小化停机时间。宽敞豪华的内饰采用优质材料，配备高科技信息娱乐系统和先进的安全功能，如自动驾驶辅助和碰撞预防。现代 Ioniq 7 是环保家庭寻求舒适、性能和可持续性的完美选择。",
+                "advantages": [
+                    "长达 480 公里的续航里程",
+                    "宽敞豪华的内饰",
+                    "先进的自动驾驶和安全功能"
+                ],
+                "keywords": [
+                    "现代",
+                    "Ioniq 7",
+                    "电动 SUV",
+                    "家用车",
+                    "可持续性"
+                ]
+            }
+        },
+        {
             "slug": "elantra",
             "en": {
                 "title": "Hyundai Elantra",

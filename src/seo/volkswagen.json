@@ -25,6 +25,346 @@
     },
     "models": [
         {
+            "slug": "volkswagen-id2",
+            "competitors": [
+                "Renault Zoe",
+                "Peugeot e-208",
+                "Mini Electric"
+            ],
+            "en": {
+                "title": "Volkswagen ID.2",
+                "head": "Compact Electric Mobility with the Volkswagen ID.2",
+                "description": "The Volkswagen ID.2 is a fully electric compact car designed for city driving, offering efficiency, sustainability, and smart technology.",
+                "text": "The Volkswagen ID.2 is a compact electric vehicle ideal for urban commuters. With a range of up to 200 miles and rapid charging, it ensures efficiency and convenience. The modern interior features high-quality materials, a digital cockpit, and an intuitive infotainment system. Advanced safety features like emergency braking and lane-keeping assist provide peace of mind. The Volkswagen ID.2 is perfect for those who value compact practicality and sustainable mobility.",
+                "advantages": [
+                    "Up to 200 miles of range",
+                    "Compact and efficient design",
+                    "Advanced safety and technology features"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "electric car",
+                    "compact",
+                    "urban mobility"
+                ]
+            },
+            "ru": {
+                "title": "Volkswagen ID.2",
+                "head": "Компактная электрическая мобильность с Volkswagen ID.2",
+                "description": "Volkswagen ID.2 — это полностью электрический компактный автомобиль, созданный для городских поездок, обеспечивающий эффективность, устойчивость и умные технологии.",
+                "text": "Volkswagen ID.2 — это компактный электромобиль, идеально подходящий для городских жителей. С запасом хода до 320 км и возможностью быстрой зарядки он обеспечивает удобство и эффективность. Современный интерьер выполнен из качественных материалов и оснащён цифровой панелью управления и интуитивно понятной мультимедийной системой. Передовые функции безопасности, такие как экстренное торможение и удержание полосы, гарантируют спокойствие в пути. Volkswagen ID.2 — идеальный выбор для тех, кто ценит компактность и устойчивую мобильность.",
+                "advantages": [
+                    "Запас хода до 320 км",
+                    "Компактный и эффективный дизайн",
+                    "Современные технологии и функции безопасности"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "электромобиль",
+                    "компактный",
+                    "городская мобильность"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen ID.2",
+                "head": "Компактна електрична мобільність із Volkswagen ID.2",
+                "description": "Volkswagen ID.2 — це повністю електричний компактний автомобіль, створений для міських поїздок, що забезпечує ефективність, стійкість та розумні технології.",
+                "text": "Volkswagen ID.2 — це компактний електромобіль, ідеально підходящий для міських жителів. Із запасом ходу до 320 км і можливістю швидкої зарядки, він забезпечує зручність і ефективність. Сучасний інтер'єр виготовлений із якісних матеріалів, оснащений цифровою панеллю управління та інтуїтивно зрозумілою мультимедійною системою. Передові функції безпеки, такі як екстрене гальмування та утримання смуги руху, гарантують спокій у дорозі. Volkswagen ID.2 — це ідеальний вибір для тих, хто цінує компактність і стійку мобільність.",
+                "advantages": [
+                    "Запас ходу до 320 км",
+                    "Компактний і ефективний дизайн",
+                    "Сучасні технології та функції безпеки"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "електромобіль",
+                    "компактний",
+                    "міська мобільність"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen ID.2",
+                "head": "Кампактная электрычная мабільнасць з Volkswagen ID.2",
+                "description": "Volkswagen ID.2 — гэта цалкам электрычны кампактны аўтамабіль, створаны для гарадскіх паездак, які забяспечвае эфектыўнасць, устойлівасць і сучасныя тэхналогіі.",
+                "text": "Volkswagen ID.2 — гэта кампактны электрамабіль, ідэальны для гарадскіх жыхароў. З запасам ходу да 320 км і магчымасцю хуткай зарадкі ён забяспечвае зручнасць і эфектыўнасць. Сучасны інтэр'ер выкананы з якасных матэрыялаў, абсталяваны лічбавай панэллю кіравання і інтуітыўна зразумелай мультымедыйнай сістэмай. Перадавыя функцыі бяспекі, такія як экстранае тармажэнне і ўтрыманне паласы, гарантуе бяспеку ў дарозе. Volkswagen ID.2 — гэта ідэальны выбар для тых, хто цэніць кампактнасць і ўстойлівую мабільнасць.",
+                "advantages": [
+                    "Запас ходу да 320 км",
+                    "Кампактны і эфектыўны дызайн",
+                    "Сучасныя тэхналогіі і функцыі бяспекі"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "электрамабіль",
+                    "кампактны",
+                    "гарадская мабільнасць"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen ID.2",
+                "head": "Kompakte Elektromobilität mit dem Volkswagen ID.2",
+                "description": "Der Volkswagen ID.2 ist ein vollelektrisches Kompaktfahrzeug, das für Stadtfahrten entwickelt wurde und Effizienz, Nachhaltigkeit und smarte Technologie bietet.",
+                "text": "Der Volkswagen ID.2 ist ein kompaktes Elektrofahrzeug, ideal für urbane Pendler. Mit einer Reichweite von bis zu 320 km und Schnellladefähigkeit sorgt er für Effizienz und Komfort. Das moderne Interieur besteht aus hochwertigen Materialien, einem digitalen Cockpit und einem intuitiven Infotainmentsystem. Fortschrittliche Sicherheitsfunktionen wie Notbremsung und Spurhalteassistent sorgen für ein sicheres Fahrerlebnis. Der Volkswagen ID.2 ist perfekt für alle, die Wert auf kompakte Praktikabilität und nachhaltige Mobilität legen.",
+                "advantages": [
+                    "Reichweite bis zu 320 km",
+                    "Kompaktes und effizientes Design",
+                    "Fortschrittliche Sicherheits- und Technologiefunktionen"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "Elektrofahrzeug",
+                    "kompakt",
+                    "urbane Mobilität"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen ID.2",
+                "head": "Kompaktowa mobilność elektryczna z Volkswagen ID.2",
+                "description": "Volkswagen ID.2 to w pełni elektryczny kompaktowy samochód zaprojektowany do jazdy miejskiej, oferujący efektywność, zrównoważony rozwój i inteligentne technologie.",
+                "text": "Volkswagen ID.2 to kompaktowy pojazd elektryczny, idealny dla miejskich użytkowników. Zasięg do 320 km i szybkie ładowanie zapewniają wygodę i efektywność. Wnętrze charakteryzuje się wysokiej jakości materiałami, cyfrowym kokpitem i intuicyjnym systemem multimedialnym. Zaawansowane funkcje bezpieczeństwa, takie jak awaryjne hamowanie i asystent pasa ruchu, gwarantują bezpieczeństwo podczas jazdy. Volkswagen ID.2 to idealny wybór dla osób ceniących kompaktowość i zrównoważoną mobilność.",
+                "advantages": [
+                    "Zasięg do 320 km",
+                    "Kompaktowy i efektywny design",
+                    "Zaawansowane funkcje technologiczne i bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "samochód elektryczny",
+                    "kompaktowy",
+                    "mobilność miejska"
+                ]
+            },
+            "es": {
+                "title": "Volkswagen ID.2",
+                "head": "Movilidad eléctrica compacta con el Volkswagen ID.2",
+                "description": "El Volkswagen ID.2 es un coche compacto totalmente eléctrico diseñado para la conducción urbana, que ofrece eficiencia, sostenibilidad y tecnología inteligente.",
+                "text": "El Volkswagen ID.2 es un vehículo eléctrico compacto ideal para los desplazamientos urbanos. Con una autonomía de hasta 320 km y capacidad de carga rápida, garantiza eficiencia y comodidad. El interior moderno cuenta con materiales de alta calidad, un cockpit digital y un sistema de infoentretenimiento intuitivo. Las características avanzadas de seguridad, como el frenado de emergencia y el asistente de mantenimiento de carril, proporcionan tranquilidad al conductor. El Volkswagen ID.2 es perfecto para quienes valoran la practicidad compacta y la movilidad sostenible.",
+                "advantages": [
+                    "Autonomía de hasta 320 km",
+                    "Diseño compacto y eficiente",
+                    "Funciones avanzadas de tecnología y seguridad"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "coche eléctrico",
+                    "compacto",
+                    "movilidad urbana"
+                ]
+            },
+            "fr": {
+                "title": "Volkswagen ID.2",
+                "head": "Mobilité électrique compacte avec la Volkswagen ID.2",
+                "description": "La Volkswagen ID.2 est une voiture compacte entièrement électrique conçue pour la conduite en ville, offrant efficacité, durabilité et technologies intelligentes.",
+                "text": "La Volkswagen ID.2 est un véhicule électrique compact idéal pour les trajets urbains. Avec une autonomie allant jusqu'à 320 km et une capacité de recharge rapide, elle garantit efficacité et confort. L'intérieur moderne est composé de matériaux de haute qualité, d'un cockpit numérique et d'un système d'infodivertissement intuitif. Les fonctionnalités avancées de sécurité, telles que le freinage d'urgence et l'assistance au maintien dans la voie, apportent tranquillité d'esprit au conducteur. La Volkswagen ID.2 est parfaite pour ceux qui apprécient la praticité compacte et une mobilité durable.",
+                "advantages": [
+                    "Autonomie jusqu'à 320 km",
+                    "Design compact et efficace",
+                    "Technologies et fonctions de sécurité avancées"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.2",
+                    "voiture électrique",
+                    "compacte",
+                    "mobilité urbaine"
+                ]
+            },
+            "zh": {
+                "title": "Volkswagen ID.2",
+                "head": "大众ID.2紧凑型电动汽车",
+                "description": "大众ID.2是一款专为城市驾驶设计的全电动紧凑型汽车，提供高效性、可持续性和智能技术。",
+                "text": "大众ID.2是一款紧凑型电动车，非常适合城市通勤者。最大续航里程达320公里，支持快速充电，确保高效便捷。现代化内饰采用高品质材料，配备数字化驾驶舱和直观的信息娱乐系统。紧急制动和车道保持辅助等先进安全功能提供了安心保障。大众ID.2非常适合那些看重紧凑实用性和可持续出行的人。",
+                "advantages": [
+                    "最大续航里程达320公里",
+                    "紧凑高效的设计",
+                    "先进的安全和技术功能"
+                ],
+                "keywords": [
+                    "大众",
+                    "ID.2",
+                    "电动汽车",
+                    "紧凑型",
+                    "城市出行"
+                ]
+            }
+        },
+        {
+            "slug": "volkswagen-id3",
+            "competitors": [
+                "Tesla Model 3",
+                "BMW i3",
+                "Hyundai Ioniq 5"
+            ],
+            "en": {
+                "title": "Volkswagen ID.3",
+                "head": "Smart Electric Innovation with the Volkswagen ID.3",
+                "description": "The Volkswagen ID.3 is a versatile electric hatchback offering cutting-edge technology, sustainability, and everyday practicality.",
+                "text": "The Volkswagen ID.3 is a fully electric hatchback designed for drivers seeking efficiency and modern features. With a range of up to 340 miles, it offers flexibility for both city and long-distance travel. The interior features high-quality materials, a digital cockpit, and intuitive controls. Safety systems like adaptive cruise control and lane assist make every journey secure. The Volkswagen ID.3 combines performance, comfort, and innovation for eco-conscious drivers.",
+                "advantages": [
+                    "Up to 340 miles of range",
+                    "Versatile and modern design",
+                    "Advanced safety and driver assistance features"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "electric hatchback",
+                    "sustainability",
+                    "innovation"
+                ]
+            },
+            "ru": {
+                "title": "Volkswagen ID.3",
+                "head": "Инновационный электромобиль Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — это универсальный электрический хэтчбек, предлагающий передовые технологии, устойчивость и практичность на каждый день.",
+                "text": "Volkswagen ID.3 — это полностью электрический хэтчбек, разработанный для тех, кто ценит эффективность и современные функции. С запасом хода до 550 км он обеспечивает универсальность как для городских, так и для дальних поездок. Интерьер оснащён качественными материалами, цифровой приборной панелью и интуитивно понятным управлением. Системы безопасности, такие как адаптивный круиз-контроль и ассистент удержания полосы, делают каждую поездку безопасной. Volkswagen ID.3 сочетает в себе производительность, комфорт и инновации для экологически сознательных водителей.",
+                "advantages": [
+                    "Запас хода до 550 км",
+                    "Универсальный и современный дизайн",
+                    "Передовые функции безопасности и помощи водителю"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "электрический хэтчбек",
+                    "устойчивость",
+                    "инновации"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen ID.3",
+                "head": "Інноваційний електромобіль Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — це універсальний електричний хетчбек, що пропонує передові технології, стійкість та практичність на кожен день.",
+                "text": "Volkswagen ID.3 — це повністю електричний хетчбек, створений для тих, хто цінує ефективність і сучасні функції. Із запасом ходу до 550 км він забезпечує універсальність як для міських поїздок, так і для далеких подорожей. Інтер'єр оснащений якісними матеріалами, цифровою панеллю приладів і інтуїтивно зрозумілим управлінням. Системи безпеки, такі як адаптивний круїз-контроль і утримання смуги руху, роблять кожну поїздку безпечною. Volkswagen ID.3 поєднує в собі продуктивність, комфорт і інновації для екологічно свідомих водіїв.",
+                "advantages": [
+                    "Запас ходу до 550 км",
+                    "Універсальний і сучасний дизайн",
+                    "Сучасні функції безпеки та допомоги водію"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "електричний хетчбек",
+                    "стійкість",
+                    "інновації"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen ID.3",
+                "head": "Інавацыйны электрамабіль Volkswagen ID.3",
+                "description": "Volkswagen ID.3 — гэта універсальны электрычны хэтчбек, які прапануе перадавыя тэхналогіі, устойлівасць і практычнасць на кожны дзень.",
+                "text": "Volkswagen ID.3 — гэта цалкам электрычны хэтчбек, распрацаваны для тых, хто шукае эфектыўнасць і сучасныя функцыі. З запасам ходу да 550 км ён забяспечвае гнуткасць як для гарадскіх, так і для далёкіх паездак. Інтэр'ер выкананы з якасных матэрыялаў, абсталяваны лічбавай панэллю прыбораў і інтуітыўна зразумелым кіраваннем. Сістэмы бяспекі, такія як адаптыўны круіз-кантроль і ўтрыманне паласы, робяць кожную паездку бяспечнай. Volkswagen ID.3 спалучае ў сабе прадукцыйнасць, камфорт і інавацыі для экалагічна свядомых кіроўцаў.",
+                "advantages": [
+                    "Запас ходу да 550 км",
+                    "Універсальны і сучасны дызайн",
+                    "Перадавыя функцыі бяспекі і дапамогі кіроўцу"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "электрычны хэтчбек",
+                    "устойлівасць",
+                    "інавацыі"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen ID.3",
+                "head": "Intelligente elektrische Innovation mit dem Volkswagen ID.3",
+                "description": "Der Volkswagen ID.3 ist ein vielseitiger Elektro-Hatchback, der modernste Technologie, Nachhaltigkeit und Alltagstauglichkeit bietet.",
+                "text": "Der Volkswagen ID.3 ist ein vollelektrischer Hatchback, der für Fahrer entwickelt wurde, die Effizienz und moderne Funktionen suchen. Mit einer Reichweite von bis zu 550 km bietet er Flexibilität für Stadt- und Langstreckenfahrten. Das Interieur besteht aus hochwertigen Materialien, einem digitalen Cockpit und intuitiven Bedienelementen. Sicherheitssysteme wie adaptive Geschwindigkeitsregelung und Spurhalteassistent sorgen für eine sichere Fahrt. Der Volkswagen ID.3 kombiniert Leistung, Komfort und Innovation für umweltbewusste Fahrer.",
+                "advantages": [
+                    "Reichweite bis zu 550 km",
+                    "Vielseitiges und modernes Design",
+                    "Fortschrittliche Sicherheits- und Fahrerassistenzsysteme"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "elektrischer Hatchback",
+                    "Nachhaltigkeit",
+                    "Innovation"
+                ]
+            },
+            "es": {
+                "title": "Volkswagen ID.3",
+                "head": "Innovación eléctrica inteligente con el Volkswagen ID.3",
+                "description": "El Volkswagen ID.3 es un versátil hatchback eléctrico que ofrece tecnología de vanguardia, sostenibilidad y practicidad diaria.",
+                "text": "El Volkswagen ID.3 es un hatchback totalmente eléctrico diseñado para conductores que buscan eficiencia y características modernas. Con una autonomía de hasta 340 millas, ofrece flexibilidad tanto para viajes urbanos como de larga distancia. El interior cuenta con materiales de alta calidad, un cockpit digital y controles intuitivos. Los sistemas de seguridad como el control de crucero adaptativo y la asistencia de carril hacen que cada viaje sea seguro. El Volkswagen ID.3 combina rendimiento, comodidad e innovación para conductores conscientes del medio ambiente.",
+                "advantages": [
+                    "Hasta 340 millas de autonomía",
+                    "Diseño versátil y moderno",
+                    "Funciones avanzadas de seguridad y asistencia al conductor"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "hatchback eléctrico",
+                    "sostenibilidad",
+                    "innovación"
+                ]
+            },
+            "fr": {
+                "title": "Volkswagen ID.3",
+                "head": "Innovation électrique intelligente avec la Volkswagen ID.3",
+                "description": "La Volkswagen ID.3 est une berline électrique polyvalente offrant une technologie de pointe, une durabilité et une praticité au quotidien.",
+                "text": "La Volkswagen ID.3 est une berline entièrement électrique conçue pour les conducteurs recherchant l'efficacité et des fonctionnalités modernes. Avec une autonomie allant jusqu'à 550 km, elle offre une flexibilité pour les trajets urbains et longue distance. L'intérieur est doté de matériaux de haute qualité, d'un cockpit numérique et de commandes intuitives. Les systèmes de sécurité tels que le régulateur de vitesse adaptatif et l'assistance au maintien de voie rendent chaque trajet sûr. La Volkswagen ID.3 combine performance, confort et innovation pour les conducteurs soucieux de l'environnement.",
+                "advantages": [
+                    "Autonomie jusqu'à 550 km",
+                    "Design polyvalent et moderne",
+                    "Fonctionnalités avancées de sécurité et d'assistance au conducteur"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "berline électrique",
+                    "durabilité",
+                    "innovation"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen ID.3",
+                "head": "Inteligentna innowacja elektryczna z Volkswagen ID.3",
+                "description": "Volkswagen ID.3 to wszechstronny hatchback elektryczny oferujący najnowocześniejszą technologię, zrównoważony rozwój i codzienną praktyczność.",
+                "text": "Volkswagen ID.3 to w pełni elektryczny hatchback zaprojektowany dla kierowców poszukujących efektywności i nowoczesnych funkcji. Zasięg do 550 km zapewnia elastyczność zarówno w mieście, jak i na długich trasach. Wnętrze wyposażone jest w materiały wysokiej jakości, cyfrowy kokpit i intuicyjne sterowanie. Systemy bezpieczeństwa, takie jak adaptacyjny tempomat i asystent pasa ruchu, zapewniają bezpieczną jazdę. Volkswagen ID.3 łączy w sobie wydajność, komfort i innowacje dla ekologicznie świadomych kierowców.",
+                "advantages": [
+                    "Zasięg do 550 km",
+                    "Wszechstronny i nowoczesny design",
+                    "Zaawansowane funkcje bezpieczeństwa i asystenta kierowcy"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.3",
+                    "hatchback elektryczny",
+                    "zrównoważony rozwój",
+                    "innowacje"
+                ]
+            },
+            "zh": {
+                "title": "Volkswagen ID.3",
+                "head": "大众ID.3智能电动创新",
+                "description": "大众ID.3是一款多功能的电动掀背车，提供尖端技术、可持续性和日常实用性。",
+                "text": "大众ID.3是一款全电动掀背车，专为追求效率和现代功能的驾驶员设计。最大续航里程达550公里，适用于城市和长途旅行。内饰采用高品质材料，配备数字化驾驶舱和直观控制。自适应巡航控制和车道辅助等安全系统确保每次行程安全。大众ID.3为环保意识的驾驶员提供了性能、舒适性和创新。",
+                "advantages": [
+                    "最大续航里程达550公里",
+                    "多功能和现代设计",
+                    "先进的安全和驾驶辅助功能"
+                ],
+                "keywords": [
+                    "大众",
+                    "ID.3",
+                    "电动掀背车",
+                    "可持续性",
+                    "创新"
+                ]
+            }
+        },
+        {
             "slug": "volkswagen-id4",
             "competitors": [
                 "Tesla Model Y",
@@ -173,6 +513,346 @@
                     "SUV électrique",
                     "durabilité",
                     "polyvalence"
+                ]
+            }
+        },
+        {
+            "slug": "volkswagen-id6",
+            "competitors": [
+                "Tesla Model Y",
+                "Hyundai Ioniq 7",
+                "NIO ES6"
+            ],
+            "en": {
+                "title": "Volkswagen ID.6",
+                "head": "Spacious Electric Family SUV: Volkswagen ID.6",
+                "description": "The Volkswagen ID.6 is a fully electric family SUV offering impressive space, cutting-edge technology, and sustainability.",
+                "text": "The Volkswagen ID.6 is an all-electric SUV designed for families and larger groups. With seating for up to seven passengers and a range of up to 365 miles, it combines practicality with sustainability. The interior offers premium materials, a large touchscreen infotainment system, and advanced safety features such as adaptive cruise control and collision prevention. Perfect for eco-conscious families who value comfort and versatility, the Volkswagen ID.6 ensures a smooth and efficient driving experience.",
+                "advantages": [
+                    "Seating for up to 7 passengers",
+                    "Up to 365 miles of range",
+                    "Advanced safety and comfort features"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "electric SUV",
+                    "family car",
+                    "sustainability"
+                ]
+            },
+            "ru": {
+                "title": "Volkswagen ID.6",
+                "head": "Просторный электрический семейный SUV: Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — это полностью электрический семейный внедорожник, предлагающий простор, передовые технологии и устойчивость.",
+                "text": "Volkswagen ID.6 — это электрический внедорожник, разработанный для семей и больших групп. С местами для семи пассажиров и запасом хода до 590 км он сочетает практичность и устойчивость. Интерьер оснащён премиальными материалами, большим сенсорным экраном мультимедийной системы и современными функциями безопасности, такими как адаптивный круиз-контроль и предотвращение столкновений. Volkswagen ID.6 идеально подходит для семей, заботящихся об экологии, ценящих комфорт и универсальность.",
+                "advantages": [
+                    "Семь мест для пассажиров",
+                    "Запас хода до 590 км",
+                    "Передовые функции безопасности и комфорта"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "электрический внедорожник",
+                    "семейный автомобиль",
+                    "устойчивость"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen ID.6",
+                "head": "Просторий електричний сімейний позашляховик: Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — це повністю електричний сімейний позашляховик, що пропонує простір, передові технології та стійкість.",
+                "text": "Volkswagen ID.6 — це електричний позашляховик, створений для сімей та великих груп. Із місцями для семи пасажирів і запасом ходу до 590 км, він поєднує практичність та стійкість. Інтер'єр оснащений преміальними матеріалами, великим сенсорним екраном мультимедійної системи та сучасними функціями безпеки, такими як адаптивний круїз-контроль та запобігання зіткненням. Volkswagen ID.6 ідеально підходить для екологічно свідомих родин, які цінують комфорт і універсальність.",
+                "advantages": [
+                    "Сім місць для пасажирів",
+                    "Запас ходу до 590 км",
+                    "Сучасні функції безпеки та комфорту"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "електричний позашляховик",
+                    "сімейний автомобіль",
+                    "стійкість"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen ID.6",
+                "head": "Geräumiger elektrischer Familien-SUV: Volkswagen ID.6",
+                "description": "Der Volkswagen ID.6 ist ein vollelektrischer Familien-SUV, der beeindruckenden Raum, modernste Technologie und Nachhaltigkeit bietet.",
+                "text": "Der Volkswagen ID.6 ist ein vollelektrischer SUV, der für Familien und größere Gruppen entwickelt wurde. Mit Platz für bis zu sieben Passagiere und einer Reichweite von bis zu 590 km kombiniert er Praktikabilität mit Nachhaltigkeit. Das Interieur bietet hochwertige Materialien, ein großes Touchscreen-Infotainmentsystem und fortschrittliche Sicherheitsfunktionen wie adaptiven Tempomat und Kollisionsvermeidung. Perfekt für umweltbewusste Familien, die Wert auf Komfort und Vielseitigkeit legen, sorgt der Volkswagen ID.6 für ein reibungsloses und effizientes Fahrerlebnis.",
+                "advantages": [
+                    "Platz für bis zu 7 Passagiere",
+                    "Reichweite von bis zu 590 km",
+                    "Fortschrittliche Sicherheits- und Komfortfunktionen"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "elektrischer SUV",
+                    "Familienauto",
+                    "Nachhaltigkeit"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen ID.6",
+                "head": "Прасторны электрычны семейны пазадарожнік: Volkswagen ID.6",
+                "description": "Volkswagen ID.6 — гэта цалкам электрычны семейны пазадарожнік, які прапануе ўражаючае практычнасць, сучасныя тэхналогіі і ўстойлівасць.",
+                "text": "Volkswagen ID.6 — гэта электрычны пазадарожнік, які створаны для сямей і вялікіх груп. З месцамі для семі пасажыраў і запасам ходу да 590 км ён паеднае практычнасць і ўстойлівасць. Інтэр'ер абсталяваны высокага якасці матэрыяламі, вялікім сэнсарным экранам мультымедыйнай сістэмы і сучаснымі функцыямі бяспекі, такімі як адаптыўны круіз-кантроль і папярэджанне зцякання. Volkswagen ID.6 ідэальна падыходзіць для эколагічна свядомых сямей, якія цаняць камфорт і ўніверсальнасць.",
+                "advantages": [
+                    "Месцы для семі пасажыраў",
+                    "Запас ходу да 590 км",
+                    "Сучасныя функцыі бяспекі і камфорту"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "электрычны пазадарожнік",
+                    "семейны аўтамабіль",
+                    "устойлівасць"
+                ]
+            },
+            "es": {
+                "title": "Volkswagen ID.6",
+                "head": "Amplio SUV familiar eléctrico: Volkswagen ID.6",
+                "description": "El Volkswagen ID.6 es un SUV familiar totalmente eléctrico que ofrece un espacio impresionante, tecnología de vanguardia y sostenibilidad.",
+                "text": "El Volkswagen ID.6 es un SUV totalmente eléctrico diseñado para familias y grupos grandes. Con capacidad para hasta siete pasajeros y una autonomía de hasta 590 km, combina practicidad con sostenibilidad. El interior ofrece materiales premium, un gran sistema de infoentretenimiento con pantalla táctil y funciones avanzadas de seguridad como control de crucero adaptativo y prevención de colisiones. Perfecto para familias ecoconscientes que valoran la comodidad y la versatilidad, el Volkswagen ID.6 garantiza una experiencia de conducción suave y eficiente.",
+                "advantages": [
+                    "Capacidad para hasta 7 pasajeros",
+                    "Autonomía de hasta 590 km",
+                    "Funciones avanzadas de seguridad y confort"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "SUV eléctrico",
+                    "coche familiar",
+                    "sostenibilidad"
+                ]
+            },
+            "fr": {
+                "title": "Volkswagen ID.6",
+                "head": "SUV familial électrique spacieux : Volkswagen ID.6",
+                "description": "Le Volkswagen ID.6 est un SUV familial entièrement électrique offrant un espace impressionnant, une technologie de pointe et une durabilité.",
+                "text": "Le Volkswagen ID.6 est un SUV entièrement électrique conçu pour les familles et les groupes plus importants. Avec des sièges pour jusqu'à sept passagers et une autonomie allant jusqu'à 590 km, il combine praticité et durabilité. L'intérieur offre des matériaux haut de gamme, un grand système d'infodivertissement à écran tactile et des fonctionnalités de sécurité avancées telles que le régulateur de vitesse adaptatif et la prévention des collisions. Parfait pour les familles soucieuses de l'environnement qui apprécient le confort et la polyvalence, le Volkswagen ID.6 assure une expérience de conduite fluide et efficace.",
+                "advantages": [
+                    "Sièges pour jusqu'à 7 passagers",
+                    "Autonomie allant jusqu'à 590 km",
+                    "Fonctionnalités de sécurité et de confort avancées"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "SUV électrique",
+                    "voiture familiale",
+                    "durabilité"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen ID.6",
+                "head": "Przestronny elektryczny SUV rodzinny: Volkswagen ID.6",
+                "description": "Volkswagen ID.6 to w pełni elektryczny SUV rodzinny oferujący imponującą przestrzeń, najnowocześniejszą technologię i zrównoważony rozwój.",
+                "text": "Volkswagen ID.6 to w pełni elektryczny SUV zaprojektowany dla rodzin i większych grup. Z miejscami dla nawet siedmiu pasażerów i zasięgiem do 590 km łączy praktyczność z zrównoważonym rozwojem. Wnętrze oferuje materiały premium, duży ekran dotykowy systemu infotainment oraz zaawansowane funkcje bezpieczeństwa, takie jak adaptacyjny tempomat i system zapobiegania kolizjom. Idealny dla rodzin dbających o środowisko, które cenią komfort i wszechstronność, Volkswagen ID.6 zapewnia płynne i efektywne doświadczenie jazdy.",
+                "advantages": [
+                    "Miejsca dla nawet 7 pasażerów",
+                    "Zasięg do 590 km",
+                    "Zaawansowane funkcje bezpieczeństwa i komfortu"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.6",
+                    "elektryczny SUV",
+                    "samochód rodzinny",
+                    "zrównoważony rozwój"
+                ]
+            },
+            "zh": {
+                "title": "Volkswagen ID.6",
+                "head": "宽敞的家用电动SUV：大众ID.6",
+                "description": "大众ID.6是一款全电动家用SUV，提供令人印象深刻的空间、尖端技术和可持续性。",
+                "text": "大众ID.6是专为家庭和较大群体设计的全电动SUV。可容纳多达七名乘客，续航里程长达590公里，将实用性与可持续性相结合。内饰采用优质材料，配备大屏幕触摸式信息娱乐系统和先进的安全功能，如自适应巡航控制和碰撞预防。完美适合注重环保的家庭，他们重视舒适性和多功能性，大众ID.6确保平稳高效的驾驶体验。",
+                "advantages": [
+                    "可容纳多达7名乘客",
+                    "长达590公里的续航里程",
+                    "先进的安全和舒适功能"
+                ],
+                "keywords": [
+                    "大众",
+                    "ID.6",
+                    "电动SUV",
+                    "家用车",
+                    "可持续性"
+                ]
+            }
+        },
+        {
+            "slug": "volkswagen-id7",
+            "competitors": [
+                "Tesla Model S",
+                "BMW i7",
+                "Mercedes-Benz EQS"
+            ],
+            "en": {
+                "title": "Volkswagen ID.7",
+                "head": "Premium Electric Luxury Sedan: Volkswagen ID.7",
+                "description": "The Volkswagen ID.7 is a flagship electric sedan offering advanced technology, luxurious comfort, and exceptional range.",
+                "text": "The Volkswagen ID.7 is a fully electric luxury sedan designed for drivers seeking sophistication and performance. With a range of up to 435 miles and ultra-fast charging, it ensures seamless long-distance travel. The interior features premium materials, an advanced infotainment system, and ambient lighting. Safety and convenience are guaranteed with features like adaptive cruise control, lane-keeping assist, and collision prevention. The Volkswagen ID.7 redefines electric luxury with its perfect blend of style, innovation, and sustainability.",
+                "advantages": [
+                    "Up to 435 miles of range",
+                    "Luxurious and spacious interior",
+                    "Advanced safety and driver-assistance systems"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "electric sedan",
+                    "luxury",
+                    "innovation"
+                ]
+            },
+            "ru": {
+                "title": "Volkswagen ID.7",
+                "head": "Премиальный электрический седан: Volkswagen ID.7",
+                "description": "Volkswagen ID.7 — это флагманский электрический седан, предлагающий передовые технологии, роскошный комфорт и впечатляющий запас хода.",
+                "text": "Volkswagen ID.7 — это полностью электрический премиальный седан, созданный для тех, кто ценит изысканность и производительность. С запасом хода до 700 км и возможностью ультрабыстрой зарядки он обеспечивает комфортные дальние поездки. Интерьер выполнен из премиальных материалов, оснащён современной мультимедийной системой и атмосферной подсветкой. Функции безопасности, такие как адаптивный круиз-контроль, удержание полосы и предотвращение столкновений, гарантируют спокойствие в пути. Volkswagen ID.7 переосмысливает понятие электрической роскоши, сочетая стиль, инновации и устойчивость.",
+                "advantages": [
+                    "Запас хода до 700 км",
+                    "Роскошный и просторный интерьер",
+                    "Передовые системы безопасности и помощи водителю"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "электрический седан",
+                    "роскошь",
+                    "инновации"
+                ]
+            },
+            "ua": {
+                "title": "Volkswagen ID.7",
+                "head": "Преміальний електричний седан: Volkswagen ID.7",
+                "description": "Volkswagen ID.7 — це флагманський електричний седан, що пропонує передові технології, розкішний комфорт і вражаючий запас ходу.",
+                "text": "Volkswagen ID.7 — це повністю електричний преміальний седан, створений для тих, хто цінує витонченість і продуктивність. Із запасом ходу до 700 км і можливістю ультрашвидкої зарядки, він забезпечує комфортні далекі подорожі. Інтер'єр виконаний із преміальних матеріалів, оснащений сучасною мультимедійною системою та атмосферним освітленням. Функції безпеки, такі як адаптивний круїз-контроль, утримання смуги руху та запобігання зіткненням, гарантують спокій у дорозі. Volkswagen ID.7 переосмислює поняття електричної розкоші, поєднуючи стиль, інновації та стійкість.",
+                "advantages": [
+                    "Запас ходу до 700 км",
+                    "Розкішний і просторий інтер'єр",
+                    "Сучасні системи безпеки та допомоги водієві"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "електричний седан",
+                    "розкіш",
+                    "інновації"
+                ]
+            },
+            "be": {
+                "title": "Volkswagen ID.7",
+                "head": "Прэміяльны электрычны седан: Volkswagen ID.7",
+                "description": "Volkswagen ID.7 — гэта флагманскі электрычны седан, які прапануе перадавыя тэхналогіі, раскошны камфорт і ўражлівы запас ходу.",
+                "text": "Volkswagen ID.7 — гэта цалкам электрычны прэміяльны седан, створаны для тых, хто цэніць вытанчанасць і прадукцыйнасць. З запасам ходу да 700 км і магчымасцю ультрахуткай зарадкі ён забяспечвае камфортныя далёкія паездкі. Інтэр'ер выкананы з прэміяльных матэрыялаў, абсталяваны сучаснай мультымедыйнай сістэмай і атмасферным асвятленнем. Функцыі бяспекі, такія як адаптыўны круіз-кантроль, утрыманне паласы і прадухіленне сутыкненняў, гарантуе бяспеку ў дарозе. Volkswagen ID.7 пераасэнсоўвае паняцце электрычнай раскошы, спалучаючы стыль, інавацыі і ўстойлівасць.",
+                "advantages": [
+                    "Запас ходу да 700 км",
+                    "Раскошны і прасторны інтэр'ер",
+                    "Сучасныя сістэмы бяспекі і дапамогі кіроўцу"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "электрычны седан",
+                    "раскоша",
+                    "інавацыі"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen ID.7",
+                "head": "Premium-Elektro-Luxuslimousine: Volkswagen ID.7",
+                "description": "Der Volkswagen ID.7 ist eine Flaggschiff-Elektro-Limousine, die fortschrittliche Technologie, luxuriösen Komfort und eine außergewöhnliche Reichweite bietet.",
+                "text": "Der Volkswagen ID.7 ist eine vollelektrische Luxuslimousine, die für Fahrer entwickelt wurde, die Wert auf Eleganz und Leistung legen. Mit einer Reichweite von bis zu 700 km und ultraschnellem Laden ermöglicht er nahtlose Langstreckenfahrten. Der Innenraum bietet hochwertige Materialien, ein fortschrittliches Infotainmentsystem und stimmungsvolle Beleuchtung. Sicherheit und Komfort sind mit Funktionen wie adaptivem Tempomat, Spurhalteassistent und Kollisionsvermeidungssystem gewährleistet. Der Volkswagen ID.7 definiert elektrischen Luxus neu und vereint Stil, Innovation und Nachhaltigkeit.",
+                "advantages": [
+                    "Reichweite bis zu 700 km",
+                    "Luxuriöser und geräumiger Innenraum",
+                    "Fortschrittliche Sicherheits- und Assistenzsysteme"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "Elektro-Limousine",
+                    "Luxus",
+                    "Innovation"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen ID.7",
+                "head": "Luksusowy elektryczny sedan: Volkswagen ID.7",
+                "description": "Volkswagen ID.7 to flagowy elektryczny sedan, oferujący zaawansowaną technologię, luksusowy komfort i imponujący zasięg.",
+                "text": "Volkswagen ID.7 to w pełni elektryczny luksusowy sedan, zaprojektowany dla kierowców poszukujących wyrafinowania i wydajności. Zasięg do 700 km i ultraszybkie ładowanie zapewniają bezproblemowe podróże na długich dystansach. Wnętrze oferuje najwyższej jakości materiały, zaawansowany system multimedialny i nastrojowe oświetlenie. Bezpieczeństwo i wygodę zapewniają takie funkcje, jak adaptacyjny tempomat, asystent pasa ruchu i system zapobiegania kolizjom. Volkswagen ID.7 redefiniuje luksus w świecie elektromobilności, łącząc styl, innowacje i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 700 km",
+                    "Luksusowe i przestronne wnętrze",
+                    "Zaawansowane systemy bezpieczeństwa i wsparcia kierowcy"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "elektryczny sedan",
+                    "luksus",
+                    "innowacja"
+                ]
+            },
+            "es": {
+                "title": "Volkswagen ID.7",
+                "head": "Sedán eléctrico de lujo: Volkswagen ID.7",
+                "description": "El Volkswagen ID.7 es un sedán eléctrico insignia que ofrece tecnología avanzada, lujo y una autonomía excepcional.",
+                "text": "El Volkswagen ID.7 es un sedán de lujo totalmente eléctrico diseñado para conductores que buscan sofisticación y rendimiento. Con una autonomía de hasta 700 km y carga ultrarrápida, garantiza viajes largos sin interrupciones. El interior cuenta con materiales de alta calidad, un sistema de infoentretenimiento avanzado y una iluminación ambiental. La seguridad y la comodidad están garantizadas con características como control de crucero adaptativo, asistente de mantenimiento de carril y prevención de colisiones. El Volkswagen ID.7 redefine el lujo eléctrico con su perfecta combinación de estilo, innovación y sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 700 km",
+                    "Interior lujoso y espacioso",
+                    "Sistemas avanzados de seguridad y asistencia al conductor"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "sedán eléctrico",
+                    "lujo",
+                    "innovación"
+                ]
+            },
+            "fr": {
+                "title": "Volkswagen ID.7",
+                "head": "Berline électrique de luxe : Volkswagen ID.7",
+                "description": "La Volkswagen ID.7 est une berline électrique haut de gamme offrant technologie avancée, confort luxueux et autonomie exceptionnelle.",
+                "text": "La Volkswagen ID.7 est une berline de luxe 100% électrique conçue pour les conducteurs recherchant sophistication et performance. Avec une autonomie allant jusqu'à 700 km et une charge ultra-rapide, elle garantit des voyages longue distance sans encombre. L'intérieur propose des matériaux de haute qualité, un système d'infodivertissement avancé et un éclairage d'ambiance. La sécurité et la commodité sont assurées par des fonctionnalités telles que le régulateur de vitesse adaptatif, l'assistance au maintien de la voie et la prévention des collisions. La Volkswagen ID.7 redéfinit le luxe électrique avec un mélange parfait de style, innovation et durabilité.",
+                "advantages": [
+                    "Autonomie jusqu'à 700 km",
+                    "Intérieur luxueux et spacieux",
+                    "Systèmes avancés de sécurité et d'assistance au conducteur"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.7",
+                    "berline électrique",
+                    "luxe",
+                    "innovation"
+                ]
+            },
+            "zh": {
+                "title": "Volkswagen ID.7",
+                "head": "豪华电动轿车：大众ID.7",
+                "description": "大众ID.7是一款旗舰级电动轿车，提供先进技术、豪华舒适和出色续航里程。",
+                "text": "大众ID.7是一款专为追求精致和性能的驾驶员设计的全电动豪华轿车。最高续航里程达700公里，支持超快充电，确保无缝长途旅行。内饰采用优质材料，配备先进的信息娱乐系统和环境照明。安全和便利性得到保障，包括自适应巡航控制、车道保持辅助和碰撞预防。大众ID.7通过完美融合风格、创新和可持续性重新定义电动豪华。",
+                "advantages": [
+                    "最高续航里程达700公里",
+                    "豪华宽敞的内饰",
+                    "先进的安全和驾驶辅助系统"
+                ],
+                "keywords": [
+                    "大众",
+                    "ID.7",
+                    "电动轿车",
+                    "豪华",
+                    "创新"
                 ]
             }
         },
