@@ -70,8 +70,8 @@ const values = {
     fr: 'Français'
   },
 
-  domain: 'https://www.kylypko.com',
-  defaultTitle: 'DASAUTO.COM',
+  domain: 'https://www.auto-usa.pro',
+  defaultTitle: 'AUTO-USA.PRO',
   globalSEO,
 
   defaultKeywords: {
