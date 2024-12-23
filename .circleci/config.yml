@@ -3,7 +3,8 @@ jobs:
   build:
     branches:
       only:
-        - master
+        - main
+        - develop
 
     docker:
       - image: cimg/node:22.0
@@ -19,16 +20,15 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
           name: Setup Dependencies
-          command: npm i
+          command: npm i --legacy-peer-deps
       - save_cache: # special step to save the dependency cache
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
-
-      # - run: # run lint
-      #     name: Run License checks
-      #     command: |
-      #       npm run license-checker
+      - run: # run lint
+          name: Run License checks
+          command: |
+            npm run lint
       # - run: # run tests
       #     name: Run Test
       #     command: |
@@ -48,4 +48,4 @@ jobs:
       - run:
           name: Run Deploy
           command: |
-            ssh root@194.28.86.148 "cd ../var/www/vhosts/auto-usa.top && nvm use && git checkout -- . && npm run pm2start"
+            ssh root@194.28.86.148 "cd ../var/www/vhosts/auto-usa.pro && nvm use && git checkout -- . && npm run pm2start"
