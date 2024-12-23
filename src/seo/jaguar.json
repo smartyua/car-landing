@@ -26,6 +26,7 @@
     "models": [
         {
             "slug": "jaguar-i-pace",
+            "title": "Jaguar I-Pace",
             "competitors": [
                 "Tesla Model Y",
                 "Audi e-tron",

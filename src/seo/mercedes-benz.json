@@ -1632,6 +1632,176 @@
                 ],
                 "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
             }
+        },
+        {
+            "slug": "mercedes-benz-eqc",
+            "competitors": [
+                "Tesla Model Y",
+                "BMW iX3",
+                "Audi Q4 e-tron"
+            ],
+            "en": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Experience the Electric Luxury of the Mercedes-Benz EQC",
+                "description": "The Mercedes-Benz EQC is a premium all-electric SUV combining cutting-edge technology, sophisticated design, and exceptional comfort.",
+                "text": "The Mercedes-Benz EQC is a fully electric SUV designed for efficiency, luxury, and performance. With a range of up to 250 miles and fast-charging capability, it is perfect for both city commutes and long journeys. Inside, it features high-quality materials, the advanced MBUX infotainment system, and ambient lighting to create a luxurious atmosphere. Safety is paramount, with features like adaptive cruise control, active lane-keeping assist, and collision prevention systems. The Mercedes-Benz EQC redefines what an electric SUV can be.",
+                "advantages": [
+                    "Up to 250 miles of electric range",
+                    "Luxurious interior with MBUX system",
+                    "Advanced safety features"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "electric SUV",
+                    "luxury",
+                    "performance"
+                ]
+            },
+            "ru": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Ощутите электрическую роскошь Mercedes-Benz EQC",
+                "description": "Mercedes-Benz EQC — это премиальный полностью электрический внедорожник, сочетающий передовые технологии, изысканный дизайн и исключительный комфорт.",
+                "text": "Mercedes-Benz EQC — это полностью электрический внедорожник, разработанный для эффективности, роскоши и производительности. С запасом хода до 400 км и возможностью быстрой зарядки он идеально подходит как для городских поездок, так и для дальних путешествий. Внутри он оснащён высококачественными материалами, современной системой MBUX и атмосферной подсветкой, создающей роскошную атмосферу. Безопасность обеспечивается такими функциями, как адаптивный круиз-контроль, активное удержание полосы и системы предотвращения столкновений. Mercedes-Benz EQC переопределяет понятие электрического внедорожника.",
+                "advantages": [
+                    "Запас хода до 400 км",
+                    "Роскошный интерьер с системой MBUX",
+                    "Передовые функции безопасности"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "электрический внедорожник",
+                    "роскошь",
+                    "производительность"
+                ]
+            },
+            "ua": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Відчуйте електричну розкіш Mercedes-Benz EQC",
+                "description": "Mercedes-Benz EQC — це преміальний повністю електричний позашляховик, що поєднує передові технології, вишуканий дизайн та винятковий комфорт.",
+                "text": "Mercedes-Benz EQC — це повністю електричний позашляховик, створений для ефективності, розкоші та продуктивності. Із запасом ходу до 400 км і можливістю швидкої зарядки він ідеально підходить як для міських поїздок, так і для далеких подорожей. Усередині автомобіль оснащений високоякісними матеріалами, сучасною системою MBUX та атмосферним освітленням, що створює розкішну атмосферу. Безпеку забезпечують такі функції, як адаптивний круїз-контроль, активне утримання смуги та системи запобігання зіткнень. Mercedes-Benz EQC переосмислює поняття електричного позашляховика.",
+                "advantages": [
+                    "Запас ходу до 400 км",
+                    "Розкішний інтер'єр із системою MBUX",
+                    "Сучасні функції безпеки"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "електричний позашляховик",
+                    "розкіш",
+                    "продуктивність"
+                ]
+            },
+            "be": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Адкрыйце электрычную раскошу Mercedes-Benz EQC",
+                "description": "Mercedes-Benz EQC — гэта прэміяльны электрычны пазадарожнік, які спалучае перадавыя тэхналогіі, вытанчаны дызайн і выключны камфорт.",
+                "text": "Mercedes-Benz EQC — гэта цалкам электрычны пазадарожнік, створаны для эфектыўнасці, раскошы і прадукцыйнасці. З запасам ходу да 400 км і магчымасцю хуткай зарадкі ён ідэальна падыходзіць як для гарадскіх паездак, так і для далёкіх падарожжаў. Унутры ён абсталяваны якаснымі матэрыяламі, сучаснай сістэмай MBUX і атмасферным асвятленнем для стварэння раскошнай атмасферы. Бяспеку забяспечваюць такія функцыі, як адаптыўны круіз-кантроль, утрыманне паласы і сістэмы прадухілення сутыкненняў. Mercedes-Benz EQC змяняе ўяўленне аб электрычных пазадарожніках.",
+                "advantages": [
+                    "Запас ходу да 400 км",
+                    "Раскошны інтэр'ер з сістэмай MBUX",
+                    "Сучасныя функцыі бяспекі"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "электрычны пазадарожнік",
+                    "раскоша",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Erleben Sie den elektrischen Luxus des Mercedes-Benz EQC",
+                "description": "Der Mercedes-Benz EQC ist ein Premium-Elektro-SUV, das modernste Technologie, anspruchsvolles Design und außergewöhnlichen Komfort vereint.",
+                "text": "Der Mercedes-Benz EQC ist ein vollelektrischer SUV, der für Effizienz, Luxus und Leistung entwickelt wurde. Mit einer Reichweite von bis zu 400 km und Schnellladefähigkeit ist er sowohl für Stadtfahrten als auch für längere Reisen ideal. Das Interieur verfügt über hochwertige Materialien, das fortschrittliche MBUX-Infotainmentsystem und stimmungsvolle Beleuchtung, die eine luxuriöse Atmosphäre schaffen. Sicherheitsfunktionen wie adaptiver Tempomat, Spurhalteassistent und Kollisionsvermeidungssysteme sorgen für ein sicheres Fahrerlebnis. Der Mercedes-Benz EQC definiert, was ein Elektro-SUV sein kann, neu.",
+                "advantages": [
+                    "Reichweite bis zu 400 km",
+                    "Luxuriöses Interieur mit MBUX-System",
+                    "Fortschrittliche Sicherheitsfunktionen"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "elektrischer SUV",
+                    "Luxus",
+                    "Leistung"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Doświadcz luksusu elektrycznego z Mercedes-Benz EQC",
+                "description": "Mercedes-Benz EQC to elektryczny SUV premium, który łączy najnowocześniejszą technologię, wyrafinowany design i wyjątkowy komfort.",
+                "text": "Mercedes-Benz EQC to w pełni elektryczny SUV zaprojektowany z myślą o efektywności, luksusie i wydajności. Zasięg do 400 km i funkcja szybkiego ładowania sprawiają, że jest idealny zarówno do miejskich dojazdów, jak i długich podróży. Wnętrze oferuje wysokiej jakości materiały, zaawansowany system MBUX i nastrojowe oświetlenie, tworząc luksusową atmosferę. Funkcje bezpieczeństwa, takie jak adaptacyjny tempomat, asystent pasa ruchu i systemy zapobiegania kolizjom, zapewniają spokojną jazdę. Mercedes-Benz EQC redefiniuje pojęcie elektrycznego SUV-a.",
+                "advantages": [
+                    "Zasięg do 400 km",
+                    "Luksusowe wnętrze z systemem MBUX",
+                    "Zaawansowane funkcje bezpieczeństwa"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "elektryczny SUV",
+                    "luksus",
+                    "wydajność"
+                ]
+            },
+            "es": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Experimenta el lujo eléctrico con el Mercedes-Benz EQC",
+                "description": "El Mercedes-Benz EQC es un SUV eléctrico premium que combina tecnología de vanguardia, diseño sofisticado y confort excepcional.",
+                "text": "El Mercedes-Benz EQC es un SUV totalmente eléctrico diseñado para la eficiencia, el lujo y el rendimiento. Con una autonomía de hasta 400 km y capacidad de carga rápida, es perfecto tanto para desplazamientos urbanos como para viajes largos. El interior cuenta con materiales de alta calidad, el avanzado sistema de infoentretenimiento MBUX y una iluminación ambiental para crear una atmósfera lujosa. Las características de seguridad, como el control de crucero adaptativo, el asistente de mantenimiento de carril y los sistemas de prevención de colisiones, garantizan una conducción segura. El Mercedes-Benz EQC redefine lo que puede ser un SUV eléctrico.",
+                "advantages": [
+                    "Autonomía de hasta 400 km",
+                    "Interior lujoso con sistema MBUX",
+                    "Funciones avanzadas de seguridad"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "SUV eléctrico",
+                    "lujo",
+                    "rendimiento"
+                ]
+            },
+            "fr": {
+                "title": "Mercedes-Benz EQC",
+                "head": "Découvrez le luxe électrique avec le Mercedes-Benz EQC",
+                "description": "Le Mercedes-Benz EQC est un SUV électrique haut de gamme alliant technologie de pointe, design raffiné et confort exceptionnel.",
+                "text": "Le Mercedes-Benz EQC est un SUV entièrement électrique conçu pour l'efficacité, le luxe et la performance. Avec une autonomie allant jusqu'à 400 km et une capacité de charge rapide, il est idéal pour les trajets urbains et les longs voyages. L'intérieur présente des matériaux de haute qualité, le système d'infodivertissement avancé MBUX et un éclairage d'ambiance pour créer une atmosphère luxueuse. Les fonctionnalités de sécurité, telles que le régulateur de vitesse adaptatif, l'assistance au maintien de la voie et les systèmes de prévention des collisions, garantissent une conduite sécurisée. Le Mercedes-Benz EQC redéfinit ce qu'un SUV électrique peut être.",
+                "advantages": [
+                    "Autonomie jusqu'à 400 km",
+                    "Intérieur luxueux avec système MBUX",
+                    "Fonctionnalités de sécurité avancées"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "SUV électrique",
+                    "luxe",
+                    "performance"
+                ]
+            },
+            "zh": {
+                "title": "Mercedes-Benz EQC",
+                "head": "体验梅赛德斯-奔驰EQC的电动豪华",
+                "description": "梅赛德斯-奔驰EQC是一款高端全电动SUV，结合了尖端技术、精致设计和卓越舒适性。",
+                "text": "梅赛德斯-奔驰EQC是一款专为效率、豪华和性能而设计的全电动SUV。最高续航里程达400公里，支持快速充电，非常适合城市通勤和长途旅行。内饰采用高品质材料，配备先进的MBUX信息娱乐系统和环境照明，营造出奢华的氛围。安全性是首要考虑因素，配备了自适应巡航控制、主动车道保持辅助和碰撞预防系统等功能。梅赛德斯-奔驰EQC重新定义了电动SUV的概念。",
+                "advantages": [
+                    "最高续航里程达400公里",
+                    "配备MBUX系统的豪华内饰",
+                    "先进的安全功能"
+                ],
+                "keywords": [
+                    "Mercedes-Benz",
+                    "EQC",
+                    "电动SUV",
+                    "豪华",
+                    "性能"
+                ]
+            }
         }
     ]
 }

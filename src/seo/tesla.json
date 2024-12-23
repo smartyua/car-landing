@@ -634,11 +634,12 @@
         },
         {
             "slug": "model-y",
+            "image": "tesla-model-y.jpg",
             "competitors": [
                 "Audi Q4 e-tron",
                 "Ford Mustang Mach-E",
                 "Volvo XC40 Recharge",
-                "Jaguar I-PACE"
+                "Jaguar I-Pace"
             ],
             "en": {
                 "title": "Tesla Model Y",
@@ -676,7 +677,7 @@
                     "Audi Q4 e-tron",
                     "Ford Mustang Mach-E",
                     "Volvo XC40 Recharge",
-                    "Jaguar I-PACE"
+                    "Jaguar I-Pace"
                 ],
                 "keywords": [
                     "Tesla Model Y",
@@ -828,7 +829,7 @@
             "competitors": [
                 "Porsche Taycan Turbo",
                 "Audi e-tron GT",
-                "Jaguar I-PACE"
+                "Jaguar I-Pace"
             ],
             "en": {
                 "title": "Tesla Roadster",

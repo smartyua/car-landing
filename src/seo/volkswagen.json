@@ -25,444 +25,155 @@
     },
     "models": [
         {
-            "slug": "id-4",
+            "slug": "volkswagen-id4",
+            "competitors": [
+                "Tesla Model Y",
+                "Hyundai Ioniq 5",
+                "Kia EV6"
+            ],
             "en": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 is a top-rated car model offering great performance and luxury.",
+                "head": "Discover Electric Innovation with the Volkswagen ID.4",
+                "description": "The Volkswagen ID.4 is a versatile all-electric SUV offering advanced technology, sustainability, and a spacious design.",
+                "text": "The Volkswagen ID.4 is a fully electric compact SUV designed to make electric mobility accessible and practical. With a range of up to 275 miles and fast-charging capabilities, it ensures convenience for daily commutes and long-distance journeys. The interior features high-quality materials, a digital cockpit, and an intuitive infotainment system. Safety is prioritized with advanced driver assistance systems such as adaptive cruise control, lane-keeping assist, and emergency braking. The Volkswagen ID.4 is perfect for those who seek sustainability without sacrificing comfort and practicality.",
+                "advantages": [
+                    "Up to 275 miles of electric range",
+                    "Spacious and modern interior",
+                    "Advanced driver assistance features"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "electric SUV",
+                    "sustainability",
+                    "versatility"
+                ]
             },
             "ru": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "head": "Откройте электрические инновации с Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — это универсальный полностью электрический внедорожник, предлагающий передовые технологии, устойчивость и просторный дизайн.",
+                "text": "Volkswagen ID.4 — это полностью электрический компактный внедорожник, созданный для того, чтобы сделать электромобили доступными и практичными. С запасом хода до 442 км и возможностью быстрой зарядки он обеспечивает удобство как для повседневных поездок, так и для дальних путешествий. Интерьер выполнен из качественных материалов и оснащён цифровой приборной панелью и интуитивно понятной мультимедийной системой. Приоритетом является безопасность, которая обеспечивается такими функциями, как адаптивный круиз-контроль, удержание полосы движения и экстренное торможение. Volkswagen ID.4 — идеальный выбор для тех, кто ищет устойчивость без ущерба для комфорта и практичности.",
+                "advantages": [
+                    "Запас хода до 442 км",
+                    "Просторный и современный интерьер",
+                    "Передовые функции помощи водителю"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "электрический внедорожник",
+                    "устойчивость",
+                    "универсальность"
+                ]
             },
             "ua": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "head": "Відкрийте електричні інновації з Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — це універсальний повністю електричний позашляховик, що пропонує передові технології, стійкість та просторий дизайн.",
+                "text": "Volkswagen ID.4 — це повністю електричний компактний позашляховик, створений для того, щоб зробити електромобільність доступною та практичною. Із запасом ходу до 442 км і можливістю швидкої зарядки, він забезпечує зручність як для щоденних поїздок, так і для далеких подорожей. Інтер'єр оснащений якісними матеріалами, цифровою панеллю приладів та інтуїтивно зрозумілою мультимедійною системою. Пріоритетом є безпека завдяки таким функціям, як адаптивний круїз-контроль, утримання смуги руху та екстрене гальмування. Volkswagen ID.4 — це ідеальний вибір для тих, хто шукає стійкість без компромісів у комфорті та практичності.",
+                "advantages": [
+                    "Запас ходу до 442 км",
+                    "Просторий та сучасний інтер'єр",
+                    "Сучасні функції допомоги водію"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.4",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.4",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "електричний позашляховик",
+                    "стійкість",
+                    "універсальність"
+                ]
             },
             "be": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Адкрыйце электрычныя інавацыі з Volkswagen ID.4",
+                "description": "Volkswagen ID.4 — гэта універсальны цалкам электрычны пазадарожнік, які прапануе перадавыя тэхналогіі, устойлівасць і прасторны дызайн.",
+                "text": "Volkswagen ID.4 — гэта цалкам электрычны кампактны пазадарожнік, створаны для таго, каб зрабіць электратранспарт даступным і практычным. З запасам ходу да 442 км і магчымасцю хуткай зарадкі ён забяспечвае зручнасць для штодзённых паездак і далёкіх падарожжаў. Інтэр'ер выкананы з якасных матэрыялаў і абсталяваны лічбавай панэллю прыбораў і інтуітыўна зразумелай мультымедыйнай сістэмай. Перавага надаецца бяспецы дзякуючы такім функцыям, як адаптыўны круіз-кантроль, утрыманне паласы і экстранае тармажэнне. Volkswagen ID.4 — ідэальны выбар для тых, хто шукае ўстойлівасць без шкоды для камфорту і практычнасці.",
+                "advantages": [
+                    "Запас ходу да 442 км",
+                    "Прасторны і сучасны інтэр'ер",
+                    "Сучасныя функцыі дапамогі кіроўцу"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
+                    "электрычны пазадарожнік",
+                    "устойлівасць",
+                    "універсальнасць"
+                ]
+            },
+            "de": {
+                "title": "Volkswagen ID.4",
+                "head": "Entdecken Sie elektrische Innovation mit dem Volkswagen ID.4",
+                "description": "Der Volkswagen ID.4 ist ein vielseitiger Elektro-SUV, der fortschrittliche Technologie, Nachhaltigkeit und ein geräumiges Design bietet.",
+                "text": "Der Volkswagen ID.4 ist ein vollelektrischer Kompakt-SUV, der entwickelt wurde, um Elektromobilität zugänglich und praktisch zu machen. Mit einer Reichweite von bis zu 442 km und Schnellladefähigkeit bietet er Komfort für den Alltag und längere Reisen. Der Innenraum besteht aus hochwertigen Materialien und verfügt über ein digitales Cockpit sowie ein intuitives Infotainmentsystem. Sicherheit wird mit fortschrittlichen Fahrassistenzsystemen wie adaptivem Tempomat, Spurhalteassistent und Notbremsassistent großgeschrieben. Der Volkswagen ID.4 ist perfekt für alle, die Nachhaltigkeit suchen, ohne auf Komfort und Praktikabilität zu verzichten.",
+                "advantages": [
+                    "Reichweite bis zu 442 km",
+                    "Geräumiges und modernes Interieur",
+                    "Fortschrittliche Fahrassistenzfunktionen"
                 ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "elektrischer SUV",
+                    "Nachhaltigkeit",
+                    "Vielseitigkeit"
+                ]
+            },
+            "pl": {
+                "title": "Volkswagen ID.4",
+                "head": "Odkryj elektryczne innowacje z Volkswagen ID.4",
+                "description": "Volkswagen ID.4 to wszechstronny, elektryczny SUV oferujący zaawansowaną technologię, zrównoważony rozwój i przestronny design.",
+                "text": "Volkswagen ID.4 to w pełni elektryczny kompaktowy SUV zaprojektowany, aby uczynić mobilność elektryczną dostępną i praktyczną. Zasięg do 442 km i funkcja szybkiego ładowania zapewniają wygodę zarówno na co dzień, jak i w długich podróżach. Wnętrze wyróżnia się wysokiej jakości materiałami, cyfrowym kokpitem i intuicyjnym systemem infotainment. Priorytetem jest bezpieczeństwo, które zapewniają zaawansowane systemy wspomagania kierowcy, takie jak adaptacyjny tempomat, asystent pasa ruchu i system awaryjnego hamowania. Volkswagen ID.4 to idealny wybór dla osób poszukujących zrównoważonego rozwoju bez kompromisów w zakresie komfortu i funkcjonalności.",
+                "advantages": [
+                    "Zasięg do 442 km",
+                    "Przestronne i nowoczesne wnętrze",
+                    "Zaawansowane systemy wspomagania kierowcy"
+                ],
+                "keywords": [
+                    "Volkswagen",
+                    "ID.4",
+                    "elektryczny SUV",
+                    "zrównoważony rozwój",
+                    "wszechstronność"
+                ]
             },
             "es": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
+                "head": "Descubre la innovación eléctrica con el Volkswagen ID.4",
+                "description": "El Volkswagen ID.4 es un SUV totalmente eléctrico que combina tecnología avanzada, sostenibilidad y un diseño espacioso.",
+                "text": "El Volkswagen ID.4 es un SUV compacto completamente eléctrico diseñado para hacer que la movilidad eléctrica sea accesible y práctica. Con una autonomía de hasta 442 km y capacidad de carga rápida, ofrece comodidad tanto para viajes diarios como de larga distancia. El interior cuenta con materiales de alta calidad, un cockpit digital y un sistema de infoentretenimiento intuitivo. La seguridad es prioritaria, con características avanzadas de asistencia al conductor, como control de crucero adaptativo, asistencia para mantenerse en el carril y frenado de emergencia. El Volkswagen ID.4 es ideal para quienes buscan sostenibilidad sin sacrificar comodidad y funcionalidad.",
+                "advantages": [
+                    "Autonomía de hasta 442 km",
+                    "Interior espacioso y moderno",
+                    "Funciones avanzadas de asistencia al conductor"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "SUV eléctrico",
+                    "sostenibilidad",
+                    "versatilidad"
+                ]
             },
             "fr": {
                 "title": "Volkswagen ID.4",
-                "description": "Volkswagen ID.4 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
+                "head": "Découvrez l'innovation électrique avec le Volkswagen ID.4",
+                "description": "Le Volkswagen ID.4 est un SUV 100% électrique qui allie technologie avancée, durabilité et design spacieux.",
+                "text": "Le Volkswagen ID.4 est un SUV compact entièrement électrique conçu pour rendre la mobilité électrique accessible et pratique. Avec une autonomie allant jusqu'à 442 km et une capacité de charge rapide, il offre une grande commodité pour les trajets quotidiens et les longs voyages. L'intérieur est doté de matériaux de haute qualité, d'un cockpit numérique et d'un système d'infodivertissement intuitif. La sécurité est une priorité grâce à des fonctions avancées d'assistance à la conduite telles que le régulateur de vitesse adaptatif, l'assistance au maintien dans la voie et le freinage d'urgence. Le Volkswagen ID.4 est parfait pour ceux qui recherchent durabilité sans compromettre le confort et la praticité.",
+                "advantages": [
+                    "Autonomie jusqu'à 442 km",
+                    "Intérieur spacieux et moderne",
+                    "Fonctionnalités avancées d'assistance à la conduite"
+                ],
                 "keywords": [
                     "Volkswagen",
                     "ID.4",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "zh": {
-                "title": "大众ID.4",
-                "description": "大众ID.4是一款性能出色且豪华的顶级车型。",
-                "keywords": [
-                    "大众",
-                    "ID.4",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "id-4 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "大众ID.4 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-4's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            }
-        },
-        {
-            "slug": "id-3",
-            "en": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "be": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "es": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "fr": {
-                "title": "Volkswagen ID.3",
-                "description": "Volkswagen ID.3 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.3",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "zh": {
-                "title": "大众ID.3",
-                "description": "大众ID.3是一款性能出色且豪华的顶级车型。",
-                "keywords": [
-                    "大众",
-                    "ID.3",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "id-3 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "大众ID.3 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-3's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            }
-        },
-        {
-            "slug": "id-6",
-            "en": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "be": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "es": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 es un modelo de coche de alta calificación que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "fr": {
-                "title": "Volkswagen ID.6",
-                "description": "Volkswagen ID.6 est un modèle de voiture très bien noté offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "Volkswagen",
-                    "ID.6",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Volkswagen ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "zh": {
-                "title": "大众ID.6",
-                "description": "大众ID.6是一款性能出色且豪华的顶级车型。",
-                "keywords": [
-                    "大众",
-                    "ID.6",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "id-6 highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "大众ID.6 offers a perfect blend of performance, design, and innovation. Ideal for drivers who value id-6's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "SUV électrique",
+                    "durabilité",
+                    "polyvalence"
+                ]
             }
         },
         {
