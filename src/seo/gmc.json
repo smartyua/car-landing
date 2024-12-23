@@ -1,0 +1,162 @@
+{
+    "slug": "gmc",
+    "title": "GMS",
+    "headTitle": {
+        "en": "GMS cars for sale at US car auctions",
+        "ru": "Автомобили GMS на продажу на аукционах автомобилей в США",
+        "ua": "Автомобілі GMS на продаж на аукціонах автомобілів в США",
+        "pl": "Samochody GMS na sprzedaż na aukcjach samochodowych w USA",
+        "de": "GMS-Autos zu verkaufen bei US-Autoauktionen",
+        "be": "Аўтамабілі GMS на продаж на аўкцыёнах аўтамабіляў у ЗША",
+        "es": "Coches GMS en venta en subastas de coches de EE. UU.",
+        "zh": "GMS汽车在美国二手车拍卖会上出售",
+        "fr": "Voitures GMS à vendre aux enchères de voitures aux États-Unis"
+    },
+    "description": {
+        "en": "GMS is synonymous with innovation and sustainability, making it an exceptional choice at US used car auctions. With cutting-edge electric technology, models offer impressive performance, long-range capabilities, and eco-friendly benefits. Tesla vehicles are increasingly popular among those seeking modern electric vehicles with advanced features and high resale value.",
+        "ru": "GMS синонимичен с инновациями и устойчивостью, что делает его исключительным выбором на аукционах подержанных автомобилей в США. Благодаря передовой электрической технологии, модели предлагают впечатляющую производительность, возможности дальней поездки и экологические преимущества. Автомобили Tesla становятся все более популярными среди тех, кто ищет современные электромобили с передовыми функциями и высокой стоимостью вторичной продажи.",
+        "ua": "GMS синонімічний з інноваціями та стійкістю, що робить його винятковим вибором на аукціонах вживаних автомобілів в США. Завдяки передової електричній технології, моделі пропонують вражаючу продуктивність, можливості дальніх поїздок та екологічні переваги. Автомобілі Tesla стають все більш популярними серед тих, хто шукає сучасні електромобілі з передовими функціями та високою вартістю вторинної продажу.",
+        "pl": "GMS to synonim innowacji i zrównoważonego rozwoju, co czyni go wyjątkowym wyborem na aukcjach samochodów używanych w USA. Dzięki zaawansowanej technologii elektrycznej, modele oferują imponującą wydajność, możliwości długodystansowe i korzyści ekologiczne. Samochody Tesla cieszą się coraz większą popularnością wśród osób poszukujących nowoczesnych samochodów elektrycznych z zaawansowanymi funkcjami i wysoką wartością odsprzedaży.",
+        "de": "GMS steht für Innovation und Nachhaltigkeit und ist daher eine herausragende Wahl bei US-Gebrauchtwagenauktionen. Mit modernster Elektrotechnologie bieten die Modelle beeindruckende Leistung, Reichweitenfähigkeiten und umweltfreundliche Vorteile. Tesla-Fahrzeuge erfreuen sich zunehmender Beliebtheit bei denen, die moderne Elektrofahrzeuge mit fortschrittlichen Funktionen und hohem Wiederver",
+        "be": "GMS з'яўляецца сінонімам інавацый і стойкасці, што робіць яго выключным выбарам на аўкцыёнах ужываных аўтамабіляў у ЗША. Благадары перадавой электрычнай тэхналогіі, мадэлі прапануюць уражаючую прадукцыю, магчымасці даўгіх паездак і эколагічныя перавагі. Аўтамабілі Tesla стаюцца ўсё больш папулярнымі сярод тых, хто шукае сучасныя электрамабілі з перадавымі функцыямі і высокай коштамі пасляпродажнага перадачы.",
+        "es": "GMS es sinónimo de innovación y sostenibilidad, lo que lo convierte en una elección excepcional en las subastas de coches usados de EE. UU. Con tecnología eléctrica de vanguardia, los modelos ofrecen un rendimiento impresionante, capacidades de largo alcance y beneficios ecológicos. Los vehículos Tesla son cada vez más populares entre aquellos que buscan vehículos eléctricos modernos con funciones avanzadas y un alto valor de reventa.",
+        "zh": "GMS 代表创新和可持续性，使其成为美国二手车拍卖会上的卓越选择。凭借先进的电动技术，这些车型提供了令人印象深刻的性能、长途能力和环保优势。特斯拉汽车越来越受到寻求现代电动汽车、具有先进功能和高二手价值的人士的青睐。",
+        "fr": "GMS est synonyme d'innovation et de durabilité, ce qui en fait un choix exceptionnel lors des enchères de voitures d'occasion aux États-Unis. Grâce à une technologie électrique de pointe, les modèles offrent des performances impressionnantes, des capacités de longue portée et des avantages écologiques. Les véhicules Tesla sont de plus en plus populaires parmi ceux qui recherchent des véhicules électriques modernes avec des fonctionnalités avancées et une valeur de revente élevée."
+    },
+    "models": [
+        {
+            "slug": "gmc-hummer-ev",
+            "competitors": [
+                "Tesla Cybertruck",
+                "Rivian R1T",
+                "Ford F-150 Lightning"
+            ],
+            "en": {
+                "title": "GMC Hummer EV",
+                "head": "Experience Revolutionary Power with the GMC Hummer EV",
+                "description": "The GMC Hummer EV is an all-electric supertruck combining exceptional off-road capabilities, cutting-edge technology, and revolutionary design.",
+                "text": "The GMC Hummer EV is a fully electric truck designed to redefine off-road and performance driving. With up to 1,000 horsepower and a range of 329 miles, it offers unmatched power and versatility. The innovative CrabWalk™ mode and adaptive air suspension enhance off-road capabilities, while the interior features premium materials, a 13.4-inch infotainment screen, and customizable displays. Advanced safety systems like Super Cruise™ provide hands-free driving on compatible roads. Perfect for adventurers seeking a bold electric vehicle.",
+                "advantages": [
+                    "Up to 1,000 horsepower",
+                    "CrabWalk™ mode for enhanced off-road performance",
+                    "Advanced Super Cruise™ hands-free driving"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "electric truck",
+                    "off-road",
+                    "supertruck"
+                ]
+            },
+            "ru": {
+                "title": "GMC Hummer EV",
+                "head": "Ощутите революционную мощь с GMC Hummer EV",
+                "description": "GMC Hummer EV — это полностью электрический суперпикап, который сочетает исключительные внедорожные возможности, передовые технологии и революционный дизайн.",
+                "text": "GMC Hummer EV — это полностью электрический грузовик, созданный для переосмысления внедорожного и динамического вождения. С мощностью до 1 000 лошадиных сил и запасом хода 529 км он предлагает непревзойденную мощь и универсальность. Инновационный режим CrabWalk™ и адаптивная подвеска усиливают внедорожные возможности, а интерьер отличается премиальными материалами, 13,4-дюймовым экраном и настраиваемыми дисплеями. Передовые системы безопасности, такие как Super Cruise™, обеспечивают вождение без рук на совместимых дорогах. Идеальный выбор для любителей приключений, ищущих смелое электрическое транспортное средство.",
+                "advantages": [
+                    "До 1 000 лошадиных сил",
+                    "Режим CrabWalk™ для улучшенной проходимости",
+                    "Передовая система Super Cruise™ для вождения без рук"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "электрический грузовик",
+                    "внедорожье",
+                    "суперпикап"
+                ]
+            },
+            "be": {
+                "title": "GMC Hummer EV",
+                "head": "Адкрыйце рэвалюцыйную магутнасць з GMC Hummer EV",
+                "description": "GMC Hummer EV — гэта цалкам электрычны суперпікап, які спалучае выдатныя пазадарожныя магчымасці, сучасныя тэхналогіі і рэвалюцыйны дызайн.",
+                "text": "GMC Hummer EV — гэта цалкам электрычны грузавік, распрацаваны для пераасэнсавання пазадарожнага і дынамічнага кіравання. З магутнасцю да 1 000 конскіх сіл і запасам ходу да 529 км ён прапануе беспрэцэдэнтную магутнасць і ўніверсальнасць. Інавацыйны рэжым CrabWalk™ і адаптыўная падвеска павялічваюць пазадарожныя магчымасці, а інтэр'ер адрозніваецца прэміяльнымі матэрыяламі, 13,4-цалевым экранам і наладжвальнымі дысплеямі. Перадавыя сістэмы бяспекі, такія як Super Cruise™, забяспечваюць кіраванне без рук на сумяшчальных дарогах. Ідэальны выбар для аматараў прыгод, якія шукаюць смелае электрычнае транспартнае сродак.",
+                "advantages": [
+                    "Да 1 000 конскіх сіл",
+                    "Рэжым CrabWalk™ для палепшанай праходнасці",
+                    "Сучасная сістэма Super Cruise™ для кіравання без рук"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "электрычны грузавік",
+                    "пазадарожнік",
+                    "супергрузавік"
+                ]
+            },
+            "de": {
+                "title": "GMC Hummer EV",
+                "head": "Erleben Sie revolutionäre Kraft mit dem GMC Hummer EV",
+                "description": "Der GMC Hummer EV ist ein vollelektrischer Supertruck, der außergewöhnliche Offroad-Fähigkeiten, modernste Technologie und revolutionäres Design vereint.",
+                "text": "Der GMC Hummer EV ist ein vollelektrischer Truck, der Offroad- und Performance-Fahrten neu definiert. Mit bis zu 1.000 PS und einer Reichweite von 529 km bietet er unvergleichliche Leistung und Vielseitigkeit. Der innovative CrabWalk™-Modus und die adaptive Luftfederung verbessern die Offroad-Fähigkeiten, während das Interieur mit hochwertigen Materialien, einem 13,4-Zoll-Infotainment-Bildschirm und anpassbaren Anzeigen überzeugt. Fortschrittliche Sicherheitssysteme wie Super Cruise™ ermöglichen freihändiges Fahren auf kompatiblen Straßen. Perfekt für Abenteurer, die ein mutiges Elektrofahrzeug suchen.",
+                "advantages": [
+                    "Bis zu 1.000 PS",
+                    "CrabWalk™-Modus für bessere Offroad-Performance",
+                    "Fortschrittliches Super Cruise™ für freihändiges Fahren"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "elektrischer Truck",
+                    "Offroad",
+                    "Supertruck"
+                ]
+            },
+            "uk": {
+                "title": "GMC Hummer EV",
+                "head": "Відкрийте революційну потужність із GMC Hummer EV",
+                "description": "GMC Hummer EV — це повністю електричний суперпікап, який поєднує унікальні позашляхові можливості, передові технології та революційний дизайн.",
+                "text": "GMC Hummer EV — це повністю електричний пікап, створений для переосмислення позашляхового та динамічного керування. Із потужністю до 1 000 кінських сил і запасом ходу 529 км, він пропонує неперевершену потужність і універсальність. Інноваційний режим CrabWalk™ і адаптивна підвіска підвищують позашляхові можливості, а інтер'єр відрізняється преміальними матеріалами, 13,4-дюймовим екраном і настроюваними дисплеями. Сучасні системи безпеки, такі як Super Cruise™, дозволяють керувати без рук на сумісних дорогах. Ідеальний вибір для шукачів пригод, які прагнуть сміливого електричного автомобіля.",
+                "advantages": [
+                    "Потужність до 1 000 кінських сил",
+                    "Режим CrabWalk™ для покращеної прохідності",
+                    "Передова система Super Cruise™ для безконтактного керування"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "електричний пікап",
+                    "позашляховик",
+                    "суперпікап"
+                ]
+            },
+            "pl": {
+                "title": "GMC Hummer EV",
+                "head": "Odkryj rewolucyjną moc z GMC Hummer EV",
+                "description": "GMC Hummer EV to w pełni elektryczny supertruck, który łączy wyjątkowe możliwości terenowe, najnowocześniejszą technologię i rewolucyjny design.",
+                "text": "GMC Hummer EV to całkowicie elektryczny pick-up zaprojektowany, aby na nowo zdefiniować jazdę terenową i wydajność. Z mocą do 1 000 KM i zasięgiem 529 km oferuje niezrównaną moc i wszechstronność. Innowacyjny tryb CrabWalk™ i adaptacyjne zawieszenie powietrzne zwiększają możliwości terenowe, a wnętrze oferuje wysokiej jakości materiały, ekran infotainment o przekątnej 13,4 cala i konfigurowalne wyświetlacze. Zaawansowane systemy bezpieczeństwa, takie jak Super Cruise™, umożliwiają jazdę bez użycia rąk na kompatybilnych drogach. Idealny wybór dla poszukiwaczy przygód szukających odważnego pojazdu elektrycznego.",
+                "advantages": [
+                    "Moc do 1 000 KM",
+                    "Tryb CrabWalk™ dla lepszej wydajności terenowej",
+                    "Zaawansowany Super Cruise™ do jazdy bez użycia rąk"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "elektryczny truck",
+                    "off-road",
+                    "supertruck"
+                ]
+            },
+            "es": {
+                "title": "GMC Hummer EV",
+                "head": "Descubre la potencia revolucionaria con el GMC Hummer EV",
+                "description": "El GMC Hummer EV es una camioneta eléctrica que combina capacidades todoterreno excepcionales, tecnología avanzada y diseño revolucionario.",
+                "text": "El GMC Hummer EV es una camioneta totalmente eléctrica diseñada para redefinir la conducción todoterreno y de alto rendimiento. Con hasta 1,000 caballos de fuerza y un rango de 529 km, ofrece una potencia y versatilidad incomparables. El innovador modo CrabWalk™ y la suspensión de aire adaptativa mejoran las capacidades todoterreno, mientras que el interior cuenta con materiales premium, una pantalla de infoentretenimiento de 13.4 pulgadas y pantallas personalizables. Los avanzados sistemas de seguridad como Super Cruise™ ofrecen conducción manos libres en carreteras compatibles. Perfecto para aventureros que buscan un vehículo eléctrico audaz.",
+                "advantages": [
+                    "Hasta 1,000 caballos de fuerza",
+                    "Modo CrabWalk™ para un rendimiento todoterreno mejorado",
+                    "Avanzado Super Cruise™ para conducción manos libres"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "camioneta eléctrica",
+                    "todoterreno",
+                    "supertruck"
+                ]
+            }
+        }
+    ]
+}

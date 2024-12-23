@@ -23,6 +23,7 @@ import rivian from './seo/rivian.json';
 import jaguar from './seo/jaguar.json';
 import volvo from './seo/volvo.json';
 import lucid from './seo/lucid.json';
+import gmc from './seo/gmc.json';
 import liAutoXiang from './seo/li-auto-li-xiang.json';
 
 const globalSEO = {
@@ -37,6 +38,7 @@ const globalSEO = {
   rivian,
   'li-auto-li-xiang': liAutoXiang,
   bmw: bmwSeo,
+  gmc,
   chevrolet: chevroletSeo,
   dodge: dodgeSeo,
   ford: fordSeo,

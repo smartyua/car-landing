@@ -13,7 +13,7 @@
     "post4": "npm i webpack-dev-server@4.15.1 --legacy-peer-deps",
     "post5": "npm i react-router-dom@6.8.1 --legacy-peer-deps",
     "postinstall": "npm run post1 && npm run post2 && npm run post3 && npm run post4",
-    "dev": "PORT=10000 razzle start",
+    "dev": "PORT=8080 razzle start",
     "build": "PORT=10000 NODE_ENV=production razzle build --noninteractive",
     "build:production": "PORT=10000 NODE_ENV=production razzle build --noninteractive",
     "export": "razzle export",
