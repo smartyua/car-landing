@@ -923,6 +923,176 @@
                 ],
                 "text": "The Kia Forte stands out as an exceptional choice in its category. Known for its forte signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
             }
+        },
+        {
+            "slug": "kia-ev3",
+            "competitors": [
+                "Hyundai Kona Electric",
+                "Volkswagen ID.3",
+                "Nissan Leaf"
+            ],
+            "en": {
+                "title": "Kia EV3",
+                "head": "Compact Electric Versatility: Kia EV3",
+                "description": "The Kia EV3 is a stylish and compact all-electric vehicle designed for urban commuting and sustainability-focused drivers.",
+                "text": "The Kia EV3 is a compact all-electric vehicle combining practicality, efficiency, and modern technology. With a range of up to 250 miles on a single charge, it is perfect for city driving and short getaways. The interior features a high-tech infotainment system, a spacious cabin, and comfortable seating, ensuring a pleasant driving experience. Advanced safety features and a sleek design make the Kia EV3 an ideal choice for eco-conscious drivers who value performance and sustainability.",
+                "advantages": [
+                    "Up to 250 miles of range",
+                    "Compact and modern design",
+                    "Advanced safety and infotainment features"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "electric vehicle",
+                    "compact",
+                    "sustainability"
+                ]
+            },
+            "ru": {
+                "title": "Kia EV3",
+                "head": "Компактный электрический автомобиль: Kia EV3",
+                "description": "Kia EV3 — это стильный и компактный полностью электрический автомобиль, созданный для городских поездок и водителей, заботящихся об устойчивости.",
+                "text": "Kia EV3 — это компактный полностью электрический автомобиль, который сочетает практичность, эффективность и современные технологии. С запасом хода до 400 км на одной зарядке он идеально подходит для городских поездок и коротких путешествий. Интерьер оснащён высокотехнологичной мультимедийной системой, просторным салоном и комфортными сидениями, что обеспечивает приятный опыт вождения. Передовые функции безопасности и стильный дизайн делают Kia EV3 идеальным выбором для экологически сознательных водителей, которые ценят производительность и устойчивость.",
+                "advantages": [
+                    "Запас хода до 400 км",
+                    "Компактный и современный дизайн",
+                    "Передовые функции безопасности и мультимедиа"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "электрический автомобиль",
+                    "компактный",
+                    "устойчивость"
+                ]
+            },
+            "ua": {
+                "title": "Kia EV3",
+                "head": "Компактний електромобіль: Kia EV3",
+                "description": "Kia EV3 — це стильний і компактний повністю електричний автомобіль, створений для міських поїздок і водіїв, які піклуються про стійкість.",
+                "text": "Kia EV3 — це компактний повністю електричний автомобіль, що поєднує практичність, ефективність і сучасні технології. Із запасом ходу до 400 км на одному заряді він ідеально підходить для міських поїздок і коротких подорожей. Інтер'єр оснащений високотехнологічною мультимедійною системою, просторим салоном і комфортними сидіннями, що забезпечує приємний досвід керування. Передові функції безпеки та стильний дизайн роблять Kia EV3 ідеальним вибором для екологічно свідомих водіїв, які цінують продуктивність і стійкість.",
+                "advantages": [
+                    "Запас ходу до 400 км",
+                    "Компактний і сучасний дизайн",
+                    "Передові функції безпеки та мультимедіа"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "електромобіль",
+                    "компактний",
+                    "стійкість"
+                ]
+            },
+            "be": {
+                "title": "Kia EV3",
+                "head": "Компактны электрамабіль: Kia EV3",
+                "description": "Kia EV3 — гэта стыльны і кампактны цалкам электрычны аўтамабіль, створаны для гарадскіх паездак і вадзіцеляў, якія клапоцяцца пра ўстойлівасць.",
+                "text": "Kia EV3 — гэта кампактны цалкам электрычны аўтамабіль, які спалучае практычнасць, эфектыўнасць і сучасныя тэхналогіі. З запасам ходу да 400 км на адной зарадцы ён ідэальна падыходзіць для гарадскіх паездак і кароткіх падарожжаў. Інтэр'ер абсталяваны высокатэхналагічнай мультымедыйнай сістэмай, прасторным салонам і камфортнымі сядзеннямі, што забяспечвае прыемны вопыт кіравання. Перадавыя функцыі бяспекі і стыльны дызайн робяць Kia EV3 ідэальным выбарам для экалагічна свядомых вадзіцеляў, якія цэняць прадукцыйнасць і ўстойлівасць.",
+                "advantages": [
+                    "Запас ходу да 400 км",
+                    "Кампактны і сучасны дызайн",
+                    "Перадавыя функцыі бяспекі і мультымедыя"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "электрамабіль",
+                    "кампактны",
+                    "устойлівасць"
+                ]
+            },
+            "de": {
+                "title": "Kia EV3",
+                "head": "Kompakte Elektro-Vielseitigkeit: Kia EV3",
+                "description": "Der Kia EV3 ist ein stilvolles und kompaktes Elektrofahrzeug, das für den Stadtverkehr und nachhaltig orientierte Fahrer entwickelt wurde.",
+                "text": "Der Kia EV3 ist ein kompaktes Elektrofahrzeug, das Praktikabilität, Effizienz und moderne Technologie kombiniert. Mit einer Reichweite von bis zu 400 km pro Ladung ist er perfekt für den Stadtverkehr und kurze Ausflüge geeignet. Der Innenraum verfügt über ein hochmodernes Infotainmentsystem, einen geräumigen Fahrgastraum und bequeme Sitze, die ein angenehmes Fahrerlebnis gewährleisten. Fortschrittliche Sicherheitsmerkmale und ein elegantes Design machen den Kia EV3 zur idealen Wahl für umweltbewusste Fahrer, die Wert auf Leistung und Nachhaltigkeit legen.",
+                "advantages": [
+                    "Reichweite bis zu 400 km",
+                    "Kompaktes und modernes Design",
+                    "Fortschrittliche Sicherheits- und Infotainment-Funktionen"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "Elektrofahrzeug",
+                    "kompakt",
+                    "Nachhaltigkeit"
+                ]
+            },
+            "pl": {
+                "title": "Kia EV3",
+                "head": "Kompaktowy samochód elektryczny: Kia EV3",
+                "description": "Kia EV3 to stylowy i kompaktowy w pełni elektryczny samochód zaprojektowany z myślą o miejskim użytkowaniu i kierowcach dbających o środowisko.",
+                "text": "Kia EV3 to kompaktowy samochód elektryczny łączący praktyczność, wydajność i nowoczesną technologię. Zasięg do 400 km na jednym ładowaniu sprawia, że jest idealny do jazdy po mieście i na krótkie wycieczki. Wnętrze wyposażono w zaawansowany system multimedialny, przestronną kabinę i wygodne siedzenia, zapewniając komfortowe doświadczenie jazdy. Zaawansowane funkcje bezpieczeństwa i elegancki design czynią Kia EV3 idealnym wyborem dla ekologicznie świadomych kierowców, którzy cenią wydajność i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 400 km",
+                    "Kompaktowy i nowoczesny design",
+                    "Zaawansowane funkcje bezpieczeństwa i multimediów"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "samochód elektryczny",
+                    "kompaktowy",
+                    "zrównoważony rozwój"
+                ]
+            },
+            "es": {
+                "title": "Kia EV3",
+                "head": "Versatilidad eléctrica compacta: Kia EV3",
+                "description": "El Kia EV3 es un vehículo totalmente eléctrico, elegante y compacto, diseñado para los desplazamientos urbanos y conductores comprometidos con la sostenibilidad.",
+                "text": "El Kia EV3 es un vehículo totalmente eléctrico y compacto que combina practicidad, eficiencia y tecnología moderna. Con una autonomía de hasta 400 km por carga, es perfecto para la conducción urbana y escapadas cortas. Su interior cuenta con un sistema de infoentretenimiento de alta tecnología, una cabina espaciosa y asientos cómodos que garantizan una experiencia de conducción agradable. Las características de seguridad avanzadas y el diseño elegante hacen del Kia EV3 una opción ideal para los conductores ecológicos que valoran el rendimiento y la sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 400 km",
+                    "Diseño compacto y moderno",
+                    "Funciones avanzadas de seguridad y tecnología"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "vehículo eléctrico",
+                    "compacto",
+                    "sostenibilidad"
+                ]
+            },
+            "fr": {
+                "title": "Kia EV3",
+                "head": "Polyvalence électrique compacte : Kia EV3",
+                "description": "Le Kia EV3 est un véhicule 100% électrique, élégant et compact, conçu pour les trajets urbains et les conducteurs soucieux de durabilité.",
+                "text": "Le Kia EV3 est un véhicule 100% électrique compact qui allie praticité, efficacité et technologie moderne. Avec une autonomie allant jusqu'à 400 km par charge, il est parfait pour la conduite en ville et les petites escapades. L'intérieur comprend un système d'infodivertissement de pointe, un habitacle spacieux et des sièges confortables pour une expérience de conduite agréable. Les fonctions avancées de sécurité et le design élégant font du Kia EV3 un choix idéal pour les conducteurs soucieux de l'environnement qui apprécient la performance et la durabilité.",
+                "advantages": [
+                    "Autonomie jusqu'à 400 km",
+                    "Design compact et moderne",
+                    "Fonctions avancées de sécurité et d'infodivertissement"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "véhicule électrique",
+                    "compact",
+                    "durabilité"
+                ]
+            },
+            "zh": {
+                "title": "Kia EV3",
+                "head": "紧凑型电动多功能车：Kia EV3",
+                "description": "Kia EV3是一款时尚紧凑的全电动汽车，专为城市通勤和注重可持续发展的驾驶者设计。",
+                "text": "Kia EV3是一款紧凑的全电动汽车，结合了实用性、效率和现代技术。单次充电续航里程可达250英里，非常适合城市驾驶和短途旅行。内饰配备高科技信息娱乐系统、宽敞的座舱和舒适的座椅，确保愉快的驾驶体验。先进的安全功能和时尚的设计使Kia EV3成为注重性能和可持续发展的环保驾驶者的理想选择。",
+                "advantages": [
+                    "续航里程可达250英里",
+                    "紧凑现代的设计",
+                    "先进的安全和信息娱乐功能"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV3",
+                    "电动汽车",
+                    "紧凑型",
+                    "可持续发展"
+                ]
+            }
         }
     ]
 }
