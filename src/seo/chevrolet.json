@@ -942,6 +942,194 @@
                     "tout-terrain",
                     "capacité de remorquage"
                 ]
+            },
+            "zh": {
+                "title": "雪佛兰 Colorado",
+                "head": "探索雪佛兰 Colorado 的性能与多功能性",
+                "description": "雪佛兰 Colorado 将强劲的性能、先进的技术和现代舒适性相结合，打造了一款中型卡车，适用于工作和冒险。",
+                "text": "雪佛兰 Colorado 是一款多功能的中型皮卡，旨在提供强劲的性能和实用性。配备多种发动机选项，包括 Duramax® 2.8L 涡轮柴油，Colorado 提供了令人印象深刻的拖曳能力和越野性能。驾驶舱配备了现代技术，如 11.3 英寸触摸屏与 Chevrolet Infotainment 3 以及 Apple CarPlay® 和 Android Auto™ 等连接选项。先进的安全功能，包括前方碰撞警告和车道保持辅助，确保每次驾驶都充满信心。无论是日常任务还是周末探险，雪佛兰 Colorado 都是为卓越而打造。",
+                "advantages": [
+                    "令人印象深刻的拖曳和越野能力",
+                    "现代化内饰，配备先进技术",
+                    "Duramax® 涡轮柴油选项，提供强劲性能"
+                ],
+                "keywords": [
+                    "雪佛兰",
+                    "Colorado",
+                    "中型卡车",
+                    "越野",
+                    "拖曳能力"
+                ]
+            }
+        },
+        {
+            "slug": "chevrolet-bolt-ev",
+            "competitors": [
+                "Hyundai Kona Electric",
+                "Kia Niro EV",
+                "Nissan Leaf"
+            ],
+            "en": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Efficient and Practical Electric Car: Chevrolet Bolt EV",
+                "description": "The Chevrolet Bolt EV is a compact electric car offering impressive range, advanced technology, and affordability.",
+                "text": "The Chevrolet Bolt EV is a practical electric car designed for efficiency and everyday usability. With a range of up to 259 miles on a single charge, it’s perfect for commuting and weekend getaways. Inside, it features a spacious interior, a user-friendly infotainment system, and advanced safety technologies. Its affordability and eco-friendly design make it a great choice for drivers looking to switch to electric mobility without compromising on performance.",
+                "advantages": [
+                    "Up to 259 miles of range",
+                    "Affordable and eco-friendly",
+                    "Advanced safety and infotainment features"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "electric car",
+                    "affordable",
+                    "sustainability"
+                ]
+            },
+            "ru": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Эффективный и практичный электромобиль: Chevrolet Bolt EV",
+                "description": "Chevrolet Bolt EV — это компактный электромобиль с впечатляющим запасом хода, современными технологиями и доступной ценой.",
+                "text": "Chevrolet Bolt EV — это практичный электромобиль, созданный для эффективности и повседневного использования. С запасом хода до 417 км на одной зарядке он идеально подходит для поездок по городу и путешествий на выходные. Внутри он оснащён просторным салоном, удобной мультимедийной системой и передовыми функциями безопасности. Его доступная цена и экологичный дизайн делают его отличным выбором для водителей, которые хотят перейти на электромобили, не теряя в производительности.",
+                "advantages": [
+                    "Запас хода до 417 км",
+                    "Доступный и экологичный",
+                    "Передовые функции безопасности и мультимедиа"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "электромобиль",
+                    "доступный",
+                    "устойчивость"
+                ]
+            },
+            "de": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Effizientes und praktisches Elektroauto: Chevrolet Bolt EV",
+                "description": "Der Chevrolet Bolt EV ist ein kompaktes Elektroauto mit beeindruckender Reichweite, moderner Technologie und erschwinglichem Preis.",
+                "text": "Der Chevrolet Bolt EV ist ein praktisches Elektroauto, das für Effizienz und Alltagstauglichkeit entwickelt wurde. Mit einer Reichweite von bis zu 417 km pro Ladung ist er ideal für Pendelstrecken und Wochenendausflüge. Innen bietet er einen geräumigen Innenraum, ein benutzerfreundliches Infotainmentsystem und fortschrittliche Sicherheitsfunktionen. Seine Erschwinglichkeit und sein umweltfreundliches Design machen ihn zur idealen Wahl für Fahrer, die auf Elektromobilität umsteigen möchten.",
+                "advantages": [
+                    "Reichweite bis zu 417 km",
+                    "Erschwinglich und umweltfreundlich",
+                    "Fortschrittliche Sicherheits- und Infotainmentfunktionen"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "Elektroauto",
+                    "erschwinglich",
+                    "Nachhaltigkeit"
+                ]
+            },
+            "ua": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Ефективний і практичний електромобіль: Chevrolet Bolt EV",
+                "description": "Chevrolet Bolt EV — це компактний електромобіль із вражаючим запасом ходу, сучасними технологіями та доступною ціною.",
+                "text": "Chevrolet Bolt EV — це практичний електромобіль, розроблений для ефективності та повсякденного використання. Із запасом ходу до 417 км на одному заряді він ідеально підходить для поїздок по місту та подорожей на вихідні. Інтер'єр оснащений просторим салоном, зручною мультимедійною системою та передовими функціями безпеки. Його доступна ціна та екологічний дизайн роблять його чудовим вибором для водіїв, які хочуть перейти на електромобілі без втрати продуктивності.",
+                "advantages": [
+                    "Запас ходу до 417 км",
+                    "Доступний та екологічний",
+                    "Передові функції безпеки та мультимедіа"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "електромобіль",
+                    "доступний",
+                    "стійкість"
+                ]
+            },
+            "be": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Эфектыўны і практычны электрамабіль: Chevrolet Bolt EV",
+                "description": "Chevrolet Bolt EV — гэта кампактны электрамабіль з уражлівым запасам ходу, сучаснымі тэхналогіямі і даступнай цаной.",
+                "text": "Chevrolet Bolt EV — гэта практычны электрамабіль, распрацаваны для эфектыўнасці і паўсядзённага выкарыстання. З запасам ходу да 417 км на адной зарадцы ён ідэальна падыходзіць для паездак па горадзе і падарожжаў на выходныя. Унутры ён абсталяваны прасторным салонам, зручнай мультымедыйнай сістэмай і перадавымі функцыямі бяспекі. Яго даступная цана і экалагічны дызайн робяць яго выдатным выбарам для вадзіцеляў, якія хочуць перайсці на электрамабілі, не губляючы прадукцыйнасці.",
+                "advantages": [
+                    "Запас ходу да 417 км",
+                    "Даступны і экалагічны",
+                    "Перадавыя функцыі бяспекі і мультымедыя"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "электрамабіль",
+                    "даступны",
+                    "устойлівасць"
+                ]
+            },
+            "pl": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Efektywny i praktyczny samochód elektryczny: Chevrolet Bolt EV",
+                "description": "Chevrolet Bolt EV to kompaktowy samochód elektryczny oferujący imponujący zasięg, nowoczesną technologię i przystępną cenę.",
+                "text": "Chevrolet Bolt EV to praktyczny samochód elektryczny zaprojektowany z myślą o efektywności i codziennym użytkowaniu. Zasięg do 417 km na jednym ładowaniu czyni go idealnym zarówno do jazdy miejskiej, jak i na weekendowe wycieczki. Wnętrze oferuje przestronną kabinę, intuicyjny system multimedialny i zaawansowane technologie bezpieczeństwa. Jego przystępna cena i ekologiczny design czynią go doskonałym wyborem dla kierowców pragnących przesiąść się na elektromobilność без kompromisów в zakresie wydajności.",
+                "advantages": [
+                    "Zasięg do 417 km",
+                    "Przystępny i ekologiczny",
+                    "Zaawansowane funkcje bezpieczeństwa i multimediów"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "samochód elektryczny",
+                    "przystępny",
+                    "zrównoważony rozwój"
+                ]
+            },
+            "es": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Coche eléctrico eficiente y práctico: Chevrolet Bolt EV",
+                "description": "El Chevrolet Bolt EV es un coche eléctrico compacto que ofrece una impresionante autonomía, tecnología avanzada y un precio asequible.",
+                "text": "El Chevrolet Bolt EV es un coche eléctrico práctico diseñado para la eficiencia y el uso diario. Con una autonomía de hasta 417 km por carga, es perfecto para desplazamientos urbanos y escapadas de fin de semana. El interior cuenta con un amplio espacio, un sistema de infoentretenimiento fácil de usar y tecnologías avanzadas de seguridad. Su precio asequible y diseño ecológico lo convierten en una excelente opción para conductores que buscan cambiar a la movilidad eléctrica sin comprometer el rendimiento.",
+                "advantages": [
+                    "Autonomía de hasta 417 km",
+                    "Económico y ecológico",
+                    "Funciones avanzadas de seguridad y entretenimiento"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "coche eléctrico",
+                    "asequible",
+                    "sostenibilidad"
+                ]
+            },
+            "fr": {
+                "title": "Chevrolet Bolt EV",
+                "head": "Voiture électrique efficace et pratique : Chevrolet Bolt EV",
+                "description": "La Chevrolet Bolt EV est une voiture électrique compacte offrant une autonomie impressionnante, une technologie avancée et un prix abordable.",
+                "text": "La Chevrolet Bolt EV est une voiture électrique pratique conçue pour l'efficacité et l'usage quotidien. Avec une autonomie allant jusqu'à 417 km par charge, elle est parfaite pour les trajets urbains et les escapades du week-end. L'intérieur offre un espace généreux, un système d'infodivertissement convivial et des technologies de sécurité avancées. Son prix abordable et son design écologique en font un excellent choix pour les conducteurs souhaitant passer à la mobilité électrique sans compromettre les performances.",
+                "advantages": [
+                    "Autonomie jusqu'à 417 km",
+                    "Abordable et écologique",
+                    "Fonctionnalités avancées de sécurité et d'infodivertissement"
+                ],
+                "keywords": [
+                    "Chevrolet",
+                    "Bolt EV",
+                    "voiture électrique",
+                    "abordable",
+                    "durabilité"
+                ]
+            },
+            "zh": {
+                "title": "雪佛兰Bolt EV",
+                "head": "高效实用的电动车：雪佛兰Bolt EV",
+                "description": "雪佛兰Bolt EV是一款紧凑型电动车，提供令人印象深刻的续航里程、先进技术和实惠价格。",
+                "text": "雪佛兰Bolt EV是一款为日常使用设计的实用电动车。单次充电续航里程可达417公里，非常适合通勤和周末短途旅行。内部配备宽敞的空间、用户友好的信息娱乐系统和先进的安全技术。其经济实惠和环保设计使其成为希望切换到电动出行但不想牺牲性能的驾驶者的理想选择。",
+                "advantages": [
+                    "续航里程可达417公里",
+                    "经济实惠且环保",
+                    "先进的安全和娱乐功能"
+                ],
+                "keywords": [
+                    "雪佛兰",
+                    "Bolt EV",
+                    "电动车",
+                    "实惠",
+                    "可持续性"
+                ]
             }
         }
     ]
