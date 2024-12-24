@@ -25,318 +25,6 @@
     },
     "models": [
         {
-            "slug": "kia-ev6",
-            "en": {
-                "title": "Kia EV6",
-                "description": "A futuristic electric crossover with exceptional range and innovative features.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "electric crossover",
-                    "long range",
-                    "innovative",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Kia EV6",
-                "description": "Футуристический электрический кроссовер с выдающимся запасом хода и инновационными функциями.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "электрический кроссовер",
-                    "дальний пробег",
-                    "инновации",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Kia EV6",
-                "description": "Футуристичний електричний кросовер із винятковим запасом ходу та інноваційними функціями.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "електричний кросовер",
-                    "великий запас ходу",
-                    "інновації",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Kia EV6",
-                "description": "Futurystyczny elektryczny crossover z wyjątkowym zasięgiem i innowacyjnymi funkcjami.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "elektryczny crossover",
-                    "duży zasięg",
-                    "innowacje",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Kia EV6",
-                "description": "Ein futuristisches elektrisches Crossover mit außergewöhnlicher Reichweite und innovativen Funktionen.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "elektrisches Crossover",
-                    "große Reichweite",
-                    "innovativ",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Kia EV6",
-                "description": "Футурыстычны электрычны кросовер з выключным запасам ходу і інавацыйнымі функцыямі.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "электрычны кросовер",
-                    "вялікі запас ходу",
-                    "інавацыі",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Kia EV6",
-                "description": "Un crossover eléctrico futurista con un rango excepcional e innovadoras características.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "crossover eléctrico",
-                    "largo alcance",
-                    "innovador",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "fr": {
-                "title": "Kia EV6",
-                "description": "Un crossover électrique futuriste avec une autonomie exceptionnelle et des fonctionnalités innovantes.",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "crossover électrique",
-                    "longue autonomie",
-                    "innovant",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "zh": {
-                "title": "Kia EV6",
-                "description": "一款未来主义的电动跨界车，具有出色的续航里程和创新功能。",
-                "keywords": [
-                    "Kia",
-                    "EV6",
-                    "电动跨界车",
-                    "长续航里程",
-                    "创新",
-                    "kia-ev6 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV6 stands out as an exceptional choice in its category. Known for its kia-ev6 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            }
-        },
-        {
-            "slug": "kia-ev9",
-            "en": {
-                "title": "Kia EV9",
-                "description": "A bold and spacious electric SUV with cutting-edge technology.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "electric SUV",
-                    "spacious",
-                    "advanced tech",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Kia EV9",
-                "description": "Смелый и просторный электрический внедорожник с передовыми технологиями.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "электрический внедорожник",
-                    "просторный",
-                    "передовые технологии",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Kia EV9",
-                "description": "Сміливий і просторий електричний позашляховик із передовими технологіями.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "електричний позашляховик",
-                    "просторий",
-                    "сучасні технології",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Kia EV9",
-                "description": "Śmiały i przestronny elektryczny SUV z zaawansowaną technologią.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "elektryczny SUV",
-                    "przestronny",
-                    "nowoczesna technologia",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Kia EV9",
-                "description": "Ein mutiger und geräumiger Elektro-SUV mit modernster Technologie.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "elektrischer SUV",
-                    "geräumig",
-                    "moderne Technologie",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Kia EV9",
-                "description": "Смелы і прасторны электрычны пазадарожнік з перадавымі тэхналогіямі.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "электрычны пазадарожнік",
-                    "прасторны",
-                    "сучасныя тэхналогіі",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Kia EV9",
-                "description": "Un SUV eléctrico audaz y espacioso con tecnología de vanguardia.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "SUV eléctrico",
-                    "espacioso",
-                    "tecnología avanzada",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "fr": {
-                "title": "Kia EV9",
-                "description": "Un SUV électrique audacieux et spacieux avec une technologie de pointe.",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "SUV électrique",
-                    "spacieux",
-                    "technologie avancée",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "zh": {
-                "title": "Kia EV9",
-                "description": "一款大胆而宽敞的电动SUV，配备尖端技术。",
-                "keywords": [
-                    "Kia",
-                    "EV9",
-                    "电动SUV",
-                    "宽敞",
-                    "先进技术",
-                    "kia-ev9 performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Kia EV9 stands out as an exceptional choice in its category. Known for its kia-ev9 signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            }
-        },
-        {
             "slug": "optima",
             "en": {
                 "title": "Kia Optima",
@@ -1091,6 +779,346 @@
                     "电动汽车",
                     "紧凑型",
                     "可持续发展"
+                ]
+            }
+        },
+        {
+            "slug": "kia-ev6",
+            "competitors": [
+                "Tesla Model Y",
+                "Hyundai Ioniq 5",
+                "Volkswagen ID.4"
+            ],
+            "en": {
+                "title": "Kia EV6",
+                "head": "A Dynamic All-Electric Crossover: Kia EV6",
+                "description": "The Kia EV6 is a sleek, high-performance electric crossover offering impressive range, advanced technology, and bold design.",
+                "text": "The Kia EV6 is an all-electric crossover designed to deliver both style and performance. With a range of up to 328 miles on a single charge and ultra-fast charging capabilities, it’s perfect for long-distance trips and daily commutes alike. Inside, the EV6 features a spacious cabin, a dual curved screen infotainment system, and advanced safety features. Its futuristic design and impressive handling make it an ideal choice for drivers seeking a cutting-edge EV.",
+                "advantages": [
+                    "Up to 328 miles of range",
+                    "Ultra-fast charging",
+                    "Stylish and futuristic design"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "electric crossover",
+                    "performance",
+                    "innovation"
+                ]
+            },
+            "ru": {
+                "title": "Kia EV6",
+                "head": "Динамичный электрический кроссовер: Kia EV6",
+                "description": "Kia EV6 — это стильный и высокопроизводительный электрический кроссовер с впечатляющим запасом хода, передовыми технологиями и смелым дизайном.",
+                "text": "Kia EV6 — это полностью электрический кроссовер, созданный для сочетания стиля и производительности. С запасом хода до 528 км на одной зарядке и ультрабыстрой зарядкой он идеально подходит как для дальних поездок, так и для ежедневных поездок. Внутри EV6 оснащён просторным салоном, двойным изогнутым экраном мультимедиа и передовыми функциями безопасности. Его футуристичный дизайн и впечатляющая управляемость делают его идеальным выбором для тех, кто ищет инновационный электромобиль.",
+                "advantages": [
+                    "Запас хода до 528 км",
+                    "Ультрабыстрая зарядка",
+                    "Стильный и футуристичный дизайн"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "электрический кроссовер",
+                    "производительность",
+                    "инновации"
+                ]
+            },
+            "ua": {
+                "title": "Kia EV6",
+                "head": "Динамічний електричний кросовер: Kia EV6",
+                "description": "Kia EV6 — це стильний і високопродуктивний електричний кросовер з вражаючим запасом ходу, сучасними технологіями та сміливим дизайном.",
+                "text": "Kia EV6 — це повністю електричний кросовер, створений для поєднання стилю та продуктивності. Із запасом ходу до 528 км на одному заряді та ультрашвидкою зарядкою він ідеально підходить для далеких поїздок та щоденного використання. Інтер'єр EV6 оснащений просторим салоном, подвійним вигнутим екраном мультимедіа та сучасними функціями безпеки. Його футуристичний дизайн і вражаюча керованість роблять його ідеальним вибором для тих, хто шукає інноваційний електромобіль.",
+                "advantages": [
+                    "Запас ходу до 528 км",
+                    "Ультрашвидка зарядка",
+                    "Стильний і футуристичний дизайн"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "електричний кросовер",
+                    "продуктивність",
+                    "інновації"
+                ]
+            },
+            "be": {
+                "title": "Kia EV6",
+                "head": "Дынамічны электрычны кросовер: Kia EV6",
+                "description": "Kia EV6 — гэта стыльны і магутны электрычны кросовер з уражлівым запасам ходу, сучаснымі тэхналогіямі і смелым дызайнам.",
+                "text": "Kia EV6 — гэта цалкам электрычны кросовер, які спалучае ў сабе стыль і прадукцыйнасць. З запасам ходу да 528 км на адной зарадцы і ультрахуткай зарадкай ён ідэальна падыходзіць як для далёкіх паездак, так і для штодзённага выкарыстання. Інтэр'ер EV6 абсталяваны прасторным салонам, двайным выгнутым экранам мультымедыя і сучаснымі функцыямі бяспекі. Яго футурыстычны дызайн і ўражлівая кіравальнасць робяць яго ідэальным выбарам для тых, хто шукае інавацыйны электрамабіль.",
+                "advantages": [
+                    "Запас ходу да 528 км",
+                    "Ультрахуткая зарадка",
+                    "Стыльны і футурыстычны дызайн"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "электрычны кросовер",
+                    "прадукцыйнасць",
+                    "інавацыі"
+                ]
+            },
+            "de": {
+                "title": "Kia EV6",
+                "head": "Dynamischer Elektro-Crossover: Kia EV6",
+                "description": "Der Kia EV6 ist ein eleganter, leistungsstarker Elektro-Crossover mit beeindruckender Reichweite, moderner Technologie und mutigem Design.",
+                "text": "Der Kia EV6 ist ein vollelektrischer Crossover, der sowohl Stil als auch Leistung bietet. Mit einer Reichweite von bis zu 528 km pro Ladung und ultraschnellem Laden ist er ideal für lange Strecken und den täglichen Pendelverkehr. Der Innenraum des EV6 bietet eine geräumige Kabine, ein Dual-Curved-Infotainmentsystem und fortschrittliche Sicherheitsfunktionen. Sein futuristisches Design und die beeindruckende Fahrdynamik machen ihn zur perfekten Wahl für Fahrer, die ein modernes Elektrofahrzeug suchen.",
+                "advantages": [
+                    "Reichweite bis zu 528 km",
+                    "Ultraschnelles Laden",
+                    "Stilvolles und futuristisches Design"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "elektrischer Crossover",
+                    "Leistung",
+                    "Innovation"
+                ]
+            },
+            "pl": {
+                "title": "Kia EV6",
+                "head": "Dynamiczny elektryczny crossover: Kia EV6",
+                "description": "Kia EV6 to elegancki i wydajny elektryczny crossover oferujący imponujący zasięg, zaawansowaną technologię i śmiałe wzornictwo.",
+                "text": "Kia EV6 to w pełni elektryczny crossover zaprojektowany, aby łączyć styl i wydajność. Zasięg do 528 km na jednym ładowaniu oraz ultraszybkie ładowanie czynią go idealnym zarówno do długich podróży, jak i codziennego użytku. Wnętrze EV6 oferuje przestronną kabinę, zakrzywiony ekran multimedialny i zaawansowane funkcje bezpieczeństwa. Jego futurystyczny design i imponujące prowadzenie sprawiają, że jest doskonałym wyborem dla kierowców szukających nowoczesnego samochodu elektrycznego.",
+                "advantages": [
+                    "Zasięg do 528 km",
+                    "Ultraszybkie ładowanie",
+                    "Futurystyczny i nowoczesny design"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "elektryczny crossover",
+                    "wydajność",
+                    "innowacje"
+                ]
+            },
+            "es": {
+                "title": "Kia EV6",
+                "head": "Crossover eléctrico dinámico: Kia EV6",
+                "description": "El Kia EV6 es un crossover eléctrico elegante y de alto rendimiento que ofrece una impresionante autonomía, tecnología avanzada y un diseño audaz.",
+                "text": "El Kia EV6 es un crossover totalmente eléctrico diseñado para combinar estilo y rendimiento. Con una autonomía de hasta 528 km por carga y capacidades de carga ultrarrápida, es perfecto tanto para viajes largos como para el uso diario. El interior del EV6 incluye una cabina espaciosa, un sistema de infoentretenimiento de doble pantalla curva y funciones avanzadas de seguridad. Su diseño futurista y su manejo impresionante lo convierten en una opción ideal para quienes buscan un vehículo eléctrico moderno.",
+                "advantages": [
+                    "Autonomía de hasta 528 km",
+                    "Carga ultrarrápida",
+                    "Diseño elegante y futurista"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "crossover eléctrico",
+                    "rendimiento",
+                    "innovación"
+                ]
+            },
+            "fr": {
+                "title": "Kia EV6",
+                "head": "Crossover électrique dynamique : Kia EV6",
+                "description": "Le Kia EV6 est un crossover électrique élégant et performant offrant une autonomie impressionnante, une technologie avancée et un design audacieux.",
+                "text": "Le Kia EV6 est un crossover 100% électrique conçu pour associer style et performance. Avec une autonomie allant jusqu'à 528 km par charge et une capacité de charge ultra-rapide, il est parfait pour les longs trajets comme pour un usage quotidien. L'intérieur du EV6 propose une cabine spacieuse, un système d'infodivertissement à écran incurvé double et des fonctionnalités de sécurité avancées. Son design futuriste et sa maniabilité impressionnante en font un choix idéal pour les conducteurs à la recherche d'un véhicule électrique moderne.",
+                "advantages": [
+                    "Autonomie jusqu'à 528 km",
+                    "Charge ultra-rapide",
+                    "Design élégant et futuriste"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "crossover électrique",
+                    "performance",
+                    "innovation"
+                ]
+            },
+            "zh": {
+                "title": "Kia EV6",
+                "head": "动态全电动跨界车：Kia EV6",
+                "description": "Kia EV6是一款时尚、高性能的电动跨界车，提供令人印象深刻的续航里程、先进技术和大胆设计。",
+                "text": "Kia EV6是一款全电动跨界车，旨在提供风格和性能。单次充电续航里程可达328英里，并具备超快速充电能力，非常适合长途旅行和日常通勤。内部配备宽敞的座舱、双曲面屏信息娱乐系统和先进的安全功能。其未来派设计和出色的操控性使其成为寻求尖端电动汽车的驾驶者的理想选择。",
+                "advantages": [
+                    "续航里程可达328英里",
+                    "超快速充电",
+                    "时尚和未来派设计"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV6",
+                    "电动跨界车",
+                    "性能",
+                    "创新"
+                ]
+            }
+        },
+        {
+            "slug": "kia-ev9",
+            "competitors": [
+                "Tesla Model X",
+                "Hyundai Ioniq 7",
+                "Rivian R1S"
+            ],
+            "en": {
+                "title": "Kia EV9",
+                "head": "A Revolutionary Electric SUV: Kia EV9",
+                "description": "The Kia EV9 is a full-size electric SUV designed to offer exceptional space, advanced technology, and eco-friendly performance.",
+                "text": "The Kia EV9 is a bold electric SUV tailored for families and adventurers alike. With a range of up to 300 miles and fast charging capabilities, it’s perfect for long journeys. Inside, it boasts a spacious three-row seating arrangement, a state-of-the-art infotainment system, and luxurious materials. Advanced safety features and innovative design make the Kia EV9 a standout in the electric SUV market, combining functionality with sustainability.",
+                "advantages": [
+                    "Up to 300 miles of range",
+                    "Spacious three-row seating",
+                    "Advanced safety and infotainment features"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "electric SUV",
+                    "family car",
+                    "sustainability"
+                ]
+            },
+            "ru": {
+                "title": "Kia EV9",
+                "head": "Революционный электрический внедорожник: Kia EV9",
+                "description": "Kia EV9 — это полноразмерный электрический внедорожник, предлагающий исключительное пространство, передовые технологии и экологичную производительность.",
+                "text": "Kia EV9 — это смелый электрический внедорожник, созданный как для семей, так и для любителей приключений. С запасом хода до 482 км и функцией быстрой зарядки он идеально подходит для дальних путешествий. Внутри он предлагает просторные три ряда сидений, современную мультимедийную систему и роскошные материалы. Передовые функции безопасности и инновационный дизайн делают Kia EV9 ярким представителем рынка электрических внедорожников, совмещая функциональность и устойчивость.",
+                "advantages": [
+                    "Запас хода до 482 км",
+                    "Просторный салон с тремя рядами сидений",
+                    "Передовые функции безопасности и мультимедиа"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "электрический внедорожник",
+                    "семейный автомобиль",
+                    "устойчивость"
+                ]
+            },
+            "ua": {
+                "title": "Kia EV9",
+                "head": "Революційний електричний позашляховик: Kia EV9",
+                "description": "Kia EV9 — це повнорозмірний електричний позашляховик, що пропонує винятковий простір, сучасні технології та екологічну продуктивність.",
+                "text": "Kia EV9 — це сміливий електричний позашляховик, створений для сімей та любителів пригод. Із запасом ходу до 482 км і функцією швидкої зарядки він ідеально підходить для далеких подорожей. Інтер'єр пропонує просторі три ряди сидінь, сучасну мультимедійну систему та розкішні матеріали. Сучасні функції безпеки та інноваційний дизайн роблять Kia EV9 яскравим представником ринку електричних позашляховиків, поєднуючи функціональність та стійкість.",
+                "advantages": [
+                    "Запас ходу до 482 км",
+                    "Просторий салон із трьома рядами сидінь",
+                    "Сучасні функції безпеки та мультимедіа"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "електричний позашляховик",
+                    "сімейний автомобіль",
+                    "стійкість"
+                ]
+            },
+            "be": {
+                "title": "Kia EV9",
+                "head": "Рэвалюцыйны электрычны пазадарожнік: Kia EV9",
+                "description": "Kia EV9 — гэта поўнапамерны электрычны пазадарожнік, які прапануе выключную прастору, сучасныя тэхналогіі і экалагічную прадукцыйнасць.",
+                "text": "Kia EV9 — гэта смелы электрычны пазадарожнік, створаны для сем'яў і аматараў прыгод. З запасам ходу да 482 км і функцыяй хуткай зарадкі ён ідэальна падыходзіць для далёкіх падарожжаў. Інтэр'ер прапануе прасторныя тры рады сядзенняў, сучасную мультымедыйную сістэму і раскошныя матэрыялы. Сучасныя функцыі бяспекі і інавацыйны дызайн робяць Kia EV9 яркім прадстаўніком рынку электрычных пазадарожнікаў, спалучаючы функцыянальнасць і ўстойлівасць.",
+                "advantages": [
+                    "Запас ходу да 482 км",
+                    "Прасторны салон з трыма радамі сядзенняў",
+                    "Сучасныя функцыі бяспекі і мультымедыя"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "электрычны пазадарожнік",
+                    "сямейны аўтамабіль",
+                    "устойлівасць"
+                ]
+            },
+            "de": {
+                "title": "Kia EV9",
+                "head": "Revolutionärer Elektro-SUV: Kia EV9",
+                "description": "Der Kia EV9 ist ein vollelektrischer Full-Size-SUV, der außergewöhnlichen Raum, fortschrittliche Technologie und umweltfreundliche Leistung bietet.",
+                "text": "Der Kia EV9 ist ein mutiger Elektro-SUV, der sowohl für Familien als auch Abenteurer entwickelt wurde. Mit einer Reichweite von bis zu 482 km und schneller Ladefähigkeit ist er perfekt für lange Reisen. Innen überzeugt er mit einer geräumigen Dreireihen-Sitzanordnung, einem hochmodernen Infotainmentsystem und luxuriösen Materialien. Fortschrittliche Sicherheitsmerkmale und ein innovatives Design machen den Kia EV9 zu einem herausragenden Vertreter im Markt der Elektro-SUVs und vereinen Funktionalität mit Nachhaltigkeit.",
+                "advantages": [
+                    "Reichweite bis zu 482 km",
+                    "Geräumige Dreireihen-Sitze",
+                    "Fortschrittliche Sicherheits- und Infotainment-Funktionen"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "elektrischer SUV",
+                    "Familienauto",
+                    "Nachhaltigkeit"
+                ]
+            },
+            "pl": {
+                "title": "Kia EV9",
+                "head": "Rewolucyjny elektryczny SUV: Kia EV9",
+                "description": "Kia EV9 to w pełni elektryczny SUV oferujący wyjątkową przestronność, zaawansowaną technologię i ekologiczne osiągi.",
+                "text": "Kia EV9 to odważny elektryczny SUV stworzony zarówno dla rodzin, jak i miłośników przygód. Zasięg do 482 km i możliwość szybkiego ładowania sprawiają, że doskonale nadaje się na długie podróże. Wnętrze oferuje przestronne trzy rzędy siedzeń, nowoczesny system multimedialny oraz luksusowe materiały. Zaawansowane funkcje bezpieczeństwa i innowacyjny design czynią Kia EV9 wyróżniającym się modelem na rynku elektrycznych SUV-ów, łączącym funkcjonalność i zrównoważony rozwój.",
+                "advantages": [
+                    "Zasięg do 482 km",
+                    "Przestronne wnętrze z trzema rzędami siedzeń",
+                    "Zaawansowane funkcje bezpieczeństwa i multimediów"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "elektryczny SUV",
+                    "samochód rodzinny",
+                    "zrównoważony rozwój"
+                ]
+            },
+            "es": {
+                "title": "Kia EV9",
+                "head": "Un SUV eléctrico revolucionario: Kia EV9",
+                "description": "El Kia EV9 es un SUV eléctrico de tamaño completo diseñado para ofrecer un espacio excepcional, tecnología avanzada y un rendimiento sostenible.",
+                "text": "El Kia EV9 es un SUV eléctrico audaz diseñado tanto para familias como para aventureros. Con una autonomía de hasta 482 km y capacidades de carga rápida, es perfecto para viajes largos. En el interior, cuenta con una disposición de tres filas de asientos, un sistema de infoentretenimiento de última generación y materiales de lujo. Las características avanzadas de seguridad y el diseño innovador hacen del Kia EV9 un referente en el mercado de los SUV eléctricos, combinando funcionalidad con sostenibilidad.",
+                "advantages": [
+                    "Autonomía de hasta 482 km",
+                    "Amplio interior de tres filas de asientos",
+                    "Funciones avanzadas de seguridad e infoentretenimiento"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "SUV eléctrico",
+                    "coche familiar",
+                    "sostenibilidad"
+                ]
+            },
+            "fr": {
+                "title": "Kia EV9",
+                "head": "Un SUV électrique révolutionnaire : Kia EV9",
+                "description": "Le Kia EV9 est un SUV 100% électrique de grande taille conçu pour offrir un espace exceptionnel, une technologie avancée et des performances écologiques.",
+                "text": "Le Kia EV9 est un SUV électrique audacieux conçu pour les familles et les aventuriers. Avec une autonomie allant jusqu'à 482 km et des capacités de charge rapide, il est idéal pour les longs trajets. À l'intérieur, il offre une configuration spacieuse à trois rangées de sièges, un système d'infodivertissement de pointe et des matériaux luxueux. Les fonctionnalités de sécurité avancées et le design innovant font du Kia EV9 un modèle phare sur le marché des SUV électriques, alliant fonctionnalité et durabilité.",
+                "advantages": [
+                    "Autonomie jusqu'à 482 km",
+                    "Intérieur spacieux avec trois rangées de sièges",
+                    "Fonctionnalités de sécurité et d'infodivertissement avancées"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "SUV électrique",
+                    "voiture familiale",
+                    "durabilité"
+                ]
+            },
+            "zh": {
+                "title": "Kia EV9",
+                "head": "革命性电动SUV：Kia EV9",
+                "description": "Kia EV9是一款全尺寸电动SUV，旨在提供卓越的空间、先进技术和环保性能。",
+                "text": "Kia EV9是一款大胆的电动SUV，专为家庭和冒险家设计。单次充电续航里程可达482英里，具备快速充电能力，非常适合长途旅行。内部配备宽敞的三排座椅、最先进的信息娱乐系统和豪华材料。先进的安全功能和创新设计使Kia EV9在电动SUV市场脱颖而出，将功能性与可持续性相结合。",
+                "advantages": [
+                    "续航里程可达482英里",
+                    "宽敞的三排座椅",
+                    "先进的安全和信息娱乐功能"
+                ],
+                "keywords": [
+                    "Kia",
+                    "EV9",
+                    "电动SUV",
+                    "家庭汽车",
+                    "可持续性"
                 ]
             }
         }

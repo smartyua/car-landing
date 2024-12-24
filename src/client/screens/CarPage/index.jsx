@@ -114,7 +114,7 @@ const CarScreen = (): any => {
     <section>
       <Helmet>
         <title>
-          {title} - {model.title} - {headTitle[language]} - {defaultTitle}
+          {model.title} - {headTitle[language]} - {defaultTitle}
         </title>
         <meta name="description" content={descriptionText} />
         <meta property="keywords" content={keywordsText} />
