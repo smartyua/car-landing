@@ -26,150 +26,173 @@
     },
     "models": [
         {
-            "slug": "charger",
+            "slug": "dodge-charger",
+            "competitors": [
+                "Ford Mustang",
+                "Chevrolet Camaro",
+                "Chrysler 300"
+            ],
             "en": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger is a top-rated car model offering great performance and luxury.",
+                "head": "The Ultimate Muscle Sedan: Dodge Charger",
+                "description": "The Dodge Charger combines iconic muscle car performance with modern technology and bold design, offering an unforgettable driving experience.",
+                "text": "The Dodge Charger is a full-size sedan that embodies the spirit of classic American muscle cars. With powerful engine options, including a supercharged V8 delivering up to 797 horsepower, it provides thrilling acceleration and unmatched road presence. Inside, the Charger offers advanced infotainment systems, comfortable seating, and high-quality materials, ensuring both performance and comfort. Whether on the track or the open road, the Dodge Charger delivers an adrenaline-pumping experience like no other.",
+                "advantages": [
+                    "Up to 797 horsepower",
+                    "Iconic muscle car design",
+                    "Advanced infotainment and comfort features"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "car",
-                    "luxury",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "muscle car",
+                    "sedan",
+                    "performance"
+                ]
             },
             "ru": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
+                "head": "Идеальный маслкар-седан: Dodge Charger",
+                "description": "Dodge Charger сочетает в себе производительность культового маслкара с современными технологиями и смелым дизайном, обеспечивая незабываемый опыт вождения.",
+                "text": "Dodge Charger — это полноразмерный седан, который воплощает дух классических американских маслкаров. С мощными вариантами двигателей, включая компрессорный V8 мощностью до 797 л.с., он обеспечивает захватывающее ускорение и непревзойдённое присутствие на дороге. Внутри Charger предлагает современные мультимедийные системы, комфортные сидения и материалы высокого качества, обеспечивая баланс между производительностью и комфортом. На трассе или на открытой дороге Dodge Charger дарит адреналиновый опыт, который невозможно забыть.",
+                "advantages": [
+                    "До 797 л.с.",
+                    "Культовый дизайн маслкара",
+                    "Современные мультимедийные и комфортные функции"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "автомобиль",
-                    "роскошь",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "маслкар",
+                    "седан",
+                    "производительность"
+                ]
             },
             "ua": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
+                "head": "Ідеальний маслкар-седан: Dodge Charger",
+                "description": "Dodge Charger поєднує потужність культового маслкара із сучасними технологіями та сміливим дизайном, забезпечуючи незабутні відчуття від керування.",
+                "text": "Dodge Charger — це повнорозмірний седан, який втілює дух класичних американських маслкарів. Завдяки потужним двигунам, включаючи компресорний V8 потужністю до 797 к.с., він забезпечує захоплююче прискорення та неперевершену присутність на дорозі. Усередині Charger оснащений сучасними мультимедійними системами, комфортними сидіннями та матеріалами високої якості, забезпечуючи баланс між продуктивністю та комфортом. На трасі або відкритій дорозі Dodge Charger дарує незабутній адреналіновий досвід.",
+                "advantages": [
+                    "До 797 к.с.",
+                    "Культовий дизайн маслкара",
+                    "Сучасні мультимедійні та комфортні функції"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "автомобіль",
-                    "розкіш",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Dodge Charger",
-                "description": "Dodge Charger to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Dodge",
-                    "Charger",
-                    "samochód",
-                    "luksus",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Dodge Charger",
-                "description": "Dodge Charger ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Dodge",
-                    "Charger",
-                    "Auto",
-                    "Luxus",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                    "маслкар",
+                    "седан",
+                    "продуктивність"
+                ]
             },
             "be": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
+                "head": "Ідэальны маслкар-седан: Dodge Charger",
+                "description": "Dodge Charger аб'ядноўвае магутнасць культовага маслкара з сучаснымі тэхналогіямі і смелым дызайнам, забяспечваючы незабыўныя адчуванні ад кіравання.",
+                "text": "Dodge Charger — гэта паўнавартасны седан, які ўвасабляе дух класічных амерыканскіх маслкаров. Дзякуючы магутным рухавікам, уключаючы кампрэсарны V8 магутнасцю да 797 л.с., ён забяспечвае захапляльнае паскарэнне і неперасягненае прысутнасць на дарозе. Унутры Charger абсталяваны сучаснымі мультымедыйнымі сістэмамі, камфортнымі сядзеннямі і матэрыяламі высокай якасці, забяспечваючы баланс паміж прадукцыйнасцю і камфортам. На трасе або адкрытай дарозе Dodge Charger дорыць незабыўны адрэналінавы досвед.",
+                "advantages": [
+                    "Да 797 л.с.",
+                    "Культовы дызайн маслкара",
+                    "Сучасныя мультымедыйныя і камфортныя функцыі"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "аўтамабіль",
-                    "раскоша",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
+                    "маслкар",
+                    "седан",
+                    "прадукцыйнасць"
+                ]
+            },
+            "de": {
+                "title": "Dodge Charger",
+                "head": "Die ultimative Muscle-Limousine: Dodge Charger",
+                "description": "Der Dodge Charger vereint die Performance eines ikonischen Muscle-Cars mit moderner Technologie und mutigem Design für ein unvergleichliches Fahrerlebnis.",
+                "text": "Der Dodge Charger ist eine große Limousine, die den Geist klassischer amerikanischer Muscle-Cars verkörpert. Mit leistungsstarken Motoren, darunter ein Kompressor-V8 mit bis zu 797 PS, bietet er atemberaubende Beschleunigung und eine unverwechselbare Straßenpräsenz. Innen bietet der Charger fortschrittliche Infotainmentsysteme, bequeme Sitze und hochwertige Materialien, die Leistung und Komfort perfekt ausbalancieren. Ob auf der Rennstrecke oder der offenen Straße, der Dodge Charger sorgt für ein unvergleichliches Adrenalin-Erlebnis.",
+                "advantages": [
+                    "Bis zu 797 PS",
+                    "Ikonisches Muscle-Car-Design",
+                    "Fortschrittliche Infotainment- und Komfortfunktionen"
                 ],
-                "text": "The Dodge Charger stands out as an exceptional choice in its category. Known for its charger signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "Muscle-Car",
+                    "Limousine",
+                    "Leistung"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Charger",
+                "head": "Najlepszy sedan muscle car: Dodge Charger",
+                "description": "Dodge Charger łączy osiągi kultowego muscle car z nowoczesną technologią i odważnym designem, oferując niezapomniane wrażenia z jazdy.",
+                "text": "Dodge Charger to pełnowymiarowy sedan, który ucieleśnia ducha klasycznych amerykańskich muscle cars. Dzięki mocnym silnikom, w tym doładowanemu V8 o mocy do 797 KM, oferuje zapierające dech w piersiach przyspieszenie i niezrównaną obecność na drodze. Wnętrze oferuje zaawansowane systemy multimedialne, wygodne siedzenia i wysokiej jakości materiały, zapewniając idealną równowagę między wydajnością a komfortem. Na torze lub na otwartej drodze Dodge Charger dostarcza niezapomnianych emocji.",
+                "advantages": [
+                    "Do 797 KM",
+                    "Ikoniczny design muscle car",
+                    "Zaawansowane funkcje multimedialne i komfortowe"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "muscle car",
+                    "sedan",
+                    "osiągi"
+                ]
             },
             "es": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
+                "head": "El sedán muscle definitivo: Dodge Charger",
+                "description": "El Dodge Charger combina el rendimiento de un muscle car icónico con tecnología moderna y diseño audaz, ofreciendo una experiencia de conducción inolvidable.",
+                "text": "El Dodge Charger es un sedán de tamaño completo que encarna el espíritu de los muscle cars clásicos estadounidenses. Con potentes opciones de motor, incluido un V8 sobrealimentado que ofrece hasta 797 caballos de fuerza, proporciona una aceleración emocionante y una presencia inigualable en la carretera. En el interior, el Charger ofrece sistemas avanzados de infoentretenimiento, asientos cómodos y materiales de alta calidad, asegurando tanto rendimiento como confort. Ya sea en la pista o en la carretera abierta, el Dodge Charger ofrece una experiencia cargada de adrenalina como ninguna otra.",
+                "advantages": [
+                    "Hasta 797 caballos de fuerza",
+                    "Diseño icónico de muscle car",
+                    "Funciones avanzadas de confort y tecnología"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "coche",
-                    "lujo",
-                    "rendimiento del cargador",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Dodge Charger destaca como una elección excepcional en su categoría. Conocido por sus características de firma del cargador, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Dodge Charger",
-                "description": "Dodge Charger 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Dodge",
-                    "Charger",
-                    "汽车",
-                    "豪华",
-                    "charger performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "Dodge Charger 在其类别中脱颖而出，是一个卓越的选择。以其 charger 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
+                    "muscle car",
+                    "sedán",
+                    "rendimiento"
+                ]
             },
             "fr": {
                 "title": "Dodge Charger",
-                "description": "Dodge Charger est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
+                "head": "La berline muscle ultime : Dodge Charger",
+                "description": "La Dodge Charger allie la performance emblématique d'un muscle car à une technologie moderne et un design audacieux, offrant une expérience de conduite inoubliable.",
+                "text": "La Dodge Charger est une grande berline qui incarne l'esprit des muscle cars américains classiques. Avec des motorisations puissantes, dont un V8 suralimenté offrant jusqu'à 797 chevaux, elle procure des accélérations saisissantes et une présence incomparable sur la route. À l'intérieur, la Charger offre des systèmes d'infodivertissement avancés, des sièges confortables et des matériaux de haute qualité, garantissant un équilibre parfait entre performance et confort. Sur piste ou sur route, la Dodge Charger offre une expérience riche en adrénaline unique en son genre.",
+                "advantages": [
+                    "Jusqu'à 797 chevaux",
+                    "Design iconique de muscle car",
+                    "Fonctionnalités avancées de confort et technologie"
+                ],
                 "keywords": [
                     "Dodge",
                     "Charger",
-                    "voiture",
-                    "luxe",
-                    "charger performance",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
+                    "muscle car",
+                    "berline",
+                    "performance"
+                ]
+            },
+            "zh": {
+                "title": "Dodge Charger",
+                "head": "终极肌肉轿车：Dodge Charger",
+                "description": "Dodge Charger将标志性的肌肉车性能与现代技术和大胆设计相结合，提供令人难忘的驾驶体验。",
+                "text": "Dodge Charger是一款全尺寸轿车，体现了经典美国肌肉车的精神。配备强大的发动机选项，包括一款最大功率可达797马力的机械增压V8，提供令人兴奋的加速和无与伦比的路面存在感。内部，Charger提供先进的信息娱乐系统、舒适的座椅和高品质材料，确保性能和舒适性兼顾。无论是在赛道上还是在开阔道路上，Dodge Charger都提供了一种独一无二的肾上腺素飙升体验。",
+                "advantages": [
+                    "最大797马力",
+                    "标志性肌肉车设计",
+                    "先进的信息娱乐和舒适功能"
                 ],
-                "text": "La Dodge Charger se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du chargeur, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
+                "keywords": [
+                    "Dodge",
+                    "Charger",
+                    "肌肉车",
+                    "轿车",
+                    "性能"
+                ]
             }
         },
         {
@@ -325,153 +348,6 @@
             }
         },
         {
-            "slug": "durango",
-            "en": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "car",
-                    "luxury",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ru": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "автомобиль",
-                    "роскошь",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "ua": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "автомобіль",
-                    "розкіш",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "pl": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "samochód",
-                    "luksus",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "de": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "Auto",
-                    "Luxus",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "be": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "аўтамабіль",
-                    "раскоша",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "The Dodge Durango stands out as an exceptional choice in its category. Known for its durango signature features, this model combines cutting-edge technology, comfort, and performance. With a focus on safety and reliability, it caters to both everyday commuters and adventure enthusiasts. Key highlights include state-of-the-art infotainment systems, fuel efficiency, and an unparalleled driving experience."
-            },
-            "es": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango es un modelo de coche de alta valoración que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "coche",
-                    "lujo",
-                    "rendimiento del durango",
-                    "características de seguridad avanzadas",
-                    "interfaz fácil de usar",
-                    "diseño innovador",
-                    "eficiencia óptima"
-                ],
-                "text": "El Dodge Durango destaca como una elección excepcional en su categoría. Conocido por sus características de firma del durango, este modelo combina tecnología de vanguardia, comodidad y rendimiento. Con un enfoque en la seguridad y la fiabilidad, se adapta tanto a los viajeros diarios como a los entusiastas de la aventura. Los aspectos más destacados incluyen sistemas de infoentretenimiento de última generación, eficiencia de combustible y una experiencia de conducción sin igual."
-            },
-            "zh": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "汽车",
-                    "豪华",
-                    "durango performance",
-                    "advanced safety features",
-                    "user-friendly interface",
-                    "innovative design",
-                    "optimal efficiency"
-                ],
-                "text": "Dodge Durango 在其类别中脱颖而出，是一个卓越的选择。以其 durango 特色而闻名，该型号结合了尖端技术、舒适性和性能。专注于安全性和可靠性，它适用于日常通勤者和冒险爱好者。主要亮点包括最先进的信息娱乐系统、燃油效率和无与伦比的驾驶体验。"
-            },
-            "fr": {
-                "title": "Dodge Durango",
-                "description": "Dodge Durango est un modèle de voiture très apprécié offrant de grandes performances et du luxe.",
-                "keywords": [
-                    "Dodge",
-                    "Durango",
-                    "voiture",
-                    "luxe",
-                    "performance du durango",
-                    "fonctionnalités de sécurité avancées",
-                    "interface conviviale",
-                    "design innovant",
-                    "efficacité optimale"
-                ],
-                "text": "La Dodge Durango se distingue comme un choix exceptionnel dans sa catégorie. Connu pour ses caractéristiques de signature du durango, ce modèle combine une technologie de pointe, un confort et des performances. Axée sur la sécurité et la fiabilité, elle s'adresse aussi bien aux navetteurs quotidiens qu'aux passionnés d'aventure. Les points forts incluent des systèmes d'infodivertissement de pointe, une efficacité énergétique et une expérience de conduite inégalée."
-            }
-        },
-        {
             "slug": "ram-1500",
             "competitors": [
                 "Ford F-150",
@@ -602,6 +478,176 @@
                     "皮卡",
                     "拖曳能力",
                     "奢华"
+                ]
+            }
+        },
+        {
+            "slug": "dodge-durango",
+            "competitors": [
+                "Ford Explorer",
+                "Chevrolet Tahoe",
+                "Jeep Grand Cherokee"
+            ],
+            "en": {
+                "title": "Dodge Durango",
+                "head": "The Versatile SUV with Muscle: Dodge Durango",
+                "description": "The Dodge Durango is a bold and powerful SUV combining performance, capability, and modern technology for a versatile driving experience.",
+                "text": "The Dodge Durango is a full-size SUV built for families and performance enthusiasts alike. With a variety of powerful engine options, including the Hellcat V8 with 710 horsepower, it delivers thrilling performance while maintaining practicality. Its spacious interior accommodates up to seven passengers, featuring advanced infotainment systems and premium materials for a comfortable ride. Whether towing heavy loads or embarking on family adventures, the Dodge Durango stands out with its blend of muscle and versatility.",
+                "advantages": [
+                    "Up to 710 horsepower",
+                    "Seating for up to 7 passengers",
+                    "Advanced towing and technology features"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "performance",
+                    "versatility"
+                ]
+            },
+            "ru": {
+                "title": "Dodge Durango",
+                "head": "Универсальный внедорожник с характером: Dodge Durango",
+                "description": "Dodge Durango — это смелый и мощный внедорожник, сочетающий производительность, функциональность и современные технологии для универсального опыта вождения.",
+                "text": "Dodge Durango — это полноразмерный внедорожник, созданный как для семей, так и для любителей динамичного вождения. С множеством мощных двигателей, включая Hellcat V8 мощностью 710 л.с., он обеспечивает захватывающее вождение, оставаясь при этом практичным. Просторный салон вмещает до семи пассажиров, предлагая современные мультимедийные системы и премиальные материалы для комфортной поездки. Будь то буксировка тяжёлых грузов или семейные путешествия, Dodge Durango выделяется своим сочетанием мощности и универсальности.",
+                "advantages": [
+                    "До 710 л.с.",
+                    "До 7 мест для пассажиров",
+                    "Современные технологии и возможности буксировки"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "внедорожник",
+                    "производительность",
+                    "универсальность"
+                ]
+            },
+            "ua": {
+                "title": "Dodge Durango",
+                "head": "Універсальний позашляховик із характером: Dodge Durango",
+                "description": "Dodge Durango — це сміливий і потужний позашляховик, що поєднує продуктивність, функціональність і сучасні технології для універсального досвіду водіння.",
+                "text": "Dodge Durango — це повнорозмірний позашляховик, створений як для родин, так і для любителів динамічного водіння. Завдяки потужним двигунам, включаючи Hellcat V8 потужністю 710 к.с., він забезпечує захоплюючу продуктивність, залишаючись практичним. Просторий салон вміщує до семи пасажирів, пропонуючи сучасні мультимедійні системи та преміальні матеріали для комфортної подорожі. Будь то буксирування важких вантажів або сімейні подорожі, Dodge Durango вирізняється своїм поєднанням потужності та універсальності.",
+                "advantages": [
+                    "До 710 к.с.",
+                    "До 7 місць для пасажирів",
+                    "Сучасні технології та можливості буксирування"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "позашляховик",
+                    "продуктивність",
+                    "універсальність"
+                ]
+            },
+            "be": {
+                "title": "Dodge Durango",
+                "head": "Універсальны пазадарожнік з характарам: Dodge Durango",
+                "description": "Dodge Durango — гэта смелы і магутны пазадарожнік, які спалучае прадукцыйнасць, функцыянальнасць і сучасныя тэхналогіі для універсальнага вопыту кіравання.",
+                "text": "Dodge Durango — гэта поўнапамерны пазадарожнік, створаны як для сем'яў, так і для аматараў дынамічнага кіравання. З магутнымі рухавікамі, уключаючы Hellcat V8 магутнасцю 710 л.с., ён забяспечвае захапляльную прадукцыйнасць, застаючыся практычным. Прасторны салон змяшчае да сямі пасажыраў, прапаноўваючы сучасныя мультымедыйныя сістэмы і прэміяльныя матэрыялы для камфортнай паездкі. Будзь то буксіроўка цяжкіх грузаў або сямейныя падарожжы, Dodge Durango вылучаецца спалучэннем магутнасці і ўніверсальнасці.",
+                "advantages": [
+                    "Да 710 л.с.",
+                    "Да 7 месцаў для пасажыраў",
+                    "Сучасныя тэхналогіі і магчымасці буксіроўкі"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "пазадарожнік",
+                    "прадукцыйнасць",
+                    "універсальнасць"
+                ]
+            },
+            "de": {
+                "title": "Dodge Durango",
+                "head": "Der vielseitige SUV mit Kraft: Dodge Durango",
+                "description": "Der Dodge Durango ist ein mutiger und kraftvoller SUV, der Leistung, Vielseitigkeit und moderne Technologie für ein flexibles Fahrerlebnis kombiniert.",
+                "text": "Der Dodge Durango ist ein Full-Size-SUV, der sowohl für Familien als auch für Leistungsenthusiasten entwickelt wurde. Mit einer Auswahl leistungsstarker Motoren, einschließlich des Hellcat V8 mit 710 PS, bietet er aufregende Fahrleistungen bei gleichzeitig hoher Praktikabilität. Sein geräumiges Interieur bietet Platz für bis zu sieben Passagiere und ist mit fortschrittlichen Infotainmentsystemen und hochwertigen Materialien ausgestattet, um Komfort zu gewährleisten. Egal, ob es um das Ziehen schwerer Lasten oder Familienabenteuer geht, der Dodge Durango überzeugt mit seiner Mischung aus Kraft und Vielseitigkeit.",
+                "advantages": [
+                    "Bis zu 710 PS",
+                    "Sitzplätze für bis zu 7 Passagiere",
+                    "Fortschrittliche Technologie und Anhängerkapazität"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "Leistung",
+                    "Vielseitigkeit"
+                ]
+            },
+            "pl": {
+                "title": "Dodge Durango",
+                "head": "Wszechstronny SUV z charakterem: Dodge Durango",
+                "description": "Dodge Durango to odważny i mocny SUV łączący osiągi, wszechstronność i nowoczesną technologię, oferując elastyczne doświadczenie jazdy.",
+                "text": "Dodge Durango to pełnowymiarowy SUV, zaprojektowany zarówno dla rodzin, jak i entuzjastów osiągów. Dzięki różnorodnym opcjom silników, w tym Hellcat V8 o mocy 710 KM, oferuje ekscytujące osiągi przy zachowaniu praktyczności. Jego przestronne wnętrze mieści do siedmiu pasażerów i jest wyposażone w zaawansowane systemy multimedialne oraz wysokiej jakości materiały, zapewniając komfort podczas każdej podróży. Niezależnie od tego, czy chodzi o holowanie ciężkich ładunków, czy rodzinne przygody, Dodge Durango wyróżnia się połączeniem mocy i wszechstronności.",
+                "advantages": [
+                    "Do 710 KM",
+                    "Miejsca dla 7 pasażerów",
+                    "Zaawansowana technologia i możliwości holowania"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "osiągi",
+                    "wszechstronność"
+                ]
+            },
+            "es": {
+                "title": "Dodge Durango",
+                "head": "El SUV versátil con potencia: Dodge Durango",
+                "description": "El Dodge Durango es un SUV audaz y potente que combina rendimiento, capacidad y tecnología moderna para una experiencia de conducción versátil.",
+                "text": "El Dodge Durango es un SUV de tamaño completo diseñado tanto para familias como para entusiastas del rendimiento. Con una variedad de opciones de motores potentes, incluido el Hellcat V8 con 710 caballos de fuerza, ofrece un rendimiento emocionante sin comprometer la practicidad. Su espacioso interior acomoda hasta siete pasajeros y cuenta con sistemas avanzados de infoentretenimiento y materiales de alta calidad para un viaje cómodo. Ya sea remolcando cargas pesadas o embarcándose en aventuras familiares, el Dodge Durango destaca por su combinación de potencia y versatilidad.",
+                "advantages": [
+                    "Hasta 710 caballos de fuerza",
+                    "Capacidad para 7 pasajeros",
+                    "Tecnología avanzada y capacidad de remolque"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "rendimiento",
+                    "versatilidad"
+                ]
+            },
+            "fr": {
+                "title": "Dodge Durango",
+                "head": "Le SUV polyvalent et puissant : Dodge Durango",
+                "description": "Le Dodge Durango est un SUV audacieux et puissant, alliant performance, polyvalence et technologie moderne pour une expérience de conduite flexible.",
+                "text": "Le Dodge Durango est un SUV pleine grandeur conçu pour les familles et les passionnés de performance. Avec une gamme de motorisations puissantes, dont le Hellcat V8 de 710 chevaux, il offre des performances palpitantes tout en restant pratique. Son intérieur spacieux peut accueillir jusqu'à sept passagers et est équipé de systèmes d'infodivertissement avancés et de matériaux de haute qualité pour un confort optimal. Que ce soit pour tracter des charges lourdes ou partir en aventures familiales, le Dodge Durango se distingue par sa combinaison de puissance et de polyvalence.",
+                "advantages": [
+                    "Jusqu'à 710 chevaux",
+                    "Capacité de 7 passagers",
+                    "Technologie avancée et capacité de remorquage"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "performance",
+                    "polyvalence"
+                ]
+            },
+            "zh": {
+                "title": "Dodge Durango",
+                "head": "多功能SUV，强劲动力：Dodge Durango",
+                "description": "Dodge Durango 是一款大胆而强大的SUV，结合了性能、功能和现代技术，为驾驶者提供多样化的驾驶体验。",
+                "text": "Dodge Durango 是一款全尺寸SUV，旨在满足家庭和性能爱好者的需求。拥有多种强劲发动机选择，包括拥有710马力的Hellcat V8，提供令人兴奋的性能同时保持实用性。宽敞的内饰可容纳多达七名乘客，配备先进的信息娱乐系统和优质材料，为舒适驾驶提供保障。无论是牵引重载还是进行家庭冒险，Dodge Durango 凭借其强大和多功能性脱颖而出。",
+                "advantages": [
+                    "高达710马力",
+                    "最多可容纳7名乘客",
+                    "先进的拖曳和技术功能"
+                ],
+                "keywords": [
+                    "Dodge",
+                    "Durango",
+                    "SUV",
+                    "性能",
+                    "多功能性"
                 ]
             }
         }
