@@ -8,7 +8,6 @@ import { useSelector } from 'react-redux';
 import { animateScroll as scroll } from 'react-scroll';
 import { useDispatch } from 'react-redux';
 import languageChange from '../../store/actions/common';
-import path from "lodash/fp/path";
 
 const scrollOption = {
   duration: 50,
