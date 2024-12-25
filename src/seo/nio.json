@@ -736,7 +736,6 @@
                     "performance",
                     "luxe"
                 ]
-
             },
             "zh": {
                 "title": "NIO ET5",
@@ -754,6 +753,176 @@
                     "电动轿车",
                     "性能",
                     "豪华"
+                ]
+            }
+        },
+        {
+            "slug": "nio-et9",
+            "competitors": [
+                "Tesla Model S",
+                "Lucid Air",
+                "Mercedes-Benz EQS"
+            ],
+            "en": {
+                "title": "NIO ET9",
+                "head": "Luxury Electric Sedan: NIO ET9",
+                "description": "The NIO ET9 is a premium electric sedan offering cutting-edge technology, luxurious comfort, and an extended range.",
+                "text": "The NIO ET9 is a flagship electric sedan designed to deliver a seamless blend of luxury and performance. With a range of up to 600 miles (965 km) on a single charge, it sets new standards for long-distance electric driving. The interior is crafted with premium materials, featuring advanced infotainment systems, autonomous driving capabilities, and spacious seating. Its sleek and modern design makes the NIO ET9 a standout choice for those seeking a top-tier electric vehicle.",
+                "advantages": [
+                    "Up to 600 miles of range",
+                    "Premium luxury interior",
+                    "Advanced autonomous driving features"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "electric sedan",
+                    "luxury",
+                    "extended range"
+                ]
+            },
+            "ru": {
+                "title": "NIO ET9",
+                "head": "Роскошный электрический седан: NIO ET9",
+                "description": "NIO ET9 — это премиальный электрический седан, предлагающий передовые технологии, роскошный комфорт и увеличенный запас хода.",
+                "text": "NIO ET9 — это флагманский электрический седан, созданный для идеального сочетания роскоши и производительности. С запасом хода до 965 км на одной зарядке он устанавливает новые стандарты для дальних поездок на электромобилях. Интерьер выполнен из премиальных материалов и оснащён современными мультимедийными системами, функциями автономного вождения и просторными сидениями. Его элегантный и современный дизайн делает NIO ET9 выдающимся выбором для тех, кто ищет электрический автомобиль премиум-класса.",
+                "advantages": [
+                    "Запас хода до 965 км",
+                    "Роскошный интерьер премиум-класса",
+                    "Передовые функции автономного вождения"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "электрический седан",
+                    "роскошь",
+                    "увеличенный запас хода"
+                ]
+            },
+            "ua": {
+                "title": "NIO ET9",
+                "head": "Розкішний електричний седан: NIO ET9",
+                "description": "NIO ET9 — це преміальний електричний седан, що пропонує передові технології, розкішний комфорт та великий запас ходу.",
+                "text": "NIO ET9 — це флагманський електричний седан, створений для ідеального поєднання розкоші та продуктивності. З запасом ходу до 965 км на одному заряді він встановлює нові стандарти для далеких подорожей на електромобілях. Інтер'єр виконаний із преміальних матеріалів і оснащений сучасними мультимедійними системами, функціями автономного водіння та просторими сидіннями. Його елегантний і сучасний дизайн робить NIO ET9 відмінним вибором для тих, хто шукає електромобіль преміум-класу.",
+                "advantages": [
+                    "Запас ходу до 965 км",
+                    "Розкішний преміум-інтер'єр",
+                    "Передові функції автономного водіння"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "електричний седан",
+                    "розкіш",
+                    "великий запас ходу"
+                ]
+            },
+            "be": {
+                "title": "NIO ET9",
+                "head": "Раскошны электрычны седан: NIO ET9",
+                "description": "NIO ET9 — гэта прэміумны электрычны седан, які прапануе перадавыя тэхналогіі, раскошны камфорт і павялічаны запас ходу.",
+                "text": "NIO ET9 — гэта флагманскі электрычны седан, створаны для ідэальнага спалучэння раскошы і прадукцыйнасці. З запасам ходу да 965 км на адной зарадцы ён усталёўвае новыя стандарты для далёкіх паездак на электрамабілях. Інтэр'ер выкананы з прэміумных матэрыялаў і абсталяваны сучаснымі мультымедыйнымі сістэмамі, функцыямі аўтаномнага кіравання і прасторнымі сядзеннямі. Яго элегантны і сучасны дызайн робіць NIO ET9 выдатным выбарам для тых, хто шукае электрамабіль прэміум-класа.",
+                "advantages": [
+                    "Запас ходу да 965 км",
+                    "Раскошны інтэр'ер прэміум-класа",
+                    "Перадавыя функцыі аўтаномнага кіравання"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "электрычны седан",
+                    "раскоша",
+                    "павялічаны запас ходу"
+                ]
+            },
+            "de": {
+                "title": "NIO ET9",
+                "head": "Luxuriöse Elektro-Limousine: NIO ET9",
+                "description": "Der NIO ET9 ist eine Premium-Elektro-Limousine, die modernste Technologie, luxuriösen Komfort und eine große Reichweite bietet.",
+                "text": "Der NIO ET9 ist eine Flaggschiff-Elektro-Limousine, die Luxus und Leistung nahtlos kombiniert. Mit einer Reichweite von bis zu 965 km pro Ladung setzt sie neue Maßstäbe für Langstrecken-Elektromobilität. Das Interieur ist mit hochwertigen Materialien ausgestattet und verfügt über fortschrittliche Infotainmentsysteme, autonome Fahrfunktionen und großzügige Sitze. Ihr elegantes und modernes Design macht den NIO ET9 zur idealen Wahl für alle, die ein Elektrofahrzeug der Spitzenklasse suchen.",
+                "advantages": [
+                    "Reichweite bis zu 965 km",
+                    "Luxuriöses Premium-Interieur",
+                    "Fortschrittliche autonome Fahrfunktionen"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "Elektro-Limousine",
+                    "Luxus",
+                    "erweiterte Reichweite"
+                ]
+            },
+            "pl": {
+                "title": "NIO ET9",
+                "head": "Luksusowy sedan elektryczny: NIO ET9",
+                "description": "NIO ET9 to luksusowy sedan elektryczny oferujący najnowsze technologie, wyjątkowy komfort i duży zasięg.",
+                "text": "NIO ET9 to flagowy sedan elektryczny, który łączy luksus i wydajność. Zasięg do 965 km na jednym ładowaniu wyznacza nowe standardy dla dalekobieżnych pojazdów elektrycznych. Wnętrze wykonane jest z wysokiej jakości materiałów, wyposażone w nowoczesne systemy multimedialne, funkcje autonomicznej jazdy i przestronne siedzenia. Elegancki i nowoczesny design sprawia, że NIO ET9 jest doskonałym wyborem dla osób poszukujących pojazdu elektrycznego klasy premium.",
+                "advantages": [
+                    "Zasięg do 965 km",
+                    "Luksusowe wnętrze premium",
+                    "Zaawansowane funkcje autonomicznej jazdy"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "sedan elektryczny",
+                    "luksus",
+                    "długi zasięg"
+                ]
+            },
+            "es": {
+                "title": "NIO ET9",
+                "head": "Sedán eléctrico de lujo: NIO ET9",
+                "description": "El NIO ET9 es un sedán eléctrico premium que ofrece tecnología de vanguardia, confort de lujo y una autonomía extendida.",
+                "text": "El NIO ET9 es un sedán eléctrico insignia diseñado para ofrecer una combinación perfecta de lujo y rendimiento. Con una autonomía de hasta 965 km por carga, establece nuevos estándares para los viajes eléctricos de larga distancia. Su interior está elaborado con materiales de alta calidad e incluye sistemas avanzados de infoentretenimiento, capacidades de conducción autónoma y asientos espaciosos. Su diseño elegante y moderno convierte al NIO ET9 en una elección destacada para aquellos que buscan un vehículo eléctrico premium.",
+                "advantages": [
+                    "Autonomía de hasta 965 km",
+                    "Interior de lujo premium",
+                    "Funciones avanzadas de conducción autónoma"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "sedán eléctrico",
+                    "lujo",
+                    "autonomía extendida"
+                ]
+            },
+            "fr": {
+                "title": "NIO ET9",
+                "head": "Berline électrique de luxe : NIO ET9",
+                "description": "Le NIO ET9 est une berline électrique premium offrant des technologies de pointe, un confort luxueux et une autonomie étendue.",
+                "text": "Le NIO ET9 est une berline électrique phare conçue pour offrir un mélange parfait de luxe et de performances. Avec une autonomie allant jusqu'à 965 km par charge, il établit de nouvelles normes pour les trajets électriques longue distance. Son intérieur est fabriqué avec des matériaux haut de gamme et comprend des systèmes d'infodivertissement avancés, des capacités de conduite autonome et des sièges spacieux. Son design élégant et moderne fait du NIO ET9 un choix incontournable pour ceux qui recherchent un véhicule électrique premium.",
+                "advantages": [
+                    "Autonomie jusqu'à 965 km",
+                    "Intérieur de luxe premium",
+                    "Fonctionnalités avancées de conduite autonome"
+                ],
+                "keywords": [
+                    "NIO",
+                    "ET9",
+                    "berline électrique",
+                    "luxe",
+                    "autonomie étendue"
+                ]
+            },
+            "zh": {
+                "title": "蔚来 ET9",
+                "head": "豪华电动轿车：蔚来 ET9",
+                "description": "蔚来 ET9 是一款豪华电动轿车，提供尖端技术、奢华舒适和超长续航里程。",
+                "text": "蔚来 ET9 是一款旗舰电动轿车，旨在完美结合奢华与性能。单次充电续航里程高达 965 公里，为长途电动驾驶树立了新标杆。内饰采用高端材料制成，配备先进的信息娱乐系统、自主驾驶功能和宽敞的座椅。其流线型现代设计使蔚来 ET9 成为追求顶级电动车的首选。",
+                "advantages": [
+                    "续航里程高达 965 公里",
+                    "高端奢华内饰",
+                    "先进的自动驾驶功能"
+                ],
+                "keywords": [
+                    "蔚来",
+                    "ET9",
+                    "电动轿车",
+                    "奢华",
+                    "超长续航"
                 ]
             }
         }
