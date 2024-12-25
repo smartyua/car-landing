@@ -151,7 +151,7 @@ const Footer = (): any => {
           >
             Kharkiv
           </a>
-          , Ukraine &copy; 2024
+          , Ukraine &copy; 2025
         </div>
       </div>
     </div>
