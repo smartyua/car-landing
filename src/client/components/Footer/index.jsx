@@ -8,6 +8,7 @@ import { useSelector } from 'react-redux';
 import { animateScroll as scroll } from 'react-scroll';
 import { useDispatch } from 'react-redux';
 import languageChange from '../../store/actions/common';
+import path from "lodash/fp/path";
 
 const scrollOption = {
   duration: 50,
@@ -23,7 +24,7 @@ const Footer = (): any => {
   const { language } = useSelector(({ common: comm }: any) => comm);
   const location = useLocation();
   const dispatch = useDispatch();
-  const { pathname } = location;
+  let { pathname } = location;
 
   const heart = (
     <span role="img" className={styles.emojii} aria-label="Heart">
@@ -57,6 +58,10 @@ const Footer = (): any => {
         index++;
       }
     }
+  }
+
+  if (pathname === '/') {
+    pathname = `/${language}/`;
   }
 
   return (
