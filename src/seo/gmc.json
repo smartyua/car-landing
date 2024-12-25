@@ -156,6 +156,42 @@
                     "todoterreno",
                     "supertruck"
                 ]
+            },
+            "fr": {
+                "title": "GMC Hummer EV",
+                "head": "Découvrez la puissance révolutionnaire avec le GMC Hummer EV",
+                "description": "Le GMC Hummer EV est un supertruck entièrement électrique combinant des capacités tout-terrain exceptionnelles, une technologie de pointe et un design révolutionnaire.",
+                "text": "Le GMC Hummer EV est un camion entièrement électrique conçu pour redéfinir la conduite tout-terrain et de performance. Avec jusqu'à 1 000 chevaux et une autonomie de 529 km, il offre une puissance et une polyvalence inégalées. Le mode innovant CrabWalk™ et la suspension pneumatique adaptative améliorent les capacités tout-terrain, tandis que l'intérieur présente des matériaux haut de gamme, un écran d'infodivertissement de 13,4 pouces et des affichages personnalisables. Les systèmes de sécurité avancés comme Super Cruise™ permettent une conduite sans les mains sur les routes compatibles. Parfait pour les aventuriers à la recherche d'un véhicule électrique audacieux.",
+                "advantages": [
+                    "Jusqu'à 1 000 chevaux",
+                    "Mode CrabWalk™ pour une performance tout-terrain améliorée",
+                    "Conduite mains libres avancée Super Cruise™"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "camion électrique",
+                    "tout-terrain",
+                    "supertruck"
+                ]
+            },
+            "zh": {
+                "title": "GMC Hummer EV",
+                "head": "体验GMC Hummer EV的革命性动力",
+                "description": "GMC Hummer EV是一款全电动超级卡车，结合了卓越的越野能力、尖端技术和革命性设计。",
+                "text": "GMC Hummer EV是一款全电动卡车，旨在重新定义越野和性能驾驶。拥有高达1000马力和329英里的续航里程，它提供了无与伦比的动力和多功能性。创新的CrabWalk™模式和自适应空气悬挂增强了越野能力，而内饰采用优质材料，配备13.4英寸信息娱乐屏幕和可定制显示屏。先进的安全系统如Super Cruise™在兼容道路上提供免提驾驶。非常适合寻求大胆电动汽车的冒险者。",
+                "advantages": [
+                    "高达1000马力",
+                    "CrabWalk™模式增强越野性能",
+                    "先进的Super Cruise™免提驾驶"
+                ],
+                "keywords": [
+                    "GMC",
+                    "Hummer EV",
+                    "电动卡车",
+                    "越野",
+                    "超级卡车"
+                ]
             }
         }
     ]
