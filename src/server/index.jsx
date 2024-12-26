@@ -142,6 +142,7 @@ export const renderApp = async req => {
     ${title ? title.toString() : `<title>${defaultTitle}</title>` }
     ${meta ? metaTags : metaValues }
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-adsense-account" content="ca-pub-2580329750127755">
     ${assets.client.css ? `<link rel="stylesheet" href="${assets.client.css}">` : '' }
     <link rel="shortcut icon" href="/public/favicon.png">
     <link rel="apple-touch-icon" href="/public/app-icon.png">
