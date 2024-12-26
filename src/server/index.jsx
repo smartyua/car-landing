@@ -157,6 +157,8 @@ export const renderApp = async req => {
     </script>
     ${jsScriptTagsFromAssets(assets, 'client', ' defer cross-origin')}
     ${googleBlock}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2580329750127755"
+     crossorigin="anonymous"></script>
   </body>
 </html>`;
 
