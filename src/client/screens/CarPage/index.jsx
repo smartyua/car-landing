@@ -1,6 +1,6 @@
 // @flow
 
-import React from 'react';
+import React, { memo } from 'react';
 import { useParams } from 'react-router-dom';
 // import * as Scroll from 'react-scroll';
 import { Helmet } from 'react-helmet';
@@ -154,4 +154,5 @@ const CarScreen = (): any => {
   );
 };
 
-export default CarScreen;
+// $FlowFixMe
+export default memo(CarScreen);

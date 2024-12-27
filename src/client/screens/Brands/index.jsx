@@ -1,6 +1,6 @@
 // @flow
 
-import React from 'react';
+import React, { memo } from 'react';
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 // import * as Scroll from 'react-scroll';
@@ -132,4 +132,5 @@ const BrandScreen = (): any => {
   );
 };
 
-export default BrandScreen;
+// $FlowFixMe
+export default memo(BrandScreen);
