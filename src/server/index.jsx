@@ -5,10 +5,9 @@ import dotenv from 'dotenv';
 import { Provider } from 'react-redux';
 import { renderToString } from 'react-dom/server';
 // eslint-disable-next-line import/extensions
-import { StaticRouter } from 'react-router-dom/server.js';
+import { StaticRouter } from 'react-router-dom';
 import serialize from 'serialize-javascript';
 import { Helmet } from 'react-helmet';
-import prettifyHtml from 'prettify-html';
 import bodyParser from 'body-parser';
 
 import metaValues from '../config';
@@ -82,14 +81,12 @@ export const renderApp = async req => {
   const store = configureStore(preloadedState);
   const context = {};
 
-  const markup = prettifyHtml(
-    renderToString(
-      <Provider store={store}>
-        <StaticRouter location={req.url} context={context}>
-          <App />
-        </StaticRouter>
-      </Provider>
-    )
+  const markup = renderToString(
+    <Provider store={store}>
+      <StaticRouter location={req.url} context={context}>
+        <App />
+      </StaticRouter>
+    </Provider>
   );
 
   // Grab the initial state from our Redux store
