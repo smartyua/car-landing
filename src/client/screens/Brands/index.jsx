@@ -32,24 +32,23 @@ const BrandScreen = (): any => {
   const { brand = 'default' } = params;
   const { defaultTitle, globalSEO } = metaValues;
   const { language } = useSelector(({ common }: any) => common);
-  const { title, headTitle, description } =
-    _.get(globalSEO, brand) || _.get(globalSEO, 'default');
+  const { title, headTitle, description } = _.get(globalSEO, brand) || {};
 
   const models =
     globalSEO[brand] && globalSEO[brand].models ? globalSEO[brand].models : [];
 
+  const brandFind = Object.keys(globalSEO).find(key => {
+    const item = globalSEO[key];
+    return item.slug === brand;
+  });
+
   useEffect(() => {
-    if (!models.length) {
+    if (!models.length || !brandFind) {
       if (typeof window !== 'undefined') {
         window.history.pushState({}, '', '/404');
       }
       return navigate('/404');
     }
-  });
-
-  const brandFind = Object.keys(globalSEO).find(key => {
-    const item = globalSEO[key];
-    return item.slug === brand;
   });
 
   const brandInfo = globalSEO[brandFind];

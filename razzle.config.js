@@ -15,16 +15,18 @@ module.exports = {
     const { module } = config;
     const { rules } = module;
 
-    config.optimization.minimizer = config.optimization.minimizer.filter(
-      item => {
-        const {
-          options: { terserOptions }
-        } = item;
-        // console.log(item);
-        // console.log(terserOptions);
-        return !terserOptions;
-      }
-    );
+    if (Array.isArray(config.optimization.minimizer)) {
+      config.optimization.minimizer = config.optimization.minimizer.filter(
+        item => {
+          const {
+            options: { terserOptions }
+          } = item;
+          // console.log(item);
+          // console.log(terserOptions);
+          return !terserOptions;
+        }
+      );
+    }
 
     const newRules = rules.map(rule => {
       const { use } = rule;
