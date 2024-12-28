@@ -381,162 +381,6 @@
             }
         },
         {
-            "slug": "mercedes-eqc",
-            "en": {
-                "title": "Mercedes EQC",
-                "description": "A luxurious and versatile electric SUV with exceptional comfort and performance.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "luxury SUV",
-                    "electric SUV",
-                    "performance",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "Mercedes EQC",
-                "description": "Роскошный и универсальный электрический внедорожник с исключительным комфортом и производительностью.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "роскошный внедорожник",
-                    "электрический внедорожник",
-                    "производительность",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "Mercedes EQC",
-                "description": "Розкішний та універсальний електричний позашляховик із винятковим комфортом та продуктивністю.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "розкішний позашляховик",
-                    "електричний позашляховик",
-                    "продуктивність",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "Mercedes EQC",
-                "description": "Luksusowy i wszechstronny elektryczny SUV z wyjątkowym komfortem i osiągami.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "luksusowy SUV",
-                    "elektryczny SUV",
-                    "osiągi",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "Mercedes EQC",
-                "description": "Ein luxuriöser und vielseitiger Elektro-SUV mit außergewöhnlichem Komfort und Leistung.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "luxuriöser SUV",
-                    "elektrischer SUV",
-                    "Leistung",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "be": {
-                "title": "Mercedes EQC",
-                "description": "Раскошны і універсальны электрычны пазадарожнік з выключным камфортам і прадукцыйнасцю.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "раскошны пазадарожнік",
-                    "электрычны пазадарожнік",
-                    "прадукцыйнасць",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "es": {
-                "title": "Mercedes EQC",
-                "description": "Un SUV eléctrico lujoso y versátil con un confort y rendimiento excepcionales.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "SUV de lujo",
-                    "SUV eléctrico",
-                    "rendimiento",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "fr": {
-                "title": "Mercedes EQC",
-                "description": "Un SUV électrique luxueux et polyvalent offrant un confort et des performances exceptionnels.",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "SUV de luxe",
-                    "SUV électrique",
-                    "performance",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "zh": {
-                "title": "Mercedes EQC",
-                "description": "一款豪华多功能的电动SUV，具有出色的舒适性和性能。",
-                "keywords": [
-                    "Mercedes",
-                    "EQC",
-                    "豪华SUV",
-                    "电动SUV",
-                    "性能",
-                    "advanced features",
-                    "value for money",
-                    "mercedes-eqc highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "Mercedes EQC offers a perfect blend of performance, design, and innovation. Ideal for drivers who value mercedes-eqc's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            }
-        },
-        {
             "slug": "mercedes-benz-eqa",
             "competitors": [
                 "BMW iX1",
@@ -1046,153 +890,6 @@
             }
         },
         {
-            "slug": "c-class",
-            "en": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ru": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "de": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "be": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "es": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "fr": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "zh": {
-                "title": "MercedesBenz C-Class",
-                "description": "MercedesBenz C-Class 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "MercedesBenz",
-                    "C-Class",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "c-class highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz C-Class offers a perfect blend of performance, design, and innovation. Ideal for drivers who value c-class's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            }
-        },
-        {
             "slug": "e-class",
             "en": {
                 "title": "MercedesBenz E-Class",
@@ -1341,296 +1038,381 @@
         },
         {
             "slug": "gle",
+            "title": "MercedesBenz GLE",
+            "competitors": [
+                "BMW X5",
+                "Audi Q7",
+                "Lexus RX",
+                "Volvo XC90"
+            ],
             "en": {
                 "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Discover the Luxurious Mercedes-Benz GLE: A Blend of Style and Performance",
+                "description": "Explore the advanced features and superior design of the Mercedes-Benz GLE, the epitome of luxury SUVs.",
+                "text": "The Mercedes-Benz GLE sets new standards in the world of luxury SUVs, combining state-of-the-art technology with unparalleled comfort and design. Equipped with powerful engines ranging from the GLE 350’s 2.0L inline-4 turbo to the robust GLE 580’s 4.0L V8 biturbo, this vehicle promises both efficiency and performance. Inside, the GLE offers a spacious and opulent cabin with advanced features like the MBUX infotainment system, augmented reality navigation, and active safety technologies to ensure a smooth and safe driving experience.\n\nEach model of the GLE lineup is crafted with precision, featuring adaptive air suspension and enhanced driving dynamics to suit various terrains and preferences. Whether navigating busy city streets or embarking on a cross-country adventure, the GLE delivers exceptional comfort and unrivaled sophistication.",
+                "advantages": [
+                    "Cutting-edge MBUX infotainment system",
+                    "Variety of powerful engine options",
+                    "Advanced safety features",
+                    "Luxurious, spacious interior",
+                    "Adaptive air suspension for superior ride quality"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "luxury SUV",
+                    "advanced safety",
+                    "performance SUV",
+                    "MBUX system",
+                    "GLE configurations"
+                ]
             },
             "ru": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLE",
+                "head": "Откройте для себя роскошный Mercedes-Benz GLE: сочетание стиля и производительности",
+                "description": "Исследуйте передовые функции и превосходный дизайн Mercedes-Benz GLE — воплощение роскошного внедорожника.",
+                "text": "Mercedes-Benz GLE устанавливает новые стандарты в мире роскошных внедорожников, сочетая современные технологии с непревзойденным комфортом и дизайном. Оснащённый мощными двигателями — от 2.0-литрового турбированного 4-цилиндрового GLE 350 до 4.0-литрового V8 битурбо GLE 580 — автомобиль обещает как эффективность, так и производительность. Внутри GLE предлагает просторный и роскошный салон с такими передовыми функциями, как мультимедийная система MBUX, дополненная реальность для навигации и активные технологии безопасности, обеспечивающие плавное и безопасное вождение.\n\nКаждая модель линейки GLE создана с исключительной точностью, оснащена адаптивной пневматической подвеской и улучшенной динамикой вождения, чтобы соответствовать различным условиям и предпочтениям. Независимо от того, передвигаетесь ли вы по загруженным городским улицам или отправляетесь в дальнее путешествие, GLE обеспечивает исключительный комфорт и непревзойденную изысканность.",
+                "advantages": [
+                    "Передовая мультимедийная система MBUX",
+                    "Разнообразие мощных двигателей",
+                    "Продвинутые функции безопасности",
+                    "Роскошный, просторный салон",
+                    "Адаптивная пневматическая подвеска для высочайшего качества езды"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
                 "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Mercedes-Benz GLE",
+                    "роскошный внедорожник",
+                    "передовые технологии безопасности",
+                    "производительный внедорожник",
+                    "система MBUX",
+                    "конфигурации GLE"
+                ]
             },
             "de": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLE",
+                "head": "Entdecken Sie den luxuriösen Mercedes-Benz GLE: Eine Kombination aus Stil und Leistung",
+                "description": "Erleben Sie die fortschrittlichen Funktionen und das herausragende Design des Mercedes-Benz GLE, das Sinnbild für luxuriöse SUVs.",
+                "text": "Der Mercedes-Benz GLE setzt neue Maßstäbe in der Welt der luxuriösen SUVs, indem er modernste Technologie mit unvergleichlichem Komfort und Design verbindet. Ausgestattet mit leistungsstarken Motoren, die von einem 2,0-Liter-Reihen-4-Turbo des GLE 350 bis hin zum 4,0-Liter-V8-Biturbo des GLE 580 reichen, verspricht dieses Fahrzeug sowohl Effizienz als auch Leistung. Innen bietet der GLE eine geräumige und luxuriöse Kabine mit fortschrittlichen Funktionen wie dem MBUX-Infotainmentsystem, Augmented-Reality-Navigation und aktiven Sicherheits-Technologien, die ein reibungsloses und sicheres Fahrerlebnis gewährleisten.\n\nJedes Modell der GLE-Reihe wird mit Präzision gefertigt und verfügt über eine adaptive Luftfederung sowie verbesserte Fahrdynamik, die sich an unterschiedliche Gelände und Vorlieben anpassen. Ob in belebten Stadtstraßen oder auf einer langen Reise – der GLE bietet außergewöhnlichen Komfort und unvergleichliche Eleganz.",
+                "advantages": [
+                    "Fortschrittliches MBUX-Infotainmentsystem",
+                    "Vielseitige, leistungsstarke Motoroptionen",
+                    "Erweiterte Sicherheitsmerkmale",
+                    "Luxuriöses, geräumiges Interieur",
+                    "Adaptive Luftfederung für überragenden Fahrkomfort"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "Luxus-SUV",
+                    "erweiterte Sicherheit",
+                    "leistungsstarker SUV",
+                    "MBUX-System",
+                    "GLE-Konfigurationen"
+                ]
             },
-            "be": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+            "ua": {
+                "title": "Mercedes-Benz GLE",
+                "head": "Відкрийте для себе розкішний Mercedes-Benz GLE: поєднання стилю та потужності",
+                "description": "Досліджуйте передові функції та чудовий дизайн Mercedes-Benz GLE — еталон розкішних позашляховиків.",
+                "text": "Mercedes-Benz GLE встановлює нові стандарти у світі розкішних позашляховиків, поєднуючи найсучасніші технології з неперевершеним комфортом та дизайном. Оснащений потужними двигунами — від 2,0-літрового турбодвигуна GLE 350 до 4,0-літрового V8 бітурбо GLE 580, цей автомобіль забезпечує як ефективність, так і продуктивність. Салон GLE просторий та розкішний, з такими передовими функціями, як мультимедійна система MBUX, навігація з елементами доповненої реальності та активні технології безпеки для плавного та безпечного водіння.\n\nКожна модель серії GLE створена з точністю, обладнана адаптивною пневматичною підвіскою та покращеною динамікою водіння для різних умов та вподобань. Незалежно від того, чи пересуваєтесь ви містом, чи вирушаєте у далеку подорож, GLE забезпечує винятковий комфорт та вишуканість.",
+                "advantages": [
+                    "Передова мультимедійна система MBUX",
+                    "Різноманітність потужних двигунів",
+                    "Передові функції безпеки",
+                    "Розкішний, просторий салон",
+                    "Адаптивна пневматична підвіска для високоякісної їзди"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "розкішний позашляховик",
+                    "передова безпека",
+                    "продуктивний позашляховик",
+                    "система MBUX",
+                    "конфігурації GLE"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz GLE",
+                "head": "Odkryj luksusowy Mercedes-Benz GLE: Połączenie stylu i osiągów",
+                "description": "Poznaj zaawansowane funkcje i doskonały design Mercedes-Benz GLE, symbol luksusowych SUV-ów.",
+                "text": "Mercedes-Benz GLE wyznacza nowe standardy w świecie luksusowych SUV-ów, łącząc najnowocześniejszą technologię z niezrównanym komfortem i designem. Wyposażony w potężne silniki — od 2.0-litrowego rzędowego 4-cylindrowego turbo GLE 350 po 4.0-litrowy V8 biturbo GLE 580 — pojazd ten oferuje zarówno wydajność, jak i moc. Wnętrze GLE oferuje przestronną i luksusową kabinę z zaawansowanymi funkcjami, takimi jak system multimedialny MBUX, nawigacja z rozszerzoną rzeczywistością i aktywne technologie bezpieczeństwa, zapewniając płynną i bezpieczną jazdę.\n\nKażdy model z linii GLE został precyzyjnie zaprojektowany i wyposażony w adaptacyjne zawieszenie pneumatyczne oraz ulepszoną dynamikę jazdy, dostosowaną do różnych warunków i preferencji. Niezależnie od tego, czy poruszasz się po zatłoczonych ulicach miasta, czy wyruszasz w długą podróż, GLE gwarantuje wyjątkowy komfort i nieporównywalną elegancję.",
+                "advantages": [
+                    "Nowoczesny system multimedialny MBUX",
+                    "Szeroki wybór potężnych silników",
+                    "Zaawansowane funkcje bezpieczeństwa",
+                    "Luksusowe, przestronne wnętrze",
+                    "Adaptacyjne zawieszenie pneumatyczne dla najwyższej jakości jazdy"
+                ],
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "luksusowy SUV",
+                    "zaawansowane bezpieczeństwo",
+                    "wydajny SUV",
+                    "system MBUX",
+                    "konfiguracje GLE"
+                ]
             },
             "es": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLE",
+                "head": "Descubre el lujoso Mercedes-Benz GLE: Una combinación de estilo y rendimiento",
+                "description": "Explora las funciones avanzadas y el diseño superior del Mercedes-Benz GLE, el epítome de los SUV de lujo.",
+                "text": "El Mercedes-Benz GLE establece nuevos estándares en el mundo de los SUV de lujo, combinando tecnología de vanguardia con un confort y diseño incomparables. Equipado con potentes motores, desde el GLE 350 con motor turbo de 4 cilindros y 2.0 litros hasta el robusto V8 biturbo de 4.0 litros del GLE 580, este vehículo promete tanto eficiencia como rendimiento. Por dentro, el GLE ofrece un habitáculo espacioso y lujoso con funciones avanzadas como el sistema de infoentretenimiento MBUX, navegación con realidad aumentada y tecnologías de seguridad activa para garantizar una experiencia de conducción suave y segura.\n\nCada modelo de la gama GLE está diseñado con precisión y cuenta con suspensión neumática adaptativa y dinámicas de conducción mejoradas para adaptarse a diversos terrenos y preferencias. Ya sea navegando por calles urbanas concurridas o emprendiendo una aventura de larga distancia, el GLE ofrece comodidad excepcional y sofisticación incomparable.",
+                "advantages": [
+                    "Sistema de infoentretenimiento MBUX de última generación",
+                    "Variedad de opciones de motores potentes",
+                    "Funciones avanzadas de seguridad",
+                    "Interior lujoso y espacioso",
+                    "Suspensión neumática adaptativa para una calidad de conducción superior"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "SUV de lujo",
+                    "seguridad avanzada",
+                    "SUV de alto rendimiento",
+                    "sistema MBUX",
+                    "configuraciones GLE"
+                ]
             },
             "fr": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLE",
+                "head": "Découvrez le luxueux Mercedes-Benz GLE : Une alliance de style et de performance",
+                "description": "Explorez les fonctionnalités avancées et le design exceptionnel du Mercedes-Benz GLE, l'incarnation des SUV de luxe.",
+                "text": "Le Mercedes-Benz GLE établit de nouvelles normes dans l'univers des SUV de luxe, alliant technologie de pointe, confort inégalé et design raffiné. Doté de moteurs puissants, allant du moteur turbo 4 cylindres en ligne de 2.0L du GLE 350 au robuste V8 biturbo de 4.0L du GLE 580, ce véhicule promet à la fois efficacité et performance. À l'intérieur, le GLE propose un habitacle spacieux et luxueux avec des fonctionnalités avancées telles que le système d'infodivertissement MBUX, la navigation en réalité augmentée et les technologies de sécurité actives pour garantir une expérience de conduite fluide et sécurisée.\n\nChaque modèle de la gamme GLE est conçu avec précision et équipé d'une suspension pneumatique adaptative et de dynamiques de conduite améliorées pour s'adapter à divers terrains et préférences. Que vous rouliez dans les rues animées de la ville ou entrepreniez un long voyage, le GLE offre un confort exceptionnel et une sophistication inégalée.",
+                "advantages": [
+                    "Système d'infodivertissement MBUX de pointe",
+                    "Large choix de moteurs performants",
+                    "Fonctionnalités de sécurité avancées",
+                    "Intérieur spacieux et luxueux",
+                    "Suspension pneumatique adaptative pour une qualité de conduite supérieure"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "SUV de luxe",
+                    "sécurité avancée",
+                    "SUV performant",
+                    "système MBUX",
+                    "configurations GLE"
+                ]
+            },
+            "be": {
+                "title": "Mercedes-Benz GLE",
+                "head": "Адкрыйце для сябе раскошны Mercedes-Benz GLE: спалучэнне стылю і магутнасці",
+                "description": "Даследуйце перадавыя функцыі і выдатны дызайн Mercedes-Benz GLE — увасабленне раскошных пазадарожнікаў.",
+                "text": "Mercedes-Benz GLE ўсталёўвае новыя стандарты ў свеце раскошных пазадарожнікаў, спалучаючы найноўшыя тэхналогіі з непераўзыдзеным камфортам і дызайнам. Абсталяваны магутнымі рухавікамі — ад 2,0-літровага турбарухавіка GLE 350 да 4,0-літровага V8 бітурба GLE 580, гэты аўтамабіль забяспечвае эфектыўнасць і прадукцыйнасць. Салон GLE прасторны і раскошны, з такімі перадавымі функцыямі, як сістэма MBUX, навігацыя з дапоўненай рэальнасцю і актыўныя тэхналогіі бяспекі, якія забяспечваюць плаўнае і бяспечнае кіраванне.",
+                "advantages": [
+                    "Перадавая сістэма MBUX",
+                    "Разнастайнасць магутных рухавікоў",
+                    "Перадавыя функцыі бяспекі",
+                    "Раскошны, прасторны інтэр'ер",
+                    "Адаптыўная пнеўматычная падвеска для высокай якасці язды"
+                ],
+                "keywords": [
+                    "Mercedes-Benz GLE",
+                    "раскошны пазадарожнік",
+                    "пашыраная бяспека",
+                    "прадукцыйны пазадарожнік",
+                    "сістэма MBUX",
+                    "канфігурацыі GLE"
+                ]
             },
             "zh": {
-                "title": "MercedesBenz GLE",
-                "description": "MercedesBenz GLE 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLE",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "gle highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "梅赛德斯-奔驰 GLE",
+                "head": "探索奢华的梅赛德斯-奔驰 GLE：风格与性能的完美结合",
+                "description": "探索梅赛德斯-奔驰 GLE 的先进功能和卓越设计，这是一款奢华 SUV 的典范。",
+                "text": "梅赛德斯-奔驰 GLE 在豪华 SUV 领域树立了新标准，将最先进的技术与无与伦比的舒适性和设计相结合。配备强大的发动机，从 GLE 350 的 2.0 升直列四缸涡轮增压发动机到 GLE 580 的 4.0 升 V8 双涡轮发动机，这款车兼具效率和性能。内部空间宽敞豪华，配备先进的功能，如 MBUX 信息娱乐系统、增强现实导航以及主动安全技术，确保驾驶平稳且安全。\n\nGLE 车系的每一款车型都经过精密设计，配备自适应空气悬挂和增强的驾驶动态，以适应各种地形和偏好。无论是在繁忙的城市街道还是跨国旅行中，GLE 都能提供卓越的舒适性和无与伦比的优雅。",
+                "advantages": [
+                    "先进的 MBUX 信息娱乐系统",
+                    "多种强劲的发动机选项",
+                    "高级安全功能",
+                    "奢华宽敞的内部空间",
+                    "自适应空气悬挂，提供卓越的驾驶质量"
                 ],
-                "text": "MercedesBenz GLE offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gle's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "梅赛德斯-奔驰 GLE",
+                    "奢华 SUV",
+                    "高级安全",
+                    "高性能 SUV",
+                    "MBUX 系统",
+                    "GLE 配置"
+                ]
             }
         },
         {
             "slug": "gls",
+            "competitors": [
+                "BMW X7",
+                "Audi Q7",
+                "Lexus LX",
+                "Range Rover"
+            ],
             "en": {
                 "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS is a top-rated car model offering great performance and luxury.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "car",
-                    "luxury",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "head": "Explore the Luxurious Mercedes-Benz GLS",
+                "description": "Discover the elegance and advanced technology of the Mercedes-Benz GLS, the ultimate in luxury SUVs.",
+                "text": "The Mercedes-Benz GLS is the pinnacle of luxury and functionality, offering unmatched comfort and state-of-the-art technology. Its spacious interior is equipped with the latest in infotainment systems and premium materials, making it a haven for both drivers and passengers. Under the hood, the GLS boasts powerful engine options, including an efficient hybrid model, ensuring robust performance alongside fuel economy.\n\nSafety in the GLS is paramount, featuring advanced driver assistance systems that set new standards in the SUV segment. From adaptive cruise control to automatic emergency braking, the GLS is designed to protect its occupants at every turn. The adaptive air suspension not only enhances comfort but also improves handling dynamics, providing a smooth ride in all conditions.",
+                "advantages": [
+                    "Superior luxury interior finishes",
+                    "Leading-edge safety features",
+                    "Powerful engine performance with hybrid option",
+                    "Advanced infotainment system"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "luxury SUV",
+                    "safety features",
+                    "hybrid SUV",
+                    "advanced technology"
+                ]
             },
             "ru": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS — это высоко оцененная модель автомобиля, предлагающая отличную производительность и роскошь.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "автомобиль",
-                    "роскошь",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLS",
+                "head": "Исследуйте роскошный Mercedes-Benz GLS",
+                "description": "Откройте элегантность и передовые технологии Mercedes-Benz GLS — вершины роскошных внедорожников.",
+                "text": "Mercedes-Benz GLS — это вершина роскоши и функциональности, предлагающая непревзойденный комфорт и передовые технологии. Его просторный интерьер оснащен новейшими информационно-развлекательными системами и премиальными материалами, создавая уютное пространство как для водителя, так и для пассажиров. Под капотом GLS скрываются мощные двигатели, включая эффективную гибридную модель, обеспечивающую высокую производительность и экономию топлива.\n\nБезопасность в GLS стоит на первом месте, с продвинутыми системами помощи водителю, устанавливающими новые стандарты в сегменте внедорожников. От адаптивного круиз-контроля до автоматического экстренного торможения — GLS создан для защиты своих пассажиров на каждом шагу. Адаптивная пневматическая подвеска не только улучшает комфорт, но и повышает управляемость, обеспечивая плавную езду в любых условиях.",
+                "advantages": [
+                    "Изысканная отделка интерьера",
+                    "Передовые функции безопасности",
+                    "Мощные двигатели с гибридным вариантом",
+                    "Современная информационно-развлекательная система"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "ua": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS — це високооцінена модель автомобіля, що пропонує чудову продуктивність та розкіш.",
                 "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "автомобіль",
-                    "розкіш",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
-            },
-            "pl": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS to wysoko oceniany model samochodu, który oferuje doskonałą wydajność i luksus.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "samochód",
-                    "luksus",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
-                ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                    "Mercedes-Benz GLS",
+                    "роскошный внедорожник",
+                    "функции безопасности",
+                    "гибридный внедорожник",
+                    "передовые технологии"
+                ]
             },
             "de": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS ist ein hochbewertetes Automodell, das hervorragende Leistung und Luxus bietet.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "Auto",
-                    "Luxus",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLS",
+                "head": "Entdecken Sie den luxuriösen Mercedes-Benz GLS",
+                "description": "Erleben Sie die Eleganz und fortschrittliche Technologie des Mercedes-Benz GLS, das ultimative Luxus-SUV.",
+                "text": "Der Mercedes-Benz GLS ist der Höhepunkt von Luxus und Funktionalität und bietet unvergleichlichen Komfort sowie modernste Technologie. Sein geräumiges Interieur ist mit den neuesten Infotainmentsystemen und hochwertigen Materialien ausgestattet und schafft ein Paradies für Fahrer und Passagiere. Unter der Haube überzeugt der GLS mit leistungsstarken Motoroptionen, einschließlich eines effizienten Hybridmodells, das starke Leistung und Kraftstoffeffizienz vereint.\n\nSicherheit steht beim GLS an erster Stelle, mit fortschrittlichen Fahrerassistenzsystemen, die neue Maßstäbe im SUV-Segment setzen. Von adaptiver Geschwindigkeitsregelung bis hin zu automatischer Notbremsung wurde der GLS entwickelt, um seine Insassen in jeder Situation zu schützen. Die adaptive Luftfederung verbessert nicht nur den Komfort, sondern auch die Fahrdynamik und sorgt für eine ruhige Fahrt unter allen Bedingungen.",
+                "advantages": [
+                    "Hochwertige luxuriöse Innenausstattung",
+                    "Modernste Sicherheitsmerkmale",
+                    "Leistungsstarke Motorleistung mit Hybridoption",
+                    "Fortschrittliches Infotainmentsystem"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "Luxus-SUV",
+                    "Sicherheitsfunktionen",
+                    "Hybrid-SUV",
+                    "fortschrittliche Technologie"
+                ]
             },
-            "be": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS — гэта высока ацэненая мадэль аўтамабіля, якая прапануе выдатную прадукцыйнасць і раскошу.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "аўтамабіль",
-                    "раскоша",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+            "ua": {
+                "title": "Mercedes-Benz GLS",
+                "head": "Досліджуйте розкішний Mercedes-Benz GLS",
+                "description": "Відкрийте елегантність і передові технології Mercedes-Benz GLS — вершину розкішних позашляховиків.",
+                "text": "Mercedes-Benz GLS — це вершина розкоші та функціональності, що пропонує неперевершений комфорт і передові технології. Його просторий інтер'єр оснащений найсучаснішими інформаційно-розважальними системами та преміальними матеріалами, створюючи ідеальний простір для водія і пасажирів. Під капотом GLS приховані потужні двигуни, включаючи ефективну гібридну модель, що забезпечує високу продуктивність і економію палива.\n\nБезпека у GLS є пріоритетом, завдяки сучасним системам допомоги водію, які встановлюють нові стандарти у сегменті позашляховиків. Від адаптивного круїз-контролю до автоматичного екстреного гальмування — GLS створений для захисту пасажирів у будь-якій ситуації. Адаптивна пневматична підвіска не лише підвищує комфорт, а й покращує динаміку водіння, забезпечуючи плавну їзду за будь-яких умов.",
+                "advantages": [
+                    "Розкішна внутрішня обробка",
+                    "Передові функції безпеки",
+                    "Потужні двигуни з гібридним варіантом",
+                    "Сучасна інформаційно-розважальна система"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "розкішний позашляховик",
+                    "функції безпеки",
+                    "гібридний позашляховик",
+                    "передові технології"
+                ]
+            },
+            "pl": {
+                "title": "Mercedes-Benz GLS",
+                "head": "Odkryj luksusowy Mercedes-Benz GLS",
+                "description": "Poznaj elegancję i zaawansowaną technologię Mercedes-Benz GLS, szczyt luksusowych SUV-ów.",
+                "text": "Mercedes-Benz GLS to szczyt luksusu i funkcjonalności, oferujący niezrównany komfort oraz najnowocześniejsze technologie. Jego przestronne wnętrze jest wyposażone w najnowsze systemy multimedialne oraz najwyższej jakości materiały, tworząc oazę zarówno dla kierowcy, jak i pasażerów. Pod maską GLS skrywa potężne opcje silnikowe, w tym wydajny model hybrydowy, który zapewnia zarówno doskonałe osiągi, jak i oszczędność paliwa.\n\nBezpieczeństwo w GLS to priorytet, a zaawansowane systemy wspomagania kierowcy wyznaczają nowe standardy w segmencie SUV-ów. Od adaptacyjnego tempomatu po automatyczne hamowanie awaryjne — GLS został zaprojektowany, aby chronić swoich pasażerów w każdej sytuacji. Adaptacyjne zawieszenie pneumatyczne nie tylko zwiększa komfort, ale także poprawia dynamikę jazdy, zapewniając płynność w każdych warunkach.",
+                "advantages": [
+                    "Wykończenie wnętrza najwyższej klasy",
+                    "Zaawansowane funkcje bezpieczeństwa",
+                    "Mocne silniki z opcją hybrydową",
+                    "Nowoczesny system multimedialny"
+                ],
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "luksusowy SUV",
+                    "funkcje bezpieczeństwa",
+                    "hybrydowy SUV",
+                    "zaawansowana technologia"
+                ]
             },
             "es": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS es un modelo de coche muy valorado que ofrece un gran rendimiento y lujo.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "coche",
-                    "lujo",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLS",
+                "head": "Explora el lujoso Mercedes-Benz GLS",
+                "description": "Descubre la elegancia y la tecnología avanzada del Mercedes-Benz GLS, el máximo exponente de los SUV de lujo.",
+                "text": "El Mercedes-Benz GLS es la cúspide del lujo y la funcionalidad, ofreciendo un confort inigualable y tecnología de última generación. Su interior espacioso está equipado con los sistemas de infoentretenimiento más avanzados y materiales de primera calidad, convirtiéndolo en un refugio tanto para conductores como para pasajeros. Bajo el capó, el GLS cuenta con potentes opciones de motor, incluido un modelo híbrido eficiente, que garantiza un rendimiento robusto junto con la economía de combustible.\n\nLa seguridad en el GLS es una prioridad, con sistemas avanzados de asistencia al conductor que establecen nuevos estándares en el segmento de los SUV. Desde el control de crucero adaptativo hasta el frenado de emergencia automático, el GLS está diseñado para proteger a sus ocupantes en cada momento. La suspensión neumática adaptativa no solo mejora el confort, sino también la dinámica de conducción, proporcionando un viaje suave en todas las condiciones.",
+                "advantages": [
+                    "Acabados interiores de lujo superior",
+                    "Características de seguridad de vanguardia",
+                    "Rendimiento del motor potente con opción híbrida",
+                    "Sistema avanzado de infoentretenimiento"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "SUV de lujo",
+                    "características de seguridad",
+                    "SUV híbrido",
+                    "tecnología avanzada"
+                ]
             },
             "fr": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS est un modèle de voiture très apprécié offrant de très bonnes performances et du luxe.",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "voiture",
-                    "luxe",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "Mercedes-Benz GLS",
+                "head": "Explorez le luxueux Mercedes-Benz GLS",
+                "description": "Découvrez l'élégance et la technologie avancée du Mercedes-Benz GLS, l'apogée des SUV de luxe.",
+                "text": "Le Mercedes-Benz GLS est le summum du luxe et de la fonctionnalité, offrant un confort inégalé et une technologie de pointe. Son intérieur spacieux est équipé des derniers systèmes d'infodivertissement et de matériaux haut de gamme, créant un havre pour les conducteurs et les passagers. Sous le capot, le GLS dispose d'options de moteurs puissants, y compris un modèle hybride efficace, garantissant des performances robustes associées à une économie de carburant.\n\nLa sécurité est primordiale dans le GLS, avec des systèmes avancés d'assistance au conducteur qui établissent de nouvelles normes dans le segment des SUV. Du régulateur de vitesse adaptatif au freinage d'urgence automatique, le GLS est conçu pour protéger ses occupants à chaque instant. La suspension pneumatique adaptative améliore non seulement le confort, mais aussi la dynamique de conduite, offrant une expérience fluide en toutes conditions.",
+                "advantages": [
+                    "Finitions intérieures luxueuses",
+                    "Fonctionnalités de sécurité de pointe",
+                    "Performances moteur puissantes avec option hybride",
+                    "Système d'infodivertissement avancé"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "SUV de luxe",
+                    "caractéristiques de sécurité",
+                    "SUV hybride",
+                    "technologie avancée"
+                ]
+            },
+            "be": {
+                "title": "Mercedes-Benz GLS",
+                "head": "Даследуйце раскошны Mercedes-Benz GLS",
+                "description": "Адкрыйце элегантнасць і перадавыя тэхналогіі Mercedes-Benz GLS — вяршыню раскошных пазадарожнікаў.",
+                "text": "Mercedes-Benz GLS — гэта вяршыня раскошы і функцыянальнасці, якая прапануе непераўзыдзены камфорт і сучасныя тэхналогіі. Яго прасторны інтэр'ер абсталяваны найноўшымі інфармацыйна-забаўляльнымі сістэмамі і матэрыяламі прэміум-класа, ствараючы камфортнае месца як для вадзіцеля, так і для пасажыраў. Пад капотам GLS — магутныя рухавікі, у тым ліку эфектыўная гібрыдная мадэль, якая забяспечвае як прадукцыйнасць, так і эканамічнасць.\n\nБяспека ў GLS на першым месцы, з перадавымі сістэмамі дапамогі кіроўцу, якія задаюць новыя стандарты ў сегменце пазадарожнікаў. Ад адаптыўнага круіз-кантролю да аўтаматычнага экстранага тармажэння — GLS створаны для абароны сваіх пасажыраў у любой сітуацыі. Адаптыўная пнеўматычная падвеска паляпшае не толькі камфорт, але і дынаміку язды, забяспечваючы плаўны рух ва ўсіх умовах.",
+                "advantages": [
+                    "Раскошная аздабленне інтэр'еру",
+                    "Перадавыя функцыі бяспекі",
+                    "Магутныя рухавікі з гібрыднай опцыяй",
+                    "Сучасная інфармацыйна-забаўляльная сістэма"
+                ],
+                "keywords": [
+                    "Mercedes-Benz GLS",
+                    "раскошны пазадарожнік",
+                    "функцыі бяспекі",
+                    "гібрыдны пазадарожнік",
+                    "сучасныя тэхналогіі"
+                ]
             },
             "zh": {
-                "title": "MercedesBenz GLS",
-                "description": "MercedesBenz GLS 是一款备受好评的汽车型号，提供出色的性能和豪华。",
-                "keywords": [
-                    "MercedesBenz",
-                    "GLS",
-                    "汽车",
-                    "豪华",
-                    "advanced features",
-                    "value for money",
-                    "gls highlights",
-                    "best in class",
-                    "luxury design"
+                "title": "梅赛德斯-奔驰 GLS",
+                "head": "探索奢华的梅赛德斯-奔驰 GLS",
+                "description": "发现梅赛德斯-奔驰 GLS 的优雅与先进科技，这是一款豪华 SUV 的巅峰之作。",
+                "text": "梅赛德斯-奔驰 GLS 是奢华与功能性的顶峰，提供无与伦比的舒适性和最先进的科技。其宽敞的内饰配备了最新的信息娱乐系统和高级材料，为驾驶者和乘客打造了一个宁静的空间。GLS 搭载多款强劲的发动机选择，包括一款高效的混合动力车型，既能提供强劲的性能，又能节省燃油。\n\nGLS 的安全性能首屈一指，其先进的驾驶辅助系统为 SUV 领域设立了新的标杆。从自适应巡航控制到自动紧急制动，GLS 设计旨在全方位保护车内乘客。自适应空气悬架不仅增强了舒适性，还改善了操控动态，在各种条件下提供平稳的驾驶体验。",
+                "advantages": [
+                    "豪华的内饰设计",
+                    "先进的安全功能",
+                    "强劲的发动机性能及混合动力选项",
+                    "先进的信息娱乐系统"
                 ],
-                "text": "MercedesBenz GLS offers a perfect blend of performance, design, and innovation. Ideal for drivers who value gls's signature features. Key highlights include fuel efficiency, cutting-edge safety systems, and a premium interior. Whether for city drives or long journeys, this car ensures reliability and comfort."
+                "keywords": [
+                    "梅赛德斯-奔驰 GLS",
+                    "豪华 SUV",
+                    "安全功能",
+                    "混合动力 SUV",
+                    "先进科技"
+                ]
             }
         },
         {
