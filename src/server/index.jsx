@@ -135,7 +135,7 @@ export const renderApp = async req => {
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="google-site-verification" content="t9oJrBOJJjmKigW0_GpJonel6LQg_M7h4awWIpcd20k" />
     <meta charSet="utf-8" />
-    <link rel="canonical" href="https://www.kylypko.com${req.path}" />
+    <link rel="canonical" href="https://www.auto-usa.com${req.path}" />
     ${title ? title.toString() : `<title>${defaultTitle}</title>` }
     ${meta ? metaTags : metaValues }
     <meta name="viewport" content="width=device-width, initial-scale=1">
