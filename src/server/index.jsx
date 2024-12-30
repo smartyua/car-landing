@@ -180,6 +180,7 @@ server
     res.set('Cache-control', 'public, max-age=3600');
     return next();
   })
+  .get('/', async (req, res) => res.redirect(301, '/en/'))
   .get(`/:language?/*`, async (req, res) => {
     const { language } = req.params;
     req.language = language;
